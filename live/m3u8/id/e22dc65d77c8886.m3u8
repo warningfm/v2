@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3361882,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=785x576
-https://bravo.kugo.id/maleo/udp.stream/chunklist_w2425035.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=625000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=640x360
+https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w882703081.m3u8
