@@ -697,19 +697,19 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 ########################################################   MalaysiaTV  ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/oBNlPhA.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey", TV Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/s1mRWex.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2", TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/2K7ufj5.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia" tvg-id="8TV" tvg-name="8TV", 8TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
