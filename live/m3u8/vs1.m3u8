@@ -110,8 +110,7 @@ https://s7.mbahnunungonline.net/live/m3u8/id/d4ff175b1e2d419.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/60lNdUo.png?v=1.0.0.1" group-title="Nasional" tvg-id="MyTV.id" tvg-name="My TV", MyTV
-#https://s7.mbahnunungonline.net/live/m3u8/id/f9973976ebde68c.m3u8
-http://202.150.161.116/MYTV/tracks-v1a1/mono.m3u8
+http://s7.mbahnunungonline.net/live/m3u8/id/f9973976ebde68c.m3u8
 
 ########################################################      Kids     ########################################################
 
