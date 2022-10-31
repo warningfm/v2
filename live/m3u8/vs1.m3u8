@@ -298,12 +298,12 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/6AmnAWu.png?v=1.0.0.1" group-title="Korengan" tvg-id="tvN" tvg-name="tvN HD", tvN HD
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+https://live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/2WAm2W4.png?v=1.0.0.1" group-title="Korengan" tvg-id="ONE" tvg-name="ONE HD", ONE HD
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+https://live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus
 https://s7.mbahnunungonline.net/live/m3u8/int/c19fce28bcd7cb7.m3u8
