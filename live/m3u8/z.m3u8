@@ -177,7 +177,7 @@ https://s7.mbahnunungonline.net/live/m3u8/id/b825800cf4d3aaa.m3u8
 ########################################################   Arab TV    ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xg97ErR.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Al Sunnah" tvg-name="Al Sunnah", Al Sunnah (Medina)
-http://203.77.246.50:5000/udp/239.1.2.204:5000
+http://rr2.dens.tv/s/s27/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nclyzsj.png?v=1.0.0.1" group-title="Arab" tvg-id="Iqraa-Tv" tvg-name="Iqraa-Tv", Iqraa-Tv
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
@@ -186,7 +186,7 @@ https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tAqn0hP.png?v=1.0.0.1" group-title="Arab" tvg-id="Saudi TV 1" tvg-name="Saudi TV 1", Saudi TV 1
-http://203.77.246.50:5000/udp/239.1.1.138:5000
+http://rr.dens.tv/h/h151/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yIDtEcz.png?v=1.1.1.1" group-title="Arab" tvg-id="Dubai TV" tvg-name="Dubai TV", Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
@@ -197,7 +197,7 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 ########################################################   MalaysiaTV  ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8BTOxlC.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro Awani" tvg-name="Astro Awani", Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oBNlPhA.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey" tvg-name="TV Okey", TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
