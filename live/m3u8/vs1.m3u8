@@ -225,7 +225,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tbur8nX.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Outdoor Channel" tvg-name="Outdoor Channel", Outdoor Channel
-https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Rock Entertainment" tvg-name="Blue Ant", Rock Entertainment
 https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb8.m3u8
