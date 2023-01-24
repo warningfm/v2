@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.nng.cloudns.us" url-tvg="http://epg.nng.cloudns.us" refresh="3600"
+#EXTM3U x-tvg-url="http://epg2.nng.cloudns.us" url-tvg="http://epg2.nng.cloudns.us" refresh="3600"
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -194,17 +195,17 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.
 
 ########################################################   MalaysiaTV  ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8BTOxlC.png?v=1.0.0.1" group-title="Malaysia" tvg-id="Astro Awani" tvg-name="Astro Awani", Astro Awani
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8BTOxlC.png?v=1.0.0.1" group-title="Malaysia" tvg-id="AstroAwani" tvg-name="Astro Awani HD", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oBNlPhA.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey" tvg-name="TV Okey", TV Okey
-https://dl.dropbox.com/s/g8u6pxbip48y82p/okeyb3402d11f58d.m3u8?dl=0
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
-https://dl.dropbox.com/s/dt31crc40tm783f/tv1b3402d11f58d.m3u8?dl=0
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/s1mRWex.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
@@ -462,32 +463,32 @@ https://s7.mbahnunungonline.net/live/m3u8/fs/700a192f4d09364.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fVZ-RFDgvgU/Ya2GE8Nu53I/AAAAAAAABhw/RSF4Ko7F6dotLnmim-pCYp4OYQnfAIa_QCNcBGAsYHQ/s0/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTVAsia.uk" tvg-name="BabyTV", Baby TV
-https://liveaneviadev.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IlM9Qflev9g/Ya2HwnLVGgI/AAAAAAAABh4/ZQgGh_vAqS8rjC2NJneV3zDR6RHhJJDbwCNcBGAsYHQ/s0/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="Boomerang" tvg-name="Boomerang", Boomerang
-https://liveaneviadev.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vJxjuENDD0c/Ya2IRq6qp9I/AAAAAAAABiA/VuqUr6JNxSE7iFxZtYldJhL-J0XxksDHQCNcBGAsYHQ/s0/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="Cartoon Network" tvg-name="Cartoon Network", Cartoon Network
-https://liveaneviadev.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CrKQnVncxv0/Ya2IkFPkieI/AAAAAAAABiI/0HgH9-I_NIAt3rGInThAP9dbSMQ7jQj3gCNcBGAsYHQ/s0/Dy7OlLF.png?v=1.0.0.1" group-title="Kids" tvg-id="CBeebies HD" tvg-name="CBeebies", CBeebies HD
-https://liveaneviadev.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ufv7S4XJn70/Ya2I3szkMNI/AAAAAAAABiQ/bRHyr3dIP-EiNYtPe5W6K6qwgVVuoR8IwCNcBGAsYHQ/s0/iXSCr83.png?v=1.0.0.1" group-title="Kids" tvg-id="Nickelodeon" tvg-name="Nickelodeon", Nickelodeon
-https://liveaneviadev.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/asDF7GJ.png?v=1.0.0.1" group-title="Kids" tvg-id="Nick Jr." tvg-name="Nick Jr.", Nick Junior
-https://liveaneviadev.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j-zSUfFsn9o/Ya2JbR2vd6I/AAAAAAAABig/aOMio763-qQuPYfhIAp4veSy5qK9RoheQCNcBGAsYHQ/s0/zWQ65C4.png?v=1.0.0.1" group-title="Kids" tvg-id="Mykidz" tvg-name="Mykidz", My Kids
 http://rr.dens.tv/h/h191/index.m3u8
@@ -503,17 +504,17 @@ https://s7.mbahnunungonline.net/live/m3u8/id/93b4db526b4e92a.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VTGJgzBVuTM/YazewFumEoI/AAAAAAAABgk/r1LDFgc8J8E85YFg6GD80MoI9-WWoAr3gCNcBGAsYHQ/s0/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports HD" tvg-name="beIN Sports HD", beIN Sports 1
-https://liveaneviadev.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--rr6K24OBq4/YazfLmiKpHI/AAAAAAAABgs/32_tm-C9C2YV3gIVj1b0Q4qP8lQFXYx1QCNcBGAsYHQ/s0/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD", beIN Sports 2
-https://liveaneviadev.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-h0eSiV-HKHQ/YanvV-p7OJI/AAAAAAAABfc/pUaJSEEQ6T0Hh0yOwiCIstipPhVd8V7jACNcBGAsYHQ/s0/KkW1uDl.png?v=1.0.0.1" group-title="Sports" tvg-id="MNC Sports" tvg-name="MNC Sports", MNC Sports
-https://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
