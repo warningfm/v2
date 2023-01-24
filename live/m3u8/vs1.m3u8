@@ -687,28 +687,28 @@ https://liveaneviadev.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 ########################################################   MalaysiaTV  ########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/oBNlPhA.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey", TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
+https://dl.dropbox.com/s/g8u6pxbip48y82p/okeyb3402d11f58d.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8?id=1
+https://dl.dropbox.com/s/dt31crc40tm783f/tv1b3402d11f58d.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/s1mRWex.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2", TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/2K7ufj5.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1296000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia" tvg-id="8TV" tvg-name="8TV", 8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/1tW4dph.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Drama Sangat" tvg-name="Drama Sangat", Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/PcPDrl9.png?v=1.0.0.1" group-title="Malaysia" tvg-id="IKIM", IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
