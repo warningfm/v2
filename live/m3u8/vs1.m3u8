@@ -58,7 +58,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C8KAWX0.png?v=1.0.0.1" group-title="Nasional" tvg-id="NET.id" tvg-name="NET", NET.
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C8KAWX0.png?v=1.0.0.1" group-title="Nasional" tvg-id="NET.id" tvg-name="Net TV", NET.
 https://anv-livechannel-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -87,7 +87,7 @@ https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8h.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tQ6itG9.png?v=1.0.0.1" group-title="Nasional" tvg-id="NusantaraTV.id" tvg-name="Nusantara", Nusantara
 https://s7.mbahnunungonline.net/live/m3u8/id/378a642ff00fed9.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h6qDBhV.png?v=1.0.0.1" group-title="Nasional" tvg-id="CNN Indonesia" tvg-name="CNN Indonesia", CNN Indonesia
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h6qDBhV.png?v=1.0.0.1" group-title="Nasional" tvg-id="CNNIndonesia" tvg-name="CNN Indonesia HD", CNN Indonesia
 https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uJTTmk8.png?v=1.1.1.1" group-title="Nasional" tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia", CNBC Indonesia
@@ -99,7 +99,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5yKwYhk.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRIWorldHD.id" tvg-name="TVRI", TVRI World HD
 https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8i.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.0.0.1" group-title="Nasional" tvg-id="OChannel.id" tvg-name="O Channel", O Channel
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R2.png?v=1.0.0.1" group-title="Nasional" tvg-id="MOJI" tvg-name="MOJI", MOJI
 https://s7.mbahnunungonline.net/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Nasional" tvg-id="mentaritv.id" tvg-name="mentari tv", Mentari TV
@@ -109,7 +109,7 @@ https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTVAsia.uk" tvg-name="Baby TV Asia", Baby TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xnK3XBL.png?v=1.0.0.1" group-title="Kids" tvg-id="BabyTVAsia.uk" tvg-name="BabyTV", Baby TV
 https://liveaneviadev.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -124,7 +124,7 @@ https://liveaneviadev.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwo
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Dy7OlLF.png?v=1.0.0.1" group-title="Kids" tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia", CBeebies HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Dy7OlLF.png?v=1.0.0.1" group-title="Kids" tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies", CBeebies HD
 https://liveaneviadev.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -385,13 +385,13 @@ https://liveaneviadev.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gII3Eq8.png?v=1.0.0.1" group-title="News" tvg-id="BeritaSatuNewsChannel.id" tvg-name="Berita Satu News Channel", Berita Satu
 https://liveaneviadev.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8BTOxlC.png?v=1.0.0.1" group-title="News" tvg-id="Astro Awani" tvg-name="Astro Awani", Astro Awani
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8BTOxlC.png?v=1.0.0.1" group-title="News" tvg-id="Astro Awani" tvg-name="Astro Awani HD", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fEEFzKF.png?v=1.0.0.1" group-title="News" tvg-id="BeritaRTM" tvg-name="Berita RTM", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="Channel NewsAsia" tvg-name"Channel NewsAsia", Channel News Asia
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="Channel NewsAsia" tvg-name"CNA HD", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="News" tvg-id="Al arabiya" tvg-name="Al arabiya", Al arabiya
@@ -512,7 +512,7 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuran Kareem" tvg-name="Al Quran Al Kareem TV", AlQuran Kareem
+#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/RdOrRX2.png?v=1.0.0.1" group-title="Religious" tvg-id="AlQuranKareem.id" tvg-name="Al Quran Al Kareem", AlQuran Kareem
 https://liveaneviadev.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -595,7 +595,7 @@ https://liveaneviadev.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies" tvg-id="Celestial Classic Movies" tvg-name="Celestial Classic Movies", Celestial Classic Movies
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Jy0qhiH.png?v=1.0.0.1" group-title="Movies" tvg-id="CCM.hk" tvg-name="CCM", Celestial Classic Movies
 https://liveaneviadev.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -671,7 +671,7 @@ https://liveaneviadev.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/EqcNQOc.png?v=1.0.0.1" group-title="HBO GO" tvg-id="HBO Signature HD" tvg-name="HBO Signature HD", HBO Signature HD
+#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/EqcNQOc.png?v=1.0.0.1" group-title="HBO GO" tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature", HBO Signature HD
 https://liveaneviadev.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
