@@ -224,7 +224,7 @@ https://s7.mbahnunungonline.net/live/m3u8/int/7c3acc2d8ef3624.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aKZ7opS.png?v=1.0.0.1" group-title="Entertainment" tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia", Da Vinci Learning
-https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b1200000.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tbur8nX.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Outdoor Channel" tvg-name="Outdoor Channel", Outdoor Channel
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
@@ -536,7 +536,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/aoxQ1WV.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
-#http://mpwtv.my.id/vidioye/7464-ajwa-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/xg97ErR.png?v=1.0.0.1" group-title="Religious" tvg-id="Sunnah TV", Sunnah TV
 http://rr2.dens.tv/s/s27/02.m3u8
@@ -652,7 +651,7 @@ http://rr.dens.tv/h/h193/index.m3u8
 http://rr.dens.tv/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies", Action Hollywood Movies
-http://203.154.177.124:8899/live/ch7/playlist.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
 ########################################################    HBO GO     ########################################################
 
