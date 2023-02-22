@@ -661,97 +661,97 @@ https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/aMtD0A0.png?v=1.0.0.1" group-title="HBO GO" tvg-id="HBO HD" tvg-name="HBO HD", HBO HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aMtD0A0.png?v=1.0.0.1" group-title="HBO GO" tvg-id="HBO HD" tvg-name="HBO HD", HBO HD
 https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/RmTcwA0.png?v=1.1.1.1" group-title="HBO GO" tvg-id="HBO Hits HD" tvg-name="HBO Hits HD", HBO Hits HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/RmTcwA0.png?v=1.1.1.1" group-title="HBO GO" tvg-id="HBO Hits HD" tvg-name="HBO Hits HD", HBO Hits HD
 https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/EqcNQOc.png?v=1.0.0.1" group-title="HBO GO" tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature", HBO Signature HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EqcNQOc.png?v=1.0.0.1" group-title="HBO GO" tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature", HBO Signature HD
 https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/AQGtEa0.png?v=1.1.1.1" group-title="HBO GO" tvg-id="HBO Family HD" tvg-name="HBO Family HD", HBO Family HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AQGtEa0.png?v=1.1.1.1" group-title="HBO GO" tvg-id="HBO Family HD" tvg-name="HBO Family HD", HBO Family HD
 https://anevia114.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/ew9mSea.png?v=1.0.0.1" group-title="HBO GO" tvg-id="Cinemax HD" tvg-name="Cinemax HD", Cinemax HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ew9mSea.png?v=1.0.0.1" group-title="HBO GO" tvg-id="Cinemax HD" tvg-name="Cinemax HD", Cinemax HD
 https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 ########################################################   MalaysiaTV  ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/oBNlPhA.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey", TV Okey
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oBNlPhA.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey", TV Okey
 https://dl.dropbox.com/s/g8u6pxbip48y82p/okeyb3402d11f58d.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ZAMtj0S.png?v=1.1.1.1" group-title="Malaysia" tvg-id="TV1 HD" tvg-name="TV1 HD", TV1
 https://dl.dropbox.com/s/dt31crc40tm783f/tv1b3402d11f58d.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/s1mRWex.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2", TV2
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/s1mRWex.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV2" tvg-name="TV2", TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oW0riHe.jpg?v=1.1.1.1" group-title="Malaysia" tvg-id="TV3" tvg-name="TV3", TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/2K7ufj5.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2K7ufj5.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV6" tvg-name="TV6", TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1296000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia" tvg-id="8TV" tvg-name="8TV", 8TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia" tvg-id="8TV" tvg-name="8TV", 8TV
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/1tW4dph.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Drama Sangat" tvg-name="Drama Sangat", Drama Sangat
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1tW4dph.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Drama Sangat" tvg-name="Drama Sangat", Drama Sangat
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/PcPDrl9.png?v=1.0.0.1" group-title="Malaysia" tvg-id="IKIM", IKIM
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/PcPDrl9.png?v=1.0.0.1" group-title="Malaysia" tvg-id="IKIM", IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Al-Hijrah" tvg-name="Al-Hijrah", TV AlHijrah
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ZojuN7v.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Al-Hijrah" tvg-name="Al-Hijrah", TV AlHijrah
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IjU3NTQxNDgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=AwRVi%2FH%2BlkS0uH3gDvZFjXDH3bM%3D&
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/WG5VOF2.png?v=1.0.0.1" group-title="Singapore" tvg-id="CNA.sg" tvg-name="CNA", Channel News Asia
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WG5VOF2.png?v=1.0.0.1" group-title="Singapore" tvg-id="CNA.sg" tvg-name="CNA", Channel News Asia
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/MqZdA4W.jpg?v=1.1.1.1" group-title="Singapore", Ch 5
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/MqZdA4W.jpg?v=1.1.1.1" group-title="Singapore", Ch 5
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/AiOxj6c.jpg?v=1.0.0.1" group-title="Singapore" tvg-ID="Ch8.SG", Channel 8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AiOxj6c.jpg?v=1.0.0.1" group-title="Singapore" tvg-ID="Ch8.SG", Channel 8
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/TDfs7Wc.jpg?v=1.1.1.1" group-title="Singapore" tvg-ID="ChU.SG", Channel U
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/TDfs7Wc.jpg?v=1.1.1.1" group-title="Singapore" tvg-ID="ChU.SG", Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 ########################################################    Fashion    ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD", Fashion TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD", Fashion TV
 https://s7.mbahnunungonline.net/live/m3u8/fs/700a192f4d09363.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/JbGsuDd.png?v=1.0.0.1" group-title="Fashion", HD Fashion
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/JbGsuDd.png?v=1.0.0.1" group-title="Fashion", HD Fashion
 https://s7.mbahnunungonline.net/live/m3u8/fs/364bfe25097b975.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/XpJEZGg.jpg?v=1.0.0.1" group-title="Fashion", ID Fashion
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XpJEZGg.jpg?v=1.0.0.1" group-title="Fashion", ID Fashion
 https://s7.mbahnunungonline.net/live/m3u8/fs/364bfe25097b976.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secret", Fashion TV Midnight Secret
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secret", Fashion TV Midnight Secret
 https://s7.mbahnunungonline.net/live/m3u8/fs/700a192f4d09364.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/pnhzRFh.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Kaloopy TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/pnhzRFh.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Kaloopy TV
 https://s7.mbahnunungonline.net/live/m3u8/fs/801a98b42276bae.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/CPFKDuI.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", JASMIN TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/CPFKDuI.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", JASMIN TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
