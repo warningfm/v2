@@ -144,7 +144,8 @@ https://anevia114.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 https://anevia114.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9arShxH.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Magna TV" tvg-name="Magna TV", Magna TV
-https://s7.mbahnunungonline.net/live/m3u8/id/6183ec225226ccd.m3u8
+#https://s7.mbahnunungonline.net/live/m3u8/id/6183ec225226ccd.m3u8
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R3.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MOJI" tvg-name="MOJI", MOJI
 https://s7.mbahnunungonline.net/live/m3u8/id/d4ff175b1e2d419.m3u8
