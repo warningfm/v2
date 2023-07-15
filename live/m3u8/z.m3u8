@@ -159,7 +159,8 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/pwxmNpN.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Elshinta TV" tvg-name="Elshinta TV", Elshinta TV
-https://s7.mbahnunungonline.net/live/m3u8/id/383fb71f4a76ab2.m3u8
+#https://s7.mbahnunungonline.net/live/m3u8/id/383fb71f4a76ab2.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EYJ0ED2.png?v=1.0.0.1" group-title="tvN150N", Jakarta Globe News Channel
 https://s7.mbahnunungonline.net/live/m3u8/id/270f72deeb5843e.m3u8
