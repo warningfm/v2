@@ -10,8 +10,8 @@ https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cJ2jj5G5xY8/YRI48pAFbLI/AAAAAAAABKk/JfF4drd4s-IpKSkc3JXyFDml3JldzliHgCLcBGAsYHQ/s0/Zpy57qG.png?v=1.0.0.1" group-title="tvN150N" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-https://s7.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847a.m3u8
-#http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#https://s7.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847a.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -26,8 +26,8 @@ https://anevia114.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-w3opMpMLzL8/YaHf-OTHyFI/AAAAAAAABcI/7PSoOGIzA94lnyaM9MJLflZ2xfx4Dc6TgCLcBGAsYHQ/s0/eeiIEY8.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
