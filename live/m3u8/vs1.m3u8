@@ -229,7 +229,8 @@ https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Rock Entertainment" tvg-name="Blue Ant", Rock Entertainment
-https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb8.m3u8
+#https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb8.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/rockentertainment.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tHrbNmG.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Rock Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
 https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb7.m3u8
@@ -641,7 +642,7 @@ https://anevia114.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4gNhVWH.png?v=1.0.0.1" group-title="Movies" tvg-id="WarnerTV" tvg-name="Warner TV HD", WarnerTV
-https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
