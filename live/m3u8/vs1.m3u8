@@ -224,7 +224,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
 https://github.com/mimipipi22/nontontv/raw/main/FMX/cctv4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aKZ7opS.png?v=1.0.0.1" group-title="Entertainment" tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia", Da Vinci Learning
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/davinci.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tbur8nX.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Outdoor Channel" tvg-name="Outdoor Channel", Outdoor Channel
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
@@ -459,7 +459,7 @@ https://anevia114.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD", Animal Planet
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -467,12 +467,12 @@ https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 https://anevia114.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryAsia" tvg-name="Discovery Asia HD", Discovery Asia HD
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD", Discovery Channel HD
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/discoverychannel.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
