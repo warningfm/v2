@@ -478,6 +478,9 @@ https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l8C1_R7w9jc/Ya2JKQxbJrI/AAAAAAAABiY/cKyzOWRZ7-EFDwM-kSYKL0BWKW_td6xkgCNcBGAsYHQ/s0/p3cqAKM.png?v=1.0.0.1" group-title="Kids" tvg-id="Biznet Kids" tvg-name="Biznet Kids", B Kids
 https://s7.mbahnunungonline.net/live/m3u8/id/93b4db526b4e92a.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids" tvg-id="Horee" tvg-name="Horee", Horee
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/hooree.m3u8
+
 ########################################################     Sports    ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -485,10 +488,10 @@ https://s7.mbahnunungonline.net/live/m3u8/id/93b4db526b4e92a.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VTGJgzBVuTM/YazewFumEoI/AAAAAAAABgk/r1LDFgc8J8E85YFg6GD80MoI9-WWoAr3gCNcBGAsYHQ/s0/9b088eX.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports HD" tvg-name="beIN Sports HD", beIN Sports 1
 https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--rr6K24OBq4/YazfLmiKpHI/AAAAAAAABgs/32_tm-C9C2YV3gIVj1b0Q4qP8lQFXYx1QCNcBGAsYHQ/s0/sy3NbII.png?v=1.0.0.1" group-title="Sports" tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD", beIN Sports 2
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
