@@ -98,7 +98,7 @@ https://s7.mbahnunungonline.net/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tSKKlTw9GZ8/YMOFiEszsTI/AAAAAAAABEw/GhUUhvNY_nkU8rYzgmRCkoCwu0SWzm82gCLcBGAsYHQ/s0/XBtbPBF.png?v=1.0.0.1" group-title="tvN150N" tvg-id="TVRINasional.id" tvg-name="TVRI Nasional", TVRI Nasional
 #https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 #https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8f.m3u8
-https://github.com/mimipipi22/nontontv/raw/main/FMX/tvri.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/tvri.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Jt6F2pQK0MY/YaRSyHomAYI/AAAAAAAABdU/XxVowVgRMA0DBxnfz3-L6CVgKMnpWM_dgCLcBGAsYHQ/s0/I64wd67.png?v=1.0.0.1" group-title="Sports" tvg-id="TVRI" tvg-name="TVRI Sport HD", TVRI Sport HD
 https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8h.m3u8
@@ -258,7 +258,7 @@ http://203.77.246.50:5000/udp/239.1.1.232:5000
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_0svg5azHp4/YaziJ_E58yI/AAAAAAAABhY/oamiMQd2h64IEwn_caccvXf4faCzT2iMwCNcBGAsYHQ/s0/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonymax.m3u8
 
 ########################################################      News     ########################################################
 
@@ -446,12 +446,13 @@ https://anevia114.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IlM9Qflev9g/Ya2HwnLVGgI/AAAAAAAABh4/ZQgGh_vAqS8rjC2NJneV3zDR6RHhJJDbwCNcBGAsYHQ/s0/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="Boomerang" tvg-name="Boomerang", Boomerang
-https://anevia114.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#https://anevia114.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/boomerang.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vJxjuENDD0c/Ya2IRq6qp9I/AAAAAAAABiA/VuqUr6JNxSE7iFxZtYldJhL-J0XxksDHQCNcBGAsYHQ/s0/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="Cartoon Network" tvg-name="Cartoon Network", Cartoon Network
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/cartoonnetwork.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
