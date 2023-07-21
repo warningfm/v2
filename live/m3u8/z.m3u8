@@ -329,12 +329,12 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/discoverychannel.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zNz1YRBHplQ/YWH2FV19fXI/AAAAAAAABWM/jGYUixiH904Gw2b7CtFe5BaFJj3Ty7emQCLcBGAsYHQ/s0/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="National Geographic HD", National Geographic HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zNz1YRBHplQ/YWH2FV19fXI/AAAAAAAABWM/jGYUixiH904Gw2b7CtFe5BaFJj3Ty7emQCLcBGAsYHQ/s0/x0XijCu.png?v=1.0.0.1" group-title="Knowledge" tvg-id="NationalGeographic" tvg-name="National Geographic", National Geographic HD
 https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1WCsvGo5050/YWH3RWpof4I/AAAAAAAABWU/GBdslPTFRVQVTNsOXnMNhKyJK7e7jfa1QCLcBGAsYHQ/s0/P9yiTz6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo Wild HD", Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1WCsvGo5050/YWH3RWpof4I/AAAAAAAABWU/GBdslPTFRVQVTNsOXnMNhKyJK7e7jfa1QCLcBGAsYHQ/s0/P9yiTz6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="NatGeoWild" tvg-name="National Geographic Wild", Nat Geo Wild
 https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
