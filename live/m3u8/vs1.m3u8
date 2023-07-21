@@ -712,13 +712,13 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1296000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/DGGXGzn.png?v=1.1.1.1" group-title="Malaysia" tvg-id="8TV" tvg-name="8TV", 8TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/f2JzaMd.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV9" tvg-name="TV9", TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1tW4dph.png?v=1.1.1.1" group-title="Malaysia" tvg-id="Drama Sangat" tvg-name="Drama Sangat", Drama Sangat
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/PcPDrl9.png?v=1.0.0.1" group-title="Malaysia" tvg-id="IKIM", IKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
