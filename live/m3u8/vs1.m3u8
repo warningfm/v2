@@ -230,12 +230,13 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/davinci.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tbur8nX.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Outdoor Channel" tvg-name="Outdoor Channel", Outdoor Channel
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Rock Entertainment" tvg-name="Blue Ant", Rock Entertainment
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Entertainment" tvg-id="ROCKEntertainment.id" tvg-name="Rock Entertainment", Rock Entertainment
 #https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb8.m3u8
-https://github.com/mimipipi22/nontontv/raw/main/FMX/rockentertainment.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/rockentertainment.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tHrbNmG.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Rock Extreme" tvg-name="Blue Ant Extreme", Rock Extreme
-https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb7.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tHrbNmG.png?v=1.0.0.1" group-title="Entertainment" tvg-id="ROCKAction.id" tvg-name="ROCK Action", ROCK Action
+#https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb7.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/rockaction.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
