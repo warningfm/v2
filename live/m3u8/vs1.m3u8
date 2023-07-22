@@ -789,7 +789,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/sonytv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zing" tvg-name="Zing Asia", Zing
 http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mbahnunungonline.net/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee Cinema" tvg-name="Zee Cinema", Zee Cinema
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee Cinema" tvg-name="Zee Cinema", Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Akf09tQ.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zee Bollywood" tvg-name="Zee Bollywood", Zee Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
