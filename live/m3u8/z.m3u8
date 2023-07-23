@@ -152,7 +152,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312
 https://s7.mbahnunungonline.net/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-W8zL_aERK4M/VXH-AEyzP4I/AAAAAAAAEuc/T8eNVqhV3Fw/s1600/BBSTV.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BBS TV" tvg-name="BBS TV", BBS TV
-http://103.119.54.246:8080/hls/bbstv.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/id//026f46e9812825d.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
