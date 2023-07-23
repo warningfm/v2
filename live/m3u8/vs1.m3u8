@@ -571,21 +571,21 @@ https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
 https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
+#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 #https://s7.mbahnunungonline.net/live/m3u8/id/e22dc65d77c8885.m3u8
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
+#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/NN60Hzb.png?v=1.0.0.1" group-title="Music", POP Musik
 #https://s7.mbahnunungonline.net/live/m3u8/id/94a637fadb57201.m3u8
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
+#EXTINF:-1 tvg-logo="hhttps://cdn.nng.cloudns.us/img/UaHtwO2.png?v=1.0.0.1" group-title="Music", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
+#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/mhGTRFn.png?v=1.0.0.1" group-title="Music", Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
+#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
 ########################################################     Movies    ########################################################
