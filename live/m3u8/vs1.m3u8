@@ -81,9 +81,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ax67v0u.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRINasional.id" tvg-name="TVRI", TVRI Nasional
 https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g3hWHhA.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRISportHD.id" tvg-name="TVRI", TVRI Sport HD
-https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8h.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tQ6itG9.png?v=1.0.0.1" group-title="Nasional" tvg-id="NusantaraTV.id" tvg-name="Nusantara", Nusantara
 https://s7.mbahnunungonline.net/live/m3u8/id/378a642ff00fed9.m3u8
 
@@ -96,11 +93,17 @@ https://s7.mbahnunungonline.net/live/m3u8/id/ef7e8c7bc86110e.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9arShxH.png?v=1.1.1.1" group-title="Nasional" tvg-id="Magna TV" tvg-name="Magna TV", Magna TV
 https://s7.mbahnunungonline.net/live/m3u8/id/6183ec225226ccd.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5yKwYhk.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRIWorldHD.id" tvg-name="TVRI", TVRI World HD
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5yKwYhk.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRIWorldHD.id" tvg-name="TVRI World", TVRI World HD
 https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8i.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRI" tvg-name="TVRI JAWA TIMUR", TVRI JAWA TIMUR
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/id/3f58825fe229a8g.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R3.png?v=1.0.0.1" group-title="Nasional" tvg-id="MOJI" tvg-name="MOJI", MOJI
 https://dl.dropbox.com/s/20g5fcq07n462qg/d4ff175b1e2d419.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g3hWHhA.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRISportHD.id" tvg-name="TVRI Sport", TVRI Sport HD
+https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8h.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9JPHanf.png?v=1.0.0.1" group-title="Nasional" tvg-id="mentaritv.id" tvg-name="mentari tv", Mentari TV
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
