@@ -218,11 +218,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=6
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ftk2ky0.png?v=1.0.0.1" group-title="Entertainment" tvg-id="GEMChannel.id" tvg-name="SGEM", GEM
 #https://s7.mbahnunungonline.net/live/m3u8/int/7c3acc2d8ef3624.m3u8
-https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/gem.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CCTV4 HD" tvg-name="CCTV4 HD", CCTV4
 #http://rr2.dens.tv/s/s19/01.m3u8
-https://github.com/mimipipi22/nontontv/raw/main/FMX/cctv4.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/cctv4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aKZ7opS.png?v=1.0.0.1" group-title="Entertainment" tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia", Da Vinci Learning
 https://github.com/mimipipi22/nontontv/raw/main/FMX/davinci.m3u8
@@ -243,7 +243,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/le4o5Zy.png?v=1.0.0.1" group-title="Entertainment" tvg-id="TLC" tvg-name="TLC HD", TLC
-https://github.com/warningfm/v2/raw/cloud/live/m3u8/iptv/tlc.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/tlc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -315,12 +315,12 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network HD" tvg-name="Asian Food Network HD", Asian Food Channel
-https://github.com/mimipipi22/nontontv/raw/main/FMX/afn.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/afn.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV HD" tvg-name="HGTV HD", HGTV
-https://github.com/mimipipi22/nontontv/raw/main/FMX/hgtv.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/FMX/hgtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -393,11 +393,11 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fEEFzKF.png?v=1.0.0.1" group-title="News" tvg-id="BeritaRTM" tvg-name="Berita RTM", Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="Channel NewsAsia" tvg-name"CNA", Channel News Asia
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6fEGqfK.png?v=1.0.0.1" group-title="News" tvg-id="ChannelNewsAsia" tvg-name"CNA", Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/S3Gn16p.png?v=1.0.0.1" group-title="News" tvg-id="Al arabiya" tvg-name="Al arabiya", Al arabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="News" tvg-id="Al Jazeera HD" tvg-name="Al Jazeera HD", Al Jazeera Arabic
 https://s7.mbahnunungonline.net/live/m3u8/ar/f5f5c18cf037918.m3u8
@@ -406,7 +406,7 @@ https://s7.mbahnunungonline.net/live/m3u8/ar/f5f5c18cf037918.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xSCGVhz.png?v=1.0.0.1" group-title="News" tvg-id="AL Manar TV" tvg-name="AL Manar TV", AL Manar TV
-https://manar.live/iptv/index.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/ar/5bfcf72843eebe5.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GAgWHvF.png?v=1.0.0.1" group-title="News" tvg-id="Sky News HD" tvg-name="Sky News HD", Sky News HD
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
@@ -730,7 +730,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://live.mana2.my/TvAlhijrah/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=200384923",Bernama
-https://live.mana2.my/Bernama/index.m3u8|User-Agent=Mozilla
+https://live.mana2.my/Bernama/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
@@ -752,9 +752,9 @@ https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.m
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/TDfs7Wc.jpg?v=1.1.1.1" group-title="Singapore" tvg-ID="ChU.SG", Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="Singapore", Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="Singapore", Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 ########################################################    Fashion    ########################################################
