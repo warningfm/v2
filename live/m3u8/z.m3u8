@@ -448,11 +448,18 @@ https://anevia114.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinema" tvg-name="mycinema", My Cinema
 https://anevia114.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png?v=1.0.0.1" group-title="Movies", SONY PIX
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bSDsPVg.png?v=1.0.0.1" group-title="Movies", SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 ########################################################    HBO GO     ########################################################
 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Movies" tvg-id="ROCKEntertainment.id" tvg-name="Rock Entertainment", Rock Entertainment
+#https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb8.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/rockentertainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tHrbNmG.png?v=1.0.0.1" group-title="Movies" tvg-id="ROCKAction.id" tvg-name="ROCK Action", ROCK Action
+#https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb7.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/rockaction.m3u8
 
 ########################################################     RADIO     ########################################################
 

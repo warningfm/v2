@@ -667,6 +667,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinema" tvg-name="mycinema", My Cinema
 https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bSDsPVg.png?v=1.0.0.1" group-title="Movies", SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies", Action Hollywood Movies
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
@@ -786,6 +789,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvfUpGV.png?v=1.0.0.1" group-title="Hindi" tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop", Zee Bioskop
 https://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi" tvg-id="B4U Kadak" tvg-name="B4U Kadak", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C5EpW33.png?v=1.0.0.1" group-title="Hindi" tvg-id="Bflix Movies" tvg-name="Bflix Movies", Bflix Movies
@@ -800,10 +804,10 @@ http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/4L7BYKM.png?v=8.8.4.4" group-title="Hindi", & pictures
-https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonytv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xKDJCXJ.png?v=1.0.0.1" group-title="Hindi", Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=8.8.4.4" group-title="Hindi", &Flix
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqQZ16k.png" group-title="Hindi", &Prive 
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 
 ########################################################     Radio     ########################################################
 
