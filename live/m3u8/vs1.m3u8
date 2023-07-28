@@ -464,7 +464,7 @@ https://anevia114.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/KHKIztL.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Animal Planet HD" tvg-name="Animal Planet HD", Animal Planet
-https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/animalplanet.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -472,12 +472,12 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
 https://anevia114.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WVpnAKn.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryAsia" tvg-name="Discovery Asia HD", Discovery Asia HD
-https://github.com/mimipipi22/nontontv/raw/main/FMX/discoveryasia.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/discoveryasia.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWvwPm5.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD", Discovery Channel HD
-https://github.com/mimipipi22/nontontv/raw/main/FMX/discoverychannel.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/discoverychannel.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -571,7 +571,7 @@ https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
-https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/citradangdut.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 #https://s7.mbahnunungonline.net/live/m3u8/id/e22dc65d77c8885.m3u8
@@ -795,7 +795,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C5EpW33.png?v=1.0.0.1" group-title="Hindi" tvg-id="Bflix Movies" tvg-name="Bflix Movies", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ceBQDFq.png?v=1.0.0.1" group-title="Hindi" tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD", Zee TV
-https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/sonytv.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonytv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zing" tvg-name="Zing Asia", Zing
 http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee Cinema" tvg-name="Zee Cinema", Zee Cinema
