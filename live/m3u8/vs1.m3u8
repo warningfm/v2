@@ -234,7 +234,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/davinci.m3u8
 #https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb8.m3u8
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/rockentertainment.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tHrbNmG.png?v=1.0.0.1" group-title="Entertainment" tvg-id="ROCKAction.id" tvg-name="ROCK Action", ROCK Action
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1" group-title="Entertainment" tvg-id="ROCKAction.id" tvg-name="ROCK Action", ROCK Action
 #https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb7.m3u8
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/rockaction.m3u8
 
