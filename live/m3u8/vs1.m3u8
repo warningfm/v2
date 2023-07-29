@@ -505,7 +505,7 @@ https://anevia114.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvesti
 https://anevia114.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BzbgaxF.png?v=1.0.0.1" group-title="Knowledge" tvg-id="LoveNature" tvg-name="Love Nature", Love Nature HD
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/lovenature.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5znakl6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Smithsonian Channel" tvg-name="Smithsonian Channel", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -571,7 +571,7 @@ https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/FGSb1Vw.png?v=1.0.0.1" group-title="Music", Citra Dangdut
-https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/citradangdut.m3u8
+http://cdn.nng.cloudns.us/m3u8/e22dc65d77c8886.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/zg4YPTD.png?v=1.0.0.1" group-title="Music", Maleo Channel
 #https://s7.mbahnunungonline.net/live/m3u8/id/e22dc65d77c8885.m3u8
@@ -740,7 +740,7 @@ https://live.mana2.my/Bernama/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WG5VOF2.png?v=1.0.0.1" group-title="Singapore" tvg-id="CNA.sg" tvg-name="CNA", Channel News Asia
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_newsasia_big.png?v=2.0.0.13" group-title="Singapore" tvg-id="CNA.sg" tvg-name="CNA", Channel News Asia
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
