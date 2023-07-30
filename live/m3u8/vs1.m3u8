@@ -825,10 +825,4 @@ https://svara-stream.radioddns.net:8443/banyuwangi_mandalafm
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Tes" tvg-id="ROCKEntertainment.id" tvg-name="Rock Entertainment", Rock Entertainment
 https://av-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/film/wbtv.png" group-title="Tes" tvg-id="WarnerTVAsia.us" tvg-name="WarnerTV", WarnerTV
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
 ########################################################    Vision+  ########################################################
