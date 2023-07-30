@@ -741,6 +741,8 @@ https://live.mana2.my/TvAlhijrah/index.m3u8
 #EXTINF:-1 group-title="Malaysia" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=200384923",Bernama
 https://live.mana2.my/Bernama/index.m3u8
 
+########################################################    Singapore     ########################################################
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -786,6 +788,8 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 https://s7.mbahnunungonline.net/live/m3u8/fs/364bfe25097b975.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XpJEZGg.jpg?v=1.0.0.1" group-title="Fashion", ID Fashion
 https://s7.mbahnunungonline.net/live/m3u8/fs/364bfe25097b976.m3u8
+
+########################################################
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secret", Fashion TV Midnight Secret
 https://s7.mbahnunungonline.net/live/m3u8/fs/700a192f4d09364.m3u8
