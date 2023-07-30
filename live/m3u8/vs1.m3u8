@@ -233,9 +233,10 @@ https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/davinci.m3u8
 #https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb8.m3u8
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/rockentertainment.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1" group-title="Entertainment" tvg-id="ROCKAction.id" tvg-name="ROCK Action", ROCK Action
-#https://s7.mbahnunungonline.net/live/m3u8/int/50fcdecf8a4adb7.m3u8
-https://op-group2-swiftservehd-1.dens.tv/h/h15/index.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
