@@ -149,7 +149,7 @@ https://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 https://anevia114.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zWQ65C4.png?v=1.0.0.1" group-title="Kids" tvg-id="Mykidz" tvg-name="My Kidz", My Kidz
-http://rr.dens.tv/h/h191/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="ZooMoo" tvg-name="Zoo Moo Asia", Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
