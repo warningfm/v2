@@ -215,6 +215,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IlM9Qflev9g/Ya2HwnLVGgI/AAAAAAAABh4/ZQgGh_vAqS8rjC2NJneV3zDR6RHhJJDbwCNcBGAsYHQ/s0/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="Boomerang" tvg-name="Boomerang HD", Boomerang
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/boomerang.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uwhVKtr.png?v=1.0.0.1" group-title="Kids" tvg-id="kidstv" tvg-name="Kids TV", Kids TV
+https://anevia114.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l8C1_R7w9jc/Ya2JKQxbJrI/AAAAAAAABiY/cKyzOWRZ7-EFDwM-kSYKL0BWKW_td6xkgCNcBGAsYHQ/s0/p3cqAKM.png?v=1.0.0.1" group-title="Kids" tvg-id="Biznet Kids" tvg-name="Biznet Kids", B Kids
 https://s7.mbahnunungonline.net/live/m3u8/id/93b4db526b4e92a.m3u8
 
