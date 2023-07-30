@@ -216,7 +216,7 @@ https://s7.mbahnunungonline.net/live/m3u8/id/3254f236ad3e872.m3u8
 https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/6CCidoH.png?v=1.0.0.1" group-title="Entertainment" tvg-id="AniPlus" tvg-name="AniPlus", AniPlus
-https://s7.mbahnunungonline.net/live/m3u8/int/0c913970f4e013e.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=ANIPLUS_HD
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ftk2ky0.png?v=1.0.0.1" group-title="Entertainment" tvg-id="GEMChannel.id" tvg-name="SGEM", GEM
 #https://s7.mbahnunungonline.net/live/m3u8/int/7c3acc2d8ef3624.m3u8
