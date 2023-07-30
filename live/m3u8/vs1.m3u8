@@ -808,17 +808,17 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
 https://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi" tvg-id="B4U Kadak" tvg-name="B4U Kadak", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C5EpW33.png?v=1.0.0.1" group-title="Hindi" tvg-id="Bflix Movies" tvg-name="Bflix Movies", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ceBQDFq.png?v=1.0.0.1" group-title="Hindi" tvg-id="ZeeTamilHD" tvg-name="Zee Tamil HD", Zee TV
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonytv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zing" tvg-name="Zing Asia", Zing
-http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/83.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/gSsIODC.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee Cinema" tvg-name="Zee Cinema", Zee Cinema
-http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Akf09tQ.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zee Bollywood" tvg-name="Zee Bollywood", Zee Bollywood
-http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cymjoiG.png?v=8.8.4.4" group-title="Hindi", &Flix
@@ -832,18 +832,10 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8
 https://stream.zeno.fm/n4gzbe9ufzzuv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/Gt6KKX7.png?v=1.0.0.1" group-title="Radio", Radio Bintang Tenggara
 https://s4.mbahnunungonline.net/radio/8360/rbtfm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/YI8BVwh.png?v=1.0.0.1" group-title="Radio", Radio MC FM
-http://rbtfm.cloudns.info:9720/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/LOwBoYR.png?v=1.0.0.1" group-title="Radio", Radio Sritanjung FM
-http://play.xajist.com:8208/stream
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio Vis FM
-https://s5.alhastream.com/radio/8490/radio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/93cFv35.png?v=1.0.0.1" group-title="Radio", Radio GBS FM
 https://s7.alhastream.com/radio/8090/radio?1609467814144
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Rym14SjxTgYg3TGmxJHzdYQOcU3SiG6AFzDktPi_-kkNu6e94OxRRmX6CzPwy4wY8hA=s200?v=1.0.0.1" group-title="Radio", Mandala FM Banyuwangi
 https://svara-stream.radioddns.net:8443/banyuwangi_mandalafm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mbahnunung/v3/kn/img/jR4Foab.jpg?v=1.0.0.1" group-title="Radio", Radio RAYA FM
-http://103.28.149.117:8323/stream
 
 ########################################################    DENSTV   ########################################################
 
