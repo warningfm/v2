@@ -1,4 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1800000,AVERAGE-BANDWIDTH=1700000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4D4028,mp4a.40.2"
-http://customer.edge.serverclink.net/INDOSIAR/video.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,FRAME-RATE=25.000,RESOLUTION=320x240
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/01.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,FRAME-RATE=25.000,RESOLUTION=854x480
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,FRAME-RATE=25.000,RESOLUTION=960x540
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
