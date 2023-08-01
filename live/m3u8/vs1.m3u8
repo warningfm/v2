@@ -73,22 +73,22 @@ https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Si0yCfg.png?v=1.1.1.1" group-title="Nasional" tvg-id="BeritaSatuHD.id" tvg-name="Berita Satu", BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ax67v0u.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRINasional.id" tvg-name="TVRI", TVRI Nasional
+https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ax67v0u.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRINasional.id" tvg-name="TVRI", TVRI Nasional
-https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Si0yCfg.png?v=1.1.1.1" group-title="Nasional" tvg-id="BeritaSatuHD.id" tvg-name="Berita Satu", BTV
+http://cdn.nng.cloudns.us/m3u8/270f72deeb5843f.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tQ6itG9.png?v=1.0.0.1" group-title="Nasional" tvg-id="NusantaraTV.id" tvg-name="Nusantara", Nusantara
 https://s7.mbahnunungonline.net/live/m3u8/id/378a642ff00fed9.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h6qDBhV.png?v=1.0.0.1" group-title="Nasional" tvg-id="CNNIndonesia" tvg-name="CNN Indonesia HD", CNN Indonesia
-https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/id/d12f0b99ed1f070.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R3.png?v=1.0.0.1" group-title="Nasional" tvg-id="MOJI" tvg-name="MOJI", MOJI
-https://cdn.nng.cloudns.us/m3u8/d4ff175b1e2d419.m3u8
+https://dl.dropbox.com/s/20g5fcq07n462qg/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g3hWHhA.png?v=1.1.1.1" group-title="Nasional" tvg-id="TVRISportHD.id" tvg-name="TVRI Sport", TVRI Sport HD
 https://s7.mbahnunungonline.net/live/m3u8/id/3f58825fe229a8h.m3u8
