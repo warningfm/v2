@@ -847,10 +847,10 @@ http://cdn.nng.cloudns.us/m3u8/b630a001384603f.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-#EXTINF:-1  tvg-id="GEM HD" group-title="Tes" tvg-logo="https://i.imgur.com/rGTHbAM.png", GEM HD
+#EXTINF:-1  tvg-id="GEM HD" group-title="Tes" tvg-logo="https://i.imgur.com/rGTHbAM.png?v=1.1.1.1", GEM HD
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
-#EXTINF:-1 tvg-name="unifi Sports 1" group-title="Sports" tvg-id="701" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png", unifi Sports 1
+#EXTINF:-1 tvg-name="unifi Sports 1" group-title="Sports" tvg-id="701" tvg-logo="https://i.imgur.com/nOEpeGd.png?v=1.1.1.1", unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ########################################################    Vision+  ########################################################
