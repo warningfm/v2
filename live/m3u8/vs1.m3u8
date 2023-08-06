@@ -152,13 +152,11 @@ https://anevia114.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/zWQ65C4.png?v=1.0.0.1" group-title="Kids" tvg-id="Mykidz" tvg-name="My Kidz", My Kidz
 https://nxanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
-#https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="ZooMoo.id" tvg-name="Zoo Moo Asia", Zoomoo
 https://nxanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
-#https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -286,7 +284,7 @@ https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tbur8nX.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Outdoor Channel" tvg-name="Outdoor Channel", Outdoor Channel
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Cj6JSFa.png?v=1.0.0.1" group-title="Entertainment" tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel", The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
@@ -499,7 +497,6 @@ https://anevia114.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvesti
 https://anevia114.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/BzbgaxF.png?v=1.0.0.1" group-title="Knowledge" tvg-id="LoveNature" tvg-name="Love Nature", Love Nature HD
-#https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/lovenature.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5znakl6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Smithsonian Channel" tvg-name="Smithsonian Channel", Smithsonian Channel
@@ -548,7 +545,7 @@ http://rr2.dens.tv/s/s27/02.m3u8
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/vUHoMzT.png?v=1.0.0.1" group-title="Religious" tvg-id="Makkah Live", Makkah Live
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/CwsvvSn.png?v=1.0.0.1" group-title="Religious" tvg-id="British Muslim", British Muslim
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
@@ -583,7 +580,7 @@ https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/D3WXba7.png?v=1.0.0.1" group-title="Music", B4U Music
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 
 ########################################################     Movies    ########################################################
 
@@ -678,27 +675,27 @@ https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aMtD0A0.png?v=1.0.0.1" group-title="HBO GO" tvg-id="HBO HD" tvg-name="HBO HD", HBO HD
-http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/RmTcwA0.png?v=1.1.1.1" group-title="HBO GO" tvg-id="HBO Hits HD" tvg-name="HBO Hits HD", HBO Hits HD
-http://edge.linknetott.swiftserve.com/channelgroup4/cg432production/ch324/index.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EqcNQOc.png?v=1.0.0.1" group-title="HBO GO" tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature", HBO Signature HD
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AQGtEa0.png?v=1.1.1.1" group-title="HBO GO" tvg-id="HBO Family HD" tvg-name="HBO Family HD", HBO Family HD
-http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ew9mSea.png?v=1.0.0.1" group-title="HBO GO" tvg-id="Cinemax HD" tvg-name="Cinemax HD", Cinemax HD
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 
 ########################################################   MalaysiaTV  ########################################################
 
@@ -784,7 +781,6 @@ https://s7.mbahnunungonline.net/live/m3u8/fs/700a192f4d09364.m3u8
 https://s7.mbahnunungonline.net/live/m3u8/fs/801a98b42276bae.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
-#http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zzja5enf-480.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Naked News 2020
 https://content.jwplatform.com/manifests/Z9pDgB08.m3u8
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/zk9wqw7b-480.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Serena Wood - Freedom To Do Anything
@@ -805,9 +801,9 @@ https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sgCmp9R.png?v=8.8.4.4" group-title="Hindi" tvg-id="Sony Entertainment Television" tvg-name="Sony Entertainment Television", Sony Entertainment Television
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonytv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/0Y8SVWN.png?v=8.8.4.4" group-title="Hindi" tvg-id="B4U Kadak" tvg-name="B4U Kadak", B4U Kadak
-https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba710.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/C5EpW33.png?v=1.0.0.1" group-title="Hindi" tvg-id="Bflix Movies" tvg-name="Bflix Movies", Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+https://s7.mbahnunungonline.net/live/m3u8/op/7335edf66aba711.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ceBQDFq.png?v=1.0.0.1" group-title="Hindi" tvg-id="Zee TV" tvg-name="Zee TV", Zee TV
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/sonytv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2UQNzYB.png?v=8.8.4.4" group-title="Hindi" tvg-id="Zing" tvg-name="Zing Asia", Zing
