@@ -126,7 +126,7 @@ https://anevia114.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/OrEXAse.png?v=1.0.0.1" group-title="Kids" tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD", Cartoon Network
-https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/cartoonnetwork.m3u8
+https://warningfm.github.io/v2/live/m3u8/iptv/cartoonnetwork.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -161,7 +161,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="555" tvg-name="Boomerang HD", Boomerang
-https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/boomerang.m3u8
+https://warningfm.github.io/v2/live/m3u8/iptv/boomerang.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/327-3270547_tayo-the-little-bus-logo-png.png" group-title="Kids",Tayo TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
@@ -226,11 +226,10 @@ https://s7.mbahnunungonline.net/live/m3u8/id/3254f236ad3e872.m3u8
 https://raw.githubusercontent.com/OngisMbois/iptv/main/aniplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ftk2ky0.png?v=1.0.0.1" group-title="Entertainment" tvg-id="GEMChannel.id" tvg-name="GEM HD", GEM
-https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/gem.m3u8
+https://warningfm.github.io/v2/live/m3u8/iptv/gem.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2RySrJl.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CCTV4 HD" tvg-name="CCTV4 HD", CCTV4
-#https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/cctv4.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+https://warningfm.github.io/v2/live/m3u8/iptv/cctv4.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aKZ7opS.png?v=1.0.0.1" group-title="Entertainment" tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia", Da Vinci Learning
 https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/davinci.m3u8
@@ -248,7 +247,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/le4o5Zy.png?v=1.0.0.1" group-title="Entertainment" tvg-id="TLC" tvg-name="TLC HD", TLC
-https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/iptv/tlc.m3u8
+https://warningfm.github.io/v2/live/m3u8/iptv/tlc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -504,6 +503,9 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AiXXYZK.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Nat Geo" tvg-name="Nat Geo", National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png?v=1.0.0.1" group-title="Knowledge" tvg-id="DMAX" tvg-name="DMAX HD", DMAX
+https://warningfm.github.io/v2/live/m3u8/iptv/dmax.m3u8
 
 ########################################################   Religious   ########################################################
 
