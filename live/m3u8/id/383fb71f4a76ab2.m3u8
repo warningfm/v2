@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1627459,FRAME-RATE=25.000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x480
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,FRAME-RATE=25.000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
-https://op-krgroup1-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
+http://op-krgroup1-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
