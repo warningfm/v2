@@ -162,7 +162,16 @@ https://anevia115.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xXz1Lht.png?v=1.0.0.1" group-title="Kids" tvg-id="555" tvg-name="Boomerang HD", Boomerang
 https://warningfm.github.io/v2/live/m3u8/iptv/boomerang.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/327-3270547_tayo-the-little-bus-logo-png.png" group-title="Kids",Tayo TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/fSAArko.png?v=1.0.0.1" group-title="Kids" tvg-id="DreamWorks.id" tvg-name="DreamWorks", DreamWorks
+https://warningfm.github.io/v2/live/m3u8/iptv/dreamworks.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indikids_big.png?v=1.0.0.1" group-title="Kids" tvg-id="Indikids" tvg-name="Indikids", Indikids
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/SNzeDbZ.png?v=1.0.0.1" group-title="Kids" tvg-id="Horee" tvg-name="Horee", Horee
+https://warningfm.github.io/v2/live/m3u8/iptv/hooree.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yY7hOmN.png?v=1.0.0.1" group-title="Kids", Tayo TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-xiaomi/playlist.m3u8
 
 ########################################################     Local     ########################################################
