@@ -26,7 +26,7 @@ https://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Dw3SKHg.png?v=1.0.0.1" group-title="Nasional" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
-https://warningfm.github.io/v2/live/m3u8/id/6183ec225226ccb.m3u8
+https://anevia114.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -76,13 +76,13 @@ https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ax67v0u.png?v=1.0.0.1" group-title="Nasional" tvg-id="TVRI.id" tvg-name="TVRI", TVRI Nasional
-http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/index.m3u8
+https://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/od0w7R3.png?v=1.0.0.1" group-title="Nasional" tvg-id="MOJI" tvg-name="MOJI", MOJI
-https://dl.dropbox.com/s/20g5fcq07n462qg/d4ff175b1e2d419.m3u8
+https://dl.dropboxusercontent.com/s/20g5fcq07n462qg/d4ff175b1e2d419.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h6qDBhV.png?v=1.0.0.1" group-title="Nasional" tvg-id="CNNIndonesia" tvg-name="CNN Indonesia HD", CNN Indonesia
-https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
+https://dl.dropboxusercontent.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/uJTTmk8.png?v=1.1.1.1" group-title="Nasional" tvg-id="CNBC Indonesia" tvg-name="CNBC HD", CNBC Indonesia
 https://warningfm.github.io/v2/live/m3u8/id/ef7e8c7bc86110e.m3u8
