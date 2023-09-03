@@ -333,7 +333,7 @@ https://anevia114.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/QVj6I9k.png?v=1.0.0.1" group-title="Korengan" tvg-id="K-Plus" tvg-name="K-Plus HD", Kplus
-https://warningfm.github.io/v2/live/m3u8/int/c19fce28bcd7cb7.m3u8
+http://khano.nng.cloudns.us/live/m3u8/int/c19fce28bcd7cb7.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jJTACLd.png?v=1.0.0.1" group-title="Korengan" tvg-id="KBSWorld" tvg-name="KBS World HD", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -342,21 +342,24 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Asian Food Network HD" tvg-name="Asian Food Network HD", Asian Food Channel
-https://warningfm.github.io/v2/live/m3u8/iptv/afn.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTV HD" tvg-name="HGTV HD", HGTV
-https://warningfm.github.io/v2/live/m3u8/iptv/hgtv.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/I3UabxG.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="LifestyleFashion.id" tvg-name="Lifestyle & Fashion", Lifestyle & Fashion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/I3UabxG.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="LifestyleFashion.id" tvg-name="Lifestyle & Fashion", Lifestyle & Fashion
 https://anevia114.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network" tvg-name="Food Network HD", Food Network
-https://warningfm.github.io/v2/live/m3u8/iptv/foodnetwork.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/3IDyQAj.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network HD", Asian Food Network
+http://khano.nng.cloudns.us/live/m3u8/int/9205d76d156e9c1.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/BaA1xU1.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="HGTVAsia.us" tvg-name="HGTV HD", HGTV
+http://khano.nng.cloudns.us/live/m3u8/int/f8a232cfff768fd.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/sm722lM.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network" tvg-name="Food Network HD", Food Network
+http://khano.nng.cloudns.us/live/m3u8/int/647844d232a8d61.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/YI9ouzl.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="DFC" tvg-name="DFC", DFC
+http://khano.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
 
 ########################################################      News     ########################################################
 
