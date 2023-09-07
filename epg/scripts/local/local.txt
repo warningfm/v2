@@ -1,6 +1,3 @@
-indonesia.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
-
 indonesiapremium1.xml
 http://www.bevy.be/bevyfiles/indonesiapremium1.xml
 
@@ -10,8 +7,8 @@ http://www.bevy.be/bevyfiles/indonesiapremium3.xml
 indonesiapremium2.xml
 https://www.bevy.be/bevyfiles/indonesiapremium2.xml
 
-astro.xml
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml
+epg.xml.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
 unifitv.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
