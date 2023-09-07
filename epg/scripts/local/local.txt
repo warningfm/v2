@@ -12,3 +12,12 @@ https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml
 
 unifitv.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
+
+indonesiapremium2.xml
+https://www.bevy.be/bevyfiles/indonesiapremium2.xml
+
+arabia.xml
+https://www.bevy.be/bevyfiles/arabia.xml
+
+france.xml
+https://www.bevy.be/bevyfiles/france.xml
