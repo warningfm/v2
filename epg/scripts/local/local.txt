@@ -9,3 +9,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 astro.xml
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml
+
+unifitv.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
