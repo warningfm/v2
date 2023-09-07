@@ -6,3 +6,6 @@ http://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
 indonesia.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
+
+astro.xml
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml
