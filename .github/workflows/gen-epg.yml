@@ -26,11 +26,11 @@ jobs:
           [ ! -d local ] && mkdir -v local/
           python3 -m pip install lxml
           echo "Generating EPG for main playlist..."
-          python3 scripts/index.py guide.xml scripts/main/main.txt "12537.stream.ip.tv Playlist" "http://103.152.118.53:80"
+          python3 scripts/index.py guide.xml scripts/main/main.txt "iptv.nng.cloudns.us Playlist" "http://iptv.nng.cloudns.us"
           gzip -9 guide.xml
           mv -v guide.xml.gz global/
           echo "Generating EPG for local playlist..."
-          python3 scripts/index.py guide.xml scripts/local/local.txt "khano.nng.cloudns.us Playlist" "http://103.152.118.53:80"
+          python3 scripts/index.py guide.xml scripts/local/local.txt "iptv.nng.cloudns.us Playlist" "http://iptv.nng.cloudns.us"
           mv -v guide.xml local/
           cd ..
       - name: commit
