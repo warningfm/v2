@@ -10,8 +10,8 @@ https://www.bevy.be/bevyfiles/indonesiapremium2.xml
 epg.xml.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
-unifitv.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
+malaysiapremium2.xml
+https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
