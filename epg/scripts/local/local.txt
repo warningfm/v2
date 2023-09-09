@@ -15,3 +15,6 @@ https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
 astro.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
+
+unifitv.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
