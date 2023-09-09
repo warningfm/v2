@@ -7,17 +7,9 @@ http://www.bevy.be/bevyfiles/indonesiapremium3.xml
 indonesiapremium2.xml
 https://www.bevy.be/bevyfiles/indonesiapremium2.xml
 
-epg.xml.xml
-https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+indonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 malaysiapremium2.xml
 https://www.bevy.be/bevyfiles/malaysiapremium2.xml
 
-arabia.xml
-https://www.bevy.be/bevyfiles/arabia.xml
-
-france.xml
-https://www.bevy.be/bevyfiles/france.xml
-
-unitedkingdom.xml
-https://www.bevy.be/bevyfiles/unitedkingdom.xml
