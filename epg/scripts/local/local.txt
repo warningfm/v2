@@ -21,3 +21,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
 
 starhubtv.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
+
+singapore.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
