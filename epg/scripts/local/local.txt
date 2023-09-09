@@ -25,5 +25,8 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 singapore.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 
+thailand.xml
+https://www.bevy.be/bevyfiles/thailand.xml
+
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
