@@ -18,3 +18,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 
 unifitv.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
+
+starhubtv.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
