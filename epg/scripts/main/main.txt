@@ -22,6 +22,9 @@ https://www.bevy.be/bevyfiles/china.xml
 hongkongpremium.xml
 https://www.bevy.be/bevyfiles/hongkongpremium.xml
 
+thailand.xml
+https://www.bevy.be/bevyfiles/thailand.xml
+
 arabia.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 
