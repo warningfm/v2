@@ -2,11 +2,11 @@ ABC Australia,ABCAustralia.au
 Al Jazeera Arabic,aljazeeraarabic.kn
 Al Jazeera International,AlJazeeraInternational.kn
 Al Quran Al Kareem,AlQuranAlKareem.id
-Animal Planet
-Animax
+Animal Planet,AnimalPlanet.id
+Animax,Animax.id
 ANTV
 Arirang
-Asian Food Network
+Asian Food Network,AsianFoodNetwork.sg
 AXN
 Balai Kota Bandung
 Balai Kota Channel
