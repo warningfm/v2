@@ -3,14 +3,14 @@ Al Jazeera Arabic,aljazeeraarabic.kn
 Al Jazeera International,AlJazeeraInternational.kn
 Al Quran Al Kareem,AlQuranKareem.id
 Animal Planet,AnimalPlanet.id
-Animax,Animax.id
+Animax,AnimaxAsia.sg
 ANTV,ANTV.id
 Arirang,ArirangWorld.kr
 Asian Food Network,AsianFoodNetwork.sg
 AXN,AXN.id
-Balai Kota Bandung,
-Balai Kota Channel,
-BBC World News,
+Balai Kota Bandung,Balai Kota Bandung
+Balai Kota Channel,Balai Kota Channel
+BBC World News,BBC World News
 Berita Satu,BeritaSatu.id
 Berita Satu World,Berita Satu World
 Berita Satu World HD,Berita Satu World HD
