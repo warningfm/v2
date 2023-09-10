@@ -88,7 +88,7 @@
 <display-name lang="id">Metro TV</display-name>
 <icon src="https://thumbor.prod.vidiocdn.com/nSM-xj2C1XhCwOAzfHW75DoPooY=/64x64/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png"/>
 </channel>
-<channel id="Moji.id">
+<channel id="OChannel.id">
 <display-name lang="id">Moji</display-name>
 <icon src="https://thumbor.prod.vidiocdn.com/8MQ0q-Pv5p4tf-sHuOcO3zGFHAY=/64x64/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"/>
 </channel>
@@ -4145,85 +4145,85 @@
 <desc lang="id">Suguhan berita terhangat dan update berbagai peristiwa terbaru dari berbagai belahan dunia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/vEHhMIx_0-9b5jqebJtGielX3wg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5582/top-news-a78419.png"/>
 </programme>
-<programme start="20230910000000 +0700" stop="20230910023000 +0700" channel="Moji.id">
+<programme start="20230910000000 +0700" stop="20230910023000 +0700" channel="OChannel.id">
 <title lang="id">Piala Kapolri 2023 Putri</title>
 <desc lang="id">Aksi persaingan tim-tim bola voli putri terbaik Indonesia dalam memperebutkan gelar juara di ajang Piala Kapolri 2023.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910023000 +0700" stop="20230910033000 +0700" channel="Moji.id">
+<programme start="20230910023000 +0700" stop="20230910033000 +0700" channel="OChannel.id">
 <title lang="id">One Championship 2020</title>
 <desc lang="id">Aksi pertarungan para atlet bela diri terbaik mancanegara dalam memperebutkan gelar juara di ajang ONE Championship 2021.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910033000 +0700" stop="20230910050000 +0700" channel="Moji.id">
+<programme start="20230910033000 +0700" stop="20230910050000 +0700" channel="OChannel.id">
 <title lang="id">Volleyball Nation's League 2023</title>
 <desc lang="id">Aksi persaingan tim-tim nasional bola voli wanita terbaik dunia dalam memperebutkan gelar juara di ajang Women's Volleyball Nations League 2023.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910050000 +0700" stop="20230910061500 +0700" channel="Moji.id">
+<programme start="20230910050000 +0700" stop="20230910061500 +0700" channel="OChannel.id">
 <title lang="id">Moji Sport</title>
 <desc lang="id">Pembawa acara menyajikan berbagai berita dan perkembangan terbaru dari dunia olahraga.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910061500 +0700" stop="20230910070000 +0700" channel="Moji.id">
+<programme start="20230910061500 +0700" stop="20230910070000 +0700" channel="OChannel.id">
 <title lang="id">Liputan 6 Pagi Moji</title>
 <desc lang="id">Pembawa acara hadir menyajikan berbagai berita terbaru dan perkembangan terkini dari sejumlah kasus yang terjadi di Indonesia serta mancanegara.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/br5sEiRzSU77qkAHTtVGxoGIb6E=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8751/liputan-6-pagi-moji-94d773.png"/>
 </programme>
-<programme start="20230910070000 +0700" stop="20230910080000 +0700" channel="Moji.id">
+<programme start="20230910070000 +0700" stop="20230910080000 +0700" channel="OChannel.id">
 <title lang="id">Ungkap</title>
 <desc lang="id">Liputan investigasi seputar berbagai topik dan peristiwa hangat serta kontroversial yang terjadi di Indonesia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910080000 +0700" stop="20230910090000 +0700" channel="Moji.id">
+<programme start="20230910080000 +0700" stop="20230910090000 +0700" channel="OChannel.id">
 <title lang="id">Trust</title>
 <desc lang="id">Laporan khusus.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910090000 +0700" stop="20230910100000 +0700" channel="Moji.id">
+<programme start="20230910090000 +0700" stop="20230910100000 +0700" channel="OChannel.id">
 <title lang="id">Netizen Update</title>
 <desc lang="id">Pembawa acara hadir menyajikan kumpulan video dan cerita menarik yang viral di media sosial.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910100000 +0700" stop="20230910110000 +0700" channel="Moji.id">
+<programme start="20230910100000 +0700" stop="20230910110000 +0700" channel="OChannel.id">
 <title lang="id">Bisik Pagi</title>
 <desc lang="id">Pembawa acara menyajikan berbagai berita dan perkembangan terbaru dari sederet kasus yang menimpa sejumlah sosok ternama di Indonesia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/Q-EI9KFjOGiIoyPM3qeuxd07TvY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/7578/bisik-pagi-fc6196.png"/>
 </programme>
-<programme start="20230910110000 +0700" stop="20230910123000 +0700" channel="Moji.id">
+<programme start="20230910110000 +0700" stop="20230910123000 +0700" channel="OChannel.id">
 <title lang="id">Ganteng Ganteng Serigala</title>
 <desc lang="id">Tristan berusaha menyelamatkan bangsa vampir dengan meluluhkan hati Nayla yang memiliki darah suci. Namun, upayanya dihalangi Galang, sahabat Nayla, yang merupakan seorang manusia serigala.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/p--fD3JnMoxaWxLkGnQ4NLQK5LQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8613/ganteng-ganteng-serigala-078237.jpg"/>
 </programme>
-<programme start="20230910123000 +0700" stop="20230910143000 +0700" channel="Moji.id">
+<programme start="20230910123000 +0700" stop="20230910143000 +0700" channel="OChannel.id">
 <title lang="id">Diam Diam Suka</title>
 <desc lang="id">Di SMA-nya yang baru, Sri menghadapi berbagai cemoohan, salah satu dari sepupunya sendiri, Naomi. Bertahun-tahun kemudian, Sri, Naomi dan sejumlah alumni SMA itu berkuliah di Screensun University.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/r-0iknwmIYHQvTXQClDjgPE6k6Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8366/diam-diam-suka-5c5db9.jpg"/>
 </programme>
-<programme start="20230910143000 +0700" stop="20230910161500 +0700" channel="Moji.id">
+<programme start="20230910143000 +0700" stop="20230910161500 +0700" channel="OChannel.id">
 <title lang="id">Piala Kapolri 2023 Putri</title>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910161500 +0700" stop="20230910180000 +0700" channel="Moji.id">
+<programme start="20230910161500 +0700" stop="20230910180000 +0700" channel="OChannel.id">
 <title lang="id">AVC Asian Senior Men's Volleyball Championship 2023</title>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910180000 +0700" stop="20230910190000 +0700" channel="Moji.id">
+<programme start="20230910180000 +0700" stop="20230910190000 +0700" channel="OChannel.id">
 <title lang="id">Netizen Update</title>
 <desc lang="id">Pembawa acara hadir menyajikan kumpulan video dan cerita menarik yang viral di media sosial.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230910190000 +0700" stop="20230910210000 +0700" channel="Moji.id">
+<programme start="20230910190000 +0700" stop="20230910210000 +0700" channel="OChannel.id">
 <title lang="id">Choti Sarrdaarni</title>
 <desc lang="id">Kulwant Kaur, seorang janda dari Punjabi, berani melawan belenggu norma sosial dengan menjalankan bisnis transportasi dan menjabat sebagai seorang kepala desa.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/SJF__ObMeFViU5z1j0SDT4KQKLM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8298/choti-sarrdaarni-1389fd.png"/>
 </programme>
-<programme start="20230910210000 +0700" stop="20230910230000 +0700" channel="Moji.id">
+<programme start="20230910210000 +0700" stop="20230910230000 +0700" channel="OChannel.id">
 <title lang="id">Trinity, The Nekad Traveler</title>
 <desc lang="id">Segala kegiatan yang menyegarkan pikiran ini ternyata tidak berjalan mulus begitu saja. Umur yang sudah tidak lagi remaja membuat kedua orang tua Trinity selalu menghantuinya dengan pertanyaan kapan menikah.Trinity pun selalu membela bahwa dirinya ingin memenuhi segala impiannya yakni jalan-jalan ke tempat yang masuk ke dalam bucket listnya sebelum dirinya menikah. Tetap saja, ayah dan ibunya tetap menanyakan hal yang sama setiap harinya. Alasan mereka, terutama sang ayah adalah karena tidak sabar untuk meminang seorang cucu.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PfDqzlK8R3J2ker61CYc5TSirAg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/2913575/c7edd3.jpg"/>
 </programme>
-<programme start="20230910230000 +0700" stop="20230910233000 +0700" channel="Moji.id">
+<programme start="20230910230000 +0700" stop="20230910233000 +0700" channel="OChannel.id">
 <title lang="id">Trust</title>
 <desc lang="id">Laporan khusus.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
@@ -8909,92 +8909,92 @@
 <desc lang="id">Suguhan berita terhangat dan update berbagai peristiwa terbaru dari berbagai belahan dunia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/vEHhMIx_0-9b5jqebJtGielX3wg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/5582/top-news-a78419.png"/>
 </programme>
-<programme start="20230911013000 +0700" stop="20230911023000 +0700" channel="Moji.id">
+<programme start="20230911013000 +0700" stop="20230911023000 +0700" channel="OChannel.id">
 <title lang="id">Sports Programme</title>
 <desc lang="id">Laporan berbagai kompetisi olahraga yang digelar di seluruh dunia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911023000 +0700" stop="20230911033000 +0700" channel="Moji.id">
+<programme start="20230911023000 +0700" stop="20230911033000 +0700" channel="OChannel.id">
 <title lang="id">Sports Programme</title>
 <desc lang="id">Laporan berbagai kompetisi olahraga yang digelar di seluruh dunia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911033000 +0700" stop="20230911051500 +0700" channel="Moji.id">
+<programme start="20230911033000 +0700" stop="20230911051500 +0700" channel="OChannel.id">
 <title lang="id">Sports Programme</title>
 <desc lang="id">Laporan berbagai kompetisi olahraga yang digelar di seluruh dunia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911051500 +0700" stop="20230911061500 +0700" channel="Moji.id">
+<programme start="20230911051500 +0700" stop="20230911061500 +0700" channel="OChannel.id">
 <title lang="id">Sports Programme</title>
 <desc lang="id">Laporan berbagai kompetisi olahraga yang digelar di seluruh dunia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911061500 +0700" stop="20230911070000 +0700" channel="Moji.id">
+<programme start="20230911061500 +0700" stop="20230911070000 +0700" channel="OChannel.id">
 <title lang="id">Liputan 6 Pagi Moji</title>
 <desc lang="id">Pembawa acara hadir menyajikan berbagai berita terbaru dan perkembangan terkini dari sejumlah kasus yang terjadi di Indonesia serta mancanegara.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/br5sEiRzSU77qkAHTtVGxoGIb6E=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8751/liputan-6-pagi-moji-94d773.png"/>
 </programme>
-<programme start="20230911070000 +0700" stop="20230911080000 +0700" channel="Moji.id">
+<programme start="20230911070000 +0700" stop="20230911080000 +0700" channel="OChannel.id">
 <title lang="id">Ungkap</title>
 <desc lang="id">Liputan investigasi seputar berbagai topik dan peristiwa hangat serta kontroversial yang terjadi di Indonesia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911080000 +0700" stop="20230911083000 +0700" channel="Moji.id">
+<programme start="20230911080000 +0700" stop="20230911083000 +0700" channel="OChannel.id">
 <title lang="id">Trust</title>
 <desc lang="id">Laporan khusus.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911083000 +0700" stop="20230911090000 +0700" channel="Moji.id">
+<programme start="20230911083000 +0700" stop="20230911090000 +0700" channel="OChannel.id">
 <title lang="id">Trust</title>
 <desc lang="id">Laporan khusus.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911090000 +0700" stop="20230911093000 +0700" channel="Moji.id">
+<programme start="20230911090000 +0700" stop="20230911093000 +0700" channel="OChannel.id">
 <title lang="id">Masak Apa Ceu?</title>
 <desc lang="id">Jenny Hendrawati, seorang koki selebritis, menyajikan beraneka hidangan internasional serta membagikan tips-tips seputar dunia memasak yang mudah diikuti oleh para pemirsa di rumah.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/s9ABxgH8eWLpVqhptEUCc5HBjds=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8331/masak-apa-ceu-9e41bd.png"/>
 </programme>
-<programme start="20230911093000 +0700" stop="20230911103000 +0700" channel="Moji.id">
+<programme start="20230911093000 +0700" stop="20230911103000 +0700" channel="OChannel.id">
 <title lang="id">Bisik Pagi</title>
 <desc lang="id">Pembawa acara menyajikan berbagai berita dan perkembangan terbaru dari sederet kasus yang menimpa sejumlah sosok ternama di Indonesia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/Q-EI9KFjOGiIoyPM3qeuxd07TvY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/7578/bisik-pagi-fc6196.png"/>
 </programme>
-<programme start="20230911103000 +0700" stop="20230911123000 +0700" channel="Moji.id">
+<programme start="20230911103000 +0700" stop="20230911123000 +0700" channel="OChannel.id">
 <title lang="id">Ganteng Ganteng Serigala</title>
 <desc lang="id">Tristan berusaha menyelamatkan bangsa vampir dengan meluluhkan hati Nayla yang memiliki darah suci. Namun, upayanya dihalangi Galang, sahabat Nayla, yang merupakan seorang manusia serigala.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/p--fD3JnMoxaWxLkGnQ4NLQK5LQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8613/ganteng-ganteng-serigala-078237.jpg"/>
 </programme>
-<programme start="20230911123000 +0700" stop="20230911143000 +0700" channel="Moji.id">
+<programme start="20230911123000 +0700" stop="20230911143000 +0700" channel="OChannel.id">
 <title lang="id">Diam Diam Suka</title>
 <desc lang="id">Di SMA-nya yang baru, Sri menghadapi berbagai cemoohan, salah satu dari sepupunya sendiri, Naomi. Bertahun-tahun kemudian, Sri, Naomi dan sejumlah alumni SMA itu berkuliah di Screensun University.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/r-0iknwmIYHQvTXQClDjgPE6k6Y=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8366/diam-diam-suka-5c5db9.jpg"/>
 </programme>
-<programme start="20230911143000 +0700" stop="20230911160000 +0700" channel="Moji.id">
+<programme start="20230911143000 +0700" stop="20230911160000 +0700" channel="OChannel.id">
 <title lang="id">Movie</title>
 <desc lang="id">Sinema drama pilihan.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911160000 +0700" stop="20230911180000 +0700" channel="Moji.id">
+<programme start="20230911160000 +0700" stop="20230911180000 +0700" channel="OChannel.id">
 <title lang="id">Sports Programme</title>
 <desc lang="id">Laporan berbagai kompetisi olahraga yang digelar di seluruh dunia.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911180000 +0700" stop="20230911190000 +0700" channel="Moji.id">
+<programme start="20230911180000 +0700" stop="20230911190000 +0700" channel="OChannel.id">
 <title lang="id">Netizen Update</title>
 <desc lang="id">Pembawa acara hadir menyajikan kumpulan video dan cerita menarik yang viral di media sosial.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911190000 +0700" stop="20230911210000 +0700" channel="Moji.id">
+<programme start="20230911190000 +0700" stop="20230911210000 +0700" channel="OChannel.id">
 <title lang="id">Choti Sarrdaarni</title>
 <desc lang="id">Kulwant Kaur, seorang janda dari Punjabi, berani melawan belenggu norma sosial dengan menjalankan bisnis transportasi dan menjabat sebagai seorang kepala desa.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/SJF__ObMeFViU5z1j0SDT4KQKLM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/8298/choti-sarrdaarni-1389fd.png"/>
 </programme>
-<programme start="20230911210000 +0700" stop="20230911230000 +0700" channel="Moji.id">
+<programme start="20230911210000 +0700" stop="20230911230000 +0700" channel="OChannel.id">
 <title lang="id">Movie</title>
 <desc lang="id">Sinema drama pilihan.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
 </programme>
-<programme start="20230911230000 +0700" stop="20230911233000 +0700" channel="Moji.id">
+<programme start="20230911230000 +0700" stop="20230911233000 +0700" channel="OChannel.id">
 <title lang="id">Trust</title>
 <desc lang="id">Laporan khusus.</desc>
 <icon src="https://thumbor.prod.vidiocdn.com/PgyOTo3cgj-96kCtzmF-BVdF9Hc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg"/>
