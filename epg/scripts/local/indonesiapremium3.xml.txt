@@ -1,6 +1,6 @@
 ABC Australia,ABCAustralia.au
 Aljazeera,AlJazeeraChannel.qa
-AlQuran Kareem,AlQuranAlKareemTV.sa
+AlQuran Kareem,AlQuranKareem.id
 Animax,AnimaxAsia.sg
 Aniplus,AniPlus.th
 Antara,AntaraTV.id
