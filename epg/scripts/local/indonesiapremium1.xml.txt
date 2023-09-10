@@ -20,7 +20,7 @@ Kompas TV,KompasTV.id
 Makkah TV,MakkahTV.sa
 Mentari TV,MentariTV.id
 Metro TV,MetroTV.id
-Moji,Moji.id
+Moji,OChannel.id
 NET TV,Net.id
 News Asia,CNAInternational.sg
 NHK World Japan,NHKWorldJapan.jp
