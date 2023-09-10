@@ -8,103 +8,103 @@ ANTV,ANTV.id
 Arirang,ArirangWorld.kr
 Asian Food Network,AsianFoodNetwork.sg
 AXN,AXN.id
-Balai Kota Bandung
-Balai Kota Channel
-BBC World News
-Berita Satu
-Berita Satu World
-Berita Satu World HD
-Bloomberg
-Cartoon Network
+Balai Kota Bandung,
+Balai Kota Channel,
+BBC World News,
+Berita Satu,
+Berita Satu World,
+Berita Satu World HD,
+Bloomberg,
+Cartoon Network,
 CCTV 4,CCTV4.cn
 Celestial Movie,CelestialMovies.cn
 Celestial Movie HD,CelestialMovies.cn
 CGTN,CGTN.cn
-Champions TV 1
-Champions TV 1 HD
-Champions TV 2
-Champions TV 2 HD
-Champions TV 3
-Champions TV 3 HD
-Channel News Asia
+Champions TV 1,
+Champions TV 1 HD,
+Champions TV 2,
+Champions TV 2 HD,
+Champions TV 3,
+Champions TV 3 HD,
+Channel News Asia,
 Cinemax,Cinemax.id
 Cinemax HD,CinemaxHD.id
-CNN International
-DAAI TV
+CNN International,CNN International
+DAAI TV,DAAITV.id
 Discovery Channel,DiscoveryChannel.id
-DW Deutsch
-DW English
+DW Deutsch,DW Deutsch
+DW English,DW English
 Eternal Word Television Network (EWTN))
 Euronews,Euronews.eu
-Eurosport
-Eurosport HD
+Eurosport,Eurosport
+Eurosport HD,Eurosport HD
 Fashion TV,FashionTV.id
-First Atmos HD
-First Football
-FIRST LIFESTYLE
+First Atmos HD,
+First Football,
+FIRST LIFESTYLE,
 First Lifestyle HD
-Fox News
-France 24
-Garuda TV
-GEM
-GMS Channel
-GTV
+Fox News,
+France 24,
+Garuda TV,
+GEM,GEM
+GMS Channel,
+GTV,
 HBO,HBO
 HBO Family,HBO Family
 HBO Family HD,HBO Family HD
-HBO HD,
-HBO Hits,
-HBO Hits HD,
-HBO Signature,
-HBO Signature HD
-HITS HD,
-HITS MOVIES HD,
-HITS NOW HD,
-IMC,
-Indosiar,
-iNews,
-Jakarta Globe News Channel,
-Jakarta Globe News Channel HD,
-Jakarta TV - Jak TV,
-Jawa Pos Media Televisi - JTV,
+HBO HD,HBO H
+HBO Hits,HBO Hits
+HBO Hits HD,HBO Hits HD
+HBO Signature,HBO Signature
+HBO Signature HD,HBO Signature HD
+HITS HD,HITS HD
+HITS MOVIES HD,HITS MOVIES HD
+HITS NOW HD,HITS NOW HD
+IMC,IMC
+Indosiar,Indosiar
+iNews,iNews
+Jakarta Globe News Channel,JakartaGlobeNewsChannel.id
+Jakarta Globe News Channel HD,JakartaGlobeNewsChannel.id
+Jakarta TV - Jak TV,JakTV.id
+Jawa Pos Media Televisi - JTV,JTV..id
 Kairos,
 Karaoke,
-KBS World,
-Kompas TV,
-Liga Mahasiswa,
-Light,
-Metro Globe Network - MGN
-Metro TV,
-MNC News,
-MTV Asia,
-National Geographic Channel,
-National Geographic Wild,
+KBS World,KBSWorld
+Kompas TV,KompasTV.id
+Liga Mahasiswa,Liga Mahasiswa
+Light,Light
+Metro Globe Network - MGN,MGN
+Metro TV,MetroTV.ID
+MNC News,MNC News
+MTV Asia,MTV Asia
+National Geographic Channel,NationalGeographicChannel.id
+National Geographic Wild,NationalGeographicWild.id
 NET.
-NHK World Premium,
-Nick jr.
-Nickelodeon
-O Channel
-ONE
-Paramount Network HD
+NHK World Premium,NHK World Premium
+Nick jr.,Nick jr.
+Nickelodeon,Nickelodeon
+O Channel,MOJI
+ONE,ONE
+Paramount Network HD,Paramount Network HD
 Phoenix Chinese Channel
 Phoenix Info News
 Praise
 Premier Sports
 Premier Sports HD
 Rai Italia
-Rajawali TV
+Rajawali TV,RTV.id
 Reformed 21
-Rock Extreme
-Russia Today
+Rock Extreme,Rock Extreme
+Russia Today,Russia Today
 SCTV
 Sekolah Pelita Harapan Channel - SPH
 Shenzen TV
 Shine
-SPOTV
-SPOTV 2
+SPOTV,SPOTV.id
+SPOTV 2,SPOTV2.id
 Star Chinese Channel HD
-Star Plus
-Sunnah TV
+Star Plus,Star Plus
+Sunnah TV,Sunnah TV
 TBN Asia
 The Learning Channel - TLC
 TRANS 7
@@ -112,11 +112,11 @@ TRANS TV
 TRT World
 TV One
 TV5 Monde
-TV9
+TV9,TV9.id
 TVB Xing He
 TVBS Asia
 TVBS News
-TVRI Nasional
+TVRI Nasional,TVRINasional.id
 West Java Network
 Wion
 Zee Action
