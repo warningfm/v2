@@ -1,7 +1,7 @@
 ABC Australia,ABCAustralia.au
 Al Jazeera Arabic,aljazeeraarabic.kn
 Al Jazeera International,AlJazeeraInternational.kn
-Al Quran Al Kareem,AlQuranAlKareem.id
+Al Quran Al Kareem,AlQuranKareem.id
 Animal Planet,AnimalPlanet.id
 Animax,Animax.id
 ANTV,ANTV.id
@@ -11,22 +11,22 @@ AXN,AXN.id
 Balai Kota Bandung,
 Balai Kota Channel,
 BBC World News,
-Berita Satu,
+Berita Satu,BeritaSatu.id
 Berita Satu World,
 Berita Satu World HD,
-Bloomberg,
+Bloomberg,Bloomberg
 Cartoon Network,
 CCTV 4,CCTV4.cn
 Celestial Movie,CelestialMovies.cn
 Celestial Movie HD,CelestialMovies.cn
 CGTN,CGTN.cn
-Champions TV 1,
-Champions TV 1 HD,
+Champions TV 1,Champions TV 1
+Champions TV 1 HD,Champions TV 1 HD
 Champions TV 2,
-Champions TV 2 HD,
-Champions TV 3,
+Champions TV 2 HD,Champions TV 2 HD
+Champions TV 3,Champions TV 3
 Champions TV 3 HD,
-Channel News Asia,
+Channel News Asia, CNA
 Cinemax,Cinemax.id
 Cinemax HD,CinemaxHD.id
 CNN International,CNN International
@@ -48,7 +48,7 @@ France 24,
 Garuda TV,
 GEM,GEM
 GMS Channel,
-GTV,
+GTV,GTV.id
 HBO,HBO
 HBO Family,HBO Family
 HBO Family HD,HBO Family HD
@@ -61,8 +61,8 @@ HITS HD,HITS HD
 HITS MOVIES HD,HITS MOVIES HD
 HITS NOW HD,HITS NOW HD
 IMC,IMC
-Indosiar,Indosiar
-iNews,iNews
+Indosiar,Indosiar.id
+iNews,iNews.id
 Jakarta Globe News Channel,JakartaGlobeNewsChannel.id
 Jakarta Globe News Channel HD,JakartaGlobeNewsChannel.id
 Jakarta TV - Jak TV,JakTV.id
@@ -75,15 +75,15 @@ Liga Mahasiswa,Liga Mahasiswa
 Light,Light
 Metro Globe Network - MGN,MGN
 Metro TV,MetroTV.ID
-MNC News,MNC News
+MNC News,MNCNews.id
 MTV Asia,MTV Asia
 National Geographic Channel,NationalGeographicChannel.id
 National Geographic Wild,NationalGeographicWild.id
-NET.
+NET.,NET.id
 NHK World Premium,NHK World Premium
 Nick jr.,Nick jr.
 Nickelodeon,Nickelodeon
-O Channel,MOJI
+O Channel,OChannel.id
 ONE,ONE
 Paramount Network HD,Paramount Network HD
 Phoenix Chinese Channel
@@ -92,11 +92,11 @@ Praise
 Premier Sports
 Premier Sports HD
 Rai Italia
-Rajawali TV,RTV.id
-Reformed 21
+Rajawali TV,RajawaliTV.id
+Reformed 21,Reformed21.id
 Rock Extreme,Rock Extreme
 Russia Today,Russia Today
-SCTV
+SCTV,SCTV.id
 Sekolah Pelita Harapan Channel - SPH
 Shenzen TV
 Shine
@@ -107,10 +107,10 @@ Star Plus,Star Plus
 Sunnah TV,Sunnah TV
 TBN Asia
 The Learning Channel - TLC
-TRANS 7
-TRANS TV
-TRT World
-TV One
+TRANS 7,Trans7.id
+TRANS TV,TransTV.id
+TRT World,TRTWorld.tr
+TV One,TVOne.id
 TV5 Monde
 TV9,TV9.id
 TVB Xing He
