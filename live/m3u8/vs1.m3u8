@@ -787,13 +787,13 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion" tvg-id="Fashion TV HD" tvg-name="Fashion TV HD", Fashion TV HD
 https://warningfm.github.io/v2/live/m3u8/fs/700a192f4d09363.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secret", Fashion TV Midnight Secret
+https://warningfm.github.io/v2/live/m3u8/fs/700a192f4d09364.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8X9FDe3.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel
 https://warningfm.github.io/v2/live/m3u8/fs/364bfe25097b976.m3u8
 
 ########################################################    Adult Lifestyle    ########################################################
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LQqABbX.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests" tvg-id="FashionTVMidniteSecrets.fr" tvg-name="Fashion TV Midnite Secret", Fashion TV Midnight Secret
-https://warningfm.github.io/v2/live/m3u8/fs/700a192f4d09364.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/pnhzRFh.png?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Kaloopy TV
 https://warningfm.github.io/v2/live/m3u8/fs/801a98b42276bae.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjgoROa.jpg?v=1.0.0.1" group-title="Adult Lifestyle & Interests", Jenny Live
