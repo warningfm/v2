@@ -12,10 +12,10 @@ Balai Kota Bandung,
 Balai Kota Channel,
 BBC World News,
 Berita Satu,BeritaSatu.id
-Berita Satu World,
-Berita Satu World HD,
+Berita Satu World,Berita Satu World
+Berita Satu World HD,Berita Satu World HD
 Bloomberg,Bloomberg
-Cartoon Network,
+Cartoon Network,Cartoon Network
 CCTV 4,CCTV4.cn
 Celestial Movie,CelestialMovies.cn
 Celestial Movie HD,CelestialMovies.cn
@@ -39,13 +39,13 @@ Euronews,Euronews.eu
 Eurosport,Eurosport
 Eurosport HD,Eurosport HD
 Fashion TV,FashionTV.id
-First Atmos HD,
-First Football,
-FIRST LIFESTYLE,
-First Lifestyle HD
-Fox News,
-France 24,
-Garuda TV,
+First Atmos HD,First Atmos HD
+First Football,First Football
+FIRST LIFESTYLE,FIRST LIFESTYLE
+First Lifestyle HD,FIRST LIFESTYLE
+Fox News,Fox News
+France 24,France 24
+Garuda TV,Garuda TV
 GEM,GEM
 GMS Channel,
 GTV,GTV.id
