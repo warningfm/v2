@@ -4,10 +4,10 @@ Al Jazeera International,AlJazeeraInternational.kn
 Al Quran Al Kareem,AlQuranAlKareem.id
 Animal Planet,AnimalPlanet.id
 Animax,Animax.id
-ANTV
-Arirang
+ANTV,ANTV.id
+Arirang,ArirangWorld.kr
 Asian Food Network,AsianFoodNetwork.sg
-AXN
+AXN,AXN.id
 Balai Kota Bandung
 Balai Kota Channel
 BBC World News
@@ -16,10 +16,10 @@ Berita Satu World
 Berita Satu World HD
 Bloomberg
 Cartoon Network
-CCTV 4
-Celestial Movie
-Celestial Movie HD
-CGTN
+CCTV 4,CCTV4.cn
+Celestial Movie,CelestialMovies.cn
+Celestial Movie HD,CelestialMovies.cn
+CGTN,CGTN.cn
 Champions TV 1
 Champions TV 1 HD
 Champions TV 2
@@ -27,18 +27,18 @@ Champions TV 2 HD
 Champions TV 3
 Champions TV 3 HD
 Channel News Asia
-Cinemax
-Cinemax HD
+Cinemax,Cinemax.id
+Cinemax HD,CinemaxHD.id
 CNN International
 DAAI TV
-Discovery Channel
+Discovery Channel,DiscoveryChannel.id
 DW Deutsch
 DW English
 Eternal Word Television Network (EWTN))
-Euronews
+Euronews,Euronews.eu
 Eurosport
 Eurosport HD
-Fashion TV
+Fashion TV,FashionTV.id
 First Atmos HD
 First Football
 FIRST LIFESTYLE
@@ -49,38 +49,38 @@ Garuda TV
 GEM
 GMS Channel
 GTV
-HBO
-HBO Family
-HBO Family HD
-HBO HD
-HBO Hits
-HBO Hits HD
-HBO Signature
+HBO,HBO
+HBO Family,HBO Family
+HBO Family HD,HBO Family HD
+HBO HD,
+HBO Hits,
+HBO Hits HD,
+HBO Signature,
 HBO Signature HD
-HITS HD
-HITS MOVIES HD
-HITS NOW HD
-IMC
-Indosiar
-iNews
-Jakarta Globe News Channel
-Jakarta Globe News Channel HD
-Jakarta TV - Jak TV
-Jawa Pos Media Televisi - JTV
-Kairos
-Karaoke
-KBS World
-Kompas TV
-Liga Mahasiswa
-Light
+HITS HD,
+HITS MOVIES HD,
+HITS NOW HD,
+IMC,
+Indosiar,
+iNews,
+Jakarta Globe News Channel,
+Jakarta Globe News Channel HD,
+Jakarta TV - Jak TV,
+Jawa Pos Media Televisi - JTV,
+Kairos,
+Karaoke,
+KBS World,
+Kompas TV,
+Liga Mahasiswa,
+Light,
 Metro Globe Network - MGN
-Metro TV
-MNC News
-MTV Asia
-National Geographic Channel
-National Geographic Wild
+Metro TV,
+MNC News,
+MTV Asia,
+National Geographic Channel,
+National Geographic Wild,
 NET.
-NHK World Premium
+NHK World Premium,
 Nick jr.
 Nickelodeon
 O Channel
