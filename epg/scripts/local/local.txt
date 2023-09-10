@@ -1,5 +1,5 @@
 indonesia.xml
-https://www.bevy.be/bevyfiles/indonesia.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml
 
 indonesiapremium1.xml
 http://www.bevy.be/bevyfiles/indonesiapremium1.xml
