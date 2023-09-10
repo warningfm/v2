@@ -32,7 +32,7 @@ Crime Investigation,CrimePlusInvestigationAsia.sg
 CTI Asia,CTIAsia.tw
 Da Vinci Learning,DaVinciAsia.de
 Daai TV,DAAITV.id
-Discovery Channel,DiscoveryChannelIndonesia.id
+Discovery Channel,DiscoveryChannel.id
 Dreamworks,DreamWorksChannelAsia.us
 Dunia anak,DuniaAnak.id
 Dunia Lain,DuniaLain.id
