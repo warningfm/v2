@@ -1,7 +1,7 @@
-ABC Australia
-Al Jazeera Arabic
-Al Jazeera International
-Al Quran Al Kareem
+ABC Australia,ABCAustralia.au
+Al Jazeera Arabic,aljazeeraarabic.kn
+Al Jazeera International,AlJazeeraInternational.kn
+Al Quran Al Kareem,AlQuranAlKareem.id
 Animal Planet
 Animax
 ANTV
