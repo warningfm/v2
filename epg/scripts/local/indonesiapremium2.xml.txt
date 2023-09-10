@@ -15,7 +15,7 @@ Berita Satu,BeritaSatu.id
 Berita Satu World,Berita Satu World
 Berita Satu World HD,Berita Satu World HD
 Bloomberg,Bloomberg
-Cartoon Network,Cartoon Network
+Cartoon Network,CartoonNetworkAsia.sg
 CCTV 4,CCTV4.cn
 Celestial Movie,CelestialMovies.cn
 Celestial Movie HD,CelestialMovies.cn
@@ -26,7 +26,7 @@ Champions TV 2,
 Champions TV 2 HD,Champions TV 2 HD
 Champions TV 3,Champions TV 3
 Champions TV 3 HD,
-Channel News Asia, CNA
+Channel News Asia, CNA.id
 Cinemax,Cinemax.id
 Cinemax HD,CinemaxHD.id
 CNN International,CNN International
