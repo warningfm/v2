@@ -10,3 +10,5 @@ https://www.bevy.be/bevyfiles/indonesiapremium2.xml
 indonesiapremium3.xml
 http://www.bevy.be/bevyfiles/indonesiapremium3.xml
 
+indonesiapremium4.xml
+https://www.bevy.be/bevyfiles/indonesiapremium4.xml
