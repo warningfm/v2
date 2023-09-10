@@ -576,16 +576,16 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aoxQ1WV.png?v=1.0.0.1" group-title="Religious" tvg-id="Ajwa TV", Ajwa TV
 https://warningfm.github.io/v2/live/m3u8/op/7335edf66aba710.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xg97ErR.png?v=1.0.0.1" group-title="Religious" tvg-id="Sunnah TV", Sunnah TV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xg97ErR.png?v=1.0.0.1" group-title="Religious" tvg-id="Al Sunnah Al Nabawiyah TV HD" tvg-name="Al Sunnah Al Nabawiyah TV HD", Sunnah TV
 https://edge.taghtia.com/sa/6.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nclyzsj.png?v=1.0.0.1" group-title="Religious" tvg-id="Iqraa-Tv", Iqraa-Tv
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nclyzsj.png?v=1.0.0.1" tvg-id="IqraTV.uk" tvg-name="Iqra TV", Iqra TV
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/vUHoMzT.png?v=1.0.0.1" group-title="Religious" tvg-id="Makkah Live", Makkah Live
 https://warningfm.github.io/v2/live/m3u8/op/7335edf66aba711.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/CwsvvSn.png?v=1.0.0.1" group-title="Religious" tvg-id="British Muslim", British Muslim
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/CwsvvSn.png?v=1.0.0.1" group-title="Religious" tvg-id="BritishMuslimTV.uk" tvg-name="British Muslim", British Muslim TV
 http://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
 
 ########################################################     Music     ########################################################
