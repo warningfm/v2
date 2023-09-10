@@ -281,27 +281,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/UwDhZv4.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Entertainment.id" tvg-name="Entertainment - [Channel 86]", Entertainment
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/UwDhZv4.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Entertainment.id" tvg-name="Entertainment", Entertainment
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/38ctiIV.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Ie.id" tvg-name="Infotaiment - [Channel 96]", Infotaiment
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/38ctiIV.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Ie.id" tvg-name="Infotaiment", Infotaiment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g087FCt.png?v=1.0.0.1" group-title="Entertainment" tvg-id="FMN.id" tvg-name="FMN - [Channel 150]", FMN
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/g087FCt.png?v=1.0.0.1" group-title="Entertainment" tvg-id="FMN.id" tvg-name="FMN, FMN
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/7cLsY1Q.png?v=1.0.0.1" group-title="Entertainment" tvg-id="OKTV.id" tvg-name="OK TV - [Channel 95]", OKTV
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/7cLsY1Q.png?v=1.0.0.1" group-title="Entertainment" tvg-id="OKTV.id" tvg-name="OK TV", OKTV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jzE4Vfd.png?v=1.0.0.1" group-title="Entertainment" tvg-id="VisionPrime.id" tvg-name="Vision Prime HD - [Channel 1]", Vision Prime
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jzE4Vfd.png?v=1.0.0.1" group-title="Entertainment" tvg-id="VisionPrime.id" tvg-name="Vision Prime HD", Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/CM09dsr.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CitraDrama.id" tvg-name="Citra Drama", Citra Drama
@@ -760,28 +760,30 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WG5VOF2.png?v=1.0.0.1" group-title="Singapore" tvg-id="ChannelNewsAsia" tvg-name"CNA", CNA
-https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/CNA.png?v=1.0.0.1" group-title="Singapore" tvg-id="CNA" tvg-name"CNA", CNA HD
+#https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(1f6c6383-ed85-4bbd-8a8a-de55c2b8dcbf)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/MqZdA4W.jpg?v=1.1.1.1" group-title="Singapore", Channel 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/CHANNEL%205.png?v=1.1.1.1" group-title="Singapore" tvg-id="Ch 5" tvg-name"Channel 5", Channel 5
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AiOxj6c.jpg?v=1.0.0.1" group-title="Singapore" tvg-ID="Ch8.SG", Channel 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/CHANNEL%208.png?v=1.0.0.1" group-title="Singapore" tvg-ID="Ch8.SG" tvg-name"Channel 8", Channel 8
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/TDfs7Wc.jpg?v=1.1.1.1" group-title="Singapore" tvg-ID="ChU.SG", Channel U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/CHANNEL%20U.png?v=1.1.1.1" group-title="Singapore" tvg-ID="ChU.SG" tvg-name"Channel 8", Channel U
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XYeb1CE.jpg?v=1.1.1.1" group-title="Singapore" tvg-id="Suria" tvg-name"Suria", Suria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/SURIA.png?v=1.1.1.1" group-title="Singapore" tvg-id="Suria" tvg-name"Suria", Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
 
 ########################################################    Fashion    ########################################################
 
