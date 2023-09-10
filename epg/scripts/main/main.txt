@@ -39,3 +39,6 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 
 turkeypremium1.xml
 https://www.bevy.be/bevyfiles/turkeypremium1.xml
+
+spain.xml
+https://www.bevy.be/bevyfiles/spain.xml
