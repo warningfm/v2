@@ -1,5 +1,6 @@
 ABC Australia,ABCAustralia.au
 Aljazeera,AlJazeeraChannel.qa
+Al Jazeera Arabic,AlJazeeraArabic.id
 AlQuran Kareem,AlQuranKareem.id
 Animax,AnimaxAsia.sg
 Aniplus,AniPlus.th
