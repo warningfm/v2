@@ -14,10 +14,12 @@ indonesiapremium4.xml
 https://www.bevy.be/bevyfiles/indonesiapremium4.xml
 
 rtmklik.xml
-https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
 
 singapore.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 
 astro.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
+
+
