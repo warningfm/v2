@@ -18,3 +18,6 @@ https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml
 
 singapore.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
+
+astro.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
