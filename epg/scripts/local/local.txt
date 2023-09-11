@@ -22,4 +22,5 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 astro.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 
-
+starhubtv.xml
+https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
