@@ -1,0 +1,6 @@
+Channel 5,Ch5.SG
+Channel 8,Ch8.SG
+Channel U,ChU.SG
+Suria,Suria
+Vasantham,Vasantham
+CNA,CNA
