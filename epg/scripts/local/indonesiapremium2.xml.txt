@@ -63,8 +63,8 @@ HITS NOW HD,HITS NOW HD
 IMC,IMC
 Indosiar,Indosiar.id
 iNews,iNews.id
-Jakarta Globe News Channel,JakartaGlobeNewsChannel.id
-Jakarta Globe News Channel HD,JakartaGlobeNewsChannel.id
+Jakarta Globe News Channel,JakartaGlobeNews.id
+Jakarta Globe News Channel HD,JakartaGlobeNews.id
 Jakarta TV - Jak TV,JakTV.id
 Jawa Pos Media Televisi - JTV,JTV..id
 Kairos,
