@@ -37,7 +37,7 @@ DW English,DW English
 Eternal Word Television Network (EWTN))
 Euronews,Euronews.eu
 Eurosport,Eurosport.eu
-Eurosport HD,Eurosport HD
+Eurosport HD,Eurosport.eu
 Fashion TV,FashionTV.id
 First Atmos HD,First Atmos HD
 First Football,First Football
@@ -47,7 +47,7 @@ Fox News,FoxNews.id
 France 24,France24.fr
 Garuda TV,GarudaTV.id
 GEM,GEM.id
-GMS Channel,
+GMS Channel,GMS Channel
 GTV,GTV.id
 HBO,HBO.id
 HBO Family,HBOFamily.id
@@ -67,14 +67,14 @@ Jakarta Globe News Channel,JakartaGlobeNews.id
 Jakarta Globe News Channel HD,JakartaGlobeNews.id
 Jakarta TV - Jak TV,JakTV.id
 Jawa Pos Media Televisi - JTV,JTV..id
-Kairos,
-Karaoke,
+Kairos,Kairos.id
+Karaoke,Karaoke.id
 KBS World,KBSWorld
 Kompas TV,KompasTV.id
 Liga Mahasiswa,Liga Mahasiswa
 Light,Light.id
-Metro Globe Network - MGN,MGN
-Metro TV,MetroTV.ID
+Metro Globe Network - MGN,MGN.id
+Metro TV,MetroTV.id
 MNC News,MNCNews.id
 MTV Asia,MTVAsia.id
 National Geographic Channel,NationalGeographicChannel.id
@@ -85,41 +85,41 @@ Nick jr.,Nick jr.
 Nickelodeon,Nickelodeon
 O Channel,OChannel.id
 ONE,ONE.id
-Paramount Network HD,Paramount Network HD
-Phoenix Chinese Channel
-Phoenix Info News
-Praise
-Premier Sports
-Premier Sports HD
-Rai Italia
+Paramount Network HD,ParamountNetwork.id
+Phoenix Chinese Channel,Phoenix Chinese Channel
+Phoenix Info News,Phoenix Info News
+Praise,Praise
+Premier Sports,
+Premier Sports HD,Premier Sports
+Rai Italia,Rai Italia
 Rajawali TV,RajawaliTV.id
 Reformed 21,Reformed21.id
 Rock Extreme,Rock Extreme
 Russia Today,Russia Today
 SCTV,SCTV.id
 Sekolah Pelita Harapan Channel - SPH
-Shenzen TV
-Shine
+Shenzen TV,Shenzen TV
+Shine,Shine
 SPOTV,SPOTV.id
 SPOTV 2,SPOTV2.id
 Star Chinese Channel HD
 Star Plus,Star Plus
-Sunnah TV,Sunnah TV
-TBN Asia
+Sunnah TV,SunnahTV
+TBN Asia,TBNAsia
 The Learning Channel - TLC
 TRANS 7,Trans7.id
 TRANS TV,TransTV.id
 TRT World,TRTWorld.tr
 TV One,TVOne.id
-TV5 Monde
+TV5 Monde,TV5Monde
 TV9,TV9NU.id
 TVB Xing He
-TVBS Asia
-TVBS News
+TVBS Asia,TVBS Asia
+TVBS News,TVBS News
 TVRI Nasional,TVRINasional.id
-West Java Network
-Wion
-Zee Action
-Zee Cinema
-ZEE TV
-Zhejiang TV
+West Java Network,West Java Network
+Wion,Wion
+Zee Action,ZeeAction
+Zee Cinema,ZeeCinema
+ZEE TV,ZEETV
+Zhejiang TV,ZhejiangTV
