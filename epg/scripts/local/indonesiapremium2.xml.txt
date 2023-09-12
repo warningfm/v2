@@ -66,7 +66,7 @@ iNews,iNews.id
 Jakarta Globe News Channel,JakartaGlobeNews.id
 Jakarta Globe News Channel HD,JakartaGlobeNews.id
 Jakarta TV - Jak TV,JakTV.id
-Jawa Pos Media Televisi - JTV,JTV..id
+Jawa Pos Media Televisi - JTV,JTV.id
 Kairos,Kairos.id
 Karaoke,Karaoke.id
 KBS World,KBSWorld
@@ -86,7 +86,7 @@ Nickelodeon,Nickelodeon
 O Channel,OChannel.id
 ONE,ONE.id
 Paramount Network HD,ParamountNetwork.id
-Phoenix Chinese Channel,Phoenix Chinese Channel
+Phoenix Chinese Channel,PhoenixChineseChannel
 Phoenix Info News,Phoenix Info News
 Praise,Praise
 Premier Sports,PremierSports
@@ -106,7 +106,7 @@ Star Chinese Channel HD
 Star Plus,StarPlus
 Sunnah TV,SunnahTV
 TBN Asia,TBNAsia
-The Learning Channel - TLC
+The Learning Channel - TLC,TLC
 TRANS 7,Trans7.id
 TRANS TV,TransTV.id
 TRT World,TRTWorld.tr
