@@ -16,7 +16,7 @@ Citra Drama,CitraDrama.id
 Daai TV,DAAITV.id
 DW (English),DWEnglish.de
 Euronews,EuronewsEnglish.fr
-FashionTV,ATBA10000075C
+FashionTV,FashionTV
 Flik,Flik.id
 France 24,France24English.fr
 GTV,GTV.id
