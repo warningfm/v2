@@ -11,7 +11,7 @@ AXN,AXN.id
 Balai Kota Bandung,Balai Kota Bandung
 Balai Kota Channel,Balai Kota Channel
 BBC World News,BBCWorldNews.id
-Berita Satu,BTV.id
+Berita Satu,BeritaSatu.id
 Berita Satu World,BeritaSatuWorld.id
 Berita Satu World HD,BeritaSatuWorldHD.id
 Bloomberg,Bloomberg.id
