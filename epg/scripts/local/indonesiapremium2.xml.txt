@@ -103,7 +103,7 @@ Shine,Shine
 SPOTV,SPOTV.id
 SPOTV 2,SPOTV2.id
 Star Chinese Channel HD
-Star Plus,Star Plus
+Star Plus,StarPlus
 Sunnah TV,SunnahTV
 TBN Asia,TBNAsia
 The Learning Channel - TLC
@@ -117,7 +117,7 @@ TVB Xing He
 TVBS Asia,TVBS Asia
 TVBS News,TVBS News
 TVRI Nasional,TVRINasional.id
-West Java Network,West Java Network
+West Java Network,WestJavaNetwork
 Wion,Wion
 Zee Action,ZeeAction
 Zee Cinema,ZeeCinema
