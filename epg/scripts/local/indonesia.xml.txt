@@ -1,6 +1,6 @@
 ABC Australia - [Channel 350],ABCAustralia.au
 Al Jazeera English - [Channel 331],AlJazeeraEnglish.qa
-Al Quran Al Kareem - [Channel 93],AlQuranAlKareemTV.sa
+Al Quran Al Kareem - [Channel 93],AlQuranKareem.id
 Animax - [Channel 157],AnimaxAsia.sg
 ANTV - [Channel 115],ANTV.id
 Arirang - [Channel 351],ArirangWorld.kr
@@ -104,10 +104,10 @@ SCTV - [Channel 89],SCTV.id
 SEA TODAY - [Channel 336],SEAToday.id
 Soccer Channel - [Channel 101],SoccerChannel.id
 Soccer Channel HD - [Channel 420],SoccerChannel.id
-SPOTV - [Channel 307],SPOTV.kr
-SPOTV 2 - [Channel 308],SPOTV2.kr
-SPOTV 2 HD - [Channel 428],SPOTV2.kr
-SPOTV HD - [Channel 427],SPOTV.kr
+SPOTV - [Channel 307],SPOTV.id
+SPOTV 2 - [Channel 308],SPOTV2.id
+SPOTV 2 HD - [Channel 428],SPOTV2.id
+SPOTV HD - [Channel 427],SPOTV.id
 Tawaf TV - [Channel 105],TawafTV.id
 Thrill - [Channel 19],Thrill.hk
 Trans 7 - [Channel 110],Trans7.id
