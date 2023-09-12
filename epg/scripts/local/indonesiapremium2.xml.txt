@@ -10,57 +10,57 @@ Asian Food Network,AsianFoodNetwork.sg
 AXN,AXN.id
 Balai Kota Bandung,Balai Kota Bandung
 Balai Kota Channel,Balai Kota Channel
-BBC World News,BBC World News
-Berita Satu,BeritaSatu.id
-Berita Satu World,Berita Satu World
-Berita Satu World HD,Berita Satu World HD
-Bloomberg,Bloomberg
+BBC World News,BBCWorldNews.id
+Berita Satu,BTV.id
+Berita Satu World,BeritaSatuWorld.id
+Berita Satu World HD,BeritaSatuWorldHD.id
+Bloomberg,Bloomberg.id
 Cartoon Network,CartoonNetworkAsia.sg
 CCTV 4,CCTV4.cn
 Celestial Movie,CelestialMovies.cn
 Celestial Movie HD,CelestialMovies.cn
 CGTN,CGTN.cn
-Champions TV 1,Champions TV 1
-Champions TV 1 HD,Champions TV 1 HD
-Champions TV 2,
-Champions TV 2 HD,Champions TV 2 HD
-Champions TV 3,Champions TV 3
-Champions TV 3 HD,
+Champions TV 1,ChampionsTV1.id
+Champions TV 1 HD,ChampionsTV1.id
+Champions TV 2,ChampionsTV2.id
+Champions TV 2 HD,ChampionsTV2.id
+Champions TV 3,ChampionsTV3.id
+Champions TV 3 HD,ChampionsTV3.id
 Channel News Asia, CNA.id
 Cinemax,Cinemax.id
 Cinemax HD,CinemaxHD.id
-CNN International,CNN International
+CNN International,CNNInternational.id
 DAAI TV,DAAITV.id
 Discovery Channel,DiscoveryChannel.id
 DW Deutsch,DW Deutsch
 DW English,DW English
 Eternal Word Television Network (EWTN))
 Euronews,Euronews.eu
-Eurosport,Eurosport
+Eurosport,Eurosport.eu
 Eurosport HD,Eurosport HD
 Fashion TV,FashionTV.id
 First Atmos HD,First Atmos HD
 First Football,First Football
-FIRST LIFESTYLE,FIRST LIFESTYLE
-First Lifestyle HD,FIRST LIFESTYLE
-Fox News,Fox News
-France 24,France 24
-Garuda TV,Garuda TV
-GEM,GEM
+FIRST LIFESTYLE,FIRSTLIFESTYLE.id
+First Lifestyle HD,FIRSTLIFESTYLE.id
+Fox News,FoxNews.id
+France 24,France24.fr
+Garuda TV,GarudaTV.id
+GEM,GEM.id
 GMS Channel,
 GTV,GTV.id
-HBO,HBO
-HBO Family,HBO Family
-HBO Family HD,HBO Family HD
-HBO HD,HBO H
-HBO Hits,HBO Hits
-HBO Hits HD,HBO Hits HD
-HBO Signature,HBO Signature
-HBO Signature HD,HBO Signature HD
-HITS HD,HITS HD
-HITS MOVIES HD,HITS MOVIES HD
-HITS NOW HD,HITS NOW HD
-IMC,IMC
+HBO,HBO.id
+HBO Family,HBOFamily.id
+HBO Family HD,HBOFamily.id
+HBO HD,HBOHD.id
+HBO Hits,HBOHits.id
+HBO Hits HD,HBOHitsHD.id
+HBO Signature,HBOSignature.id
+HBO Signature HD,HBOSignatureHD.id
+HITS HD,HITS.id
+HITS MOVIES HD,HITSMOVIESHD.id
+HITS NOW HD,HITS NOW HD.id
+IMC,IMC.id
 Indosiar,Indosiar.id
 iNews,iNews.id
 Jakarta Globe News Channel,JakartaGlobeNews.id
@@ -72,11 +72,11 @@ Karaoke,
 KBS World,KBSWorld
 Kompas TV,KompasTV.id
 Liga Mahasiswa,Liga Mahasiswa
-Light,Light
+Light,Light.id
 Metro Globe Network - MGN,MGN
 Metro TV,MetroTV.ID
 MNC News,MNCNews.id
-MTV Asia,MTV Asia
+MTV Asia,MTVAsia.id
 National Geographic Channel,NationalGeographicChannel.id
 National Geographic Wild,NationalGeographicWild.id
 NET.,NET.id
@@ -84,7 +84,7 @@ NHK World Premium,NHK World Premium
 Nick jr.,Nick jr.
 Nickelodeon,Nickelodeon
 O Channel,OChannel.id
-ONE,ONE
+ONE,ONE.id
 Paramount Network HD,Paramount Network HD
 Phoenix Chinese Channel
 Phoenix Info News
@@ -112,7 +112,7 @@ TRANS TV,TransTV.id
 TRT World,TRTWorld.tr
 TV One,TVOne.id
 TV5 Monde
-TV9,TV9.id
+TV9,TV9NU.id
 TVB Xing He
 TVBS Asia
 TVBS News
