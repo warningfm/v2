@@ -112,7 +112,7 @@ TRANS TV,TransTV.id
 TRT World,TRTWorld.tr
 TV One,TVOne.id
 TV5 Monde,TV5Monde
-TV9,TV9NU.id
+TV9,TV9Nusantara.id
 TVB Xing He
 TVBS Asia,TVBS Asia
 TVBS News,TVBS News
