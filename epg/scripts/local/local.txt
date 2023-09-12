@@ -25,5 +25,4 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 starhubtv.xml
 https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 
-korea.xml
-https://www.bevy.be/bevyfiles/korea.xml
+
