@@ -113,8 +113,8 @@ Seru!,SeruChannel.id
 SGEM,GEM.sg
 Shenzen,Shenzen.hk
 SONE,OneTVAsia.sg
-SPOTV,SPOTV.kr
-SPOTV2,SPOTV2.kr
+SPOTV,SPOTV.id
+SPOTV2,SPOTV2.id
 Tawaf TV,TawafTV.id
 Tech Storm,TechStorm.sg
 Thrill,Thrill.hk
