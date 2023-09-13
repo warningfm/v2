@@ -1,62 +1,62 @@
 ABC Australia HD,ABCAustralia.au
 ADITHYA TV,ADITHYA TV
 ANC,ANC
-Animax HD,
-Arirang TV HD
-Asia Travel HD
-Asianet
-Asianet Movies
-Astro Warna HD
-AXN HD
-BBC Earth HD
-BBC Lifestyle HD
-BBC World News HD
+Animax HD,AnimaxAsia.sg
+Arirang TV HD,ArirangWorld.kr
+Asia Travel HD,Asia Travel
+Asianet,Asianet
+Asianet Movies,Asianet Movies
+Astro Warna HD,Astro Warna
+AXN HD,AXN.id
+BBC Earth HD,BBCEarth.id
+BBC Lifestyle HD,BBC Lifestyle
+BBC World News HD,BBC World New
 beIN SPORTS 2 HD,beIN SPORTS 2
 beIN Sports 3,beIN SPORTS 3
 beIN Sports 4 HD,beIN Sports 4
 beIN Sports 5,beIN Sports 5
-beIN SPORTS HD,beIN Sports
-Bloomberg Quicktake
+beIN SPORTS HD,beIN Sports 1
+Bloomberg Quicktake,Bloomberg Quicktake
 Bloomberg Television HD,BloombergTVAsia.hk
 Blue Ant Entertainment HD
 Boomerang HD,Boomerang
 Cartoon Network,Cartoon Network
 Cbeebies HD,Cbeebies
-CCM
+CCM,CCM.hk
 CCTV-4
 Celestial Movies HD
-CGTN
-Channel 5 HD
-Channel 8 HD
-Channel NewsAsia HD
-Channel U HD
+CGTN,CGTN
+Channel 5 HD,Ch 5
+Channel 8 HD,Ch 8
+Channel NewsAsia HD,CNA
+Channel U HD,Channel U
 Channel_Test
 Cinema One Global
-CinemaWorld HD
-Cinemax HD
-Citra Entertainment
-CNBC HD
-CNN HD
-COLORS
-COLORS Tamil HD
-Crime + Investigation HD
+CinemaWorld HD,CinemaWorld.my
+Cinemax HD,CinemaxHD.id
+Citra Entertainment,Citra Entertainment
+CNBC HD,CNBC
+CNN HD,CNN
+COLORS,COLORS
+COLORS Tamil HD,COLORS Tamil
+Crime + Investigation HD,Crime + Investigation
 CTI TV HD
 CuriosityStream HD
-Dragon TV
+Dragon TV,Dragon TV
 DreamWorks Channel HD
 DW (Deutsch)
-Euronews HD
-FashionTV HD
-FIGHT SPORTS HD
-Fox News Channel HD
-France24
-GEM HD
+Euronews HD,EuronewsEnglish.fr
+FashionTV HD,FashionTV HD
+FIGHT SPORTS HD,FightSports.us
+Fox News Channel HD,Fox News Channel
+France24,France24
+GEM HD,GEM
 GMA Life TV
 GMA Pinoy TV
-HBO Family HD
-HBO HD
-HBO Hits HD
-HBO Signature HD
+HBO Family HD,HBOFamily
+HBO HD,HBO.id
+HBO Hits HD,HBOHits.id
+HBO Signature HD,HBOSignature.id
 HISTORY HD
 Hits HD
 HITS MOVIES HD
@@ -80,25 +80,25 @@ Hub Sports 5 HD
 Hub VVDrama HD
 HubPremier 1
 Kalaignar TV
-Karisma
-KBS World HD
-KTV HD
-Lifetime HD
-Nat Geo Wild HD
-National Geographic HD
+Karisma,Karisma
+KBS World HD,KBSWorld
+KTV HD,KTV
+Lifetime HD,LifetimeAsia.us
+Nat Geo Wild HD,Nat Geo Wild
+National Geographic HD,National Geographic
 NBA TV HD
 NHK WORLD - JAPAN HD
-NHK World Premium HD
+NHK World Premium HD,NHKWorldPremium.jp
 Nick Jr HD,NickJrAsia.sg
 Nickelodeon HD,NickelodeonAsia.sg
 Now Jelli HD,NowJelli.sg
 ONE (Malay),ONE.id
 ONE HD,ONE.id
-Paramount Network
+Paramount Network,ParamountNetwork.id
 Phoenix Chinese Channel HD
 Phoenix InfoNews Channel HD
-Premier Sports
-Preview Channel
+Premier Sports,Premier Sports
+Preview Channel,Preview Channel
 SCM HD,SCM
 SEA Today,SEAToday.id
 Sky News HD,SkyNews
@@ -127,7 +127,7 @@ TVBS-NEWS
 tvN HD,tvN
 Vannathirai,Vannathirai
 Vasantham HD,Vasantham
-Vijay TV
+Vijay TV,VijayTV
 Zee Cinema,ZeeCinema
 Zee Tamil HD,ZeeTami
 Zee Thirai,ZeeThirai
