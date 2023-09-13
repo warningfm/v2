@@ -27,7 +27,7 @@ NHK World Japan,NHKWorldJapan.jp
 Nusantara TV,NusantaraTV.id
 Premier League TV,ChampionsTVEPL.id
 RANS Channel,RANSChannel.id
-Rock Action,RockExtreme.sg
+Rock Action,ROCKAction.id
 RTV,RajawaliTV.id
 SCTV,SCTV.id
 TRANS TV,TransTV.id
