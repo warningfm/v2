@@ -40,7 +40,7 @@ DW (English),DWEnglish.id
 Eat & Go,EatNGo.id
 EBC Asia,EBCAsia.tw
 Euronews,EuronewsEnglish.fr
-FashionTV,FashionTVAsia.fr
+FashionTV,FashionTV.id
 Fight Sport,FightSports.us
 Flik,Flik.id
 Formosa,Formosa.cn
