@@ -11,17 +11,17 @@ AXN HD
 BBC Earth HD
 BBC Lifestyle HD
 BBC World News HD
-beIN SPORTS 2 HD
-beIN Sports 3
-beIN Sports 4 HD
-beIN Sports 5
-beIN SPORTS HD
+beIN SPORTS 2 HD,beIN SPORTS 2
+beIN Sports 3,beIN SPORTS 3
+beIN Sports 4 HD,beIN Sports 4
+beIN Sports 5,beIN Sports 5
+beIN SPORTS HD,beIN Sports
 Bloomberg Quicktake
 Bloomberg Television HD
 Blue Ant Entertainment HD
-Boomerang HD
-Cartoon Network
-Cbeebies HD
+Boomerang HD,Boomerang
+Cartoon Network,Cartoon Network
+Cbeebies HD,Cbeebies
 CCM
 CCTV-4
 Celestial Movies HD
