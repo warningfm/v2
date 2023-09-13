@@ -23,7 +23,7 @@ Boomerang HD,BoomerangAsia.sg
 Cartoon Network,CartoonNetworkAsia.sg
 Cbeebies HD,CBeebiesAsia.uk
 CCM,CCM.hk
-CCTV-4
+CCTV-4,CCTV4Asia.cn
 Celestial Movies HD
 CGTN,CGTN
 Channel 5 HD,Ch 5
@@ -39,7 +39,7 @@ CNBC HD,CNBC
 CNN HD,CNN
 COLORS,COLORS
 COLORS Tamil HD,COLORS Tamil
-Crime + Investigation HD,Crime + Investigation
+Crime + Investigation HD,CrimeInvestigation.id
 CTI TV HD
 CuriosityStream HD
 Dragon TV,Dragon TV
@@ -50,16 +50,16 @@ FashionTV HD,FashionTV HD
 FIGHT SPORTS HD,FightSports.us
 Fox News Channel HD,Fox News Channel
 France24,France24
-GEM HD,GEM
+GEM HD,GEM.id
 GMA Life TV
 GMA Pinoy TV
 HBO Family HD,HBOFamily
 HBO HD,HBO.id
 HBO Hits HD,HBOHits.id
 HBO Signature HD,HBOSignature.id
-HISTORY HD
-Hits HD
-HITS MOVIES HD
+HISTORY HD,History.id
+Hits HD,Hits.sg
+HITS MOVIES HD,HitsMovies.sg
 Hub E City HD
 Hub Premier 10
 Hub Premier 11
@@ -79,15 +79,15 @@ Hub Sports 4 HD
 Hub Sports 5 HD
 Hub VVDrama HD
 HubPremier 1
-Kalaignar TV
+Kalaignar TV,Kalaignar TV
 Karisma,Karisma
 KBS World HD,KBSWorld
 KTV HD,KTV
 Lifetime HD,LifetimeAsia.us
-Nat Geo Wild HD,Nat Geo Wild
-National Geographic HD,National Geographic
-NBA TV HD
-NHK WORLD - JAPAN HD
+Nat Geo Wild HD,NatGeoWild
+National Geographic HD,NationalGeographic
+NBA TV HD,NBA TV
+NHK WORLD - JAPAN HD,NHK WORLD
 NHK World Premium HD,NHKWorldPremium.jp
 Nick Jr HD,NickJrAsia.sg
 Nickelodeon HD,NickelodeonAsia.sg
@@ -95,8 +95,8 @@ Now Jelli HD,NowJelli.sg
 ONE (Malay),ONE.id
 ONE HD,ONE.id
 Paramount Network,ParamountNetwork.id
-Phoenix Chinese Channel HD
-Phoenix InfoNews Channel HD
+Phoenix Chinese Channel HD,Phoenix Chinese Channel
+Phoenix InfoNews Channel HD,Phoenix InfoNews Channel
 Premier Sports,Premier Sports
 Preview Channel,Preview Channel
 SCM HD,SCM
@@ -106,7 +106,7 @@ Sony Entertainment Television,SonyEntertainmentTelevision.sg
 SONY MAX,SonyMax.sg
 SPOTV,SPOTV.id
 SPOTV2,SPOTV2.id
-Star Chinese Channel HD
+Star Chinese Channel HD,Star Chinese Channel
 Sun Music,SunMusic.sg
 Sun TV,SunTV.sg
 Suria HD,Suria
