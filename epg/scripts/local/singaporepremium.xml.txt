@@ -19,9 +19,9 @@ beIN SPORTS HD,beIN Sports 1
 Bloomberg Quicktake,Bloomberg Quicktake
 Bloomberg Television HD,BloombergTVAsia.hk
 Blue Ant Entertainment HD
-Boomerang HD,Boomerang
-Cartoon Network,Cartoon Network
-Cbeebies HD,Cbeebies
+Boomerang HD,BoomerangAsia.sg
+Cartoon Network,CartoonNetworkAsia.sg
+Cbeebies HD,CBeebiesAsia.uk
 CCM,CCM.hk
 CCTV-4
 Celestial Movies HD
