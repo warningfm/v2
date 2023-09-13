@@ -1,7 +1,7 @@
-ABC Australia HD
-ADITHYA TV
-ANC
-Animax HD
+ABC Australia HD,ABCAustralia.au
+ADITHYA TV,ADITHYA TV
+ANC,ANC
+Animax HD,
 Arirang TV HD
 Asia Travel HD
 Asianet
@@ -17,7 +17,7 @@ beIN Sports 4 HD,beIN Sports 4
 beIN Sports 5,beIN Sports 5
 beIN SPORTS HD,beIN Sports
 Bloomberg Quicktake
-Bloomberg Television HD
+Bloomberg Television HD,BloombergTVAsia.hk
 Blue Ant Entertainment HD
 Boomerang HD,Boomerang
 Cartoon Network,Cartoon Network
