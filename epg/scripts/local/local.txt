@@ -27,3 +27,6 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
+
+malaysiapremium2.xml
+https://www.bevy.be/bevyfiles/malaysiapremium2.xml
