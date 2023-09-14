@@ -35,7 +35,7 @@ Discovery Channel,DiscoveryChannel.id
 DW Deutsch,DW Deutsch
 DW English,DW English
 Eternal Word Television Network (EWTN)),ewtn
-Euronews,Euronews.eu
+Euronews,EuronewsEnglish.fr
 Eurosport,Eurosport.eu
 Eurosport HD,Eurosport.eu
 Fashion TV,FashionTV.id
