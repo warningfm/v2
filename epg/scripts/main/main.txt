@@ -49,6 +49,9 @@ https://www.bevy.be/bevyfiles/unitedkingdom.xml
 SamsungTVPlus.xml
 https://i.mjh.nz/SamsungTVPlus/all.xml
 
+PlutoTV.xml
+https://i.mjh.nz/PlutoTV/all.xml
+
 turkeypremium1.xml
 https://www.bevy.be/bevyfiles/turkeypremium1.xml
 
