@@ -25,8 +25,8 @@ https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml
 singaporepremium.xml
 https://www.bevy.be/bevyfiles/singaporepremium.xml
 
-all/epg.xml
-https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5815baf6c48dbd923ae7f495e3031c7d37a751a9/all/epg.xml
+i.mjh.nz.xml
+https://i.mjh.nz/all/epg.xml
 
 china.xml
 https://www.bevy.be/bevyfiles/china.xml
