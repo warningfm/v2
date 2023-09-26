@@ -816,7 +816,7 @@ https://content.jwplatform.com/manifests/Ig0Psrrc.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/yvfUpGV.png?v=1.0.0.1" group-title="Hindi" tvg-id="ZeeBioskop.in" tvg-name="Zee Bioskop", Zee Bioskop
-https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/36Sd3Rt.png?v=1.0.0.1" group-title="Hindi" tvg-id="Sony Max" tvg-name="Sony Max", Sony Max
 http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0gV3Fo.png?v=1.0.0.1" group-title="Hindi" tvg-id="SonyMaxHD" tvg-name="Sony Max HD", Sony Max HD
@@ -856,9 +856,6 @@ http://n02.radiojar.com/u7d8heq3bnzuv
 https://n11.radiojar.com:443/rrqf78p3bnzuv
 
 ########################################################    DENSTV   ########################################################
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png?v=1.1.1.1" group-title="Tes" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sdrwEQf.png?v=1.0.0.1" group-title="Tes" tvg-id="ANTV.id" tvg-name="antv", ANTV
 http://cdn.nng.cloudns.us/m3u8/b630a001384603f.m3u8
