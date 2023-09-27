@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TV9 NU">
+  <channel id="MQTV.id">
+    <display-name lang="id">MQTV</display-name>
+    <icon src="https://images.indihometv.com/logo_mqtv_small1.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="TV9NU.id">
     <display-name lang="id">TV9 NU</display-name>
     <icon src="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13" />
+    <url>http://www.useetv.com</url>
+  </channel>
+  <channel id="MMuhammadiyahTV.id">
+    <display-name lang="id">Muhammadiyah TV</display-name>
+    <icon src="https://images.indihometv.com/logo_muhammadiyahtv_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="Indosiar.id">
@@ -84,104 +94,285 @@
   </channel>
   <channel id="CitraDangdut.id">
     <display-name lang="id">Citra Dangdut</display-name>
-    <icon src="https://images.indihometv.com/logo_citradangdut_ver1.png" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="NusantaraTV.id">
     <display-name lang="id">Nusantara TV</display-name>
-    <icon src="https://images.indihometv.com/logo_nusantaratv_small.png?v=1.1" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="iNews.id">
     <display-name lang="id">iNews</display-name>
     <url>http://www.useetv.com</url>
   </channel>
-  <programme start="20230928000000 +0700" stop="20230928020000 +0700" channel="TV9 NU">
+  <programme start="20230928000000 +0700" stop="20230928010000 +0700" channel="MQTV.id">
+    <title lang="id">Kajian Tauhiid</title>
+  </programme>
+  <programme start="20230928010000 +0700" stop="20230928020000 +0700" channel="MQTV.id">
+    <title lang="id">Ustadz Jaga</title>
+  </programme>
+  <programme start="20230928020000 +0700" stop="20230928030000 +0700" channel="MQTV.id">
+    <title lang="id">Murottal Al Quran 30 Juzz</title>
+  </programme>
+  <programme start="20230928030000 +0700" stop="20230928040000 +0700" channel="MQTV.id">
+    <title lang="id">Menggapai Cinta Allah Buya Yahya</title>
+  </programme>
+  <programme start="20230928040000 +0700" stop="20230928043000 +0700" channel="MQTV.id">
+    <title lang="id">Filler Daarut Tauhiid Peduli</title>
+  </programme>
+  <programme start="20230928043000 +0700" stop="20230928050000 +0700" channel="MQTV.id">
+    <title lang="id">Colour Bar - Murottal Al Quran</title>
+  </programme>
+  <programme start="20230928050000 +0700" stop="20230928060000 +0700" channel="MQTV.id">
+    <title lang="id">Kajian MQ Pagi KH. Abdullah Gymnastiar</title>
+  </programme>
+  <programme start="20230928060000 +0700" stop="20230928070000 +0700" channel="MQTV.id">
+    <title lang="id">Menggapai Cinta Allah Buya Yahya</title>
+  </programme>
+  <programme start="20230928070000 +0700" stop="20230928073000 +0700" channel="MQTV.id">
+    <title lang="id">Ka Amy dan Sahabat</title>
+  </programme>
+  <programme start="20230928073000 +0700" stop="20230928080000 +0700" channel="MQTV.id">
+    <title lang="id">Kopontren Daarut Tauhiid</title>
+  </programme>
+  <programme start="20230928080000 +0700" stop="20230928090000 +0700" channel="MQTV.id">
+    <title lang="id">Difabel Bisa Berkarya</title>
+  </programme>
+  <programme start="20230928090000 +0700" stop="20230928100000 +0700" channel="MQTV.id">
+    <title lang="id">Ustadz Jaga</title>
+  </programme>
+  <programme start="20230928000000 +0700" stop="20230928020000 +0700" channel="TV9NU.id">
     <title lang="id">Shallu Riyadhul Jannah</title>
   </programme>
-  <programme start="20230928020000 +0700" stop="20230928030000 +0700" channel="TV9 NU">
+  <programme start="20230928020000 +0700" stop="20230928030000 +0700" channel="TV9NU.id">
     <title lang="id">Umi Kultsum</title>
   </programme>
-  <programme start="20230928030000 +0700" stop="20230928040000 +0700" channel="TV9 NU">
+  <programme start="20230928030000 +0700" stop="20230928040000 +0700" channel="TV9NU.id">
     <title lang="id">Kiswah Gus Ulil Absar Abdallah</title>
   </programme>
-  <programme start="20230928040000 +0700" stop="20230928050000 +0700" channel="TV9 NU">
+  <programme start="20230928040000 +0700" stop="20230928050000 +0700" channel="TV9NU.id">
     <title lang="id">QurAn Tazkiah</title>
   </programme>
-  <programme start="20230928050000 +0700" stop="20230928060000 +0700" channel="TV9 NU">
+  <programme start="20230928050000 +0700" stop="20230928060000 +0700" channel="TV9NU.id">
     <title lang="id">Kiswah Kh Abdul Matin Jawahir</title>
   </programme>
-  <programme start="20230928060000 +0700" stop="20230928063000 +0700" channel="TV9 NU">
+  <programme start="20230928060000 +0700" stop="20230928063000 +0700" channel="TV9NU.id">
     <title lang="id">Aswaja Spot</title>
   </programme>
-  <programme start="20230928063000 +0700" stop="20230928070000 +0700" channel="TV9 NU">
+  <programme start="20230928063000 +0700" stop="20230928070000 +0700" channel="TV9NU.id">
     <title lang="id">Musik Religi</title>
   </programme>
-  <programme start="20230928070000 +0700" stop="20230928073000 +0700" channel="TV9 NU">
+  <programme start="20230928070000 +0700" stop="20230928073000 +0700" channel="TV9NU.id">
     <title lang="id">Wisata Religi</title>
   </programme>
-  <programme start="20230928073000 +0700" stop="20230928080000 +0700" channel="TV9 NU">
+  <programme start="20230928073000 +0700" stop="20230928080000 +0700" channel="TV9NU.id">
     <title lang="id">Jatim Vacation</title>
   </programme>
-  <programme start="20230928080000 +0700" stop="20230928090000 +0700" channel="TV9 NU">
+  <programme start="20230928080000 +0700" stop="20230928090000 +0700" channel="TV9NU.id">
     <title lang="id">Kiswah Female Bunyai Durotun Nafisah</title>
   </programme>
-  <programme start="20230928090000 +0700" stop="20230928100000 +0700" channel="TV9 NU">
+  <programme start="20230928090000 +0700" stop="20230928100000 +0700" channel="TV9NU.id">
     <title lang="id">Podcast Rumah Cerita</title>
   </programme>
-  <programme start="20230928100000 +0700" stop="20230928110000 +0700" channel="TV9 NU">
+  <programme start="20230928100000 +0700" stop="20230928110000 +0700" channel="TV9NU.id">
     <title lang="id">Sinema Religi Nabi Yusuf</title>
   </programme>
-  <programme start="20230928110000 +0700" stop="20230928113000 +0700" channel="TV9 NU">
+  <programme start="20230928110000 +0700" stop="20230928113000 +0700" channel="TV9NU.id">
     <title lang="id">Tadarus Al-Quran</title>
   </programme>
-  <programme start="20230928113000 +0700" stop="20230928120000 +0700" channel="TV9 NU">
+  <programme start="20230928113000 +0700" stop="20230928120000 +0700" channel="TV9NU.id">
     <title lang="id">Susur Budaya</title>
   </programme>
-  <programme start="20230928120000 +0700" stop="20230928130000 +0700" channel="TV9 NU">
+  <programme start="20230928120000 +0700" stop="20230928130000 +0700" channel="TV9NU.id">
     <title lang="id">Jurnal9 Siang</title>
   </programme>
-  <programme start="20230928130000 +0700" stop="20230928140000 +0700" channel="TV9 NU">
+  <programme start="20230928130000 +0700" stop="20230928140000 +0700" channel="TV9NU.id">
     <title lang="id">Kiswah Gus Ulil Absar Abdallah</title>
   </programme>
-  <programme start="20230928140000 +0700" stop="20230928143000 +0700" channel="TV9 NU">
+  <programme start="20230928140000 +0700" stop="20230928143000 +0700" channel="TV9NU.id">
     <title lang="id">Kita Wayang Kita</title>
   </programme>
-  <programme start="20230928143000 +0700" stop="20230928150000 +0700" channel="TV9 NU">
+  <programme start="20230928143000 +0700" stop="20230928150000 +0700" channel="TV9NU.id">
     <title lang="id">Panggung Musikal Indonesia</title>
   </programme>
-  <programme start="20230928150000 +0700" stop="20230928160000 +0700" channel="TV9 NU">
+  <programme start="20230928150000 +0700" stop="20230928160000 +0700" channel="TV9NU.id">
     <title lang="id">Animasi Dragon Warior</title>
   </programme>
-  <programme start="20230928160000 +0700" stop="20230928163000 +0700" channel="TV9 NU">
+  <programme start="20230928160000 +0700" stop="20230928163000 +0700" channel="TV9NU.id">
     <title lang="id">Blocking Time Solusi Kesehatan</title>
   </programme>
-  <programme start="20230928163000 +0700" stop="20230928173000 +0700" channel="TV9 NU">
+  <programme start="20230928163000 +0700" stop="20230928173000 +0700" channel="TV9NU.id">
     <title lang="id">Kiswah Sore</title>
   </programme>
-  <programme start="20230928173000 +0700" stop="20230928180000 +0700" channel="TV9 NU">
+  <programme start="20230928173000 +0700" stop="20230928180000 +0700" channel="TV9NU.id">
     <title lang="id">Blocking Time Healtik</title>
   </programme>
-  <programme start="20230928180000 +0700" stop="20230928190000 +0700" channel="TV9 NU">
+  <programme start="20230928180000 +0700" stop="20230928190000 +0700" channel="TV9NU.id">
     <title lang="id">Jurnal9 Petang</title>
   </programme>
-  <programme start="20230928190000 +0700" stop="20230928193000 +0700" channel="TV9 NU">
+  <programme start="20230928190000 +0700" stop="20230928193000 +0700" channel="TV9NU.id">
     <title lang="id">Drama Indonesia</title>
   </programme>
-  <programme start="20230928193000 +0700" stop="20230928200000 +0700" channel="TV9 NU">
+  <programme start="20230928193000 +0700" stop="20230928200000 +0700" channel="TV9NU.id">
     <title lang="id">Jatim Vacation</title>
   </programme>
-  <programme start="20230928200000 +0700" stop="20230928220000 +0700" channel="TV9 NU">
+  <programme start="20230928200000 +0700" stop="20230928220000 +0700" channel="TV9NU.id">
     <title lang="id">Shallu Alan Nabi</title>
   </programme>
-  <programme start="20230928220000 +0700" stop="20230928223000 +0700" channel="TV9 NU">
+  <programme start="20230928220000 +0700" stop="20230928223000 +0700" channel="TV9NU.id">
     <title lang="id">Wisata Religi</title>
   </programme>
-  <programme start="20230928223000 +0700" stop="20230928230000 +0700" channel="TV9 NU">
+  <programme start="20230928223000 +0700" stop="20230928230000 +0700" channel="TV9NU.id">
     <title lang="id">Blocking Time Vitmen</title>
   </programme>
-  <programme start="20230928230000 +0700" stop="20230929000000 +0700" channel="TV9 NU">
+  <programme start="20230928230000 +0700" stop="20230929000000 +0700" channel="TV9NU.id">
     <title lang="id">Kiswah Inmemoriam Kh Maimoen Zubair</title>
+  </programme>
+  <programme start="20230928000000 +0700" stop="20230928010000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20230928010000 +0700" stop="20230928020000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20230928020000 +0700" stop="20230928030000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20230928030000 +0700" stop="20230928040000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20230928040000 +0700" stop="20230928044500 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20230928044500 +0700" stop="20230928050000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Opening</title>
+  </programme>
+  <programme start="20230928050000 +0700" stop="20230928051500 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Paham Muhammadiyah</title>
+  </programme>
+  <programme start="20230928051500 +0700" stop="20230928063000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Gerakan Subuh Mengaji</title>
+  </programme>
+  <programme start="20230928063000 +0700" stop="20230928073000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Berita tvMu</title>
+  </programme>
+  <programme start="20230928073000 +0700" stop="20230928080000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Zona Musik Religi</title>
+  </programme>
+  <programme start="20230928080000 +0700" stop="20230928083000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Belajar Tahsin Metode Azka</title>
+  </programme>
+  <programme start="20230928083000 +0700" stop="20230928090000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Waktu Indonesia Belajar</title>
+  </programme>
+  <programme start="20230928090000 +0700" stop="20230928093000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Waktu Indonesia Belajar</title>
+  </programme>
+  <programme start="20230928093000 +0700" stop="20230928100000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Tuntunan Akhir Zaman</title>
+  </programme>
+  <programme start="20230928100000 +0700" stop="20230928110000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Podcast TV Show</title>
+  </programme>
+  <programme start="20230928110000 +0700" stop="20230928113000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Mimbar At-Tanwir</title>
+  </programme>
+  <programme start="20230928113000 +0700" stop="20230928120000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Netizen Bertanya Ustadz Menjawab</title>
+  </programme>
+  <programme start="20230928120000 +0700" stop="20230928130000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Berita tvMu</title>
+  </programme>
+  <programme start="20230928130000 +0700" stop="20230928133000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Zona Musik Religi</title>
+  </programme>
+  <programme start="20230928133000 +0700" stop="20230928140000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Tuntunan Akhir Zaman</title>
+  </programme>
+  <programme start="20230928140000 +0700" stop="20230928143000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Waktu Indonesia Belajar</title>
+  </programme>
+  <programme start="20230928143000 +0700" stop="20230928150000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Waktu Indonesia Belajar</title>
+  </programme>
+  <programme start="20230928150000 +0700" stop="20230928153000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Masjidil Haram</title>
+  </programme>
+  <programme start="20230928153000 +0700" stop="20230928160000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Zona Musik Religi</title>
+  </programme>
+  <programme start="20230928160000 +0700" stop="20230928170000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Gerakan Subuh Mengaji</title>
+  </programme>
+  <programme start="20230928170000 +0700" stop="20230928180000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Berita tvMu</title>
+  </programme>
+  <programme start="20230928180000 +0700" stop="20230928183000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Belajar Tahsin Metode Azka</title>
+  </programme>
+  <programme start="20230928183000 +0700" stop="20230928190000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Tuntunan Akhir Zaman</title>
+  </programme>
+  <programme start="20230928190000 +0700" stop="20230928200000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Podcast TV Show</title>
+  </programme>
+  <programme start="20230928200000 +0700" stop="20230928203000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Netizen Bertanya Ustadz Menjawab</title>
+  </programme>
+  <programme start="20230928203000 +0700" stop="20230928210000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Mimbar At-Tanwir</title>
+  </programme>
+  <programme start="20230928210000 +0700" stop="20230928223000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Berita tvMu</title>
+  </programme>
+  <programme start="20230928223000 +0700" stop="20230928230000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20230928230000 +0700" stop="20230929000000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Sign Off</title>
+  </programme>
+  <programme start="20230928010000 +0700" stop="20230928023000 +0700" channel="Indosiar.id">
+    <title lang="id">Mega Film Asia</title>
+  </programme>
+  <programme start="20230928023000 +0700" stop="20230928040000 +0700" channel="Indosiar.id">
+    <title lang="id">Mega Film Asia</title>
+  </programme>
+  <programme start="20230928040000 +0700" stop="20230928043000 +0700" channel="Indosiar.id">
+    <title lang="id">Patroli Malam</title>
+  </programme>
+  <programme start="20230928043000 +0700" stop="20230928060000 +0700" channel="Indosiar.id">
+    <title lang="id">Fokus Pagi</title>
+  </programme>
+  <programme start="20230928060000 +0700" stop="20230928080000 +0700" channel="Indosiar.id">
+    <title lang="id">Magic 5</title>
+  </programme>
+  <programme start="20230928080000 +0700" stop="20230928100000 +0700" channel="Indosiar.id">
+    <title lang="id">Pintu Berkah Pagi</title>
+  </programme>
+  <programme start="20230928100000 +0700" stop="20230928110000 +0700" channel="Indosiar.id">
+    <title lang="id">Hot Kiss</title>
+  </programme>
+  <programme start="20230928110000 +0700" stop="20230928113000 +0700" channel="Indosiar.id">
+    <title lang="id">Patroli Siang</title>
+  </programme>
+  <programme start="20230928113000 +0700" stop="20230928120000 +0700" channel="Indosiar.id">
+    <title lang="id">Fokus Siang</title>
+  </programme>
+  <programme start="20230928120000 +0700" stop="20230928140000 +0700" channel="Indosiar.id">
+    <title lang="id">Kisah Nyata</title>
+  </programme>
+  <programme start="20230928140000 +0700" stop="20230928160000 +0700" channel="Indosiar.id">
+    <title lang="id">Pintu Berkah</title>
+  </programme>
+  <programme start="20230928160000 +0700" stop="20230928180000 +0700" channel="Indosiar.id">
+    <title lang="id">Pintu Berkah Sore</title>
+  </programme>
+  <programme start="20230928180000 +0700" stop="20230928200000 +0700" channel="Indosiar.id">
+    <title lang="id">Magic 5</title>
+  </programme>
+  <programme start="20230928200000 +0700" stop="20230928223000 +0700" channel="Indosiar.id">
+    <title lang="id">Mega Film Asia</title>
+  </programme>
+  <programme start="20230928223000 +0700" stop="20230929010000 +0700" channel="Indosiar.id">
+    <title lang="id">Mega Film Asia</title>
   </programme>
   <programme start="20230928000000 +0700" stop="20230928003000 +0700" channel="KompasTV.id">
     <title lang="id">Kompas Sport Malam</title>
@@ -882,9 +1073,6 @@
   <programme start="20230928220000 +0700" stop="20230929010000 +0700" channel="ANTV.id">
     <title lang="en">Dhoom</title>
   </programme>
-  <programme start="20230928010000 +0700" stop="20230928013000 +0700" channel="TVOne.id">
-    <title lang="en">Kabar Hari Ini</title>
-  </programme>
   <programme start="20230928013000 +0700" stop="20230928030000 +0700" channel="TVOne.id">
     <title lang="en">Kabar Petang</title>
   </programme>
@@ -954,9 +1142,6 @@
   <programme start="20230928233000 +0700" stop="20230929000000 +0700" channel="TVOne.id">
     <title lang="en">Kabar Arena Malam</title>
   </programme>
-  <programme start="20230928010000 +0700" stop="20230928013000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Terang Kasih</title>
-  </programme>
   <programme start="20230928013000 +0700" stop="20230928030000 +0700" channel="RajawaliTV.id">
     <title lang="en">Gajah Mada</title>
   </programme>
@@ -1010,9 +1195,6 @@
   </programme>
   <programme start="20230928233000 +0700" stop="20230929000000 +0700" channel="RajawaliTV.id">
     <title lang="en">Pendekar Langit Dan Bumi</title>
-  </programme>
-  <programme start="20230928010000 +0700" stop="20230928013000 +0700" channel="MentariTV.id">
-    <title lang="en">Bondi Vet</title>
   </programme>
   <programme start="20230928013000 +0700" stop="20230928023000 +0700" channel="MentariTV.id">
     <title lang="en">Vet On The Hill</title>
@@ -1115,9 +1297,6 @@
   </programme>
   <programme start="20230928230000 +0700" stop="20230929000000 +0700" channel="MentariTV.id">
     <title lang="en">Madun</title>
-  </programme>
-  <programme start="20230928010000 +0700" stop="20230928010500 +0700" channel="ElshintaTV.id">
-    <title lang="en">Lagu : Tanah Airku</title>
   </programme>
   <programme start="20230928010500 +0700" stop="20230928011500 +0700" channel="ElshintaTV.id">
     <title lang="en">Bumper Still : Kami Akan Kembali Pukul</title>
@@ -1517,212 +1696,5 @@
   </programme>
   <programme start="20230928230300 +0700" stop="20230929000000 +0700" channel="JTV.id">
     <title lang="id">Napak Tilas</title>
-  </programme>
-  <programme start="20230928003000 +0700" stop="20230928023000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Bintang Pantura 6 - Eps. 19</title>
-  </programme>
-  <programme start="20230928023000 +0700" stop="20230928043000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy 5 - Eps. 5</title>
-  </programme>
-  <programme start="20230928043000 +0700" stop="20230928050000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230928050000 +0700" stop="20230928070000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy Asia 4 - Eps. 26</title>
-  </programme>
-  <programme start="20230928070000 +0700" stop="20230928073000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230928073000 +0700" stop="20230928083000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Cinta Karena Cinta - Eps. 81</title>
-  </programme>
-  <programme start="20230928083000 +0700" stop="20230928103000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Bintang Pantura 6 - Eps. 19</title>
-  </programme>
-  <programme start="20230928103000 +0700" stop="20230928123000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy 5 - Eps. 5</title>
-  </programme>
-  <programme start="20230928123000 +0700" stop="20230928130000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230928130000 +0700" stop="20230928150000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy Asia 4 - Eps. 26</title>
-  </programme>
-  <programme start="20230928150000 +0700" stop="20230928153000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230928153000 +0700" stop="20230928163000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Cinta Karena Cinta - Eps. 82</title>
-  </programme>
-  <programme start="20230928163000 +0700" stop="20230928183000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Bintang Pantura 6 - Eps. 20</title>
-  </programme>
-  <programme start="20230928183000 +0700" stop="20230928203000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy 5 - Eps. 6</title>
-  </programme>
-  <programme start="20230928203000 +0700" stop="20230928210000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230928210000 +0700" stop="20230928230000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy Asia 4 - Eps. 27</title>
-  </programme>
-  <programme start="20230928230000 +0700" stop="20230928233000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230928233000 +0700" stop="20230929003000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Cinta Karena Cinta - Eps. 82</title>
-  </programme>
-  <programme start="20230928000000 +0700" stop="20230928003000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Block Movie - Cheating Fate</title>
-  </programme>
-  <programme start="20230928003000 +0700" stop="20230928010000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Block Movie - Cheating Fate</title>
-  </programme>
-  <programme start="20230928010000 +0700" stop="20230928013000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Block Movie - Cheating Fate</title>
-  </programme>
-  <programme start="20230928013000 +0700" stop="20230928020000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Block Movie - Cheating Fate</title>
-  </programme>
-  <programme start="20230928020000 +0700" stop="20230928023000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Zona Islam</title>
-  </programme>
-  <programme start="20230928023000 +0700" stop="20230928030000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Soundcore</title>
-  </programme>
-  <programme start="20230928030000 +0700" stop="20230928033000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Soundcore</title>
-  </programme>
-  <programme start="20230928033000 +0700" stop="20230928040000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Kisah - Kisah Masjid Tua</title>
-  </programme>
-  <programme start="20230928040000 +0700" stop="20230928043000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Zona Islam</title>
-  </programme>
-  <programme start="20230928043000 +0700" stop="20230928050000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Ashop Matras Dana Bio Sun 3S</title>
-  </programme>
-  <programme start="20230928050000 +0700" stop="20230928053000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Ashop Matras Dana Bio Sun 3S</title>
-  </programme>
-  <programme start="20230928053000 +0700" stop="20230928060000 +0700" channel="NusantaraTV.id">
-    <title lang="id">World In 30 Minutes</title>
-  </programme>
-  <programme start="20230928060000 +0700" stop="20230928063000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Pagi</title>
-  </programme>
-  <programme start="20230928063000 +0700" stop="20230928070000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Kartunika</title>
-  </programme>
-  <programme start="20230928070000 +0700" stop="20230928073000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Classic Cartoon</title>
-  </programme>
-  <programme start="20230928073000 +0700" stop="20230928080000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Classic Cartoon</title>
-  </programme>
-  <programme start="20230928080000 +0700" stop="20230928083000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Ashop Gilmore</title>
-  </programme>
-  <programme start="20230928083000 +0700" stop="20230928090000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Ashop Gilmore</title>
-  </programme>
-  <programme start="20230928090000 +0700" stop="20230928093000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Jelajah Rasa</title>
-  </programme>
-  <programme start="20230928093000 +0700" stop="20230928100000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928100000 +0700" stop="20230928100200 +0700" channel="NusantaraTV.id">
-    <title lang="id">Sekilas Nusantara</title>
-  </programme>
-  <programme start="20230928100200 +0700" stop="20230928103000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928103000 +0700" stop="20230928110000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Ftv Acffest Kpk</title>
-  </programme>
-  <programme start="20230928110000 +0700" stop="20230928113000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Siang</title>
-  </programme>
-  <programme start="20230928113000 +0700" stop="20230928120000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Siang</title>
-  </programme>
-  <programme start="20230928120000 +0700" stop="20230928123000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Soundcore</title>
-  </programme>
-  <programme start="20230928123000 +0700" stop="20230928130000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Soundcore</title>
-  </programme>
-  <programme start="20230928130000 +0700" stop="20230928133000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928133000 +0700" stop="20230928140000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928140000 +0700" stop="20230928140200 +0700" channel="NusantaraTV.id">
-    <title lang="id">Sekilas Nusantara</title>
-  </programme>
-  <programme start="20230928140200 +0700" stop="20230928143000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928143000 +0700" stop="20230928150000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928150000 +0700" stop="20230928153000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Classic Cartoon</title>
-  </programme>
-  <programme start="20230928153000 +0700" stop="20230928160000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Kartunika</title>
-  </programme>
-  <programme start="20230928160000 +0700" stop="20230928163000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928163000 +0700" stop="20230928170000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928170000 +0700" stop="20230928173000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Up To Date Yuk</title>
-  </programme>
-  <programme start="20230928173000 +0700" stop="20230928180000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Petang</title>
-  </programme>
-  <programme start="20230928180000 +0700" stop="20230928183000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Petang</title>
-  </programme>
-  <programme start="20230928183000 +0700" stop="20230928190000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928190000 +0700" stop="20230928193000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928193000 +0700" stop="20230928200000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Kok Bisa Viral</title>
-  </programme>
-  <programme start="20230928200000 +0700" stop="20230928200200 +0700" channel="NusantaraTV.id">
-    <title lang="id">Sekilas Nusantara</title>
-  </programme>
-  <programme start="20230928200200 +0700" stop="20230928203000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Kok Bisa Viral</title>
-  </programme>
-  <programme start="20230928203000 +0700" stop="20230928210000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928210000 +0700" stop="20230928213000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
-  </programme>
-  <programme start="20230928213000 +0700" stop="20230928220000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Mata Dunia</title>
-  </programme>
-  <programme start="20230928220000 +0700" stop="20230928223000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Malam</title>
-  </programme>
-  <programme start="20230928223000 +0700" stop="20230928230000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Editor Choice</title>
-  </programme>
-  <programme start="20230928230000 +0700" stop="20230928233000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Apa Kata Dunia</title>
-  </programme>
-  <programme start="20230928233000 +0700" stop="20230929000000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Ntv Sport</title>
   </programme>
 </tv>
