@@ -23,7 +23,7 @@
 <channel id="CitraMuslim.id"><display-name>Citra Muslim</display-name><url>https://vidio.com</url></channel>
 <channel id="DAAITV.id"><display-name>Da Ai TV</display-name><url>https://vidio.com</url></channel>
 <channel id="DWEnglish.de"><display-name>DW English</display-name><url>https://vidio.com</url></channel>
-<channel id="DaVinciAsia.de"><display-name>Da Vinci Asia</display-name><url>https://vidio.com</url></channel>
+<channel id="DaVinciAsia.de"><display-name>Da Vinci Learning</display-name><url>https://vidio.com</url></channel>
 <channel id="EuronewsEnglish.fr"><display-name>EuroNews English</display-name><url>https://vidio.com</url></channel>
 <channel id="FashionTVAsia.fr"><display-name>Fashion TV Asia</display-name><url>https://vidio.com</url></channel>
 <channel id="FashionTVLOriginal.fr"><display-name>Fashion TV L&apos;Original</display-name><url>https://vidio.com</url></channel>
@@ -96,30 +96,31 @@
 <programme start="20230928163000 +0000" stop="20230928170000 +0000" channel="ABCNewsAustralia.au"><title lang="id">ABC News Overnight</title></programme>
 <programme start="20230928170000 +0000" stop="20230928180000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Drum</title></programme>
 <programme start="20230928180000 +0000" stop="20230928183000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20230928183000 +0000" stop="20230928190000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Drum</title></programme>
-<programme start="20230928190000 +0000" stop="20230928200000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Gardening Australia</title></programme>
-<programme start="20230928200000 +0000" stop="20230928230000 +0000" channel="ABCNewsAustralia.au"><title lang="id">News Breakfast: Early</title></programme>
-<programme start="20230928230000 +0000" stop="20230929020000 +0000" channel="ABCNewsAustralia.au"><title lang="id">ABC News Mornings</title></programme>
-<programme start="20230929020000 +0000" stop="20230929030000 +0000" channel="ABCNewsAustralia.au"><title lang="id">ABC News At Noon</title></programme>
-<programme start="20230929030000 +0000" stop="20230929040000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Gardening Australia</title></programme>
-<programme start="20230929040000 +0000" stop="20230929050000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Australia Remastered: Wild Treasures</title></programme>
-<programme start="20230929050000 +0000" stop="20230929053000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Food Safari Water</title></programme>
-<programme start="20230929053000 +0000" stop="20230929060000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Pacific</title></programme>
-<programme start="20230929060000 +0000" stop="20230929080000 +0000" channel="ABCNewsAustralia.au"><title lang="id">AFLW</title></programme>
-<programme start="20230929080000 +0000" stop="20230929090000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Drum</title></programme>
-<programme start="20230929090000 +0000" stop="20230929110000 +0000" channel="ABCNewsAustralia.au"><title lang="id">AFLW</title></programme>
-<programme start="20230929110000 +0000" stop="20230929114500 +0000" channel="ABCNewsAustralia.au"><title lang="id">Planet America&apos;s Fireside Chat</title></programme>
-<programme start="20230929114500 +0000" stop="20230929120000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Voice Referendum Explained</title></programme>
-<programme start="20230929120000 +0000" stop="20230929123000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20230929123000 +0000" stop="20230929130000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World This Week</title></programme>
-<programme start="20230929130000 +0000" stop="20230929133000 +0000" channel="ABCNewsAustralia.au"><title lang="id">First Weapons</title></programme>
-<programme start="20230929133000 +0000" stop="20230929143000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Parkinson in Australia</title></programme>
-<programme start="20230929143000 +0000" stop="20230929145000 +0000" channel="ABCNewsAustralia.au"><title lang="id">ABC Late News</title></programme>
-<programme start="20230929145000 +0000" stop="20230929151500 +0000" channel="ABCNewsAustralia.au"><title lang="id">Close Of Business</title></programme>
-<programme start="20230929151500 +0000" stop="20230929154500 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Pacific</title></programme>
-<programme start="20230929154500 +0000" stop="20230929161500 +0000" channel="ABCNewsAustralia.au"><title lang="id">That Pacific Sports Show</title></programme>
-<programme start="20230929161500 +0000" stop="20230929164500 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20230929164500 +0000" stop="20230929171500 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World This Week</title></programme>
+<programme start="20230928183000 +0000" stop="20230928191000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Drum</title></programme>
+<programme start="20230928191000 +0000" stop="20230928201000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Gardening Australia</title></programme>
+<programme start="20230928201000 +0000" stop="20230928231000 +0000" channel="ABCNewsAustralia.au"><title lang="id">News Breakfast</title></programme>
+<programme start="20230928231000 +0000" stop="20230929021000 +0000" channel="ABCNewsAustralia.au"><title lang="id">ABC News Mornings</title></programme>
+<programme start="20230929021000 +0000" stop="20230929031000 +0000" channel="ABCNewsAustralia.au"><title lang="id">ABC News At Noon</title></programme>
+<programme start="20230929031000 +0000" stop="20230929041000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Gardening Australia</title></programme>
+<programme start="20230929041000 +0000" stop="20230929050500 +0000" channel="ABCNewsAustralia.au"><title lang="id">Australia Remastered: Ancient Forests</title></programme>
+<programme start="20230929050500 +0000" stop="20230929051000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Belonging(s)</title></programme>
+<programme start="20230929051000 +0000" stop="20230929054000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Food Safari Water</title></programme>
+<programme start="20230929054000 +0000" stop="20230929061000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Pacific</title></programme>
+<programme start="20230929061000 +0000" stop="20230929081000 +0000" channel="ABCNewsAustralia.au"><title lang="id">AFLW</title></programme>
+<programme start="20230929081000 +0000" stop="20230929091000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Drum</title></programme>
+<programme start="20230929091000 +0000" stop="20230929111000 +0000" channel="ABCNewsAustralia.au"><title lang="id">AFLW</title></programme>
+<programme start="20230929111000 +0000" stop="20230929115500 +0000" channel="ABCNewsAustralia.au"><title lang="id">Planet America&apos;s Fireside Chat</title></programme>
+<programme start="20230929115500 +0000" stop="20230929121000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Voice Referendum Explained</title></programme>
+<programme start="20230929121000 +0000" stop="20230929124000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World</title></programme>
+<programme start="20230929124000 +0000" stop="20230929131000 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World This Week</title></programme>
+<programme start="20230929131000 +0000" stop="20230929134000 +0000" channel="ABCNewsAustralia.au"><title lang="id">First Weapons</title></programme>
+<programme start="20230929134000 +0000" stop="20230929144000 +0000" channel="ABCNewsAustralia.au"><title lang="id">Parkinson in Australia</title></programme>
+<programme start="20230929144000 +0000" stop="20230929150000 +0000" channel="ABCNewsAustralia.au"><title lang="id">ABC Late News</title></programme>
+<programme start="20230929150000 +0000" stop="20230929152500 +0000" channel="ABCNewsAustralia.au"><title lang="id">Close Of Business</title></programme>
+<programme start="20230929152500 +0000" stop="20230929155500 +0000" channel="ABCNewsAustralia.au"><title lang="id">The Pacific</title></programme>
+<programme start="20230929155500 +0000" stop="20230929162500 +0000" channel="ABCNewsAustralia.au"><title lang="id">That Pacific Sports Show</title></programme>
+<programme start="20230929162500 +0000" stop="20230929165500 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World</title></programme>
+<programme start="20230929165500 +0000" stop="20230929172500 +0000" channel="ABCNewsAustralia.au"><title lang="id">The World This Week</title></programme>
 <programme start="20230927183000 +0000" stop="20230927190000 +0000" channel="ANTV.id"><title lang="id">AB Shopping Home</title></programme>
 <programme start="20230927190000 +0000" stop="20230927203000 +0000" channel="ANTV.id"><title lang="id">Kesempatan Keduda</title></programme>
 <programme start="20230927203000 +0000" stop="20230927210000 +0000" channel="ANTV.id"><title lang="id">Inayah</title></programme>
@@ -991,6 +992,78 @@
 <programme start="20230928160000 +0000" stop="20230928161500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
 <programme start="20230928161500 +0000" stop="20230928163000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
 <programme start="20230928163000 +0000" stop="20230928170000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230928170000 +0000" stop="20230928171500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928171500 +0000" stop="20230928173000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928173000 +0000" stop="20230928180000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928180000 +0000" stop="20230928181500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928181500 +0000" stop="20230928190000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928190000 +0000" stop="20230928191500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928191500 +0000" stop="20230928193000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928193000 +0000" stop="20230928194600 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928194600 +0000" stop="20230928200000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Witness</title></programme>
+<programme start="20230928200000 +0000" stop="20230928201500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928201500 +0000" stop="20230928203000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928203000 +0000" stop="20230928210000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928210000 +0000" stop="20230928211500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928211500 +0000" stop="20230928213000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928213000 +0000" stop="20230928220000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928220000 +0000" stop="20230928221500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928221500 +0000" stop="20230928223000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928223000 +0000" stop="20230928230000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928230000 +0000" stop="20230928231500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928231500 +0000" stop="20230928233000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230928233000 +0000" stop="20230929000000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929000000 +0000" stop="20230929001500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929001500 +0000" stop="20230929003000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929003000 +0000" stop="20230929010000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929010000 +0000" stop="20230929011500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929011500 +0000" stop="20230929013000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929013000 +0000" stop="20230929020000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929020000 +0000" stop="20230929021500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929021500 +0000" stop="20230929023000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929023000 +0000" stop="20230929030000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929030000 +0000" stop="20230929031500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929031500 +0000" stop="20230929033000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929033000 +0000" stop="20230929040000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929040000 +0000" stop="20230929041500 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929041500 +0000" stop="20230929043000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929043000 +0000" stop="20230929050000 +0000" channel="EuronewsEnglish.fr"><title lang="id">The European Debrief</title></programme>
+<programme start="20230929050000 +0000" stop="20230929051500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929051500 +0000" stop="20230929053000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929053000 +0000" stop="20230929060000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929060000 +0000" stop="20230929061500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929061500 +0000" stop="20230929063000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929063000 +0000" stop="20230929070000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929070000 +0000" stop="20230929071500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929071500 +0000" stop="20230929073000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929073000 +0000" stop="20230929080000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929080000 +0000" stop="20230929081500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929081500 +0000" stop="20230929083000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929083000 +0000" stop="20230929090000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929090000 +0000" stop="20230929091500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929091500 +0000" stop="20230929093000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929093000 +0000" stop="20230929100000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Wake Up Europe</title></programme>
+<programme start="20230929100000 +0000" stop="20230929101500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929101500 +0000" stop="20230929103000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929103000 +0000" stop="20230929110000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929110000 +0000" stop="20230929111500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929111500 +0000" stop="20230929113000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929113000 +0000" stop="20230929120000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929120000 +0000" stop="20230929121500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929121500 +0000" stop="20230929123000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929123000 +0000" stop="20230929130000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929130000 +0000" stop="20230929131500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929131500 +0000" stop="20230929133000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929133000 +0000" stop="20230929140000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929140000 +0000" stop="20230929141500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929141500 +0000" stop="20230929143000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929143000 +0000" stop="20230929150000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929150000 +0000" stop="20230929151500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929151500 +0000" stop="20230929153000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929153000 +0000" stop="20230929160000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929160000 +0000" stop="20230929161500 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929161500 +0000" stop="20230929163000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
+<programme start="20230929163000 +0000" stop="20230929170000 +0000" channel="EuronewsEnglish.fr"><title lang="id">Euronews Now</title></programme>
 <programme start="20230927170000 +0000" stop="20230927173000 +0000" channel="FashionTVAsia.fr"><title lang="id">Fashion Magazine</title></programme>
 <programme start="20230927173000 +0000" stop="20230927180000 +0000" channel="FashionTVAsia.fr"><title lang="id">Top Photoshoots</title></programme>
 <programme start="20230927180000 +0000" stop="20230927183000 +0000" channel="FashionTVAsia.fr"><title lang="id">Top Photoshoots</title></programme>
@@ -2520,11 +2593,11 @@
 <programme start="20230929030000 +0000" stop="20230929050000 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Pagi</title></programme>
 <programme start="20230929050000 +0000" stop="20230929053000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Siang Live</title></programme>
 <programme start="20230929053000 +0000" stop="20230929073000 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Siang</title></programme>
-<programme start="20230929073000 +0000" stop="20230929093000 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Sore</title></programme>
-<programme start="20230929093000 +0000" stop="20230929110000 +0000" channel="SCTV.id"><title lang="id">SCTV Sinetron</title></programme>
-<programme start="20230929110000 +0000" stop="20230929124500 +0000" channel="SCTV.id"><title lang="id">SCTV Sinetron</title></programme>
-<programme start="20230929124500 +0000" stop="20230929141500 +0000" channel="SCTV.id"><title lang="id">SCTV Sinetron</title></programme>
-<programme start="20230929141500 +0000" stop="20230929160000 +0000" channel="SCTV.id"><title lang="id">SCTV Sinetron</title></programme>
+<programme start="20230929073000 +0000" stop="20230929094500 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Sore</title></programme>
+<programme start="20230929094500 +0000" stop="20230929110000 +0000" channel="SCTV.id"><title lang="id">Satu Cinta Dua Hati</title></programme>
+<programme start="20230929111500 +0000" stop="20230929124000 +0000" channel="SCTV.id"><title lang="id">Bidadari Surgamu</title></programme>
+<programme start="20230929124000 +0000" stop="20230929140500 +0000" channel="SCTV.id"><title lang="id">Takdir Cinta Yang Kupilih</title></programme>
+<programme start="20230929140500 +0000" stop="20230929160000 +0000" channel="SCTV.id"><title lang="id">Cinta Setelah Cinta</title></programme>
 <programme start="20230929160000 +0000" stop="20230929173000 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Prime Time</title></programme>
 <programme start="20230927170000 +0000" stop="20230927173000 +0000" channel="SEAToday.id"><title lang="id">The Animal Library</title></programme>
 <programme start="20230927173000 +0000" stop="20230927180000 +0000" channel="SEAToday.id"><title lang="id">The Snake Master</title></programme>
@@ -2676,6 +2749,29 @@
 <programme start="20230929143000 +0000" stop="20230929153000 +0000" channel="TVRINasional.id"><title lang="id">D&apos; Teras</title></programme>
 <programme start="20230929153000 +0000" stop="20230929163000 +0000" channel="TVRINasional.id"><title lang="id">Musik Hub</title></programme>
 <programme start="20230929163000 +0000" stop="20230929170000 +0000" channel="TVRINasional.id"><title lang="id">Monitor Olahraga</title></programme>
+<programme start="20230927170000 +0000" stop="20230927174500 +0000" channel="Trans7.id"><title lang="id">Sport7</title></programme>
+<programme start="20230927174500 +0000" stop="20230927183000 +0000" channel="Trans7.id"><title lang="id">Misteri Dunia</title></programme>
+<programme start="20230927183000 +0000" stop="20230927190000 +0000" channel="Trans7.id"><title lang="id">Ruqyah</title></programme>
+<programme start="20230927190000 +0000" stop="20230927203000 +0000" channel="Trans7.id"><title lang="id">Opera Van Java</title></programme>
+<programme start="20230927203000 +0000" stop="20230927213000 +0000" channel="Trans7.id"><title lang="id">The Police</title></programme>
+<programme start="20230927213000 +0000" stop="20230927221500 +0000" channel="Trans7.id"><title lang="id">Islampedia</title></programme>
+<programme start="20230927221500 +0000" stop="20230927230000 +0000" channel="Trans7.id"><title lang="id">What??? - Warga Harus Tahu</title></programme>
+<programme start="20230927230000 +0000" stop="20230928000000 +0000" channel="Trans7.id"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20230928000000 +0000" stop="20230928001500 +0000" channel="Trans7.id"><title lang="id">Trending</title></programme>
+<programme start="20230928001500 +0000" stop="20230928023000 +0000" channel="Trans7.id"><title lang="id">US Open Cup 2023 Live</title></programme>
+<programme start="20230928023000 +0000" stop="20230928063000 +0000" channel="Trans7.id"><title lang="id">Penumpasan Pengkhianatan G30s - Pki</title></programme>
+<programme start="20230928063000 +0000" stop="20230928071500 +0000" channel="Trans7.id"><title lang="id">Jejak Anak Negeri</title></programme>
+<programme start="20230928071500 +0000" stop="20230928081500 +0000" channel="Trans7.id"><title lang="id">Redaksi</title></programme>
+<programme start="20230928081500 +0000" stop="20230928091500 +0000" channel="Trans7.id"><title lang="id">Jejak Si Gundul</title></programme>
+<programme start="20230928091500 +0000" stop="20230928101500 +0000" channel="Trans7.id"><title lang="id">Makan Receh</title></programme>
+<programme start="20230928101500 +0000" stop="20230928110000 +0000" channel="Trans7.id"><title lang="id">Selebrita Expose</title></programme>
+<programme start="20230928110000 +0000" stop="20230928120000 +0000" channel="Trans7.id"><title lang="id">On The Spot</title></programme>
+<programme start="20230928120000 +0000" stop="20230928124500 +0000" channel="Trans7.id"><title lang="id">Secret Story</title></programme>
+<programme start="20230928124500 +0000" stop="20230928133000 +0000" channel="Trans7.id"><title lang="id">POV - Pasti Obrolan Viral</title></programme>
+<programme start="20230928133000 +0000" stop="20230928143000 +0000" channel="Trans7.id"><title lang="id">Arisan</title></programme>
+<programme start="20230928143000 +0000" stop="20230928154500 +0000" channel="Trans7.id"><title lang="id">Lapor Pak!</title></programme>
+<programme start="20230928154500 +0000" stop="20230928163000 +0000" channel="Trans7.id"><title lang="id">Krim Malam</title></programme>
+<programme start="20230928163000 +0000" stop="20230928170000 +0000" channel="Trans7.id"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20230928170000 +0000" stop="20230928174500 +0000" channel="Trans7.id"><title lang="id">Sport7</title></programme>
 <programme start="20230928174500 +0000" stop="20230928183000 +0000" channel="Trans7.id"><title lang="id">Misteri Dunia</title></programme>
 <programme start="20230928183000 +0000" stop="20230928190000 +0000" channel="Trans7.id"><title lang="id">Ruqyah</title></programme>
