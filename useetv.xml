@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="SCTV.id">
     <display-name lang="id">SCTV</display-name>
@@ -1643,15 +1643,6 @@
   <programme start="20230928230000 +0700" stop="20230929000000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230928140000 +0700" stop="20230928161500 +0700" channel="OChannel.id">
-    <title lang="en">Olympic Qualifiers Volleyball - Woman</title>
-  </programme>
-  <programme start="20230928161500 +0700" stop="20230928180000 +0700" channel="OChannel.id">
-    <title lang="en">Olympic Qualifiers Volleyball - Woman</title>
-  </programme>
-  <programme start="20230928180000 +0700" stop="20230928190000 +0700" channel="OChannel.id">
-    <title lang="en">Netizen Update</title>
-  </programme>
   <programme start="20230928190000 +0700" stop="20230928210000 +0700" channel="OChannel.id">
     <title lang="en">Choti Sarrdaarni</title>
   </programme>
@@ -1660,24 +1651,6 @@
   </programme>
   <programme start="20230928230000 +0700" stop="20230929000000 +0700" channel="OChannel.id">
     <title lang="en">Trust</title>
-  </programme>
-  <programme start="20230928133000 +0700" stop="20230928141500 +0700" channel="Trans7.id">
-    <title lang="en">Jejak Anak Negeri</title>
-  </programme>
-  <programme start="20230928141500 +0700" stop="20230928151500 +0700" channel="Trans7.id">
-    <title lang="en">Redaksi</title>
-  </programme>
-  <programme start="20230928151500 +0700" stop="20230928161500 +0700" channel="Trans7.id">
-    <title lang="en">Jejak Si Gundul</title>
-  </programme>
-  <programme start="20230928161500 +0700" stop="20230928171500 +0700" channel="Trans7.id">
-    <title lang="en">Makan Receh</title>
-  </programme>
-  <programme start="20230928171500 +0700" stop="20230928180000 +0700" channel="Trans7.id">
-    <title lang="en">Selebrita Expose</title>
-  </programme>
-  <programme start="20230928180000 +0700" stop="20230928190000 +0700" channel="Trans7.id">
-    <title lang="en">On The Spot</title>
   </programme>
   <programme start="20230928190000 +0700" stop="20230928194500 +0700" channel="Trans7.id">
     <title lang="en">Secret Story</title>
@@ -1696,15 +1669,6 @@
   </programme>
   <programme start="20230928233000 +0700" stop="20230929000000 +0700" channel="Trans7.id">
     <title lang="en">Redaksi Malam</title>
-  </programme>
-  <programme start="20230928133000 +0700" stop="20230928160000 +0700" channel="ANTV.id">
-    <title lang="en">Hai Albelaa</title>
-  </programme>
-  <programme start="20230928160000 +0700" stop="20230928180000 +0700" channel="ANTV.id">
-    <title lang="en">Bhagya Lakshmi</title>
-  </programme>
-  <programme start="20230928180000 +0700" stop="20230928193000 +0700" channel="ANTV.id">
-    <title lang="en">Vish</title>
   </programme>
   <programme start="20230928193000 +0700" stop="20230928220000 +0700" channel="ANTV.id">
     <title lang="en">Imlie</title>
