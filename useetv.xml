@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FashionTV.id">
+    <display-name lang="id">FashionTV</display-name>
+    <icon src="https://images.indihometv.com/logo_fashiontv_ver2.png" />
+    <url>http://www.useetv.com</url>
+  </channel>
   <channel id="CinemaWorld.my">
     <display-name lang="id">Cinema World</display-name>
     <icon src="https://images.indihometv.com/logogrey/grey_logo_cinemaworldnew_small.png" />
@@ -1820,9 +1825,6 @@
   <programme start="20230929230000 +0700" stop="20230930000000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230929010000 +0700" stop="20230929023000 +0700" channel="OChannel.id">
-    <title lang="en">Kapolri Cup 2023 - Putri</title>
-  </programme>
   <programme start="20230929023000 +0700" stop="20230929033000 +0700" channel="OChannel.id">
     <title lang="en">ONE C'ship 2021</title>
   </programme>
@@ -1870,83 +1872,5 @@
   </programme>
   <programme start="20230929230000 +0700" stop="20230930000000 +0700" channel="OChannel.id">
     <title lang="en">Trust</title>
-  </programme>
-  <programme start="20230929013000 +0700" stop="20230929020000 +0700" channel="Trans7.id">
-    <title lang="en">Ruqyah</title>
-  </programme>
-  <programme start="20230929020000 +0700" stop="20230929033000 +0700" channel="Trans7.id">
-    <title lang="en">Opera Van Java</title>
-  </programme>
-  <programme start="20230929033000 +0700" stop="20230929043000 +0700" channel="Trans7.id">
-    <title lang="en">The Police</title>
-  </programme>
-  <programme start="20230929043000 +0700" stop="20230929051500 +0700" channel="Trans7.id">
-    <title lang="en">Islampedia</title>
-  </programme>
-  <programme start="20230929051500 +0700" stop="20230929060000 +0700" channel="Trans7.id">
-    <title lang="en">What??? - Warga Harus Tahu</title>
-  </programme>
-  <programme start="20230929060000 +0700" stop="20230929070000 +0700" channel="Trans7.id">
-    <title lang="en">Redaksi Pagi</title>
-  </programme>
-  <programme start="20230929070000 +0700" stop="20230929080000 +0700" channel="Trans7.id">
-    <title lang="en">Spotlite</title>
-  </programme>
-  <programme start="20230929080000 +0700" stop="20230929083000 +0700" channel="Trans7.id">
-    <title lang="en">Selebrita Pagi</title>
-  </programme>
-  <programme start="20230929083000 +0700" stop="20230929093000 +0700" channel="Trans7.id">
-    <title lang="en">FYP - For Your Pagi</title>
-  </programme>
-  <programme start="20230929093000 +0700" stop="20230929101500 +0700" channel="Trans7.id">
-    <title lang="en">OMG</title>
-  </programme>
-  <programme start="20230929101500 +0700" stop="20230929111500 +0700" channel="Trans7.id">
-    <title lang="en">Trending</title>
-  </programme>
-  <programme start="20230929111500 +0700" stop="20230929120000 +0700" channel="Trans7.id">
-    <title lang="en">Enah Bikin Enak</title>
-  </programme>
-  <programme start="20230929120000 +0700" stop="20230929124500 +0700" channel="Trans7.id">
-    <title lang="en">Bocah Petualang</title>
-  </programme>
-  <programme start="20230929124500 +0700" stop="20230929133000 +0700" channel="Trans7.id">
-    <title lang="en">Si Unyil</title>
-  </programme>
-  <programme start="20230929133000 +0700" stop="20230929141500 +0700" channel="Trans7.id">
-    <title lang="en">Jejak Anak Negeri</title>
-  </programme>
-  <programme start="20230929141500 +0700" stop="20230929151500 +0700" channel="Trans7.id">
-    <title lang="en">Redaksi</title>
-  </programme>
-  <programme start="20230929151500 +0700" stop="20230929161500 +0700" channel="Trans7.id">
-    <title lang="en">Jejak Si Gundul</title>
-  </programme>
-  <programme start="20230929161500 +0700" stop="20230929171500 +0700" channel="Trans7.id">
-    <title lang="en">Makan Receh</title>
-  </programme>
-  <programme start="20230929171500 +0700" stop="20230929180000 +0700" channel="Trans7.id">
-    <title lang="en">Selebrita Expose</title>
-  </programme>
-  <programme start="20230929180000 +0700" stop="20230929190000 +0700" channel="Trans7.id">
-    <title lang="en">On The Spot</title>
-  </programme>
-  <programme start="20230929190000 +0700" stop="20230929194500 +0700" channel="Trans7.id">
-    <title lang="en">Secret Story</title>
-  </programme>
-  <programme start="20230929194500 +0700" stop="20230929203000 +0700" channel="Trans7.id">
-    <title lang="en">POV - Pasti Obrolan Viral</title>
-  </programme>
-  <programme start="20230929203000 +0700" stop="20230929213000 +0700" channel="Trans7.id">
-    <title lang="en">Arisan</title>
-  </programme>
-  <programme start="20230929213000 +0700" stop="20230929224500 +0700" channel="Trans7.id">
-    <title lang="en">Lapor Pak!</title>
-  </programme>
-  <programme start="20230929224500 +0700" stop="20230929233000 +0700" channel="Trans7.id">
-    <title lang="en">Krim Malam</title>
-  </programme>
-  <programme start="20230929233000 +0700" stop="20230930000000 +0700" channel="Trans7.id">
-    <title lang="en">Redaksi Malam</title>
   </programme>
 </tv>
