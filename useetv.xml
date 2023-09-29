@@ -25,21 +25,6 @@
     <icon src="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png" />
     <url>http://www.useetv.com</url>
   </channel>
-  <channel id="KompasTV.id">
-    <display-name lang="id">Kompas TV</display-name>
-    <icon src="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" />
-    <url>http://www.useetv.com</url>
-  </channel>
-  <channel id="MetroTV.id">
-    <display-name lang="id">Metro TV</display-name>
-    <icon src="https://images.indihometv.com/logo_metrotv_ver1.png" />
-    <url>http://www.useetv.com</url>
-  </channel>
-  <channel id="Net.id">
-    <display-name lang="id">Net.</display-name>
-    <icon src="https://images.indihometv.com/logo_net_ver1.png" />
-    <url>http://www.useetv.com</url>
-  </channel>
   <channel id="DaVinciAsia.de">
     <display-name lang="id">Da Vinci Learning</display-name>
     <icon src="https://images.indihometv.com/logogrey/grey_logo_davinci_small1.png?v=2.0.0.13" />
@@ -53,11 +38,6 @@
   <channel id="CNBCIndonesia.id">
     <display-name lang="id">CNBC Indonesia</display-name>
     <icon src="https://images.indihometv.com/logogrey/grey_logo_cnbcindonesia_ver1.png" />
-    <url>http://www.useetv.com</url>
-  </channel>
-  <channel id="JakTV.id">
-    <display-name lang="id">JakTV</display-name>
-    <icon src="https://images.indihometv.com/logo_jaktv_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="JTV.id">
@@ -99,18 +79,6 @@
     <display-name lang="en">Moji</display-name>
     <url>http://www.vidio.com</url>
   </channel>
-  <channel id="Trans7.id">
-    <display-name lang="en">Trans7</display-name>
-    <url>http://www.vidio.com</url>
-  </channel>
-  <channel id="ANTV.id">
-    <display-name lang="en">ANTV</display-name>
-    <url>http://www.vidio.com</url>
-  </channel>
-  <channel id="TVOne.id">
-    <display-name lang="en">TVOne</display-name>
-    <url>http://www.vidio.com</url>
-  </channel>
   <channel id="RajawaliTV.id">
     <display-name lang="en">RTV</display-name>
     <url>http://www.vidio.com</url>
@@ -127,1723 +95,1822 @@
     <display-name lang="en">Fashion TV Midnight Secrets</display-name>
     <url>http://www.vidio.com</url>
   </channel>
-  <programme start="20230929012000 +0700" stop="20230929030500 +0700" channel="CinemaWorld.my">
-    <title lang="id">Gretas Wedding</title>
+  <programme start="20230930230000 +0700" stop="20230930233000 +0700" channel="FashionTV.id">
+    <title lang="id">Lingerie</title>
   </programme>
-  <programme start="20230929030500 +0700" stop="20230929050000 +0700" channel="CinemaWorld.my">
-    <title lang="id">Heart Of A Lion</title>
+  <programme start="20230930233000 +0700" stop="20231001000000 +0700" channel="FashionTV.id">
+    <title lang="id">Lingerie</title>
   </programme>
-  <programme start="20230929050000 +0700" stop="20230929065000 +0700" channel="CinemaWorld.my">
-    <title lang="id">Flying Fish</title>
-  </programme>
-  <programme start="20230929065000 +0700" stop="20230929085500 +0700" channel="CinemaWorld.my">
-    <title lang="id">All My Loving</title>
-  </programme>
-  <programme start="20230929085500 +0700" stop="20230929103500 +0700" channel="CinemaWorld.my">
-    <title lang="id">A Perfect Fit</title>
-  </programme>
-  <programme start="20230929103500 +0700" stop="20230929121500 +0700" channel="CinemaWorld.my">
+  <programme start="20230930015000 +0700" stop="20230930032500 +0700" channel="CinemaWorld.my">
     <title lang="id">A Murder Of Crows Hush Little Baby</title>
   </programme>
-  <programme start="20230929121500 +0700" stop="20230929140000 +0700" channel="CinemaWorld.my">
-    <title lang="id">Jeune Juliette</title>
-  </programme>
-  <programme start="20230929140000 +0700" stop="20230929153500 +0700" channel="CinemaWorld.my">
+  <programme start="20230930032500 +0700" stop="20230930050000 +0700" channel="CinemaWorld.my">
     <title lang="id">The Summer Of Flying Fish</title>
   </programme>
-  <programme start="20230929153500 +0700" stop="20230929171000 +0700" channel="CinemaWorld.my">
-    <title lang="id">Above the Clouds</title>
-  </programme>
-  <programme start="20230929171000 +0700" stop="20230929185500 +0700" channel="CinemaWorld.my">
+  <programme start="20230930050000 +0700" stop="20230930065000 +0700" channel="CinemaWorld.my">
     <title lang="id">H Is For Happiness</title>
   </programme>
-  <programme start="20230929185500 +0700" stop="20230929210000 +0700" channel="CinemaWorld.my">
+  <programme start="20230930065000 +0700" stop="20230930082000 +0700" channel="CinemaWorld.my">
+    <title lang="id">Reunited</title>
+  </programme>
+  <programme start="20230930082000 +0700" stop="20230930102500 +0700" channel="CinemaWorld.my">
     <title lang="id">Our River...Our Sky</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929223500 +0700" channel="CinemaWorld.my">
-    <title lang="id">Murder by the Lake - The Return</title>
+  <programme start="20230930102500 +0700" stop="20230930120000 +0700" channel="CinemaWorld.my">
+    <title lang="id">A Murder Of Crows A Vigilante Justice</title>
   </programme>
-  <programme start="20230929223500 +0700" stop="20230929235000 +0700" channel="CinemaWorld.my">
+  <programme start="20230930120000 +0700" stop="20230930131500 +0700" channel="CinemaWorld.my">
     <title lang="id">Paper Boats</title>
   </programme>
-  <programme start="20230929235000 +0700" stop="20230930015000 +0700" channel="CinemaWorld.my">
-    <title lang="id">All My Loving</title>
+  <programme start="20230930131500 +0700" stop="20230930144500 +0700" channel="CinemaWorld.my">
+    <title lang="id">Light Years</title>
   </programme>
-  <programme start="20230929003000 +0700" stop="20230929013000 +0700" channel="SCTV.id">
+  <programme start="20230930144500 +0700" stop="20230930162000 +0700" channel="CinemaWorld.my">
+    <title lang="id">Murder by the Lake - The Return</title>
+  </programme>
+  <programme start="20230930162000 +0700" stop="20230930163500 +0700" channel="CinemaWorld.my">
+    <title lang="id">A Date</title>
+  </programme>
+  <programme start="20230930163500 +0700" stop="20230930182000 +0700" channel="CinemaWorld.my">
+    <title lang="id">Bellbird</title>
+  </programme>
+  <programme start="20230930182000 +0700" stop="20230930200000 +0700" channel="CinemaWorld.my">
+    <title lang="id">Hacker</title>
+  </programme>
+  <programme start="20230930200000 +0700" stop="20230930215500 +0700" channel="CinemaWorld.my">
+    <title lang="id">Dolce Fine Giornata</title>
+  </programme>
+  <programme start="20230930215500 +0700" stop="20230930234000 +0700" channel="CinemaWorld.my">
+    <title lang="id">Risks And Side Effects</title>
+  </programme>
+  <programme start="20230930234000 +0700" stop="20231001011500 +0700" channel="CinemaWorld.my">
+    <title lang="id">Reunited</title>
+  </programme>
+  <programme start="20230930003000 +0700" stop="20230930013000 +0700" channel="SCTV.id">
     <title lang="id">FTV Utama</title>
   </programme>
-  <programme start="20230929013000 +0700" stop="20230929020000 +0700" channel="SCTV.id">
-    <title lang="id">Buser</title>
-  </programme>
-  <programme start="20230929020000 +0700" stop="20230929023000 +0700" channel="SCTV.id">
-    <title lang="id">Liputan 6 Malam</title>
-  </programme>
-  <programme start="20230929023000 +0700" stop="20230929030000 +0700" channel="SCTV.id">
-    <title lang="id">Buser</title>
-  </programme>
-  <programme start="20230929030000 +0700" stop="20230929040000 +0700" channel="SCTV.id">
-    <title lang="id">Sinema Malam</title>
-  </programme>
-  <programme start="20230929040000 +0700" stop="20230929043000 +0700" channel="SCTV.id">
-    <title lang="id">Barakallah</title>
-  </programme>
-  <programme start="20230929043000 +0700" stop="20230929060000 +0700" channel="SCTV.id">
-    <title lang="id">Liputan 6 Pagi - LIVE</title>
-  </programme>
-  <programme start="20230929060000 +0700" stop="20230929070000 +0700" channel="SCTV.id">
-    <title lang="id">Status Selebritis</title>
-  </programme>
-  <programme start="20230929070000 +0700" stop="20230929080000 +0700" channel="SCTV.id">
-    <title lang="id">Hot Shot</title>
-  </programme>
-  <programme start="20230929080000 +0700" stop="20230929093000 +0700" channel="SCTV.id">
-    <title lang="id">FTV Pagi Spesial</title>
-  </programme>
-  <programme start="20230929093000 +0700" stop="20230929100000 +0700" channel="SCTV.id">
-    <title lang="id">Indonesian Simple</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929120000 +0700" channel="SCTV.id">
-    <title lang="id">FTV Pagi</title>
-  </programme>
-  <programme start="20230929120000 +0700" stop="20230929123000 +0700" channel="SCTV.id">
-    <title lang="id">Liputan 6 Siang - LIVE</title>
-  </programme>
-  <programme start="20230929123000 +0700" stop="20230929143000 +0700" channel="SCTV.id">
-    <title lang="id">FTV Siang</title>
-  </programme>
-  <programme start="20230929143000 +0700" stop="20230929163000 +0700" channel="SCTV.id">
-    <title lang="id">FTV Sore</title>
-  </programme>
-  <programme start="20230929163000 +0700" stop="20230929180000 +0700" channel="SCTV.id">
-    <title lang="id">Satu Cinta Dua Hati</title>
-  </programme>
-  <programme start="20230929180000 +0700" stop="20230929194500 +0700" channel="SCTV.id">
-    <title lang="id">Bidadari Surgamu</title>
-  </programme>
-  <programme start="20230929194500 +0700" stop="20230929211500 +0700" channel="SCTV.id">
-    <title lang="id">Takdir Cinta Yang Kupilih</title>
-  </programme>
-  <programme start="20230929211500 +0700" stop="20230929230000 +0700" channel="SCTV.id">
-    <title lang="id">Cinta Setelah Cinta</title>
-  </programme>
-  <programme start="20230929230000 +0700" stop="20230930003000 +0700" channel="SCTV.id">
-    <title lang="id">FTV Primetime</title>
-  </programme>
-  <programme start="20230929010000 +0700" stop="20230929023000 +0700" channel="Indosiar.id">
+  <programme start="20230930010000 +0700" stop="20230930023000 +0700" channel="Indosiar.id">
     <title lang="id">Mega Film Asia</title>
   </programme>
-  <programme start="20230929023000 +0700" stop="20230929040000 +0700" channel="Indosiar.id">
-    <title lang="id">Mega Film Asia</title>
+  <programme start="20230930003000 +0700" stop="20230930023000 +0700" channel="MNCNews.id">
+    <title lang="id">Sea V - League : Vie vs Ina</title>
   </programme>
-  <programme start="20230929040000 +0700" stop="20230929043000 +0700" channel="Indosiar.id">
-    <title lang="id">Pintu Pintu Syurga</title>
+  <programme start="20230930023000 +0700" stop="20230930033000 +0700" channel="MNCNews.id">
+    <title lang="id">One On One Rerun</title>
   </programme>
-  <programme start="20230929043000 +0700" stop="20230929060000 +0700" channel="Indosiar.id">
-    <title lang="id">Fokus Pagi</title>
-  </programme>
-  <programme start="20230929060000 +0700" stop="20230929080000 +0700" channel="Indosiar.id">
-    <title lang="id">Magic 5</title>
-  </programme>
-  <programme start="20230929080000 +0700" stop="20230929100000 +0700" channel="Indosiar.id">
-    <title lang="id">Pintu Berkah Pagi</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929110000 +0700" channel="Indosiar.id">
-    <title lang="id">Best Kiss</title>
-  </programme>
-  <programme start="20230929110000 +0700" stop="20230929113000 +0700" channel="Indosiar.id">
-    <title lang="id">Patroli Siang</title>
-  </programme>
-  <programme start="20230929113000 +0700" stop="20230929120000 +0700" channel="Indosiar.id">
-    <title lang="id">Fokus Siang</title>
-  </programme>
-  <programme start="20230929120000 +0700" stop="20230929133000 +0700" channel="Indosiar.id">
-    <title lang="id">Kisah Nyata</title>
-  </programme>
-  <programme start="20230929133000 +0700" stop="20230929143000 +0700" channel="Indosiar.id">
-    <title lang="id">Pintu Berkah</title>
-  </programme>
-  <programme start="20230929143000 +0700" stop="20230929170000 +0700" channel="Indosiar.id">
-    <title lang="id">BRI Liga 1 2023 - 2024</title>
-  </programme>
-  <programme start="20230929170000 +0700" stop="20230929183000 +0700" channel="Indosiar.id">
-    <title lang="id">Magic 5</title>
-  </programme>
-  <programme start="20230929183000 +0700" stop="20230929210000 +0700" channel="Indosiar.id">
-    <title lang="id">BRI Liga 1 2023 - 2024</title>
-  </programme>
-  <programme start="20230929210000 +0700" stop="20230929230000 +0700" channel="Indosiar.id">
-    <title lang="id">Mega Series Action Asia : Heroes</title>
-  </programme>
-  <programme start="20230929230000 +0700" stop="20230930010000 +0700" channel="Indosiar.id">
-    <title lang="id">Mega Film Asia</title>
-  </programme>
-  <programme start="20230929003000 +0700" stop="20230929023000 +0700" channel="MNCNews.id">
-    <title lang="id">Sea V - League : Tha vs Vie</title>
-  </programme>
-  <programme start="20230929023000 +0700" stop="20230929033000 +0700" channel="MNCNews.id">
-    <title lang="id">The Prime Show Rerun</title>
-  </programme>
-  <programme start="20230929033000 +0700" stop="20230929040000 +0700" channel="MNCNews.id">
-    <title lang="id">Top Files Rerun</title>
-  </programme>
-  <programme start="20230929040000 +0700" stop="20230929043000 +0700" channel="MNCNews.id">
-    <title lang="id">OMG Rerun</title>
-  </programme>
-  <programme start="20230929043000 +0700" stop="20230929060000 +0700" channel="MNCNews.id">
-    <title lang="id">Sindo Prime Rerun</title>
-  </programme>
-  <programme start="20230929060000 +0700" stop="20230929073000 +0700" channel="MNCNews.id">
-    <title lang="id">Sindo Pagi</title>
-  </programme>
-  <programme start="20230929073000 +0700" stop="20230929093000 +0700" channel="MNCNews.id">
-    <title lang="id">Sindo Morning Show</title>
-  </programme>
-  <programme start="20230929093000 +0700" stop="20230929100000 +0700" channel="MNCNews.id">
-    <title lang="id">OMG</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929103000 +0700" channel="MNCNews.id">
+  <programme start="20230930033000 +0700" stop="20230930040000 +0700" channel="MNCNews.id">
     <title lang="id">New Top Files Rerun</title>
   </programme>
-  <programme start="20230929103000 +0700" stop="20230929120000 +0700" channel="MNCNews.id">
+  <programme start="20230930040000 +0700" stop="20230930050000 +0700" channel="MNCNews.id">
+    <title lang="id">New Top Files Rerun</title>
+  </programme>
+  <programme start="20230930050000 +0700" stop="20230930060000 +0700" channel="MNCNews.id">
+    <title lang="id">Konspirasi Prabu Rerun</title>
+  </programme>
+  <programme start="20230930060000 +0700" stop="20230930063000 +0700" channel="MNCNews.id">
+    <title lang="id">Indonesian Authentic Places Rerun</title>
+  </programme>
+  <programme start="20230930063000 +0700" stop="20230930073000 +0700" channel="MNCNews.id">
+    <title lang="id">Seputar iNews Pagi</title>
+  </programme>
+  <programme start="20230930073000 +0700" stop="20230930093000 +0700" channel="MNCNews.id">
+    <title lang="id">Sindo Morning Show</title>
+  </programme>
+  <programme start="20230930093000 +0700" stop="20230930100000 +0700" channel="MNCNews.id">
+    <title lang="id">OMG</title>
+  </programme>
+  <programme start="20230930100000 +0700" stop="20230930103000 +0700" channel="MNCNews.id">
+    <title lang="id">World Classic Football Rerun</title>
+  </programme>
+  <programme start="20230930103000 +0700" stop="20230930120000 +0700" channel="MNCNews.id">
     <title lang="id">Sindo Siang</title>
   </programme>
-  <programme start="20230929120000 +0700" stop="20230929123000 +0700" channel="MNCNews.id">
-    <title lang="id">Top Case Rerun</title>
+  <programme start="20230930120000 +0700" stop="20230930123000 +0700" channel="MNCNews.id">
+    <title lang="id">Top History Rerun</title>
   </programme>
-  <programme start="20230929123000 +0700" stop="20230929130000 +0700" channel="MNCNews.id">
-    <title lang="id">Indonesia Border Rerun</title>
+  <programme start="20230930123000 +0700" stop="20230930130000 +0700" channel="MNCNews.id">
+    <title lang="id">Indonesia Border</title>
   </programme>
-  <programme start="20230929130000 +0700" stop="20230929133000 +0700" channel="MNCNews.id">
-    <title lang="id">Lintas iNews Siang</title>
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="MNCNews.id">
+    <title lang="id">Indonesian Authentic Places</title>
   </programme>
-  <programme start="20230929133000 +0700" stop="20230929140000 +0700" channel="MNCNews.id">
-    <title lang="id">Sergap</title>
+  <programme start="20230930133000 +0700" stop="20230930140000 +0700" channel="MNCNews.id">
+    <title lang="id">Geopark Indonesia</title>
   </programme>
-  <programme start="20230929140000 +0700" stop="20230929150000 +0700" channel="MNCNews.id">
-    <title lang="id">Sindo Today</title>
-  </programme>
-  <programme start="20230929150000 +0700" stop="20230929160000 +0700" channel="MNCNews.id">
-    <title lang="id">Sindo Files</title>
-  </programme>
-  <programme start="20230929160000 +0700" stop="20230929180000 +0700" channel="MNCNews.id">
-    <title lang="id">Sindo Sore</title>
-  </programme>
-  <programme start="20230929180000 +0700" stop="20230929190000 +0700" channel="MNCNews.id">
+  <programme start="20230930140000 +0700" stop="20230930143000 +0700" channel="MNCNews.id">
     <title lang="id">OMG Rerun</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929203000 +0700" channel="MNCNews.id">
-    <title lang="id">Sindo Prime</title>
+  <programme start="20230930143000 +0700" stop="20230930150000 +0700" channel="MNCNews.id">
+    <title lang="id">World Classic Football</title>
   </programme>
-  <programme start="20230929203000 +0700" stop="20230929213000 +0700" channel="MNCNews.id">
-    <title lang="id">One On One</title>
+  <programme start="20230930150000 +0700" stop="20230930160000 +0700" channel="MNCNews.id">
+    <title lang="id">Top Issue</title>
   </programme>
-  <programme start="20230929213000 +0700" stop="20230929223000 +0700" channel="MNCNews.id">
+  <programme start="20230930160000 +0700" stop="20230930173000 +0700" channel="MNCNews.id">
+    <title lang="id">Sindo Sore</title>
+  </programme>
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="MNCNews.id">
+    <title lang="id">Indonesia Border Rerun</title>
+  </programme>
+  <programme start="20230930180000 +0700" stop="20230930190000 +0700" channel="MNCNews.id">
+    <title lang="id">OMG Rerun</title>
+  </programme>
+  <programme start="20230930190000 +0700" stop="20230930200000 +0700" channel="MNCNews.id">
+    <title lang="id">Inside Story with Anggy</title>
+  </programme>
+  <programme start="20230930200000 +0700" stop="20230930203000 +0700" channel="MNCNews.id">
+    <title lang="id">Top Case</title>
+  </programme>
+  <programme start="20230930203000 +0700" stop="20230930213000 +0700" channel="MNCNews.id">
+    <title lang="id">One On One Rerun</title>
+  </programme>
+  <programme start="20230930213000 +0700" stop="20230930223000 +0700" channel="MNCNews.id">
     <title lang="id">Sindo Malam</title>
   </programme>
-  <programme start="20230929223000 +0700" stop="20230929233000 +0700" channel="MNCNews.id">
+  <programme start="20230930223000 +0700" stop="20230930233000 +0700" channel="MNCNews.id">
     <title lang="id">iNews Room</title>
   </programme>
-  <programme start="20230929233000 +0700" stop="20230930003000 +0700" channel="MNCNews.id">
+  <programme start="20230930233000 +0700" stop="20231001000000 +0700" channel="MNCNews.id">
     <title lang="id">iNews Prime</title>
   </programme>
-  <programme start="20230929000000 +0700" stop="20230929003000 +0700" channel="KompasTV.id">
-    <title lang="id">Kompas Sport Malam</title>
+  <programme start="20230930000000 +0700" stop="20230930000300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Know It All - Eps.What Does Space Sound Like</title>
   </programme>
-  <programme start="20230929003000 +0700" stop="20230929013000 +0700" channel="KompasTV.id">
-    <title lang="id">Indonesia Update</title>
+  <programme start="20230930000300 +0700" stop="20230930003300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Did You Know - Eps.Being a baby</title>
   </programme>
-  <programme start="20230929013000 +0700" stop="20230929020000 +0700" channel="KompasTV.id">
-    <title lang="id">Bingkai Inspirasi</title>
+  <programme start="20230930003300 +0700" stop="20230930010300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Did You Know - Eps.Safety tests of everyday things</title>
   </programme>
-  <programme start="20230929020000 +0700" stop="20230929030000 +0700" channel="KompasTV.id">
-    <title lang="id">Kompas Malam</title>
+  <programme start="20230930010300 +0700" stop="20230930013300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Did You Know - Eps.The power of music</title>
   </programme>
-  <programme start="20230929030000 +0700" stop="20230929033000 +0700" channel="KompasTV.id">
-    <title lang="id">Kilas Kompas</title>
+  <programme start="20230930013300 +0700" stop="20230930020300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Did You Know - Eps.The power of the mind</title>
   </programme>
-  <programme start="20230929033000 +0700" stop="20230929040000 +0700" channel="KompasTV.id">
-    <title lang="id">Kalam Hati</title>
+  <programme start="20230930020300 +0700" stop="20230930021800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Do You Know - Eps.Piano - Drums</title>
   </programme>
-  <programme start="20230929040000 +0700" stop="20230929043000 +0700" channel="KompasTV.id">
-    <title lang="id">Kompas Sport Pagi</title>
+  <programme start="20230930021800 +0700" stop="20230930023300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Do You Know - Eps.Bus Ramp - Roads</title>
   </programme>
-  <programme start="20230929043000 +0700" stop="20230929070000 +0700" channel="KompasTV.id">
-    <title lang="id">Kompas Pagi</title>
+  <programme start="20230930023300 +0700" stop="20230930024200 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Mily Miss Questions - Eps.Evolution</title>
   </programme>
-  <programme start="20230929070000 +0700" stop="20230929093000 +0700" channel="KompasTV.id">
-    <title lang="id">Sapa Indonesia Pagi</title>
+  <programme start="20230930024200 +0700" stop="20230930024800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Mily Miss Questions - Eps.Its on the Tip of My Tongue</title>
   </programme>
-  <programme start="20230929093000 +0700" stop="20230929100000 +0700" channel="KompasTV.id">
-    <title lang="id">Bincang Kita</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929110000 +0700" channel="KompasTV.id">
-    <title lang="id">Berita Utama</title>
-  </programme>
-  <programme start="20230929110000 +0700" stop="20230929130000 +0700" channel="KompasTV.id">
-    <title lang="id">Kompas Siang</title>
-  </programme>
-  <programme start="20230929130000 +0700" stop="20230929140000 +0700" channel="KompasTV.id">
-    <title lang="id">Sapa Indonesia Siang</title>
-  </programme>
-  <programme start="20230929140000 +0700" stop="20230929143000 +0700" channel="KompasTV.id">
-    <title lang="id">Sasaran</title>
-  </programme>
-  <programme start="20230929143000 +0700" stop="20230929150000 +0700" channel="KompasTV.id">
-    <title lang="id">Rumah Pemilu</title>
-  </programme>
-  <programme start="20230929150000 +0700" stop="20230929160000 +0700" channel="KompasTV.id">
-    <title lang="id">Indonesia Update</title>
-  </programme>
-  <programme start="20230929160000 +0700" stop="20230929173000 +0700" channel="KompasTV.id">
-    <title lang="id">Kompas Petang</title>
-  </programme>
-  <programme start="20230929173000 +0700" stop="20230929193000 +0700" channel="KompasTV.id">
-    <title lang="id">Sapa Indonesia Malam</title>
-  </programme>
-  <programme start="20230929193000 +0700" stop="20230929203000 +0700" channel="KompasTV.id">
-    <title lang="id">Berita Utama</title>
-  </programme>
-  <programme start="20230929203000 +0700" stop="20230929213000 +0700" channel="KompasTV.id">
-    <title lang="id">Dua Arah</title>
-  </programme>
-  <programme start="20230929213000 +0700" stop="20230929223000 +0700" channel="KompasTV.id">
-    <title lang="id">Kompas Malam</title>
-  </programme>
-  <programme start="20230929223000 +0700" stop="20230929233000 +0700" channel="KompasTV.id">
-    <title lang="id">Berita Utama</title>
-  </programme>
-  <programme start="20230929233000 +0700" stop="20230930000000 +0700" channel="KompasTV.id">
-    <title lang="id">Kilas Kompas</title>
-  </programme>
-  <programme start="20230929000500 +0700" stop="20230929003000 +0700" channel="MetroTV.id">
-    <title lang="id">Editorial Malam</title>
-  </programme>
-  <programme start="20230929003000 +0700" stop="20230929030500 +0700" channel="MetroTV.id">
-    <title lang="id">Primetime News</title>
-  </programme>
-  <programme start="20230929030500 +0700" stop="20230929040500 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-  </programme>
-  <programme start="20230929040500 +0700" stop="20230929060500 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Pagi Primetime</title>
-  </programme>
-  <programme start="20230929060500 +0700" stop="20230929063000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Sport</title>
-  </programme>
-  <programme start="20230929063000 +0700" stop="20230929070500 +0700" channel="MetroTV.id">
-    <title lang="id">Go Healthy</title>
-  </programme>
-  <programme start="20230929070500 +0700" stop="20230929080500 +0700" channel="MetroTV.id">
-    <title lang="id">Editorial Media Indonesia</title>
-  </programme>
-  <programme start="20230929080500 +0700" stop="20230929083000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Xinwen</title>
-  </programme>
-  <programme start="20230929083000 +0700" stop="20230929100500 +0700" channel="MetroTV.id">
-    <title lang="id">Selamat Pagi Indonesia</title>
-  </programme>
-  <programme start="20230929100500 +0700" stop="20230929103000 +0700" channel="MetroTV.id">
-    <title lang="id">Zona Bisnis</title>
-  </programme>
-  <programme start="20230929103000 +0700" stop="20230929110500 +0700" channel="MetroTV.id">
-    <title lang="id">Go Healthy</title>
-  </programme>
-  <programme start="20230929110500 +0700" stop="20230929130500 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Siang</title>
-  </programme>
-  <programme start="20230929130500 +0700" stop="20230929150500 +0700" channel="MetroTV.id">
-    <title lang="id">Newsline</title>
-  </programme>
-  <programme start="20230929150500 +0700" stop="20230929153000 +0700" channel="MetroTV.id">
-    <title lang="id">Follow Up</title>
-  </programme>
-  <programme start="20230929153000 +0700" stop="20230929160500 +0700" channel="MetroTV.id">
-    <title lang="id">Berita Pemilu</title>
-  </programme>
-  <programme start="20230929160500 +0700" stop="20230929173000 +0700" channel="MetroTV.id">
-    <title lang="id">Metro Hari Ini</title>
-  </programme>
-  <programme start="20230929173000 +0700" stop="20230929200500 +0700" channel="MetroTV.id">
-    <title lang="id">Primetime News</title>
-  </programme>
-  <programme start="20230929200500 +0700" stop="20230929210500 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-  </programme>
-  <programme start="20230929210500 +0700" stop="20230929213000 +0700" channel="MetroTV.id">
-    <title lang="id">Editorial Malam</title>
-  </programme>
-  <programme start="20230929213000 +0700" stop="20230929223000 +0700" channel="MetroTV.id">
-    <title lang="id">Visi Negarawan</title>
-  </programme>
-  <programme start="20230929223000 +0700" stop="20230929233000 +0700" channel="MetroTV.id">
-    <title lang="id">Top News</title>
-  </programme>
-  <programme start="20230929233000 +0700" stop="20230930000500 +0700" channel="MetroTV.id">
-    <title lang="id">Go Healthy</title>
-  </programme>
-  <programme start="20230929000000 +0700" stop="20230929010000 +0700" channel="Net.id">
-    <title lang="id">Fenomena</title>
-  </programme>
-  <programme start="20230929010000 +0700" stop="20230929020000 +0700" channel="Net.id">
-    <title lang="id">One Championship Warrior</title>
-  </programme>
-  <programme start="20230929020000 +0700" stop="20230929030000 +0700" channel="Net.id">
-    <title lang="id">Fakta 62</title>
-  </programme>
-  <programme start="20230929030000 +0700" stop="20230929040000 +0700" channel="Net.id">
-    <title lang="id">Spot Update</title>
-  </programme>
-  <programme start="20230929040000 +0700" stop="20230929050000 +0700" channel="Net.id">
-    <title lang="id">Yemin - Janji Reyhan</title>
-  </programme>
-  <programme start="20230929050000 +0700" stop="20230929063000 +0700" channel="Net.id">
-    <title lang="id">Top Spot</title>
-  </programme>
-  <programme start="20230929063000 +0700" stop="20230929073000 +0700" channel="Net.id">
-    <title lang="id">Inilah Kisahnya</title>
-  </programme>
-  <programme start="20230929073000 +0700" stop="20230929083000 +0700" channel="Net.id">
-    <title lang="id">Fakta 62</title>
-  </programme>
-  <programme start="20230929083000 +0700" stop="20230929100000 +0700" channel="Net.id">
-    <title lang="id">Makan Enak</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929113000 +0700" channel="Net.id">
-    <title lang="id">Net Drakor Saranghae: The World Of The Married</title>
-  </programme>
-  <programme start="20230929113000 +0700" stop="20230929123000 +0700" channel="Net.id">
-    <title lang="id">Masakuy</title>
-  </programme>
-  <programme start="20230929123000 +0700" stop="20230929140000 +0700" channel="Net.id">
-    <title lang="id">Net Asia: Whats Wrong With Secretary Kim</title>
-  </programme>
-  <programme start="20230929140000 +0700" stop="20230929150000 +0700" channel="Net.id">
-    <title lang="id">V.I.P - Viral Itu Penting</title>
-  </programme>
-  <programme start="20230929150000 +0700" stop="20230929160000 +0700" channel="Net.id">
-    <title lang="id">Ruang Seleb</title>
-  </programme>
-  <programme start="20230929160000 +0700" stop="20230929170000 +0700" channel="Net.id">
-    <title lang="id">Fakta Terkini</title>
-  </programme>
-  <programme start="20230929170000 +0700" stop="20230929180000 +0700" channel="Net.id">
-    <title lang="id">Net Drakor Daebak: Faith</title>
-  </programme>
-  <programme start="20230929180000 +0700" stop="20230929190000 +0700" channel="Net.id">
-    <title lang="id">Net Asia Prime: Go Ahead</title>
-  </programme>
-  <programme start="20230929190000 +0700" stop="20230929200000 +0700" channel="Net.id">
-    <title lang="id">Keajaiban Dunia</title>
-  </programme>
-  <programme start="20230929200000 +0700" stop="20230929220000 +0700" channel="Net.id">
-    <title lang="id">BTS World Tour Love Yourself: Speak Yourself Sao Paulo</title>
-  </programme>
-  <programme start="20230929220000 +0700" stop="20230929223000 +0700" channel="Net.id">
-    <title lang="id">Biar Viral</title>
-  </programme>
-  <programme start="20230929223000 +0700" stop="20230930000000 +0700" channel="Net.id">
-    <title lang="id">One Friday Fights 35</title>
-  </programme>
-  <programme start="20230929000000 +0700" stop="20230929000300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.Can Plants Count</title>
-  </programme>
-  <programme start="20230929000300 +0700" stop="20230929003300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Did You Know - Eps.Dinosaurs</title>
-  </programme>
-  <programme start="20230929003300 +0700" stop="20230929010300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Did You Know - Eps.Animals Versus Humans</title>
-  </programme>
-  <programme start="20230929010300 +0700" stop="20230929013300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Did You Know - Eps.How can we adapt our bodies to winter</title>
-  </programme>
-  <programme start="20230929013300 +0700" stop="20230929020300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Did You Know - Eps.Ending Our Bad Habits</title>
-  </programme>
-  <programme start="20230929020300 +0700" stop="20230929021800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Do You Know - Eps.Cranes - Bricks</title>
-  </programme>
-  <programme start="20230929021800 +0700" stop="20230929023300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Do You Know - Eps.Key In Lock - Glass</title>
-  </programme>
-  <programme start="20230929023300 +0700" stop="20230929024200 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Mily Miss Questions - Eps.So Close and Yet so Far</title>
-  </programme>
-  <programme start="20230929024200 +0700" stop="20230929024800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Mily Miss Questions - Eps.Stop</title>
-  </programme>
-  <programme start="20230929024800 +0700" stop="20230929025400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.Are Hot Springs Magical</title>
-  </programme>
-  <programme start="20230929025400 +0700" stop="20230929030900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Siesta Z - Eps.Crime and Punishment</title>
-  </programme>
-  <programme start="20230929030900 +0700" stop="20230929032100 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Siesta Z - Eps.Don Quixote of La Mancha</title>
-  </programme>
-  <programme start="20230929032100 +0700" stop="20230929032400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Animal Anarchists - Eps.The Inhabitants of Cheese</title>
-  </programme>
-  <programme start="20230929032400 +0700" stop="20230929033600 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Darwin and Newts - Eps.Rainy Day Fun</title>
-  </programme>
-  <programme start="20230929033600 +0700" stop="20230929034800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Darwin and Newts - Eps.The Paper Plane Problem</title>
-  </programme>
-  <programme start="20230929034800 +0700" stop="20230929040300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">PinCode - Eps.Dancing with Bees</title>
-  </programme>
-  <programme start="20230929040300 +0700" stop="20230929041800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">PinCode - Eps.Engine of Progress</title>
-  </programme>
-  <programme start="20230929041800 +0700" stop="20230929043000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Addison - Eps.The Musical Mystery</title>
-  </programme>
-  <programme start="20230929043000 +0700" stop="20230929044500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Addison - Eps.The Mystery of the Fairy Frog</title>
-  </programme>
-  <programme start="20230929044500 +0700" stop="20230929045700 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Doki - Eps.The Great Wall of Fico</title>
-  </programme>
-  <programme start="20230929045700 +0700" stop="20230929050900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Doki - Eps.Doki by the Dozen</title>
-  </programme>
-  <programme start="20230929050900 +0700" stop="20230929051500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">The Fixies - Eps.The Chain Reaction</title>
-  </programme>
-  <programme start="20230929051500 +0700" stop="20230929052100 +0700" channel="DaVinciAsia.de">
-    <title lang="id">The Fixies - Eps.The Globe</title>
-  </programme>
-  <programme start="20230929052100 +0700" stop="20230929053000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">The Fixies - Eps.The Camera</title>
-  </programme>
-  <programme start="20230929053000 +0700" stop="20230929054200 +0700" channel="DaVinciAsia.de">
-    <title lang="id">One Stop Science Shop - Eps.How do plants eat and drink</title>
-  </programme>
-  <programme start="20230929054200 +0700" stop="20230929055400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">One Stop Science Shop - Eps.Bouncing and Bending Light</title>
-  </programme>
-  <programme start="20230929055400 +0700" stop="20230929060000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">ScienceXplosion - Eps.Secret Code</title>
-  </programme>
-  <programme start="20230929060000 +0700" stop="20230929061500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Do You Know - Eps.Airport Baggage and Rucksack</title>
-  </programme>
-  <programme start="20230929061500 +0700" stop="20230929063900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Do You Know - Eps.Lamp and Playhouse</title>
-  </programme>
-  <programme start="20230929063900 +0700" stop="20230929065400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Siesta Z - Eps.Moby Dick by Herman Melville</title>
-  </programme>
-  <programme start="20230929065400 +0700" stop="20230929070000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.What Makes Chocolate so Tasty</title>
-  </programme>
-  <programme start="20230929070000 +0700" stop="20230929071500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Darwin and Newts - Eps.Save the Takahe</title>
-  </programme>
-  <programme start="20230929071500 +0700" stop="20230929073000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Briko - Eps.Paper Plate</title>
-  </programme>
-  <programme start="20230929073000 +0700" stop="20230929073600 +0700" channel="DaVinciAsia.de">
-    <title lang="id">The Fixies - Eps.The Catapult</title>
-  </programme>
-  <programme start="20230929073600 +0700" stop="20230929074500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">The Fixies - Eps.The Vent</title>
-  </programme>
-  <programme start="20230929074500 +0700" stop="20230929080000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Yoko - Eps.Dont Touch</title>
-  </programme>
-  <programme start="20230929080000 +0700" stop="20230929080300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Superhero Sprinter Galore - Eps.Heros School</title>
-  </programme>
-  <programme start="20230929080300 +0700" stop="20230929080900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Superhero Sprinter Galore - Eps.DiktaThor the Winner</title>
-  </programme>
-  <programme start="20230929080900 +0700" stop="20230929081500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.Whats the Most Psychedelic Vegetable</title>
-  </programme>
-  <programme start="20230929081500 +0700" stop="20230929082400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Kosmix - Eps.Jupiters Moons</title>
-  </programme>
-  <programme start="20230929082400 +0700" stop="20230929083300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Zoe and Milo - Eps.Trip to China</title>
-  </programme>
-  <programme start="20230929083300 +0700" stop="20230929083900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.Are Bees Colour Blind</title>
-  </programme>
-  <programme start="20230929083900 +0700" stop="20230929085400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">PinCode - Eps.The Critical Point</title>
-  </programme>
-  <programme start="20230929085400 +0700" stop="20230929090000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.Why Are Plants So Green</title>
-  </programme>
-  <programme start="20230929090000 +0700" stop="20230929090900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Mily Miss Questions - Eps.Flying Away</title>
-  </programme>
-  <programme start="20230929090900 +0700" stop="20230929091800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Mily Miss Questions - Eps.The Wall of Equality</title>
-  </programme>
-  <programme start="20230929091800 +0700" stop="20230929092400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Superhero Sprinter Galore - Eps.A Foot Massage</title>
-  </programme>
-  <programme start="20230929092400 +0700" stop="20230929093000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Superhero Sprinter Galore - Eps.The Flying Competition</title>
-  </programme>
-  <programme start="20230929093000 +0700" stop="20230929094500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">One Stop Science Shop - Eps.Marvellous Medicine and First Aid</title>
-  </programme>
-  <programme start="20230929094500 +0700" stop="20230929100000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">One Stop Science Shop - Eps.Multiple applications of Magnets</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929101200 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Hogie the Globehopper - Eps.Hogie Goes to Gisborne</title>
-  </programme>
-  <programme start="20230929101200 +0700" stop="20230929101800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Marvellous Makes - Eps.Flapping Cup Bird</title>
-  </programme>
-  <programme start="20230929101800 +0700" stop="20230929103300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">When I Grow Up - Eps.Sound Editor</title>
-  </programme>
-  <programme start="20230929103300 +0700" stop="20230929110000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Make Me a Super - Eps.Electrifying Discoveries</title>
-  </programme>
-  <programme start="20230929110000 +0700" stop="20230929110300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Jolly Jesters - Eps.Myths and Legends</title>
-  </programme>
-  <programme start="20230929110300 +0700" stop="20230929110900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Jolly Jesters - Eps.Attacking Castles</title>
-  </programme>
-  <programme start="20230929110900 +0700" stop="20230929112400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Doki - Eps.Shake a Tail Feather</title>
-  </programme>
-  <programme start="20230929112400 +0700" stop="20230929113300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Doki - Eps.Mundis Day Off</title>
-  </programme>
-  <programme start="20230929113300 +0700" stop="20230929120000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Science Max - Eps.Magnetic Levitation</title>
-  </programme>
-  <programme start="20230929120000 +0700" stop="20230929121800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">A Week to Beat the World - Eps.Brazil Day 3</title>
-  </programme>
-  <programme start="20230929121800 +0700" stop="20230929124500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Bajillionaires - Eps.Mutt Chat</title>
-  </programme>
-  <programme start="20230929124500 +0700" stop="20230929125100 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Kosmix - Eps.Mercury</title>
-  </programme>
-  <programme start="20230929125100 +0700" stop="20230929125400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Kosmix - Eps.Venus</title>
-  </programme>
-  <programme start="20230929125400 +0700" stop="20230929130000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Jolly Jesters - Eps.Childhood</title>
-  </programme>
-  <programme start="20230929130000 +0700" stop="20230929132100 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Did I Mention Invention - Eps.Pop Up Greeting Cards</title>
-  </programme>
-  <programme start="20230929132100 +0700" stop="20230929132400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.Can Slime Think</title>
-  </programme>
-  <programme start="20230929132400 +0700" stop="20230929133000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.What Makes Chocolate so Tasty</title>
-  </programme>
-  <programme start="20230929133000 +0700" stop="20230929140000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Junior Vets - Eps.Facing Fears</title>
-  </programme>
-  <programme start="20230929140000 +0700" stop="20230929141500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Yoko - Eps.All Together Now</title>
-  </programme>
-  <programme start="20230929141500 +0700" stop="20230929143000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Siesta Z - Eps.David and Goliath Book of Samuel Old Testament</title>
-  </programme>
-  <programme start="20230929143000 +0700" stop="20230929143300 +0700" channel="DaVinciAsia.de">
+  <programme start="20230930024800 +0700" stop="20230930025400 +0700" channel="DaVinciAsia.de">
     <title lang="id">Know It All - Eps.How do Fish Glow in the Dark</title>
   </programme>
-  <programme start="20230929143300 +0700" stop="20230929144500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Cat Land - Eps.Cat Taxi</title>
+  <programme start="20230930025400 +0700" stop="20230930030900 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Siesta Z - Eps.The Tragedy of Hamlet Prince of Denmark</title>
   </programme>
-  <programme start="20230929144500 +0700" stop="20230929144800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Know It All - Eps.What Makes Fireworks Bang</title>
+  <programme start="20230930030900 +0700" stop="20230930032100 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Siesta Z - Eps.The Tragedy of Romeo and Juliet by William Shakespeare</title>
   </programme>
-  <programme start="20230929144800 +0700" stop="20230929145400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Marvellous Makes Lab - Eps.Wobbly Sculpture</title>
+  <programme start="20230930032100 +0700" stop="20230930032400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Animal Anarchists - Eps.Whats Living in This Cave</title>
   </programme>
-  <programme start="20230929145400 +0700" stop="20230929150000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">ScienceXplosion - Eps.Soapy Sailing</title>
+  <programme start="20230930032400 +0700" stop="20230930033600 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Darwin and Newts - Eps.Surfs Up</title>
   </programme>
-  <programme start="20230929150000 +0700" stop="20230929150900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">How To Do Stuff Good - Eps.Adelaides Bird Feeder</title>
+  <programme start="20230930033600 +0700" stop="20230930034800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Darwin and Newts - Eps.Tipsy Topsy Wobbling Crane</title>
   </programme>
-  <programme start="20230929150900 +0700" stop="20230929151200 +0700" channel="DaVinciAsia.de">
-    <title lang="id">ScienceXplosion - Eps.Eric Makes Paper</title>
+  <programme start="20230930034800 +0700" stop="20230930040300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">PinCode - Eps.The Best of All Possible Worlds</title>
   </programme>
-  <programme start="20230929151200 +0700" stop="20230929151800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">How To Do Stuff Good - Eps.Abisheks Cool Cloud Lamp</title>
+  <programme start="20230930040300 +0700" stop="20230930041800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">PinCode - Eps.Friendtonin</title>
   </programme>
-  <programme start="20230929151800 +0700" stop="20230929153300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">One Stop Science Shop - Eps.Multiple applications of Magnets</title>
+  <programme start="20230930041800 +0700" stop="20230930043000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Addison - Eps.The Not So Fishy Mystery</title>
   </programme>
-  <programme start="20230929153300 +0700" stop="20230929154500 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Briko - Eps.Earth Day</title>
+  <programme start="20230930043000 +0700" stop="20230930044500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Addison - Eps.The Mystery of the Lucha Grandma</title>
   </programme>
-  <programme start="20230929154500 +0700" stop="20230929154800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Jolly Jesters - Eps.The Black Death</title>
+  <programme start="20230930044500 +0700" stop="20230930045700 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Doki - Eps.Bubble Wrap</title>
   </programme>
-  <programme start="20230929154800 +0700" stop="20230929160300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Doki - Eps.Sno Trouble</title>
+  <programme start="20230930045700 +0700" stop="20230930050900 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Doki - Eps.Dokis Double Trouble</title>
   </programme>
-  <programme start="20230929160300 +0700" stop="20230929162100 +0700" channel="DaVinciAsia.de">
-    <title lang="id">PinCode - Eps.Fellow Human Beings - Part 3</title>
+  <programme start="20230930050900 +0700" stop="20230930051500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">The Fixies - Eps.The Talking Doll</title>
   </programme>
-  <programme start="20230929162100 +0700" stop="20230929162400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Jolly Jesters - Eps.Childhood</title>
+  <programme start="20230930051500 +0700" stop="20230930052100 +0700" channel="DaVinciAsia.de">
+    <title lang="id">The Fixies - Eps.The Barcode</title>
   </programme>
-  <programme start="20230929162400 +0700" stop="20230929163300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">The Fixies - Eps.The Music Box</title>
+  <programme start="20230930052100 +0700" stop="20230930053000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">The Fixies - Eps.The Prosthesis</title>
   </programme>
-  <programme start="20230929163300 +0700" stop="20230929164800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Critters TV - Eps.Atlantic Salmon</title>
+  <programme start="20230930053000 +0700" stop="20230930054200 +0700" channel="DaVinciAsia.de">
+    <title lang="id">One Stop Science Shop - Eps.Communicating without Wires</title>
   </programme>
-  <programme start="20230929164800 +0700" stop="20230929170000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Darwin and Newts - Eps.X Marks the Spot</title>
+  <programme start="20230930054200 +0700" stop="20230930055400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">One Stop Science Shop - Eps.Mapping and Levels</title>
   </programme>
-  <programme start="20230929170000 +0700" stop="20230929170300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">ScienceXplosion - Eps.Prove It</title>
+  <programme start="20230930055400 +0700" stop="20230930060000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">ScienceXplosion - Eps.ColourXplosion</title>
   </programme>
-  <programme start="20230929170300 +0700" stop="20230929173600 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Ice Stars - Eps.Sickness Strikes</title>
+  <programme start="20230930060000 +0700" stop="20230930061500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Do You Know - Eps.Speaker and Colour</title>
   </programme>
-  <programme start="20230929173600 +0700" stop="20230929173900 +0700" channel="DaVinciAsia.de">
+  <programme start="20230930061500 +0700" stop="20230930063900 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Do You Know - Eps.Hamster Wheel - Insect Hotel</title>
+  </programme>
+  <programme start="20230930063900 +0700" stop="20230930065400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Siesta Z - Eps.Frankenstein by Mary Shelley</title>
+  </programme>
+  <programme start="20230930065400 +0700" stop="20230930070000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Know It All - Eps.Do Bugs Have Lucky Numbers</title>
+  </programme>
+  <programme start="20230930070000 +0700" stop="20230930071500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Darwin and Newts - Eps.Inside the Earth</title>
+  </programme>
+  <programme start="20230930071500 +0700" stop="20230930073000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Briko - Eps.Old Luggage</title>
+  </programme>
+  <programme start="20230930073000 +0700" stop="20230930073600 +0700" channel="DaVinciAsia.de">
+    <title lang="id">The Fixies - Eps.The Stain</title>
+  </programme>
+  <programme start="20230930073600 +0700" stop="20230930074500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">The Fixies - Eps.Friction</title>
+  </programme>
+  <programme start="20230930074500 +0700" stop="20230930080000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Doki - Eps.Doki and Ducki</title>
+  </programme>
+  <programme start="20230930080000 +0700" stop="20230930080300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Superhero Sprinter Galore - Eps.Sibling Love</title>
+  </programme>
+  <programme start="20230930080300 +0700" stop="20230930080900 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Superhero Sprinter Galore - Eps.Big Boom</title>
+  </programme>
+  <programme start="20230930080900 +0700" stop="20230930081500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Know It All - Eps.Why is the Sky Blue</title>
+  </programme>
+  <programme start="20230930081500 +0700" stop="20230930082400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Kosmix - Eps.Saturn</title>
+  </programme>
+  <programme start="20230930082400 +0700" stop="20230930083900 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Addison - Eps.The Mystery of the Hidden Gem</title>
+  </programme>
+  <programme start="20230930083900 +0700" stop="20230930085400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">PinCode - Eps.Ultra Conductivity And A Bit Of Love</title>
+  </programme>
+  <programme start="20230930085400 +0700" stop="20230930090000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Know It All - Eps.How Did the Leopard Get its Spots</title>
+  </programme>
+  <programme start="20230930090000 +0700" stop="20230930090900 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Mily Miss Questions - Eps.Unity is Strength</title>
+  </programme>
+  <programme start="20230930090900 +0700" stop="20230930091800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Mily Miss Questions - Eps.The Twelve Strokes of Midnight</title>
+  </programme>
+  <programme start="20230930091800 +0700" stop="20230930092400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Marvellous Makes Lab - Eps.Parachute</title>
+  </programme>
+  <programme start="20230930092400 +0700" stop="20230930093000 +0700" channel="DaVinciAsia.de">
     <title lang="id">Know It All - Eps.Are Bees Colour Blind</title>
   </programme>
-  <programme start="20230929173900 +0700" stop="20230929175700 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Do You Know - Eps.Sleeping Bag - Mattress</title>
+  <programme start="20230930093000 +0700" stop="20230930093900 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Zoe and Milo - Eps.Trip to Vietnam</title>
   </programme>
-  <programme start="20230929175700 +0700" stop="20230929180000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">mathXplosion - Eps.Thats So Twisted</title>
+  <programme start="20230930093900 +0700" stop="20230930094500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Marvellous Makes - Eps.Puzzle Cubes</title>
   </programme>
-  <programme start="20230929180000 +0700" stop="20230929180900 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Go Green with the Grimwades - Eps.Reduce Screen Time</title>
+  <programme start="20230930094500 +0700" stop="20230930100000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Yoko - Eps.The Perfect Pet</title>
   </programme>
-  <programme start="20230929180900 +0700" stop="20230929183300 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Gym Stars - Eps.Fighting to the Finish</title>
+  <programme start="20230930100000 +0700" stop="20230930101500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Yoko - Eps.The Best Dinosaur</title>
   </programme>
-  <programme start="20230929183300 +0700" stop="20230929190000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Animal Embassy - Eps.Panda and Macaw</title>
+  <programme start="20230930101500 +0700" stop="20230930102700 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Hogie the Globehopper - Eps.Hogie Goes to Marrakesh</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929193000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Siyaya - Wildest Cape  - Eps.Lamberts Bay Bird Island - Where The Birds Are In Charge</title>
+  <programme start="20230930102700 +0700" stop="20230930103300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Marvellous Makes - Eps.Gnomes</title>
   </programme>
-  <programme start="20230929193000 +0700" stop="20230929200000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Junior Vets - Eps.An Important Job</title>
+  <programme start="20230930103300 +0700" stop="20230930104200 +0700" channel="DaVinciAsia.de">
+    <title lang="id">MeteoHeroes - Eps.Mysterious White Coral</title>
   </programme>
-  <programme start="20230929200000 +0700" stop="20230929201800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">A Week to Beat the World - Eps.Guatemala Day 2</title>
+  <programme start="20230930104200 +0700" stop="20230930105100 +0700" channel="DaVinciAsia.de">
+    <title lang="id">MeteoHeroes - Eps.Mayday Dugong</title>
   </programme>
-  <programme start="20230929201800 +0700" stop="20230929204800 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Operation Ouch - Eps.Why Your Poo is Brown</title>
+  <programme start="20230930105100 +0700" stop="20230930105700 +0700" channel="DaVinciAsia.de">
+    <title lang="id">MeteoHeroes - Eps.Overflowing River</title>
   </programme>
-  <programme start="20230929204800 +0700" stop="20230929205400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">100 Ways to Draw - Eps.Square Portrait</title>
+  <programme start="20230930105700 +0700" stop="20230930110300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Marvellous Makes - Eps.Mini Landscape Movie Set</title>
   </programme>
-  <programme start="20230929205400 +0700" stop="20230929212400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Operation Ouch - Eps.How to Grow a Brain</title>
+  <programme start="20230930110300 +0700" stop="20230930113300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Siyaya  Come Wild With Us - Eps.The Flowering Desert</title>
   </programme>
-  <programme start="20230929212400 +0700" stop="20230929213000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">100 Ways to Draw - Eps.Accordion Book</title>
+  <programme start="20230930113300 +0700" stop="20230930120300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Siyaya  Come Wild With Us - Eps.Tshavhadzimu</title>
   </programme>
-  <programme start="20230929213000 +0700" stop="20230929215400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Xploration Awesome Planet - Eps.Slovenia</title>
+  <programme start="20230930120300 +0700" stop="20230930123000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Science Max - Eps.Spool Racer</title>
   </programme>
-  <programme start="20230929215400 +0700" stop="20230929220000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">ScienceXplosion - Eps.Density Intensity</title>
+  <programme start="20230930123000 +0700" stop="20230930125400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Animal Embassy - Eps.Clownfish and White Tiger</title>
   </programme>
-  <programme start="20230929220000 +0700" stop="20230929222400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">DIY SCI - Eps.Supermarket Science</title>
+  <programme start="20230930125400 +0700" stop="20230930130000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Animal Anarchists - Eps.Beetle Larvae Get Busy at Night</title>
   </programme>
-  <programme start="20230929222400 +0700" stop="20230929223000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">ScienceXplosion - Eps.Sensational Senses</title>
+  <programme start="20230930130000 +0700" stop="20230930132400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">The Pet Rescuers - Eps.A Giant Mess</title>
   </programme>
-  <programme start="20230929223000 +0700" stop="20230929225400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Science Max - Eps.Simple Machines</title>
+  <programme start="20230930132400 +0700" stop="20230930133000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Animal Anarchists - Eps.Wild Family Parents</title>
   </programme>
-  <programme start="20230929225400 +0700" stop="20230929230000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">ScienceXplosion - Eps.Eric - The Map - and the Compass</title>
+  <programme start="20230930133000 +0700" stop="20230930134200 +0700" channel="DaVinciAsia.de">
+    <title lang="id">One Stop Science Shop - Eps.Microscopic Revelations</title>
   </programme>
-  <programme start="20230929230000 +0700" stop="20230929232400 +0700" channel="DaVinciAsia.de">
-    <title lang="id">The Pet Rescuers - Eps.The Mono-Eyed Cat</title>
+  <programme start="20230930134200 +0700" stop="20230930140000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">One Stop Science Shop - Eps.Fun with Pressure and Hydraulics</title>
   </programme>
-  <programme start="20230929232400 +0700" stop="20230929233000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">ScienceXplosion - Eps.Super Shape</title>
+  <programme start="20230930140000 +0700" stop="20230930143000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Operation Ouch - Eps.Mind-boggling Brains</title>
   </programme>
-  <programme start="20230929233000 +0700" stop="20230930000000 +0700" channel="DaVinciAsia.de">
-    <title lang="id">Did You Know - Eps.Incredible Talents Tested by Science</title>
+  <programme start="20230930143000 +0700" stop="20230930144200 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Go Green with the Grimwades - Eps.Reduce Litter</title>
   </programme>
-  <programme start="20230929000000 +0700" stop="20230929004500 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Redaksi</title>
+  <programme start="20230930144200 +0700" stop="20230930145100 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Go Green with the Grimwades - Eps.Reuse Plastic Bottles</title>
   </programme>
-  <programme start="20230929004500 +0700" stop="20230929014500 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia Connected</title>
+  <programme start="20230930145100 +0700" stop="20230930145400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Marvellous Makes - Eps.Dinosaur Baby</title>
   </programme>
-  <programme start="20230929014500 +0700" stop="20230929021500 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Redaksi Malam</title>
+  <programme start="20230930145400 +0700" stop="20230930150000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Marvellous Makes - Eps.Elephant Mouse</title>
   </programme>
-  <programme start="20230929021500 +0700" stop="20230929041500 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Prime News</title>
+  <programme start="20230930150000 +0700" stop="20230930151200 +0700" channel="DaVinciAsia.de">
+    <title lang="id">PinCode - Eps.Itch for Speed</title>
   </programme>
-  <programme start="20230929041500 +0700" stop="20230929050000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Redaksi</title>
+  <programme start="20230930151200 +0700" stop="20230930151500 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Know It All - Eps.Could We Do Without Plankton</title>
   </programme>
-  <programme start="20230929050000 +0700" stop="20230929053000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Gapai Kemuliaan</title>
+  <programme start="20230930151500 +0700" stop="20230930151800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Know It All - Eps.What Does Space Sound Like</title>
   </programme>
-  <programme start="20230929053000 +0700" stop="20230929060000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia Sports</title>
+  <programme start="20230930151800 +0700" stop="20230930153000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Briko - Eps.Seashell</title>
   </programme>
-  <programme start="20230929060000 +0700" stop="20230929070000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Redaksi Pagi</title>
+  <programme start="20230930153000 +0700" stop="20230930155400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Bajillionaires - Eps.Good Whale Hunting</title>
   </programme>
-  <programme start="20230929070000 +0700" stop="20230929073000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia New Day</title>
+  <programme start="20230930155400 +0700" stop="20230930161800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Bajillionaires - Eps.Office Life</title>
   </programme>
-  <programme start="20230929073000 +0700" stop="20230929083000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Good Morning</title>
+  <programme start="20230930161800 +0700" stop="20230930162100 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Jolly Jesters - Eps.Knights</title>
   </programme>
-  <programme start="20230929083000 +0700" stop="20230929093000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Bisnis Dan Referensi</title>
+  <programme start="20230930162100 +0700" stop="20230930162400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Jolly Jesters - Eps.The Feast of Fools</title>
   </programme>
-  <programme start="20230929093000 +0700" stop="20230929110000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia Today</title>
+  <programme start="20230930162400 +0700" stop="20230930163000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Jolly Jesters - Eps.Hygiene in The Middle Ages</title>
   </programme>
-  <programme start="20230929110000 +0700" stop="20230929130000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia News Hour</title>
+  <programme start="20230930163000 +0700" stop="20230930170000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Ice Stars - Eps.The Big Decision</title>
   </programme>
-  <programme start="20230929130000 +0700" stop="20230929141500 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Happening Now</title>
+  <programme start="20230930170000 +0700" stop="20230930170300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Jolly Jesters - Eps.Myths and Legends</title>
   </programme>
-  <programme start="20230929141500 +0700" stop="20230929151500 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Redaksi</title>
+  <programme start="20230930170300 +0700" stop="20230930173300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Ice Stars - Eps.The Sin Bin</title>
   </programme>
-  <programme start="20230929151500 +0700" stop="20230929160000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia News Report</title>
+  <programme start="20230930173300 +0700" stop="20230930173900 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Know It All - Eps.What Makes Fireworks Bang</title>
   </programme>
-  <programme start="20230929160000 +0700" stop="20230929163000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia News Update</title>
+  <programme start="20230930173900 +0700" stop="20230930180300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Gym Stars - Eps.Following In Big Footsteps</title>
   </programme>
-  <programme start="20230929163000 +0700" stop="20230929173000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia Connected</title>
+  <programme start="20230930180300 +0700" stop="20230930182400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Junior Vets - Eps.Health Check-ups</title>
   </programme>
-  <programme start="20230929173000 +0700" stop="20230929190000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">CNN Indonesia Newsroom</title>
+  <programme start="20230930182400 +0700" stop="20230930183000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">mathXplosion - Eps.SelfPortrait</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929193000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Redaksi Malam</title>
+  <programme start="20230930183000 +0700" stop="20230930183300 +0700" channel="DaVinciAsia.de">
+    <title lang="id">mathXplosion - Eps.The Impossible Folding Paper</title>
   </programme>
-  <programme start="20230929193000 +0700" stop="20230929210000 +0700" channel="CNNIndonesia.id">
-    <title lang="id">Prime News</title>
+  <programme start="20230930183300 +0700" stop="20230930190000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">The Pet Rescuers - Eps.Magnificent Beast</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929213000 +0700" channel="CNNIndonesia.id">
+  <programme start="20230930190000 +0700" stop="20230930191200 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Critters TV - Eps.Humpback Whale</title>
+  </programme>
+  <programme start="20230930191200 +0700" stop="20230930192400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Critters TV - Eps.Squirrel</title>
+  </programme>
+  <programme start="20230930192400 +0700" stop="20230930193000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">ScienceXplosion - Eps.Whats Up with Water</title>
+  </programme>
+  <programme start="20230930193000 +0700" stop="20230930200000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Did You Know - Eps.Sugar: what science really says</title>
+  </programme>
+  <programme start="20230930200000 +0700" stop="20230930201800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">A Week to Beat the World - Eps.Guatemala Day 3</title>
+  </programme>
+  <programme start="20230930201800 +0700" stop="20230930204800 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Operation Ouch - Eps.What Thumbs Are For</title>
+  </programme>
+  <programme start="20230930204800 +0700" stop="20230930205400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">100 Ways to Draw - Eps.Typo Glue</title>
+  </programme>
+  <programme start="20230930205400 +0700" stop="20230930212400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Operation Ouch - Eps.How your reflexes can save you</title>
+  </programme>
+  <programme start="20230930212400 +0700" stop="20230930213000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">100 Ways to Draw - Eps.The Big Wave</title>
+  </programme>
+  <programme start="20230930213000 +0700" stop="20230930215400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Xploration Awesome Planet - Eps.Animal Rescue</title>
+  </programme>
+  <programme start="20230930215400 +0700" stop="20230930220000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">ScienceXplosion - Eps.Circle of Life</title>
+  </programme>
+  <programme start="20230930220000 +0700" stop="20230930222100 +0700" channel="DaVinciAsia.de">
+    <title lang="id">DIY SCI - Eps.Spooky Science</title>
+  </programme>
+  <programme start="20230930222100 +0700" stop="20230930223000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">ScienceXplosion - Eps.Sensational Solubles</title>
+  </programme>
+  <programme start="20230930223000 +0700" stop="20230930225400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Science Max - Eps.States of Matter</title>
+  </programme>
+  <programme start="20230930225400 +0700" stop="20230930230000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">ScienceXplosion - Eps.Admirable Admiral</title>
+  </programme>
+  <programme start="20230930230000 +0700" stop="20230930232400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">The Pet Rescuers - Eps.Bella and Homer</title>
+  </programme>
+  <programme start="20230930232400 +0700" stop="20230930233000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">ScienceXplosion - Eps.Neurons - Neurons - Neurons</title>
+  </programme>
+  <programme start="20230930233000 +0700" stop="20230930235400 +0700" channel="DaVinciAsia.de">
+    <title lang="id">Did You Know - Eps.Behind the Scenes With Hygiene Products</title>
+  </programme>
+  <programme start="20230930235400 +0700" stop="20231001000000 +0700" channel="DaVinciAsia.de">
+    <title lang="id">ScienceXplosion - Eps.The Era of the Air Pump</title>
+  </programme>
+  <programme start="20230930000000 +0700" stop="20230930003000 +0700" channel="CNNIndonesia.id">
     <title lang="id">Rully Files</title>
   </programme>
-  <programme start="20230929213000 +0700" stop="20230929220000 +0700" channel="CNNIndonesia.id">
+  <programme start="20230930003000 +0700" stop="20230930011500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Redaksi</title>
+  </programme>
+  <programme start="20230930011500 +0700" stop="20230930021500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia Connected</title>
+  </programme>
+  <programme start="20230930021500 +0700" stop="20230930024500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Redaksi Malam</title>
+  </programme>
+  <programme start="20230930024500 +0700" stop="20230930041500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Prime News</title>
+  </programme>
+  <programme start="20230930041500 +0700" stop="20230930050000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Redaksi</title>
+  </programme>
+  <programme start="20230930050000 +0700" stop="20230930053000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Gapai Kemuliaan</title>
+  </programme>
+  <programme start="20230930053000 +0700" stop="20230930060000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia Sports</title>
+  </programme>
+  <programme start="20230930060000 +0700" stop="20230930070000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Redaksi Pagi</title>
+  </programme>
+  <programme start="20230930070000 +0700" stop="20230930073000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia New Day</title>
+  </programme>
+  <programme start="20230930073000 +0700" stop="20230930083000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Good Morning</title>
+  </programme>
+  <programme start="20230930083000 +0700" stop="20230930090000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Sanggraloka</title>
+  </programme>
+  <programme start="20230930090000 +0700" stop="20230930093000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Mata Viral</title>
+  </programme>
+  <programme start="20230930093000 +0700" stop="20230930100000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Berbuat Baik</title>
+  </programme>
+  <programme start="20230930100000 +0700" stop="20230930103000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Inside Indonesia</title>
+  </programme>
+  <programme start="20230930103000 +0700" stop="20230930110000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia Tech News</title>
+  </programme>
+  <programme start="20230930110000 +0700" stop="20230930124500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia News Hour</title>
+  </programme>
+  <programme start="20230930124500 +0700" stop="20230930134500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Insight With Desi Anwar</title>
+  </programme>
+  <programme start="20230930134500 +0700" stop="20230930141500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Sanggraloka</title>
+  </programme>
+  <programme start="20230930141500 +0700" stop="20230930151500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Redaksi Akhir Pekan</title>
+  </programme>
+  <programme start="20230930151500 +0700" stop="20230930160000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia News Report</title>
+  </programme>
+  <programme start="20230930160000 +0700" stop="20230930163000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia News Update</title>
+  </programme>
+  <programme start="20230930163000 +0700" stop="20230930183000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia Newsroom</title>
+  </programme>
+  <programme start="20230930183000 +0700" stop="20230930200000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Prime News</title>
+  </programme>
+  <programme start="20230930200000 +0700" stop="20230930203000 +0700" channel="CNNIndonesia.id">
     <title lang="id">Kanal Pemilu Tepercaya</title>
   </programme>
-  <programme start="20230929220000 +0700" stop="20230930000000 +0700" channel="CNNIndonesia.id">
+  <programme start="20230930203000 +0700" stop="20230930220000 +0700" channel="CNNIndonesia.id">
     <title lang="id">The World Tonight</title>
   </programme>
-  <programme start="20230929000000 +0700" stop="20230929003000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Sustainable Future</title>
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia Indepth</title>
   </programme>
-  <programme start="20230929003000 +0700" stop="20230929010000 +0700" channel="CNBCIndonesia.id">
+  <programme start="20230930223000 +0700" stop="20230930231500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">Redaksi Akhir Pekan</title>
+  </programme>
+  <programme start="20230930231500 +0700" stop="20231001011500 +0700" channel="CNNIndonesia.id">
+    <title lang="id">CNN Indonesia Newsroom</title>
+  </programme>
+  <programme start="20230930000000 +0700" stop="20230930003000 +0700" channel="CNBCIndonesia.id">
+    <title lang="id">Managing Asia</title>
+  </programme>
+  <programme start="20230930003000 +0700" stop="20230930010000 +0700" channel="CNBCIndonesia.id">
     <title lang="id">Numbers Bite</title>
   </programme>
-  <programme start="20230929010000 +0700" stop="20230929013000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Sustainable Future</title>
+  <programme start="20230930010000 +0700" stop="20230930030000 +0700" channel="CNBCIndonesia.id">
+    <title lang="id">Closing Bell</title>
   </programme>
-  <programme start="20230929013000 +0700" stop="20230929020000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Money Talks</title>
-  </programme>
-  <programme start="20230929020000 +0700" stop="20230929023000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Sustainable Future</title>
-  </programme>
-  <programme start="20230929023000 +0700" stop="20230929030000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Money Talks</title>
-  </programme>
-  <programme start="20230929030000 +0700" stop="20230929033000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Sustainable Future</title>
-  </programme>
-  <programme start="20230929033000 +0700" stop="20230929040000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Numbers Bite</title>
-  </programme>
-  <programme start="20230929040000 +0700" stop="20230929060000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">CNBC Indonesia Investment Expo 2023</title>
-  </programme>
-  <programme start="20230929060000 +0700" stop="20230929070000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Investime Pilihan</title>
-  </programme>
-  <programme start="20230929070000 +0700" stop="20230929073000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Nation Hub</title>
-  </programme>
-  <programme start="20230929073000 +0700" stop="20230929080000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Cuap Cuap Cuan</title>
-  </programme>
-  <programme start="20230929080000 +0700" stop="20230929100000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Squawk Box - Live</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929113000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Profit - Live</title>
-  </programme>
-  <programme start="20230929113000 +0700" stop="20230929115500 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">CNBC Indonesia Exclusive</title>
-  </programme>
-  <programme start="20230929115500 +0700" stop="20230929140000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Power Lunch - Live</title>
-  </programme>
-  <programme start="20230929140000 +0700" stop="20230929143000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Around The World</title>
-  </programme>
-  <programme start="20230929143000 +0700" stop="20230929150000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Tech A Look</title>
-  </programme>
-  <programme start="20230929150000 +0700" stop="20230929170000 +0700" channel="CNBCIndonesia.id">
-    <title lang="id">Closing Bell - Live</title>
-  </programme>
-  <programme start="20230929000000 +0700" stop="20230929060000 +0700" channel="JakTV.id">
-    <title lang="id">Sign Off</title>
-  </programme>
-  <programme start="20230929060000 +0700" stop="20230929063000 +0700" channel="JakTV.id">
-    <title lang="id">Inside</title>
-  </programme>
-  <programme start="20230929063000 +0700" stop="20230929070000 +0700" channel="JakTV.id">
-    <title lang="id">News Room</title>
-  </programme>
-  <programme start="20230929070000 +0700" stop="20230929073000 +0700" channel="JakTV.id">
-    <title lang="id">Sendok Garpu - Healthy Food</title>
-  </programme>
-  <programme start="20230929073000 +0700" stop="20230929080000 +0700" channel="JakTV.id">
-    <title lang="id">Sendok Garpu - Healthy Food</title>
-  </programme>
-  <programme start="20230929080000 +0700" stop="20230929083000 +0700" channel="JakTV.id">
-    <title lang="id">Power Of Soul - Sony Sutrisna</title>
-  </programme>
-  <programme start="20230929083000 +0700" stop="20230929090000 +0700" channel="JakTV.id">
-    <title lang="id">Power Of Soul - Sony Sutrisna</title>
-  </programme>
-  <programme start="20230929090000 +0700" stop="20230929093000 +0700" channel="JakTV.id">
-    <title lang="id">Animal Action</title>
-  </programme>
-  <programme start="20230929093000 +0700" stop="20230929100000 +0700" channel="JakTV.id">
-    <title lang="id">Kiddies World</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929103000 +0700" channel="JakTV.id">
-    <title lang="id">The Hermansyah Story</title>
-  </programme>
-  <programme start="20230929103000 +0700" stop="20230929110000 +0700" channel="JakTV.id">
-    <title lang="id">The Hermansyah Story</title>
-  </programme>
-  <programme start="20230929110000 +0700" stop="20230929113000 +0700" channel="JakTV.id">
-    <title lang="id">Motor Aing</title>
-  </programme>
-  <programme start="20230929113000 +0700" stop="20230929120000 +0700" channel="JakTV.id">
-    <title lang="id">Food Truck</title>
-  </programme>
-  <programme start="20230929120000 +0700" stop="20230929123000 +0700" channel="JakTV.id">
-    <title lang="id">Sendok Garpu - Dessert</title>
-  </programme>
-  <programme start="20230929123000 +0700" stop="20230929130000 +0700" channel="JakTV.id">
-    <title lang="id">Sendok Garpu - Dessert</title>
-  </programme>
-  <programme start="20230929130000 +0700" stop="20230929133000 +0700" channel="JakTV.id">
-    <title lang="id">Berkah Shop</title>
-  </programme>
-  <programme start="20230929133000 +0700" stop="20230929140000 +0700" channel="JakTV.id">
-    <title lang="id">Berkah Shop</title>
-  </programme>
-  <programme start="20230929140000 +0700" stop="20230929143000 +0700" channel="JakTV.id">
-    <title lang="id">Local Hour Zamrud Khatulistiwa</title>
-  </programme>
-  <programme start="20230929143000 +0700" stop="20230929150000 +0700" channel="JakTV.id">
-    <title lang="id">Local Hour Zamrud Khatulistiwa</title>
-  </programme>
-  <programme start="20230929150000 +0700" stop="20230929153000 +0700" channel="JakTV.id">
-    <title lang="id">Berkah Shop</title>
-  </programme>
-  <programme start="20230929153000 +0700" stop="20230929160000 +0700" channel="JakTV.id">
-    <title lang="id">Berkah Shop</title>
-  </programme>
-  <programme start="20230929160000 +0700" stop="20230929163000 +0700" channel="JakTV.id">
-    <title lang="id">Sendok Garpu - Indonesian Food</title>
-  </programme>
-  <programme start="20230929163000 +0700" stop="20230929170000 +0700" channel="JakTV.id">
-    <title lang="id">Sendok Garpu - Indonesian Food</title>
-  </programme>
-  <programme start="20230929170000 +0700" stop="20230929173000 +0700" channel="JakTV.id">
-    <title lang="id">Terapi Garang Arang</title>
-  </programme>
-  <programme start="20230929173000 +0700" stop="20230929180000 +0700" channel="JakTV.id">
-    <title lang="id">Terapi Garang Arang</title>
-  </programme>
-  <programme start="20230929180000 +0700" stop="20230929183000 +0700" channel="JakTV.id">
-    <title lang="id">News Room</title>
-  </programme>
-  <programme start="20230929183000 +0700" stop="20230929190000 +0700" channel="JakTV.id">
-    <title lang="id">True Crime</title>
-  </programme>
-  <programme start="20230929190000 +0700" stop="20230929193000 +0700" channel="JakTV.id">
-    <title lang="id">Jakforum</title>
-  </programme>
-  <programme start="20230929193000 +0700" stop="20230929200200 +0700" channel="JakTV.id">
-    <title lang="id">Jakforum</title>
-  </programme>
-  <programme start="20230929200200 +0700" stop="20230929203000 +0700" channel="JakTV.id">
-    <title lang="id">Terapi Garang Arang</title>
-  </programme>
-  <programme start="20230929203000 +0700" stop="20230929210200 +0700" channel="JakTV.id">
-    <title lang="id">Terapi Garang Arang</title>
-  </programme>
-  <programme start="20230929210200 +0700" stop="20230929213000 +0700" channel="JakTV.id">
-    <title lang="id">Skena</title>
-  </programme>
-  <programme start="20230929213000 +0700" stop="20230929220200 +0700" channel="JakTV.id">
-    <title lang="id">Skena</title>
-  </programme>
-  <programme start="20230929220200 +0700" stop="20230929223000 +0700" channel="JakTV.id">
-    <title lang="id">Kabar Misteri</title>
-  </programme>
-  <programme start="20230929223000 +0700" stop="20230929230000 +0700" channel="JakTV.id">
-    <title lang="id">Kabar Misteri</title>
-  </programme>
-  <programme start="20230929230000 +0700" stop="20230929233000 +0700" channel="JakTV.id">
-    <title lang="id">News Room</title>
-  </programme>
-  <programme start="20230929233000 +0700" stop="20230930000000 +0700" channel="JakTV.id">
-    <title lang="id">Retro Hour</title>
-  </programme>
-  <programme start="20230929000000 +0700" stop="20230929000500 +0700" channel="JTV.id">
+  <programme start="20230930000000 +0700" stop="20230930000500 +0700" channel="JTV.id">
     <title lang="id">Lagu Nasional - Bagimu Negeri</title>
   </programme>
-  <programme start="20230929000500 +0700" stop="20230929000800 +0700" channel="JTV.id">
+  <programme start="20230930000500 +0700" stop="20230930000800 +0700" channel="JTV.id">
     <title lang="id">Station ID JTV Versi Full</title>
   </programme>
-  <programme start="20230929000800 +0700" stop="20230929010000 +0700" channel="JTV.id">
+  <programme start="20230930000800 +0700" stop="20230930010000 +0700" channel="JTV.id">
     <title lang="id">Menek Blimbing</title>
   </programme>
-  <programme start="20230929010000 +0700" stop="20230929010200 +0700" channel="JTV.id">
+  <programme start="20230930010000 +0700" stop="20230930010200 +0700" channel="JTV.id">
     <title lang="id">Filler Ngopi Sek</title>
   </programme>
-  <programme start="20230929010200 +0700" stop="20230929020000 +0700" channel="JTV.id">
+  <programme start="20230930010200 +0700" stop="20230930020000 +0700" channel="JTV.id">
     <title lang="id">Nusantara Kini</title>
   </programme>
-  <programme start="20230929020000 +0700" stop="20230929030000 +0700" channel="JTV.id">
+  <programme start="20230930020000 +0700" stop="20230930030000 +0700" channel="JTV.id">
     <title lang="id">Stasiun Dangdut</title>
   </programme>
-  <programme start="20230929030000 +0700" stop="20230929040000 +0700" channel="JTV.id">
+  <programme start="20230930030000 +0700" stop="20230930040000 +0700" channel="JTV.id">
     <title lang="id">Ilir - Ilir</title>
   </programme>
-  <programme start="20230929040000 +0700" stop="20230929050000 +0700" channel="JTV.id">
+  <programme start="20230930040000 +0700" stop="20230930050000 +0700" channel="JTV.id">
     <title lang="id">Musica Hits</title>
   </programme>
-  <programme start="20230929050000 +0700" stop="20230929055000 +0700" channel="JTV.id">
-    <title lang="id">Ngaji Blusukan Bangkit</title>
+  <programme start="20230930050000 +0700" stop="20230930055000 +0700" channel="JTV.id">
+    <title lang="id">Ngaji Blusukan</title>
   </programme>
-  <programme start="20230929055000 +0700" stop="20230929055500 +0700" channel="JTV.id">
+  <programme start="20230930055000 +0700" stop="20230930055500 +0700" channel="JTV.id">
     <title lang="id">Station ID JTV Versi Full</title>
   </programme>
-  <programme start="20230929055500 +0700" stop="20230929060000 +0700" channel="JTV.id">
+  <programme start="20230930055500 +0700" stop="20230930060000 +0700" channel="JTV.id">
     <title lang="id">Lagu Kebangsaan Indonesia Raya</title>
   </programme>
-  <programme start="20230929060000 +0700" stop="20230929090000 +0700" channel="JTV.id">
+  <programme start="20230930060000 +0700" stop="20230930090000 +0700" channel="JTV.id">
     <title lang="id">Sea Morning Show</title>
   </programme>
-  <programme start="20230929090000 +0700" stop="20230929090200 +0700" channel="JTV.id">
+  <programme start="20230930090000 +0700" stop="20230930090200 +0700" channel="JTV.id">
     <title lang="id">Filler Ngopi Sek</title>
   </programme>
-  <programme start="20230929090200 +0700" stop="20230929100000 +0700" channel="JTV.id">
+  <programme start="20230930090200 +0700" stop="20230930100000 +0700" channel="JTV.id">
     <title lang="id">Jejak Emas Sang Pemimpin</title>
   </programme>
-  <programme start="20230929100000 +0700" stop="20230929103000 +0700" channel="JTV.id">
+  <programme start="20230930100000 +0700" stop="20230930103000 +0700" channel="JTV.id">
     <title lang="id">Pojok Arena</title>
   </programme>
-  <programme start="20230929103000 +0700" stop="20230929110000 +0700" channel="JTV.id">
+  <programme start="20230930103000 +0700" stop="20230930110000 +0700" channel="JTV.id">
     <title lang="id">Jatim Awan</title>
   </programme>
-  <programme start="20230929110000 +0700" stop="20230929113000 +0700" channel="JTV.id">
+  <programme start="20230930110000 +0700" stop="20230930113000 +0700" channel="JTV.id">
     <title lang="id">Sinau Hurip</title>
   </programme>
-  <programme start="20230929113000 +0700" stop="20230929120000 +0700" channel="JTV.id">
+  <programme start="20230930113000 +0700" stop="20230930120000 +0700" channel="JTV.id">
     <title lang="id">Penting Gak Penting</title>
   </programme>
-  <programme start="20230929120000 +0700" stop="20230929130000 +0700" channel="JTV.id">
+  <programme start="20230930120000 +0700" stop="20230930130000 +0700" channel="JTV.id">
     <title lang="id">Stasiun Dangdut</title>
   </programme>
-  <programme start="20230929130000 +0700" stop="20230929133000 +0700" channel="JTV.id">
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="JTV.id">
     <title lang="id">Madu Hijau</title>
   </programme>
-  <programme start="20230929133000 +0700" stop="20230929133300 +0700" channel="JTV.id">
+  <programme start="20230930133000 +0700" stop="20230930133300 +0700" channel="JTV.id">
     <title lang="id">Berita Gress</title>
   </programme>
-  <programme start="20230929133300 +0700" stop="20230929143000 +0700" channel="JTV.id">
+  <programme start="20230930133300 +0700" stop="20230930143000 +0700" channel="JTV.id">
     <title lang="id">Solusi Sehat</title>
   </programme>
-  <programme start="20230929143000 +0700" stop="20230929153000 +0700" channel="JTV.id">
+  <programme start="20230930143000 +0700" stop="20230930153000 +0700" channel="JTV.id">
     <title lang="id">Nusantara Kini</title>
   </programme>
-  <programme start="20230929153000 +0700" stop="20230929160000 +0700" channel="JTV.id">
+  <programme start="20230930153000 +0700" stop="20230930160000 +0700" channel="JTV.id">
     <title lang="id">Menek Blimbing</title>
   </programme>
-  <programme start="20230929160000 +0700" stop="20230929160300 +0700" channel="JTV.id">
+  <programme start="20230930160000 +0700" stop="20230930160300 +0700" channel="JTV.id">
     <title lang="id">Berita Gress</title>
   </programme>
-  <programme start="20230929160300 +0700" stop="20230929162800 +0700" channel="JTV.id">
+  <programme start="20230930160300 +0700" stop="20230930162800 +0700" channel="JTV.id">
     <title lang="id">Menek Blimbing</title>
   </programme>
-  <programme start="20230929162800 +0700" stop="20230929165800 +0700" channel="JTV.id">
+  <programme start="20230930162800 +0700" stop="20230930165800 +0700" channel="JTV.id">
     <title lang="id">Setapak</title>
   </programme>
-  <programme start="20230929165800 +0700" stop="20230929172800 +0700" channel="JTV.id">
+  <programme start="20230930165800 +0700" stop="20230930172800 +0700" channel="JTV.id">
     <title lang="id">Madu Hijau</title>
   </programme>
-  <programme start="20230929172800 +0700" stop="20230929173000 +0700" channel="JTV.id">
+  <programme start="20230930172800 +0700" stop="20230930173000 +0700" channel="JTV.id">
     <title lang="id">Filler Ngopi Sek</title>
   </programme>
-  <programme start="20230929173000 +0700" stop="20230929180000 +0700" channel="JTV.id">
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="JTV.id">
     <title lang="id">Program Kesehatan</title>
   </programme>
-  <programme start="20230929180000 +0700" stop="20230929180500 +0700" channel="JTV.id">
+  <programme start="20230930180000 +0700" stop="20230930180500 +0700" channel="JTV.id">
     <title lang="id">Kuis Tul Jaenak</title>
   </programme>
-  <programme start="20230929180500 +0700" stop="20230929190000 +0700" channel="JTV.id">
-    <title lang="id">Gak Cuma Cangkrukan</title>
+  <programme start="20230930180500 +0700" stop="20230930190000 +0700" channel="JTV.id">
+    <title lang="id">Ndoro Bei</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929200000 +0700" channel="JTV.id">
+  <programme start="20230930190000 +0700" stop="20230930200000 +0700" channel="JTV.id">
     <title lang="id">Pojok Pitu</title>
   </programme>
-  <programme start="20230929200000 +0700" stop="20230929200500 +0700" channel="JTV.id">
+  <programme start="20230930200000 +0700" stop="20230930200500 +0700" channel="JTV.id">
     <title lang="id">Kuis Tul Jaenak</title>
   </programme>
-  <programme start="20230929200500 +0700" stop="20230929210000 +0700" channel="JTV.id">
-    <title lang="id">Solusi Bisnis</title>
+  <programme start="20230930200500 +0700" stop="20230930203000 +0700" channel="JTV.id">
+    <title lang="id">Program Kesehatan</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929220000 +0700" channel="JTV.id">
+  <programme start="20230930203000 +0700" stop="20230930220000 +0700" channel="JTV.id">
+    <title lang="id">Inspirasi Kita</title>
+  </programme>
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="JTV.id">
     <title lang="id">Pojok Kampung</title>
   </programme>
-  <programme start="20230929220000 +0700" stop="20230929223000 +0700" channel="JTV.id">
+  <programme start="20230930223000 +0700" stop="20230930230000 +0700" channel="JTV.id">
     <title lang="id">Program Kesehatan</title>
   </programme>
-  <programme start="20230929223000 +0700" stop="20230929230000 +0700" channel="JTV.id">
-    <title lang="id">Program Kesehatan</title>
-  </programme>
-  <programme start="20230929230000 +0700" stop="20230929230300 +0700" channel="JTV.id">
+  <programme start="20230930230000 +0700" stop="20230930230300 +0700" channel="JTV.id">
     <title lang="id">Filler Ngopi Sek</title>
   </programme>
-  <programme start="20230929230300 +0700" stop="20230929233300 +0700" channel="JTV.id">
+  <programme start="20230930230300 +0700" stop="20230930233300 +0700" channel="JTV.id">
     <title lang="id">Kesatrian</title>
   </programme>
-  <programme start="20230929233300 +0700" stop="20230930000000 +0700" channel="JTV.id">
+  <programme start="20230930233300 +0700" stop="20231001000000 +0700" channel="JTV.id">
     <title lang="id">Jurit Malam</title>
   </programme>
-  <programme start="20230929003000 +0700" stop="20230929023000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Bintang Pantura 6 - Eps. 20</title>
-  </programme>
-  <programme start="20230929023000 +0700" stop="20230929043000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy 5 - Eps. 6</title>
-  </programme>
-  <programme start="20230929043000 +0700" stop="20230929050000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230929050000 +0700" stop="20230929070000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy Asia 4 - Eps. 27</title>
-  </programme>
-  <programme start="20230929070000 +0700" stop="20230929073000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230929073000 +0700" stop="20230929083000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Cinta Karena Cinta - Eps. 82</title>
-  </programme>
-  <programme start="20230929083000 +0700" stop="20230929103000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Bintang Pantura 6 - Eps. 20</title>
-  </programme>
-  <programme start="20230929103000 +0700" stop="20230929123000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy 5 - Eps. 6</title>
-  </programme>
-  <programme start="20230929123000 +0700" stop="20230929130000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230929130000 +0700" stop="20230929150000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Dangdut Academy Asia 4 - Eps. 27</title>
-  </programme>
-  <programme start="20230929150000 +0700" stop="20230929153000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Video Clip</title>
-  </programme>
-  <programme start="20230929153000 +0700" stop="20230929163000 +0700" channel="CitraDangdut.id">
-    <title lang="id">Cinta Karena Cinta - Eps. 83</title>
-  </programme>
-  <programme start="20230929163000 +0700" stop="20230929183000 +0700" channel="CitraDangdut.id">
+  <programme start="20230930003000 +0700" stop="20230930023000 +0700" channel="CitraDangdut.id">
     <title lang="id">Bintang Pantura 6 - Eps. 21</title>
   </programme>
-  <programme start="20230929183000 +0700" stop="20230929203000 +0700" channel="CitraDangdut.id">
+  <programme start="20230930023000 +0700" stop="20230930043000 +0700" channel="CitraDangdut.id">
     <title lang="id">Dangdut Academy 5 - Eps. 7</title>
   </programme>
-  <programme start="20230929203000 +0700" stop="20230929210000 +0700" channel="CitraDangdut.id">
+  <programme start="20230930043000 +0700" stop="20230930050000 +0700" channel="CitraDangdut.id">
     <title lang="id">Video Clip</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929230000 +0700" channel="CitraDangdut.id">
+  <programme start="20230930050000 +0700" stop="20230930070000 +0700" channel="CitraDangdut.id">
     <title lang="id">Dangdut Academy Asia 4 - Eps. 28</title>
   </programme>
-  <programme start="20230929230000 +0700" stop="20230930003000 +0700" channel="CitraDangdut.id">
+  <programme start="20230930070000 +0700" stop="20230930083000 +0700" channel="CitraDangdut.id">
     <title lang="id">Miss Patin Cinta Lahir Batin</title>
   </programme>
-  <programme start="20230929000000 +0700" stop="20230929003000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Block Movie - Wish Upon A Star</title>
+  <programme start="20230930083000 +0700" stop="20230930103000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Bintang Pantura 6 - Eps. 21</title>
   </programme>
-  <programme start="20230929003000 +0700" stop="20230929010000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Block Movie - Wish Upon A Star</title>
+  <programme start="20230930103000 +0700" stop="20230930123000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Dangdut Academy 5 - Eps. 7</title>
   </programme>
-  <programme start="20230929010000 +0700" stop="20230929013000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Block Movie - Wish Upon A Star</title>
+  <programme start="20230930123000 +0700" stop="20230930130000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Video Clip</title>
   </programme>
-  <programme start="20230929013000 +0700" stop="20230929020000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Block Movie - Wish Upon A Star</title>
+  <programme start="20230930130000 +0700" stop="20230930150000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Dangdut Academy Asia 4 - Eps. 28</title>
   </programme>
-  <programme start="20230929020000 +0700" stop="20230929023000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930150000 +0700" stop="20230930163000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Miss Patin Cinta Lahir Batin</title>
+  </programme>
+  <programme start="20230930163000 +0700" stop="20230930183000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Bintang Pantura 6 - Eps. 22</title>
+  </programme>
+  <programme start="20230930183000 +0700" stop="20230930203000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Dangdut Academy 5 - Eps. 8</title>
+  </programme>
+  <programme start="20230930203000 +0700" stop="20230930210000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Video Clip</title>
+  </programme>
+  <programme start="20230930210000 +0700" stop="20230930230000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Dangdut Academy Asia 4 - Eps. 29</title>
+  </programme>
+  <programme start="20230930230000 +0700" stop="20231001000000 +0700" channel="CitraDangdut.id">
+    <title lang="id">Labrak Mantan Auto Manten</title>
+  </programme>
+  <programme start="20230930000000 +0700" stop="20230930003000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Block Movie - Crossing Path</title>
+  </programme>
+  <programme start="20230930003000 +0700" stop="20230930010000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Block Movie - Crossing Path</title>
+  </programme>
+  <programme start="20230930010000 +0700" stop="20230930013000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Block Movie - Crossing Path</title>
+  </programme>
+  <programme start="20230930013000 +0700" stop="20230930020000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Block Movie - Crossing Path</title>
+  </programme>
+  <programme start="20230930020000 +0700" stop="20230930023000 +0700" channel="NusantaraTV.id">
     <title lang="id">Zona Islam</title>
   </programme>
-  <programme start="20230929023000 +0700" stop="20230929030000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930023000 +0700" stop="20230930030000 +0700" channel="NusantaraTV.id">
     <title lang="id">Soundcore</title>
   </programme>
-  <programme start="20230929030000 +0700" stop="20230929033000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930030000 +0700" stop="20230930033000 +0700" channel="NusantaraTV.id">
     <title lang="id">Soundcore</title>
   </programme>
-  <programme start="20230929033000 +0700" stop="20230929040000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930033000 +0700" stop="20230930040000 +0700" channel="NusantaraTV.id">
     <title lang="id">Kisah - Kisah Masjid Tua</title>
   </programme>
-  <programme start="20230929040000 +0700" stop="20230929043000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930040000 +0700" stop="20230930043000 +0700" channel="NusantaraTV.id">
     <title lang="id">Zona Islam</title>
   </programme>
-  <programme start="20230929043000 +0700" stop="20230929050000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930043000 +0700" stop="20230930050000 +0700" channel="NusantaraTV.id">
     <title lang="id">Ashop Matras Dana Bio Sun 3S</title>
   </programme>
-  <programme start="20230929050000 +0700" stop="20230929053000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930050000 +0700" stop="20230930053000 +0700" channel="NusantaraTV.id">
     <title lang="id">Ashop Matras Dana Bio Sun 3S</title>
   </programme>
-  <programme start="20230929053000 +0700" stop="20230929060000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930053000 +0700" stop="20230930060000 +0700" channel="NusantaraTV.id">
     <title lang="id">World In 30 Minutes</title>
   </programme>
-  <programme start="20230929060000 +0700" stop="20230929063000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Pagi</title>
+  <programme start="20230930060000 +0700" stop="20230930063000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Feature Voa</title>
   </programme>
-  <programme start="20230929063000 +0700" stop="20230929070000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930063000 +0700" stop="20230930070000 +0700" channel="NusantaraTV.id">
     <title lang="id">Kartunika</title>
   </programme>
-  <programme start="20230929070000 +0700" stop="20230929073000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Classic Cartoon</title>
-  </programme>
-  <programme start="20230929073000 +0700" stop="20230929080000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930070000 +0700" stop="20230930073000 +0700" channel="NusantaraTV.id">
     <title lang="id">Kartunika</title>
   </programme>
-  <programme start="20230929080000 +0700" stop="20230929083000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930073000 +0700" stop="20230930080000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Kartunika</title>
+  </programme>
+  <programme start="20230930080000 +0700" stop="20230930083000 +0700" channel="NusantaraTV.id">
     <title lang="id">Ashop Gilmore</title>
   </programme>
-  <programme start="20230929083000 +0700" stop="20230929090000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930083000 +0700" stop="20230930090000 +0700" channel="NusantaraTV.id">
     <title lang="id">Ashop Gilmore</title>
   </programme>
-  <programme start="20230929090000 +0700" stop="20230929093000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930090000 +0700" stop="20230930093000 +0700" channel="NusantaraTV.id">
     <title lang="id">Jelajah Rasa</title>
   </programme>
-  <programme start="20230929093000 +0700" stop="20230929100000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
+  <programme start="20230930093000 +0700" stop="20230930100000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Dunia Kita Voa</title>
   </programme>
-  <programme start="20230929100000 +0700" stop="20230929100200 +0700" channel="NusantaraTV.id">
-    <title lang="id">Sekilas Nusantara</title>
+  <programme start="20230930100000 +0700" stop="20230930100200 +0700" channel="NusantaraTV.id">
+    <title lang="id">Japri</title>
   </programme>
-  <programme start="20230929100200 +0700" stop="20230929103000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Super Bollywood</title>
+  <programme start="20230930100200 +0700" stop="20230930103000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Japri</title>
   </programme>
-  <programme start="20230929103000 +0700" stop="20230929110000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Ftv Acffest Kpk</title>
+  <programme start="20230930103000 +0700" stop="20230930110000 +0700" channel="NusantaraTV.id">
+    <title lang="id">WhatS Up</title>
   </programme>
-  <programme start="20230929110000 +0700" stop="20230929113000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Siang</title>
+  <programme start="20230930110000 +0700" stop="20230930113000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Share Loc</title>
   </programme>
-  <programme start="20230929113000 +0700" stop="20230929120000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Siang</title>
+  <programme start="20230930113000 +0700" stop="20230930120000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Feature Voa</title>
   </programme>
-  <programme start="20230929120000 +0700" stop="20230929123000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930120000 +0700" stop="20230930123000 +0700" channel="NusantaraTV.id">
     <title lang="id">Soundcore</title>
   </programme>
-  <programme start="20230929123000 +0700" stop="20230929130000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930123000 +0700" stop="20230930130000 +0700" channel="NusantaraTV.id">
     <title lang="id">Soundcore</title>
   </programme>
-  <programme start="20230929130000 +0700" stop="20230929133000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929133000 +0700" stop="20230929140000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930133000 +0700" stop="20230930140000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929140000 +0700" stop="20230929140200 +0700" channel="NusantaraTV.id">
-    <title lang="id">Sekilas Nusantara</title>
-  </programme>
-  <programme start="20230929140200 +0700" stop="20230929143000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930140000 +0700" stop="20230930140200 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929143000 +0700" stop="20230929150000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930140200 +0700" stop="20230930143000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929150000 +0700" stop="20230929153000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930143000 +0700" stop="20230930150000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Super Bollywood</title>
+  </programme>
+  <programme start="20230930150000 +0700" stop="20230930153000 +0700" channel="NusantaraTV.id">
     <title lang="id">Classic Cartoon</title>
   </programme>
-  <programme start="20230929153000 +0700" stop="20230929160000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930153000 +0700" stop="20230930160000 +0700" channel="NusantaraTV.id">
     <title lang="id">Kartunika</title>
   </programme>
-  <programme start="20230929160000 +0700" stop="20230929163000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930160000 +0700" stop="20230930163000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929163000 +0700" stop="20230929170000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930163000 +0700" stop="20230930170000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929170000 +0700" stop="20230929173000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930170000 +0700" stop="20230930173000 +0700" channel="NusantaraTV.id">
     <title lang="id">Up To Date Yuk</title>
   </programme>
-  <programme start="20230929173000 +0700" stop="20230929180000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Petang</title>
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Celebrity Fresh</title>
   </programme>
-  <programme start="20230929180000 +0700" stop="20230929183000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Petang</title>
+  <programme start="20230930180000 +0700" stop="20230930183000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Jelajah Rasa</title>
   </programme>
-  <programme start="20230929183000 +0700" stop="20230929190000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930183000 +0700" stop="20230930190000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929193000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930190000 +0700" stop="20230930193000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929193000 +0700" stop="20230929200000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930193000 +0700" stop="20230930200000 +0700" channel="NusantaraTV.id">
     <title lang="id">Kok Bisa Viral</title>
   </programme>
-  <programme start="20230929200000 +0700" stop="20230929200200 +0700" channel="NusantaraTV.id">
-    <title lang="id">Sekilas Nusantara</title>
-  </programme>
-  <programme start="20230929200200 +0700" stop="20230929203000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930200000 +0700" stop="20230930200200 +0700" channel="NusantaraTV.id">
     <title lang="id">Kok Bisa Viral</title>
   </programme>
-  <programme start="20230929203000 +0700" stop="20230929210000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930200200 +0700" stop="20230930203000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Kok Bisa Viral</title>
+  </programme>
+  <programme start="20230930203000 +0700" stop="20230930210000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929213000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930210000 +0700" stop="20230930213000 +0700" channel="NusantaraTV.id">
     <title lang="id">Super Bollywood</title>
   </programme>
-  <programme start="20230929213000 +0700" stop="20230929220000 +0700" channel="NusantaraTV.id">
+  <programme start="20230930213000 +0700" stop="20230930220000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Super Bollywood</title>
+  </programme>
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Super Bollywood</title>
+  </programme>
+  <programme start="20230930223000 +0700" stop="20230930230000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Nusantara Sepekan</title>
+  </programme>
+  <programme start="20230930230000 +0700" stop="20230930233000 +0700" channel="NusantaraTV.id">
     <title lang="id">Mata Dunia</title>
   </programme>
-  <programme start="20230929220000 +0700" stop="20230929223000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Nusantara Malam</title>
+  <programme start="20230930233000 +0700" stop="20231001000000 +0700" channel="NusantaraTV.id">
+    <title lang="id">Feature Voa</title>
   </programme>
-  <programme start="20230929223000 +0700" stop="20230929230000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Editor Choice</title>
-  </programme>
-  <programme start="20230929230000 +0700" stop="20230929233000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Apa Kata Dunia</title>
-  </programme>
-  <programme start="20230929233000 +0700" stop="20230930000000 +0700" channel="NusantaraTV.id">
-    <title lang="id">Ntv Sport</title>
-  </programme>
-  <programme start="20230929000000 +0700" stop="20230929003000 +0700" channel="iNews.id">
+  <programme start="20230930000000 +0700" stop="20230930003000 +0700" channel="iNews.id">
     <title lang="id">Imovie</title>
   </programme>
-  <programme start="20230929003000 +0700" stop="20230929010000 +0700" channel="iNews.id">
+  <programme start="20230930003000 +0700" stop="20230930010000 +0700" channel="iNews.id">
     <title lang="id">Gx</title>
   </programme>
-  <programme start="20230929010000 +0700" stop="20230929013000 +0700" channel="iNews.id">
+  <programme start="20230930010000 +0700" stop="20230930013000 +0700" channel="iNews.id">
     <title lang="id">Asian Games</title>
   </programme>
-  <programme start="20230929013000 +0700" stop="20230929020000 +0700" channel="iNews.id">
+  <programme start="20230930013000 +0700" stop="20230930020000 +0700" channel="iNews.id">
     <title lang="id">Asian Games</title>
   </programme>
-  <programme start="20230929020000 +0700" stop="20230929023000 +0700" channel="iNews.id">
+  <programme start="20230930020000 +0700" stop="20230930023000 +0700" channel="iNews.id">
     <title lang="id">Asian Games</title>
   </programme>
-  <programme start="20230929023000 +0700" stop="20230929030000 +0700" channel="iNews.id">
+  <programme start="20230930023000 +0700" stop="20230930030000 +0700" channel="iNews.id">
     <title lang="id">Asian Games</title>
   </programme>
-  <programme start="20230929030000 +0700" stop="20230929033000 +0700" channel="iNews.id">
+  <programme start="20230930030000 +0700" stop="20230930033000 +0700" channel="iNews.id">
     <title lang="id">Inews Malam</title>
   </programme>
-  <programme start="20230929033000 +0700" stop="20230929033500 +0700" channel="iNews.id">
+  <programme start="20230930033000 +0700" stop="20230930033500 +0700" channel="iNews.id">
     <title lang="id">Inews Malam</title>
   </programme>
-  <programme start="20230929033500 +0700" stop="20230929040000 +0700" channel="iNews.id">
+  <programme start="20230930033500 +0700" stop="20230930040000 +0700" channel="iNews.id">
     <title lang="id">Padamu Negeri</title>
   </programme>
-  <programme start="20230929040000 +0700" stop="20230929041800 +0700" channel="iNews.id">
+  <programme start="20230930040000 +0700" stop="20230930041800 +0700" channel="iNews.id">
     <title lang="id">Sergap</title>
   </programme>
-  <programme start="20230929041800 +0700" stop="20230929042000 +0700" channel="iNews.id">
+  <programme start="20230930041800 +0700" stop="20230930042000 +0700" channel="iNews.id">
     <title lang="id">Indonesia Raya</title>
   </programme>
-  <programme start="20230929042000 +0700" stop="20230929050000 +0700" channel="iNews.id">
+  <programme start="20230930042000 +0700" stop="20230930050000 +0700" channel="iNews.id">
     <title lang="id">Inews Pagi</title>
   </programme>
-  <programme start="20230929050000 +0700" stop="20230929053000 +0700" channel="iNews.id">
+  <programme start="20230930050000 +0700" stop="20230930053000 +0700" channel="iNews.id">
     <title lang="id">Inews Pagi</title>
   </programme>
-  <programme start="20230929053000 +0700" stop="20230929060000 +0700" channel="iNews.id">
+  <programme start="20230930053000 +0700" stop="20230930060000 +0700" channel="iNews.id">
     <title lang="id">Inews Pagi</title>
   </programme>
-  <programme start="20230929060000 +0700" stop="20230929063000 +0700" channel="iNews.id">
+  <programme start="20230930060000 +0700" stop="20230930063000 +0700" channel="iNews.id">
     <title lang="id">Special Report</title>
   </programme>
-  <programme start="20230929063000 +0700" stop="20230929070000 +0700" channel="iNews.id">
-    <title lang="id">Morning Update</title>
+  <programme start="20230930063000 +0700" stop="20230930070000 +0700" channel="iNews.id">
+    <title lang="id">Special Report</title>
   </programme>
-  <programme start="20230929070000 +0700" stop="20230929073000 +0700" channel="iNews.id">
-    <title lang="id">Morning Update</title>
+  <programme start="20230930070000 +0700" stop="20230930073000 +0700" channel="iNews.id">
+    <title lang="id">Merial</title>
   </programme>
-  <programme start="20230929073000 +0700" stop="20230929080000 +0700" channel="iNews.id">
-    <title lang="id">Ibreak</title>
+  <programme start="20230930073000 +0700" stop="20230930080000 +0700" channel="iNews.id">
+    <title lang="id">Wajah Indonesia</title>
   </programme>
-  <programme start="20230929080000 +0700" stop="20230929083000 +0700" channel="iNews.id">
+  <programme start="20230930080000 +0700" stop="20230930083000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929083000 +0700" stop="20230929090000 +0700" channel="iNews.id">
+  <programme start="20230930083000 +0700" stop="20230930090000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929090000 +0700" stop="20230929093000 +0700" channel="iNews.id">
+  <programme start="20230930090000 +0700" stop="20230930093000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929093000 +0700" stop="20230929100000 +0700" channel="iNews.id">
+  <programme start="20230930093000 +0700" stop="20230930100000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929100000 +0700" stop="20230929103000 +0700" channel="iNews.id">
+  <programme start="20230930100000 +0700" stop="20230930103000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929103000 +0700" stop="20230929110000 +0700" channel="iNews.id">
+  <programme start="20230930103000 +0700" stop="20230930110000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929110000 +0700" stop="20230929113000 +0700" channel="iNews.id">
+  <programme start="20230930110000 +0700" stop="20230930113000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929113000 +0700" stop="20230929120000 +0700" channel="iNews.id">
+  <programme start="20230930113000 +0700" stop="20230930120000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929120000 +0700" stop="20230929123000 +0700" channel="iNews.id">
+  <programme start="20230930120000 +0700" stop="20230930123000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929123000 +0700" stop="20230929130000 +0700" channel="iNews.id">
+  <programme start="20230930123000 +0700" stop="20230930130000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929130000 +0700" stop="20230929133000 +0700" channel="iNews.id">
-    <title lang="id">Intens Reborn</title>
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="iNews.id">
+    <title lang="id">Iseleb</title>
   </programme>
-  <programme start="20230929133000 +0700" stop="20230929140000 +0700" channel="iNews.id">
-    <title lang="id">Intens Reborn</title>
+  <programme start="20230930133000 +0700" stop="20230930140000 +0700" channel="iNews.id">
+    <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929140000 +0700" stop="20230929143000 +0700" channel="iNews.id">
-    <title lang="id">I Seleb</title>
+  <programme start="20230930140000 +0700" stop="20230930143000 +0700" channel="iNews.id">
+    <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929143000 +0700" stop="20230929150000 +0700" channel="iNews.id">
-    <title lang="id">I Seleb</title>
+  <programme start="20230930143000 +0700" stop="20230930150000 +0700" channel="iNews.id">
+    <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929150000 +0700" stop="20230929153000 +0700" channel="iNews.id">
+  <programme start="20230930150000 +0700" stop="20230930153000 +0700" channel="iNews.id">
+    <title lang="id">Asian Games 2022</title>
+  </programme>
+  <programme start="20230930153000 +0700" stop="20230930160000 +0700" channel="iNews.id">
     <title lang="id">Realita</title>
   </programme>
-  <programme start="20230929153000 +0700" stop="20230929160000 +0700" channel="iNews.id">
-    <title lang="id">Realita</title>
-  </programme>
-  <programme start="20230929160000 +0700" stop="20230929163000 +0700" channel="iNews.id">
+  <programme start="20230930160000 +0700" stop="20230930163000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929163000 +0700" stop="20230929170000 +0700" channel="iNews.id">
+  <programme start="20230930163000 +0700" stop="20230930170000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929170000 +0700" stop="20230929173000 +0700" channel="iNews.id">
+  <programme start="20230930170000 +0700" stop="20230930173000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929173000 +0700" stop="20230929180000 +0700" channel="iNews.id">
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929180000 +0700" stop="20230929183000 +0700" channel="iNews.id">
+  <programme start="20230930180000 +0700" stop="20230930183000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929183000 +0700" stop="20230929190000 +0700" channel="iNews.id">
+  <programme start="20230930183000 +0700" stop="20230930190000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929193000 +0700" channel="iNews.id">
+  <programme start="20230930190000 +0700" stop="20230930193000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929193000 +0700" stop="20230929200000 +0700" channel="iNews.id">
+  <programme start="20230930193000 +0700" stop="20230930200000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929200000 +0700" stop="20230929203000 +0700" channel="iNews.id">
+  <programme start="20230930200000 +0700" stop="20230930203000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929203000 +0700" stop="20230929210000 +0700" channel="iNews.id">
+  <programme start="20230930203000 +0700" stop="20230930210000 +0700" channel="iNews.id">
     <title lang="id">Asian Games 2022</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929213000 +0700" channel="iNews.id">
-    <title lang="id">Inews Prime</title>
-  </programme>
-  <programme start="20230929213000 +0700" stop="20230929213500 +0700" channel="iNews.id">
-    <title lang="id">Inews Prime</title>
-  </programme>
-  <programme start="20230929213500 +0700" stop="20230929220000 +0700" channel="iNews.id">
-    <title lang="id">Inews Malam</title>
-  </programme>
-  <programme start="20230929220000 +0700" stop="20230929223000 +0700" channel="iNews.id">
-    <title lang="id">Inews Malam</title>
-  </programme>
-  <programme start="20230929223000 +0700" stop="20230929230000 +0700" channel="iNews.id">
+  <programme start="20230930210000 +0700" stop="20230930213000 +0700" channel="iNews.id">
     <title lang="id">Imovie</title>
   </programme>
-  <programme start="20230929230000 +0700" stop="20230929233000 +0700" channel="iNews.id">
+  <programme start="20230930213000 +0700" stop="20230930220000 +0700" channel="iNews.id">
     <title lang="id">Imovie</title>
   </programme>
-  <programme start="20230929233000 +0700" stop="20230930000000 +0700" channel="iNews.id">
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="iNews.id">
     <title lang="id">Imovie</title>
   </programme>
-  <programme start="20230929000000 +0700" stop="20230929010000 +0700" channel="MQTV.id">
+  <programme start="20230930223000 +0700" stop="20230930230000 +0700" channel="iNews.id">
+    <title lang="id">Imovie</title>
+  </programme>
+  <programme start="20230930230000 +0700" stop="20230930233000 +0700" channel="iNews.id">
+    <title lang="id">Imovie</title>
+  </programme>
+  <programme start="20230930233000 +0700" stop="20231001000000 +0700" channel="iNews.id">
+    <title lang="id">Imovie</title>
+  </programme>
+  <programme start="20230930000000 +0700" stop="20230930010000 +0700" channel="MQTV.id">
     <title lang="id">Kajian Tauhiid</title>
   </programme>
-  <programme start="20230929010000 +0700" stop="20230929020000 +0700" channel="MQTV.id">
+  <programme start="20230930010000 +0700" stop="20230930020000 +0700" channel="MQTV.id">
     <title lang="id">Ustadz Jaga</title>
   </programme>
-  <programme start="20230929020000 +0700" stop="20230929030000 +0700" channel="MQTV.id">
+  <programme start="20230930020000 +0700" stop="20230930030000 +0700" channel="MQTV.id">
     <title lang="id">Murottal Al Quran 30 Juzz</title>
   </programme>
-  <programme start="20230929030000 +0700" stop="20230929040000 +0700" channel="MQTV.id">
+  <programme start="20230930030000 +0700" stop="20230930040000 +0700" channel="MQTV.id">
     <title lang="id">Menggapai Cinta Allah Buya Yahya</title>
   </programme>
-  <programme start="20230929040000 +0700" stop="20230929043000 +0700" channel="MQTV.id">
+  <programme start="20230930040000 +0700" stop="20230930043000 +0700" channel="MQTV.id">
     <title lang="id">Filler Daarut Tauhiid Peduli</title>
   </programme>
-  <programme start="20230929043000 +0700" stop="20230929050000 +0700" channel="MQTV.id">
+  <programme start="20230930043000 +0700" stop="20230930050000 +0700" channel="MQTV.id">
     <title lang="id">Colour Bar - Murottal Al Quran</title>
   </programme>
-  <programme start="20230929050000 +0700" stop="20230929060000 +0700" channel="MQTV.id">
+  <programme start="20230930050000 +0700" stop="20230930060000 +0700" channel="MQTV.id">
     <title lang="id">Kajian MQ Pagi KH. Abdullah Gymnastiar</title>
   </programme>
-  <programme start="20230929060000 +0700" stop="20230929070000 +0700" channel="MQTV.id">
+  <programme start="20230930060000 +0700" stop="20230930070000 +0700" channel="MQTV.id">
     <title lang="id">Menggapai Cinta Allah Buya Yahya</title>
   </programme>
-  <programme start="20230929070000 +0700" stop="20230929073000 +0700" channel="MQTV.id">
+  <programme start="20230930070000 +0700" stop="20230930073000 +0700" channel="MQTV.id">
     <title lang="id">Ka Amy dan Sahabat</title>
   </programme>
-  <programme start="20230929073000 +0700" stop="20230929080000 +0700" channel="MQTV.id">
+  <programme start="20230930073000 +0700" stop="20230930080000 +0700" channel="MQTV.id">
     <title lang="id">Kopontren Daarut Tauhiid</title>
   </programme>
-  <programme start="20230929080000 +0700" stop="20230929090000 +0700" channel="MQTV.id">
+  <programme start="20230930080000 +0700" stop="20230930090000 +0700" channel="MQTV.id">
     <title lang="id">Difabel Bisa Berkarya</title>
   </programme>
-  <programme start="20230929090000 +0700" stop="20230929100000 +0700" channel="MQTV.id">
-    <title lang="id">Ustadz Jaga</title>
+  <programme start="20230930090000 +0700" stop="20230930093000 +0700" channel="MQTV.id">
+    <title lang="id">Inspirasi Mas Gatot</title>
   </programme>
-  <programme start="20230929000000 +0700" stop="20230929020000 +0700" channel="TV9NU.id">
-    <title lang="id">Shallu Alan Ahbabul Musthofa</title>
+  <programme start="20230930093000 +0700" stop="20230930100000 +0700" channel="MQTV.id">
+    <title lang="id">Agent Of Change</title>
   </programme>
-  <programme start="20230929020000 +0700" stop="20230929030000 +0700" channel="TV9NU.id">
+  <programme start="20230930100000 +0700" stop="20230930110000 +0700" channel="MQTV.id">
+    <title lang="id">Cerita Muslimah</title>
+  </programme>
+  <programme start="20230930110000 +0700" stop="20230930120000 +0700" channel="MQTV.id">
+    <title lang="id">Menggapai Cinta Allah AA Gym</title>
+  </programme>
+  <programme start="20230930120000 +0700" stop="20230930123000 +0700" channel="MQTV.id">
+    <title lang="id">Adzan Dzuhur - Murrotal</title>
+  </programme>
+  <programme start="20230930123000 +0700" stop="20230930130000 +0700" channel="MQTV.id">
+    <title lang="id">Madu M Nature</title>
+  </programme>
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="MQTV.id">
+    <title lang="id">Berita Akhir Pekan</title>
+  </programme>
+  <programme start="20230930133000 +0700" stop="20230930143000 +0700" channel="MQTV.id">
+    <title lang="id">Kajian Tauhiid</title>
+  </programme>
+  <programme start="20230930143000 +0700" stop="20230930150000 +0700" channel="MQTV.id">
+    <title lang="id">Smartmom</title>
+  </programme>
+  <programme start="20230930150000 +0700" stop="20230930153000 +0700" channel="MQTV.id">
+    <title lang="id">Kajian Singkat AA Gym - Adzan Ashar - Murotal</title>
+  </programme>
+  <programme start="20230930153000 +0700" stop="20230930160000 +0700" channel="MQTV.id">
+    <title lang="id">Tanya Ustadz</title>
+  </programme>
+  <programme start="20230930160000 +0700" stop="20230930170000 +0700" channel="MQTV.id">
+    <title lang="id">Dibalik Layar</title>
+  </programme>
+  <programme start="20230930170000 +0700" stop="20230930173000 +0700" channel="MQTV.id">
+    <title lang="id">Berkah Baitullah</title>
+  </programme>
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="MQTV.id">
+    <title lang="id">Kajian Singkat AA Gym - Adzan Maghrib</title>
+  </programme>
+  <programme start="20230930180000 +0700" stop="20230930183000 +0700" channel="MQTV.id">
+    <title lang="id">Living With Quran</title>
+  </programme>
+  <programme start="20230930183000 +0700" stop="20230930190000 +0700" channel="MQTV.id">
+    <title lang="id">Dakwah Zilenial</title>
+  </programme>
+  <programme start="20230930190000 +0700" stop="20230930200000 +0700" channel="MQTV.id">
+    <title lang="id">Power Of Soul</title>
+  </programme>
+  <programme start="20230930200000 +0700" stop="20230930203000 +0700" channel="MQTV.id">
+    <title lang="id">Pariwara</title>
+  </programme>
+  <programme start="20230930203000 +0700" stop="20230930210000 +0700" channel="MQTV.id">
+    <title lang="id">Pariwara</title>
+  </programme>
+  <programme start="20230930210000 +0700" stop="20230930220000 +0700" channel="MQTV.id">
+    <title lang="id">Kajian Tauhiid</title>
+  </programme>
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="MQTV.id">
+    <title lang="id">Daarut Tauhiid Peduli - Murotal</title>
+  </programme>
+  <programme start="20230930223000 +0700" stop="20230930233000 +0700" channel="MQTV.id">
+    <title lang="id">Menggapai Cinta Allah AA Gym</title>
+  </programme>
+  <programme start="20230930233000 +0700" stop="20231001000000 +0700" channel="MQTV.id">
+    <title lang="id">Murottal Al Quran</title>
+  </programme>
+  <programme start="20230930000000 +0700" stop="20230930020000 +0700" channel="TV9NU.id">
+    <title lang="id">Shollu Alan Nabi Majelis Az Zahir</title>
+  </programme>
+  <programme start="20230930020000 +0700" stop="20230930030000 +0700" channel="TV9NU.id">
     <title lang="id">Umu Kultsum</title>
   </programme>
-  <programme start="20230929030000 +0700" stop="20230929040000 +0700" channel="TV9NU.id">
-    <title lang="id">Kiswah Gus Rifqil Muslim</title>
+  <programme start="20230930030000 +0700" stop="20230930040000 +0700" channel="TV9NU.id">
+    <title lang="id">Kiswah Kh Ismail Al Ascholy</title>
   </programme>
-  <programme start="20230929040000 +0700" stop="20230929050000 +0700" channel="TV9NU.id">
+  <programme start="20230930040000 +0700" stop="20230930050000 +0700" channel="TV9NU.id">
     <title lang="id">QurAn Tazkiah</title>
   </programme>
-  <programme start="20230929050000 +0700" stop="20230929060000 +0700" channel="TV9NU.id">
-    <title lang="id">Kiswah Kh Ihya Ulumuddin</title>
+  <programme start="20230930050000 +0700" stop="20230930060000 +0700" channel="TV9NU.id">
+    <title lang="id">Kiswah Kh Muzakki Birul Alim</title>
   </programme>
-  <programme start="20230929060000 +0700" stop="20230929063000 +0700" channel="TV9NU.id">
-    <title lang="id">Aswaja Hari Jumat</title>
+  <programme start="20230930060000 +0700" stop="20230930073000 +0700" channel="TV9NU.id">
+    <title lang="id">Jurnal9 Weekend</title>
   </programme>
-  <programme start="20230929063000 +0700" stop="20230929070000 +0700" channel="TV9NU.id">
-    <title lang="id">Musik Religi</title>
-  </programme>
-  <programme start="20230929070000 +0700" stop="20230929073000 +0700" channel="TV9NU.id">
-    <title lang="id">Wisata Religi</title>
-  </programme>
-  <programme start="20230929073000 +0700" stop="20230929080000 +0700" channel="TV9NU.id">
+  <programme start="20230930073000 +0700" stop="20230930080000 +0700" channel="TV9NU.id">
     <title lang="id">Jatim Vacation</title>
   </programme>
-  <programme start="20230929080000 +0700" stop="20230929090000 +0700" channel="TV9NU.id">
-    <title lang="id">Kiswah Female Ning Imas</title>
+  <programme start="20230930080000 +0700" stop="20230930090000 +0700" channel="TV9NU.id">
+    <title lang="id">Kiswah Female Ning Imroatul Azizah</title>
   </programme>
-  <programme start="20230929090000 +0700" stop="20230929100000 +0700" channel="TV9NU.id">
-    <title lang="id">Podcast Rumah Cerita</title>
+  <programme start="20230930090000 +0700" stop="20230930100000 +0700" channel="TV9NU.id">
+    <title lang="id">Morening Show</title>
   </programme>
-  <programme start="20230929100000 +0700" stop="20230929110000 +0700" channel="TV9NU.id">
+  <programme start="20230930100000 +0700" stop="20230930110000 +0700" channel="TV9NU.id">
     <title lang="id">Sinema Religi Nabi Yusuf</title>
   </programme>
-  <programme start="20230929110000 +0700" stop="20230929113000 +0700" channel="TV9NU.id">
+  <programme start="20230930110000 +0700" stop="20230930113000 +0700" channel="TV9NU.id">
     <title lang="id">Tadarus Al-Quran</title>
   </programme>
-  <programme start="20230929113000 +0700" stop="20230929120000 +0700" channel="TV9NU.id">
-    <title lang="id">Seni Sastra</title>
+  <programme start="20230930113000 +0700" stop="20230930120000 +0700" channel="TV9NU.id">
+    <title lang="id">Dongeng Rempah</title>
   </programme>
-  <programme start="20230929120000 +0700" stop="20230929130000 +0700" channel="TV9NU.id">
+  <programme start="20230930120000 +0700" stop="20230930130000 +0700" channel="TV9NU.id">
     <title lang="id">Jurnal9 Siang</title>
   </programme>
-  <programme start="20230929130000 +0700" stop="20230929140000 +0700" channel="TV9NU.id">
-    <title lang="id">Kiswah Gus Rifqil Muslim</title>
+  <programme start="20230930130000 +0700" stop="20230930140000 +0700" channel="TV9NU.id">
+    <title lang="id">Kiswah Kh Ismail Al Ascholy</title>
   </programme>
-  <programme start="20230929140000 +0700" stop="20230929143000 +0700" channel="TV9NU.id">
+  <programme start="20230930140000 +0700" stop="20230930143000 +0700" channel="TV9NU.id">
     <title lang="id">Kita Wayang Kita</title>
   </programme>
-  <programme start="20230929143000 +0700" stop="20230929150000 +0700" channel="TV9NU.id">
+  <programme start="20230930143000 +0700" stop="20230930150000 +0700" channel="TV9NU.id">
     <title lang="id">Panggung Musikal Indonesia</title>
   </programme>
-  <programme start="20230929150000 +0700" stop="20230929160000 +0700" channel="TV9NU.id">
+  <programme start="20230930150000 +0700" stop="20230930160000 +0700" channel="TV9NU.id">
     <title lang="id">Animasi Dragon Warior</title>
   </programme>
-  <programme start="20230929160000 +0700" stop="20230929163000 +0700" channel="TV9NU.id">
+  <programme start="20230930160000 +0700" stop="20230930163000 +0700" channel="TV9NU.id">
     <title lang="id">Blocking Time Solusi Kesehatan</title>
   </programme>
-  <programme start="20230929163000 +0700" stop="20230929173000 +0700" channel="TV9NU.id">
+  <programme start="20230930163000 +0700" stop="20230930173000 +0700" channel="TV9NU.id">
     <title lang="id">Kiswah Sore</title>
   </programme>
-  <programme start="20230929173000 +0700" stop="20230929180000 +0700" channel="TV9NU.id">
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="TV9NU.id">
     <title lang="id">Blocking Time Healtik</title>
   </programme>
-  <programme start="20230929180000 +0700" stop="20230929190000 +0700" channel="TV9NU.id">
+  <programme start="20230930180000 +0700" stop="20230930190000 +0700" channel="TV9NU.id">
     <title lang="id">Jurnal9 Petang</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929193000 +0700" channel="TV9NU.id">
+  <programme start="20230930190000 +0700" stop="20230930193000 +0700" channel="TV9NU.id">
     <title lang="id">Drama Indonesia</title>
   </programme>
-  <programme start="20230929193000 +0700" stop="20230929200000 +0700" channel="TV9NU.id">
+  <programme start="20230930193000 +0700" stop="20230930200000 +0700" channel="TV9NU.id">
     <title lang="id">Jatim Vacation</title>
   </programme>
-  <programme start="20230929200000 +0700" stop="20230929210000 +0700" channel="TV9NU.id">
-    <title lang="id">Bijak Sana Bijak Sini</title>
+  <programme start="20230930200000 +0700" stop="20230930210000 +0700" channel="TV9NU.id">
+    <title lang="id">Di Tepi Sejarah</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929220000 +0700" channel="TV9NU.id">
-    <title lang="id">Kiswah Kh Marzuki Mustamar</title>
+  <programme start="20230930210000 +0700" stop="20230930220000 +0700" channel="TV9NU.id">
+    <title lang="id">Kiswah Kh Said Aqil Siraj</title>
   </programme>
-  <programme start="20230929220000 +0700" stop="20230929223000 +0700" channel="TV9NU.id">
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="TV9NU.id">
     <title lang="id">Wisata Religi</title>
   </programme>
-  <programme start="20230929223000 +0700" stop="20230929230000 +0700" channel="TV9NU.id">
+  <programme start="20230930223000 +0700" stop="20230930230000 +0700" channel="TV9NU.id">
     <title lang="id">Blocking Time Vitmen</title>
   </programme>
-  <programme start="20230929230000 +0700" stop="20230930000000 +0700" channel="TV9NU.id">
-    <title lang="id">Kiswah Inmemoriam Kh Zaki Hadid</title>
+  <programme start="20230930230000 +0700" stop="20231001000000 +0700" channel="TV9NU.id">
+    <title lang="id">Kiswah Inmemoriam Kh Hasyim Muzadi</title>
   </programme>
-  <programme start="20230929000000 +0700" stop="20230929010000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930000000 +0700" stop="20230930010000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230929010000 +0700" stop="20230929020000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930010000 +0700" stop="20230930020000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230929020000 +0700" stop="20230929030000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930020000 +0700" stop="20230930030000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230929030000 +0700" stop="20230929040000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930030000 +0700" stop="20230930040000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230929040000 +0700" stop="20230929044500 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930040000 +0700" stop="20230930044500 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230929044500 +0700" stop="20230929050000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930044500 +0700" stop="20230930050000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Opening</title>
   </programme>
-  <programme start="20230929050000 +0700" stop="20230929051500 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930050000 +0700" stop="20230930051500 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Paham Muhammadiyah</title>
   </programme>
-  <programme start="20230929051500 +0700" stop="20230929063000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930051500 +0700" stop="20230930063000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Gerakan Subuh Mengaji</title>
   </programme>
-  <programme start="20230929063000 +0700" stop="20230929073000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930063000 +0700" stop="20230930073000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Berita tvMu</title>
   </programme>
-  <programme start="20230929073000 +0700" stop="20230929080000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930073000 +0700" stop="20230930080000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Zona Musik Religi</title>
   </programme>
-  <programme start="20230929080000 +0700" stop="20230929083000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Belajar Tahsin Metode Azka</title>
+  <programme start="20230930080000 +0700" stop="20230930083000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Kajian Ahad</title>
   </programme>
-  <programme start="20230929083000 +0700" stop="20230929090000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Waktu Indonesia Belajar</title>
+  <programme start="20230930083000 +0700" stop="20230930093000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Karima</title>
   </programme>
-  <programme start="20230929090000 +0700" stop="20230929093000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Waktu Indonesia Belajar</title>
+  <programme start="20230930093000 +0700" stop="20230930100000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">UMJ Talks</title>
   </programme>
-  <programme start="20230929093000 +0700" stop="20230929100000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Tuntunan Akhir Zaman</title>
+  <programme start="20230930100000 +0700" stop="20230930110000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Teras tvMu</title>
   </programme>
-  <programme start="20230929100000 +0700" stop="20230929110000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Podcast TV Show</title>
+  <programme start="20230930110000 +0700" stop="20230930113000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">DiasporaMu</title>
   </programme>
-  <programme start="20230929110000 +0700" stop="20230929113000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Mimbar Jumat</title>
+  <programme start="20230930113000 +0700" stop="20230930120000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Catatan Akhir Pekan</title>
   </programme>
-  <programme start="20230929113000 +0700" stop="20230929120000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Tarjih Menjawab</title>
-  </programme>
-  <programme start="20230929120000 +0700" stop="20230929130000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930120000 +0700" stop="20230930130000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Berita tvMu</title>
   </programme>
-  <programme start="20230929130000 +0700" stop="20230929133000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Zona Musik Religi</title>
   </programme>
-  <programme start="20230929133000 +0700" stop="20230929140000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Tuntunan Akhir Zaman</title>
+  <programme start="20230930133000 +0700" stop="20230930140000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Berita Muhammadiyah Sepekan</title>
   </programme>
-  <programme start="20230929140000 +0700" stop="20230929143000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Waktu Indonesia Belajar</title>
+  <programme start="20230930140000 +0700" stop="20230930143000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">KOLAK</title>
   </programme>
-  <programme start="20230929143000 +0700" stop="20230929150000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Waktu Indonesia Belajar</title>
+  <programme start="20230930143000 +0700" stop="20230930150000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Catatan Akhir Pekan</title>
   </programme>
-  <programme start="20230929150000 +0700" stop="20230929153000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930150000 +0700" stop="20230930153000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Masjidil Haram</title>
   </programme>
-  <programme start="20230929153000 +0700" stop="20230929160000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930153000 +0700" stop="20230930160000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Zona Musik Religi</title>
   </programme>
-  <programme start="20230929160000 +0700" stop="20230929170000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930160000 +0700" stop="20230930170000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Gerakan Subuh Mengaji</title>
   </programme>
-  <programme start="20230929170000 +0700" stop="20230929180000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930170000 +0700" stop="20230930180000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Berita tvMu</title>
   </programme>
-  <programme start="20230929180000 +0700" stop="20230929183000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Belajar Tahsin Metode Azka</title>
+  <programme start="20230930180000 +0700" stop="20230930183000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Refleksi Haedar Nashir</title>
   </programme>
-  <programme start="20230929183000 +0700" stop="20230929190000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Tuntunan Akhir Zaman</title>
+  <programme start="20230930183000 +0700" stop="20230930190000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">KOLAK</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929200000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Podcast TV Show</title>
+  <programme start="20230930190000 +0700" stop="20230930193000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Catatan Akhir Pekan</title>
   </programme>
-  <programme start="20230929200000 +0700" stop="20230929203000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Tarjih Menjawab</title>
+  <programme start="20230930193000 +0700" stop="20230930203000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">Dialektika tvMu</title>
   </programme>
-  <programme start="20230929203000 +0700" stop="20230929210000 +0700" channel="MMuhammadiyahTV.id">
-    <title lang="id">Mimbar Jumat</title>
+  <programme start="20230930203000 +0700" stop="20230930210000 +0700" channel="MMuhammadiyahTV.id">
+    <title lang="id">DiasporaMu</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929220000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930210000 +0700" stop="20230930220000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Berita tvMu</title>
   </programme>
-  <programme start="20230929220000 +0700" stop="20230929230000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930220000 +0700" stop="20230930230000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230929230000 +0700" stop="20230930000000 +0700" channel="MMuhammadiyahTV.id">
+  <programme start="20230930230000 +0700" stop="20231001000000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20230929123000 +0700" stop="20230929140000 +0700" channel="OChannel.id">
+  <programme start="20230930023000 +0700" stop="20230930033000 +0700" channel="OChannel.id">
+    <title lang="en">ONE C'ship 2021</title>
+  </programme>
+  <programme start="20230930033000 +0700" stop="20230930050000 +0700" channel="OChannel.id">
+    <title lang="en">Women's Volleyball Nations League 2023</title>
+  </programme>
+  <programme start="20230930050000 +0700" stop="20230930061500 +0700" channel="OChannel.id">
+    <title lang="en">Moji Sport</title>
+  </programme>
+  <programme start="20230930061500 +0700" stop="20230930070000 +0700" channel="OChannel.id">
+    <title lang="en">Liputan 6 Pagi Moji</title>
+  </programme>
+  <programme start="20230930070000 +0700" stop="20230930080000 +0700" channel="OChannel.id">
+    <title lang="en">Ungkap</title>
+  </programme>
+  <programme start="20230930080000 +0700" stop="20230930090000 +0700" channel="OChannel.id">
+    <title lang="en">Ungkap</title>
+  </programme>
+  <programme start="20230930090000 +0700" stop="20230930104500 +0700" channel="OChannel.id">
+    <title lang="en">Argentina vs Meksiko - Men's FIVB Road to Paris Volleyball Qualifier</title>
+  </programme>
+  <programme start="20230930104500 +0700" stop="20230930130000 +0700" channel="OChannel.id">
+    <title lang="en">Olympic Qualifiers Volleyball - Men Live</title>
+  </programme>
+  <programme start="20230930130000 +0700" stop="20230930134500 +0700" channel="OChannel.id">
     <title lang="en">Diam Diam Suka</title>
   </programme>
-  <programme start="20230929140000 +0700" stop="20230929161500 +0700" channel="OChannel.id">
-    <title lang="en">Olympic Qualifiers Volleyball - Woman</title>
+  <programme start="20230930134500 +0700" stop="20230930151500 +0700" channel="OChannel.id">
+    <title lang="en">Amerika Serikat vs Mesir - Men's FIVB Road to Paris Volleyball Qualifier</title>
   </programme>
-  <programme start="20230929161500 +0700" stop="20230929180000 +0700" channel="OChannel.id">
-    <title lang="en">Olympic Qualifiers Volleyball - Woman</title>
+  <programme start="20230930151500 +0700" stop="20230930171500 +0700" channel="OChannel.id">
+    <title lang="en">Olympic Qualifiers Volleyball - Woman Live</title>
   </programme>
-  <programme start="20230929180000 +0700" stop="20230929190000 +0700" channel="OChannel.id">
-    <title lang="en">Netizen Update</title>
+  <programme start="20230930171500 +0700" stop="20230930193000 +0700" channel="OChannel.id">
+    <title lang="en">Jepang vs Finlandia - Men's FIVB Road to Paris Volleyball Qualifier</title>
   </programme>
-  <programme start="20230929190000 +0700" stop="20230929210000 +0700" channel="OChannel.id">
+  <programme start="20230930193000 +0700" stop="20230930204500 +0700" channel="OChannel.id">
     <title lang="en">Choti Sarrdaarni</title>
   </programme>
-  <programme start="20230929210000 +0700" stop="20230929230000 +0700" channel="OChannel.id">
-    <title lang="en">One Fine Day</title>
+  <programme start="20230930204500 +0700" stop="20230930230000 +0700" channel="OChannel.id">
+    <title lang="en">Premier League Live</title>
   </programme>
-  <programme start="20230929230000 +0700" stop="20230930000000 +0700" channel="OChannel.id">
+  <programme start="20230930230000 +0700" stop="20231001013000 +0700" channel="OChannel.id">
     <title lang="en">Trust</title>
+  </programme>
+  <programme start="20230930013000 +0700" stop="20230930030000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Gajah Mada</title>
+  </programme>
+  <programme start="20230930030000 +0700" stop="20230930040000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Ustadz On The Road</title>
+  </programme>
+  <programme start="20230930040000 +0700" stop="20230930050000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Rimba</title>
+  </programme>
+  <programme start="20230930050000 +0700" stop="20230930063000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Baby Shark Du Du Du Du Du</title>
+  </programme>
+  <programme start="20230930063000 +0700" stop="20230930080000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Beyblade Burst Turbo</title>
+  </programme>
+  <programme start="20230930080000 +0700" stop="20230930083000 +0700" channel="RajawaliTV.id">
+    <title lang="en">911 Go! Go!</title>
+  </programme>
+  <programme start="20230930083000 +0700" stop="20230930090000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Si Anabul</title>
+  </programme>
+  <programme start="20230930090000 +0700" stop="20230930100000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Michael Tjandra Luar Biasa</title>
+  </programme>
+  <programme start="20230930100000 +0700" stop="20230930103000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Doyok Otoy Ali</title>
+  </programme>
+  <programme start="20230930103000 +0700" stop="20230930120000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Ejen Ali</title>
+  </programme>
+  <programme start="20230930120000 +0700" stop="20230930140000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Super Wings</title>
+  </programme>
+  <programme start="20230930140000 +0700" stop="20230930163000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Boboiboy Galaxy</title>
+  </programme>
+  <programme start="20230930163000 +0700" stop="20230930173000 +0700" channel="RajawaliTV.id">
+    <title lang="en">The Knight In The Area</title>
+  </programme>
+  <programme start="20230930173000 +0700" stop="20230930193000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Boboiboy</title>
+  </programme>
+  <programme start="20230930193000 +0700" stop="20230930210000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Ejen Ali</title>
+  </programme>
+  <programme start="20230930210000 +0700" stop="20230930213000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Adit Sopo Jarwo</title>
+  </programme>
+  <programme start="20230930213000 +0700" stop="20230930220000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Ultraman Blazar</title>
+  </programme>
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Kokom</title>
+  </programme>
+  <programme start="20230930223000 +0700" stop="20231001000000 +0700" channel="RajawaliTV.id">
+    <title lang="en">Layar Aksi Asia</title>
+  </programme>
+  <programme start="20230930010000 +0700" stop="20230930011500 +0700" channel="MentariTV.id">
+    <title lang="en">Bondi Vet</title>
+  </programme>
+  <programme start="20230930011500 +0700" stop="20230930013000 +0700" channel="MentariTV.id">
+    <title lang="en">Bondi Vet</title>
+  </programme>
+  <programme start="20230930013000 +0700" stop="20230930023000 +0700" channel="MentariTV.id">
+    <title lang="en">Vet On The Hill</title>
+  </programme>
+  <programme start="20230930023000 +0700" stop="20230930024500 +0700" channel="MentariTV.id">
+    <title lang="en">Petok Si Ayam Kampung</title>
+  </programme>
+  <programme start="20230930024500 +0700" stop="20230930030000 +0700" channel="MentariTV.id">
+    <title lang="en">Petok Si Ayam Kampung</title>
+  </programme>
+  <programme start="20230930030000 +0700" stop="20230930031500 +0700" channel="MentariTV.id">
+    <title lang="en">Bedu Dan Adul</title>
+  </programme>
+  <programme start="20230930031500 +0700" stop="20230930033000 +0700" channel="MentariTV.id">
+    <title lang="en">Bedu Dan Adul</title>
+  </programme>
+  <programme start="20230930033000 +0700" stop="20230930034500 +0700" channel="MentariTV.id">
+    <title lang="en">Keluarga Somat</title>
+  </programme>
+  <programme start="20230930034500 +0700" stop="20230930040000 +0700" channel="MentariTV.id">
+    <title lang="en">Keluarga Somat</title>
+  </programme>
+  <programme start="20230930040000 +0700" stop="20230930041500 +0700" channel="MentariTV.id">
+    <title lang="en">Ban Ban Kelinci Ajaib</title>
+  </programme>
+  <programme start="20230930041500 +0700" stop="20230930043000 +0700" channel="MentariTV.id">
+    <title lang="en">Ban Ban Kelinci Ajaib</title>
+  </programme>
+  <programme start="20230930043000 +0700" stop="20230930044500 +0700" channel="MentariTV.id">
+    <title lang="en">Cocomelon</title>
+  </programme>
+  <programme start="20230930044500 +0700" stop="20230930050000 +0700" channel="MentariTV.id">
+    <title lang="en">Cocomelon</title>
+  </programme>
+  <programme start="20230930050000 +0700" stop="20230930053000 +0700" channel="MentariTV.id">
+    <title lang="en">Little Baby Bum</title>
+  </programme>
+  <programme start="20230930053000 +0700" stop="20230930054500 +0700" channel="MentariTV.id">
+    <title lang="en">Cocomelon</title>
+  </programme>
+  <programme start="20230930054500 +0700" stop="20230930060000 +0700" channel="MentariTV.id">
+    <title lang="en">Cocomelon</title>
+  </programme>
+  <programme start="20230930060000 +0700" stop="20230930061500 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo Sing Along</title>
+  </programme>
+  <programme start="20230930061500 +0700" stop="20230930063000 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo Sing Along</title>
+  </programme>
+  <programme start="20230930063000 +0700" stop="20230930070000 +0700" channel="MentariTV.id">
+    <title lang="en">Cipung Abubu</title>
+  </programme>
+  <programme start="20230930070000 +0700" stop="20230930073000 +0700" channel="MentariTV.id">
+    <title lang="en">Shimajiro 2D</title>
+  </programme>
+  <programme start="20230930073000 +0700" stop="20230930080000 +0700" channel="MentariTV.id">
+    <title lang="en">Pororo, The Little Penguin</title>
+  </programme>
+  <programme start="20230930080000 +0700" stop="20230930083000 +0700" channel="MentariTV.id">
+    <title lang="en">Pororo, The Little Penguin</title>
+  </programme>
+  <programme start="20230930083000 +0700" stop="20230930090000 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo, The Little Bus</title>
+  </programme>
+  <programme start="20230930090000 +0700" stop="20230930093000 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo, The Little Bus</title>
+  </programme>
+  <programme start="20230930093000 +0700" stop="20230930094500 +0700" channel="MentariTV.id">
+    <title lang="en">Bedu Dan Adul</title>
+  </programme>
+  <programme start="20230930094500 +0700" stop="20230930100000 +0700" channel="MentariTV.id">
+    <title lang="en">Bedu Dan Adul</title>
+  </programme>
+  <programme start="20230930100000 +0700" stop="20230930104500 +0700" channel="MentariTV.id">
+    <title lang="en">Keluarga Somat</title>
+  </programme>
+  <programme start="20230930104500 +0700" stop="20230930113000 +0700" channel="MentariTV.id">
+    <title lang="en">Keluarga Somat</title>
+  </programme>
+  <programme start="20230930113000 +0700" stop="20230930120000 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo Mission : Ace</title>
+  </programme>
+  <programme start="20230930120000 +0700" stop="20230930123000 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo Mission : Ace</title>
+  </programme>
+  <programme start="20230930123000 +0700" stop="20230930130000 +0700" channel="MentariTV.id">
+    <title lang="en">Pororo English Show</title>
+  </programme>
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="MentariTV.id">
+    <title lang="en">Pororo English Show</title>
+  </programme>
+  <programme start="20230930133000 +0700" stop="20230930140000 +0700" channel="MentariTV.id">
+    <title lang="en">Ceria</title>
+  </programme>
+  <programme start="20230930140000 +0700" stop="20230930141500 +0700" channel="MentariTV.id">
+    <title lang="en">Antiks</title>
+  </programme>
+  <programme start="20230930141500 +0700" stop="20230930143000 +0700" channel="MentariTV.id">
+    <title lang="en">Antiks</title>
+  </programme>
+  <programme start="20230930143000 +0700" stop="20230930144500 +0700" channel="MentariTV.id">
+    <title lang="en">Go Buster</title>
+  </programme>
+  <programme start="20230930144500 +0700" stop="20230930150000 +0700" channel="MentariTV.id">
+    <title lang="en">Go Buster</title>
+  </programme>
+  <programme start="20230930150000 +0700" stop="20230930151500 +0700" channel="MentariTV.id">
+    <title lang="en">Arpo</title>
+  </programme>
+  <programme start="20230930151500 +0700" stop="20230930153000 +0700" channel="MentariTV.id">
+    <title lang="en">Arpo</title>
+  </programme>
+  <programme start="20230930153000 +0700" stop="20230930160000 +0700" channel="MentariTV.id">
+    <title lang="en">Shimajiro 3D</title>
+  </programme>
+  <programme start="20230930160000 +0700" stop="20230930161500 +0700" channel="MentariTV.id">
+    <title lang="en">Titipo Titipo</title>
+  </programme>
+  <programme start="20230930161500 +0700" stop="20230930163000 +0700" channel="MentariTV.id">
+    <title lang="en">Titipo Titipo</title>
+  </programme>
+  <programme start="20230930163000 +0700" stop="20230930170000 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo, The Little Bus</title>
+  </programme>
+  <programme start="20230930170000 +0700" stop="20230930173000 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo, The Little Bus</title>
+  </programme>
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="MentariTV.id">
+    <title lang="en">Cipung Abubu</title>
+  </programme>
+  <programme start="20230930180000 +0700" stop="20230930183000 +0700" channel="MentariTV.id">
+    <title lang="en">Pororo, The Little Penguin</title>
+  </programme>
+  <programme start="20230930183000 +0700" stop="20230930190000 +0700" channel="MentariTV.id">
+    <title lang="en">Pororo, The Little Penguin</title>
+  </programme>
+  <programme start="20230930190000 +0700" stop="20230930191500 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo, The Little Bus</title>
+  </programme>
+  <programme start="20230930191500 +0700" stop="20230930193000 +0700" channel="MentariTV.id">
+    <title lang="en">Tayo, The Little Bus</title>
+  </programme>
+  <programme start="20230930193000 +0700" stop="20230930201500 +0700" channel="MentariTV.id">
+    <title lang="en">Eddy the Clever Fox</title>
+  </programme>
+  <programme start="20230930201500 +0700" stop="20230930210000 +0700" channel="MentariTV.id">
+    <title lang="en">Eddy the Clever Fox</title>
+  </programme>
+  <programme start="20230930210000 +0700" stop="20230930211500 +0700" channel="MentariTV.id">
+    <title lang="en">Pororo Goes To Korea</title>
+  </programme>
+  <programme start="20230930211500 +0700" stop="20230930213000 +0700" channel="MentariTV.id">
+    <title lang="en">Pororo Goes To Korea</title>
+  </programme>
+  <programme start="20230930213000 +0700" stop="20230930214500 +0700" channel="MentariTV.id">
+    <title lang="en">Around The World With Pororo</title>
+  </programme>
+  <programme start="20230930214500 +0700" stop="20230930220000 +0700" channel="MentariTV.id">
+    <title lang="en">Around The World With Pororo</title>
+  </programme>
+  <programme start="20230930220000 +0700" stop="20230930230000 +0700" channel="MentariTV.id">
+    <title lang="en">Juara Indonesia</title>
+  </programme>
+  <programme start="20230930230000 +0700" stop="20231001000000 +0700" channel="MentariTV.id">
+    <title lang="en">Madun</title>
+  </programme>
+  <programme start="20230930055500 +0700" stop="20230930060000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Lagu Indonesia Raya</title>
+  </programme>
+  <programme start="20230930060000 +0700" stop="20230930063000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Komunitas</title>
+  </programme>
+  <programme start="20230930063000 +0700" stop="20230930070000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Bumbu Dapur</title>
+  </programme>
+  <programme start="20230930070000 +0700" stop="20230930073000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Otoholic</title>
+  </programme>
+  <programme start="20230930073000 +0700" stop="20230930080000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Jalan - Jalan</title>
+  </programme>
+  <programme start="20230930080000 +0700" stop="20230930090000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Belanja Berkah</title>
+  </programme>
+  <programme start="20230930090000 +0700" stop="20230930093000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Jalan Jalan Yuu</title>
+  </programme>
+  <programme start="20230930093000 +0700" stop="20230930100000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Otoholic</title>
+  </programme>
+  <programme start="20230930100000 +0700" stop="20230930110000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Belanja Berkah</title>
+  </programme>
+  <programme start="20230930110000 +0700" stop="20230930120000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Belanja Nyaman - Lejel Shopping</title>
+  </programme>
+  <programme start="20230930120000 +0700" stop="20230930123000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Kisi-kisi</title>
+  </programme>
+  <programme start="20230930123000 +0700" stop="20230930130000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Mari Hidup Sehat - Mago Shop</title>
+  </programme>
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Jalan Jalan Yuu</title>
+  </programme>
+  <programme start="20230930133000 +0700" stop="20230930140000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Bilik Sehat</title>
+  </programme>
+  <programme start="20230930140000 +0700" stop="20230930150000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Belanja Nyaman - Lejel Shopping</title>
+  </programme>
+  <programme start="20230930150000 +0700" stop="20230930153000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Bumbu Dapur</title>
+  </programme>
+  <programme start="20230930153000 +0700" stop="20230930160000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Ayo Shop Forsta</title>
+  </programme>
+  <programme start="20230930160000 +0700" stop="20230930170000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Belanja Nyaman - Lejel Shopping</title>
+  </programme>
+  <programme start="20230930170000 +0700" stop="20230930173000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Jalan Jalan Yuu</title>
+  </programme>
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Risalah Iman</title>
+  </programme>
+  <programme start="20230930180000 +0700" stop="20230930183000 +0700" channel="ElshintaTV.id">
+    <title lang="en">VOA Dunia Talk</title>
+  </programme>
+  <programme start="20230930183000 +0700" stop="20230930190000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Komunitas</title>
+  </programme>
+  <programme start="20230930190000 +0700" stop="20230930193000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Mari Hidup Sehat - Mago Shop</title>
+  </programme>
+  <programme start="20230930193000 +0700" stop="20230930200000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Ayo Shop Forsta</title>
+  </programme>
+  <programme start="20230930200000 +0700" stop="20230930203000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Kisi-kisi</title>
+  </programme>
+  <programme start="20230930203000 +0700" stop="20230930210000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Inovator</title>
+  </programme>
+  <programme start="20230930210000 +0700" stop="20230930213000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Playlist Teras Sore</title>
+  </programme>
+  <programme start="20230930213000 +0700" stop="20230930220000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Ayo Shop Forsta</title>
+  </programme>
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Otoholic</title>
+  </programme>
+  <programme start="20230930223000 +0700" stop="20230930230000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Sehat Natura - Pak Kobra</title>
+  </programme>
+  <programme start="20230930230000 +0700" stop="20230930233000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Belanja Berkah</title>
+  </programme>
+  <programme start="20230930233000 +0700" stop="20231001000000 +0700" channel="ElshintaTV.id">
+    <title lang="en">Bilik Sehat</title>
+  </programme>
+  <programme start="20230930013000 +0700" stop="20230930020000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Midnight Secrets</title>
+  </programme>
+  <programme start="20230930020000 +0700" stop="20230930023000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Midnight Secrets</title>
+  </programme>
+  <programme start="20230930023000 +0700" stop="20230930030000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fetish</title>
+  </programme>
+  <programme start="20230930030000 +0700" stop="20230930033000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fetish</title>
+  </programme>
+  <programme start="20230930033000 +0700" stop="20230930040000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930040000 +0700" stop="20230930043000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930043000 +0700" stop="20230930050000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930050000 +0700" stop="20230930053000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930053000 +0700" stop="20230930060000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930060000 +0700" stop="20230930063000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930063000 +0700" stop="20230930070000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930070000 +0700" stop="20230930073000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930073000 +0700" stop="20230930080000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
+  </programme>
+  <programme start="20230930080000 +0700" stop="20230930083000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
+  </programme>
+  <programme start="20230930083000 +0700" stop="20230930090000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
+  </programme>
+  <programme start="20230930090000 +0700" stop="20230930093000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
+  </programme>
+  <programme start="20230930093000 +0700" stop="20230930100000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fashion Films</title>
+  </programme>
+  <programme start="20230930100000 +0700" stop="20230930103000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fashion Films</title>
+  </programme>
+  <programme start="20230930103000 +0700" stop="20230930110000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fashion Films</title>
+  </programme>
+  <programme start="20230930110000 +0700" stop="20230930113000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fashion Films</title>
+  </programme>
+  <programme start="20230930113000 +0700" stop="20230930120000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930120000 +0700" stop="20230930123000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930123000 +0700" stop="20230930130000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930130000 +0700" stop="20230930133000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930133000 +0700" stop="20230930140000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930140000 +0700" stop="20230930143000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930143000 +0700" stop="20230930150000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930150000 +0700" stop="20230930153000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930153000 +0700" stop="20230930160000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
+  </programme>
+  <programme start="20230930160000 +0700" stop="20230930163000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
+  </programme>
+  <programme start="20230930163000 +0700" stop="20230930170000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
+  </programme>
+  <programme start="20230930170000 +0700" stop="20230930173000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
+  </programme>
+  <programme start="20230930173000 +0700" stop="20230930180000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fashion Films</title>
+  </programme>
+  <programme start="20230930180000 +0700" stop="20230930183000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fashion Films</title>
+  </programme>
+  <programme start="20230930183000 +0700" stop="20230930190000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fashion Films</title>
+  </programme>
+  <programme start="20230930190000 +0700" stop="20230930193000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Fashion Films</title>
+  </programme>
+  <programme start="20230930193000 +0700" stop="20230930200000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930200000 +0700" stop="20230930203000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930203000 +0700" stop="20230930210000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930210000 +0700" stop="20230930213000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Photographers</title>
+  </programme>
+  <programme start="20230930213000 +0700" stop="20230930220000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930220000 +0700" stop="20230930223000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930223000 +0700" stop="20230930230000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930230000 +0700" stop="20230930233000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Swimwear</title>
+  </programme>
+  <programme start="20230930233000 +0700" stop="20231001000000 +0700" channel="FashionTVMidnightSecrets.fr">
+    <title lang="en">Lingerie</title>
   </programme>
 </tv>
