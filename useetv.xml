@@ -488,7 +488,7 @@
     <title lang="id">One Championship Warrior</title>
   </programme>
   <programme start="20230929020000 +0700" stop="20230929030000 +0700" channel="Net.id">
-    <title lang="id">Fakta Terkini</title>
+    <title lang="id">Fakta 62</title>
   </programme>
   <programme start="20230929030000 +0700" stop="20230929040000 +0700" channel="Net.id">
     <title lang="id">Spot Update</title>
@@ -500,7 +500,7 @@
     <title lang="id">Top Spot</title>
   </programme>
   <programme start="20230929063000 +0700" stop="20230929073000 +0700" channel="Net.id">
-    <title lang="id">Di Balik Mitos</title>
+    <title lang="id">Inilah Kisahnya</title>
   </programme>
   <programme start="20230929073000 +0700" stop="20230929083000 +0700" channel="Net.id">
     <title lang="id">Fakta 62</title>
@@ -1824,33 +1824,6 @@
   </programme>
   <programme start="20230929230000 +0700" stop="20230930000000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
-  </programme>
-  <programme start="20230929023000 +0700" stop="20230929033000 +0700" channel="OChannel.id">
-    <title lang="en">ONE C'ship 2021</title>
-  </programme>
-  <programme start="20230929033000 +0700" stop="20230929050000 +0700" channel="OChannel.id">
-    <title lang="en">Women's Volleyball Nations League 2023</title>
-  </programme>
-  <programme start="20230929050000 +0700" stop="20230929061500 +0700" channel="OChannel.id">
-    <title lang="en">Moji Sport</title>
-  </programme>
-  <programme start="20230929061500 +0700" stop="20230929070000 +0700" channel="OChannel.id">
-    <title lang="en">Liputan 6 Pagi Moji</title>
-  </programme>
-  <programme start="20230929070000 +0700" stop="20230929080000 +0700" channel="OChannel.id">
-    <title lang="en">Ungkap</title>
-  </programme>
-  <programme start="20230929080000 +0700" stop="20230929090000 +0700" channel="OChannel.id">
-    <title lang="en">Trust</title>
-  </programme>
-  <programme start="20230929090000 +0700" stop="20230929100000 +0700" channel="OChannel.id">
-    <title lang="en">Netizen Update</title>
-  </programme>
-  <programme start="20230929100000 +0700" stop="20230929110000 +0700" channel="OChannel.id">
-    <title lang="en">Bisik Pagi</title>
-  </programme>
-  <programme start="20230929110000 +0700" stop="20230929123000 +0700" channel="OChannel.id">
-    <title lang="en">Ganteng Ganteng Serigala</title>
   </programme>
   <programme start="20230929123000 +0700" stop="20230929140000 +0700" channel="OChannel.id">
     <title lang="en">Diam Diam Suka</title>
