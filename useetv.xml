@@ -10,7 +10,7 @@
     <icon src="https://images.indihometv.com/logogrey/grey_logo_cinemaworldnew_small.png" />
     <url>http://www.useetv.com</url>
   </channel>
-  <channel id="Bali TV">
+  <channel id="BaliTV.id">
     <display-name lang="id">Bali TV</display-name>
     <icon src="https://images.indihometv.com/logo_balitv_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
@@ -284,170 +284,170 @@
   <programme start="20231005234000 +0700" stop="20231006013500 +0700" channel="CinemaWorld.my">
     <title lang="id">My Words - My Lie - My Love</title>
   </programme>
-  <programme start="20231005000000 +0700" stop="20231005010000 +0700" channel="Bali TV">
+  <programme start="20231005000000 +0700" stop="20231005010000 +0700" channel="BaliTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20231005010000 +0700" stop="20231005020000 +0700" channel="Bali TV">
+  <programme start="20231005010000 +0700" stop="20231005020000 +0700" channel="BaliTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20231005020000 +0700" stop="20231005030000 +0700" channel="Bali TV">
+  <programme start="20231005020000 +0700" stop="20231005030000 +0700" channel="BaliTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20231005030000 +0700" stop="20231005040000 +0700" channel="Bali TV">
+  <programme start="20231005030000 +0700" stop="20231005040000 +0700" channel="BaliTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20231005040000 +0700" stop="20231005043000 +0700" channel="Bali TV">
+  <programme start="20231005040000 +0700" stop="20231005043000 +0700" channel="BaliTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20231005043000 +0700" stop="20231005044500 +0700" channel="Bali TV">
+  <programme start="20231005043000 +0700" stop="20231005044500 +0700" channel="BaliTV.id">
     <title lang="id">Gayatri Mantra</title>
   </programme>
-  <programme start="20231005044500 +0700" stop="20231005045400 +0700" channel="Bali TV">
+  <programme start="20231005044500 +0700" stop="20231005045400 +0700" channel="BaliTV.id">
     <title lang="id">Opening</title>
   </programme>
-  <programme start="20231005045400 +0700" stop="20231005050000 +0700" channel="Bali TV">
+  <programme start="20231005045400 +0700" stop="20231005050000 +0700" channel="BaliTV.id">
     <title lang="id">Bhagawad Gita</title>
   </programme>
-  <programme start="20231005050000 +0700" stop="20231005050500 +0700" channel="Bali TV">
+  <programme start="20231005050000 +0700" stop="20231005050500 +0700" channel="BaliTV.id">
     <title lang="id">Puja Tri Sandhya</title>
   </programme>
-  <programme start="20231005050500 +0700" stop="20231005053500 +0700" channel="Bali TV">
+  <programme start="20231005050500 +0700" stop="20231005053500 +0700" channel="BaliTV.id">
     <title lang="id">Dharma Wacana</title>
   </programme>
-  <programme start="20231005053500 +0700" stop="20231005060500 +0700" channel="Bali TV">
+  <programme start="20231005053500 +0700" stop="20231005060500 +0700" channel="BaliTV.id">
     <title lang="id">Seputar Bali Pagi</title>
   </programme>
-  <programme start="20231005060500 +0700" stop="20231005063500 +0700" channel="Bali TV">
+  <programme start="20231005060500 +0700" stop="20231005063500 +0700" channel="BaliTV.id">
     <title lang="id">Bali Channel Tourist TV</title>
   </programme>
-  <programme start="20231005063500 +0700" stop="20231005073000 +0700" channel="Bali TV">
+  <programme start="20231005063500 +0700" stop="20231005073000 +0700" channel="BaliTV.id">
     <title lang="id">Indonesia Network</title>
   </programme>
-  <programme start="20231005073000 +0700" stop="20231005080000 +0700" channel="Bali TV">
+  <programme start="20231005073000 +0700" stop="20231005080000 +0700" channel="BaliTV.id">
     <title lang="id">Bali TV Shop - Punggung</title>
   </programme>
-  <programme start="20231005080000 +0700" stop="20231005080500 +0700" channel="Bali TV">
+  <programme start="20231005080000 +0700" stop="20231005080500 +0700" channel="BaliTV.id">
     <title lang="id">Berita Terkini</title>
   </programme>
-  <programme start="20231005080500 +0700" stop="20231005083000 +0700" channel="Bali TV">
+  <programme start="20231005080500 +0700" stop="20231005083000 +0700" channel="BaliTV.id">
     <title lang="id">Gending Rare</title>
   </programme>
-  <programme start="20231005083000 +0700" stop="20231005090000 +0700" channel="Bali TV">
+  <programme start="20231005083000 +0700" stop="20231005090000 +0700" channel="BaliTV.id">
     <title lang="id">Taksu</title>
   </programme>
-  <programme start="20231005090000 +0700" stop="20231005090500 +0700" channel="Bali TV">
+  <programme start="20231005090000 +0700" stop="20231005090500 +0700" channel="BaliTV.id">
     <title lang="id">Berita Terkini</title>
   </programme>
-  <programme start="20231005090500 +0700" stop="20231005093000 +0700" channel="Bali TV">
+  <programme start="20231005090500 +0700" stop="20231005093000 +0700" channel="BaliTV.id">
     <title lang="id">BRTV</title>
   </programme>
-  <programme start="20231005093000 +0700" stop="20231005100000 +0700" channel="Bali TV">
+  <programme start="20231005093000 +0700" stop="20231005100000 +0700" channel="BaliTV.id">
     <title lang="id">DW TV</title>
   </programme>
-  <programme start="20231005100000 +0700" stop="20231005100500 +0700" channel="Bali TV">
+  <programme start="20231005100000 +0700" stop="20231005100500 +0700" channel="BaliTV.id">
     <title lang="id">Berita Terkini</title>
   </programme>
-  <programme start="20231005100500 +0700" stop="20231005103000 +0700" channel="Bali TV">
+  <programme start="20231005100500 +0700" stop="20231005103000 +0700" channel="BaliTV.id">
     <title lang="id">Bali Channel Tourist TV</title>
   </programme>
-  <programme start="20231005103000 +0700" stop="20231005110000 +0700" channel="Bali TV">
+  <programme start="20231005103000 +0700" stop="20231005110000 +0700" channel="BaliTV.id">
     <title lang="id">Bali TV Shop - Lutut</title>
   </programme>
-  <programme start="20231005110000 +0700" stop="20231005110500 +0700" channel="Bali TV">
+  <programme start="20231005110000 +0700" stop="20231005110500 +0700" channel="BaliTV.id">
     <title lang="id">Puja Tri Sandhya</title>
   </programme>
-  <programme start="20231005110500 +0700" stop="20231005113000 +0700" channel="Bali TV">
+  <programme start="20231005110500 +0700" stop="20231005113000 +0700" channel="BaliTV.id">
     <title lang="id">Dharma Wacana</title>
   </programme>
-  <programme start="20231005113000 +0700" stop="20231005120000 +0700" channel="Bali TV">
+  <programme start="20231005113000 +0700" stop="20231005120000 +0700" channel="BaliTV.id">
     <title lang="id">Berita Siang</title>
   </programme>
-  <programme start="20231005120000 +0700" stop="20231005123000 +0700" channel="Bali TV">
+  <programme start="20231005120000 +0700" stop="20231005123000 +0700" channel="BaliTV.id">
     <title lang="id">Klip Bali</title>
   </programme>
-  <programme start="20231005123000 +0700" stop="20231005130000 +0700" channel="Bali TV">
+  <programme start="20231005123000 +0700" stop="20231005130000 +0700" channel="BaliTV.id">
     <title lang="id">Solusi Alternatif PT Marion Sam</title>
   </programme>
-  <programme start="20231005130000 +0700" stop="20231005130500 +0700" channel="Bali TV">
+  <programme start="20231005130000 +0700" stop="20231005130500 +0700" channel="BaliTV.id">
     <title lang="id">Berita Terkini</title>
   </programme>
-  <programme start="20231005130500 +0700" stop="20231005133000 +0700" channel="Bali TV">
+  <programme start="20231005130500 +0700" stop="20231005133000 +0700" channel="BaliTV.id">
     <title lang="id">Klip Bali</title>
   </programme>
-  <programme start="20231005133000 +0700" stop="20231005140000 +0700" channel="Bali TV">
+  <programme start="20231005133000 +0700" stop="20231005140000 +0700" channel="BaliTV.id">
     <title lang="id">BRTV 2023</title>
   </programme>
-  <programme start="20231005140000 +0700" stop="20231005140500 +0700" channel="Bali TV">
+  <programme start="20231005140000 +0700" stop="20231005140500 +0700" channel="BaliTV.id">
     <title lang="id">Berita Terkini</title>
   </programme>
-  <programme start="20231005140500 +0700" stop="20231005143000 +0700" channel="Bali TV">
+  <programme start="20231005140500 +0700" stop="20231005143000 +0700" channel="BaliTV.id">
     <title lang="id">Dunia Kita</title>
   </programme>
-  <programme start="20231005143000 +0700" stop="20231005150000 +0700" channel="Bali TV">
+  <programme start="20231005143000 +0700" stop="20231005150000 +0700" channel="BaliTV.id">
     <title lang="id">Bali Channel Tourist TV</title>
   </programme>
-  <programme start="20231005150000 +0700" stop="20231005150500 +0700" channel="Bali TV">
+  <programme start="20231005150000 +0700" stop="20231005150500 +0700" channel="BaliTV.id">
     <title lang="id">Berita Terkini</title>
   </programme>
-  <programme start="20231005150500 +0700" stop="20231005153000 +0700" channel="Bali TV">
+  <programme start="20231005150500 +0700" stop="20231005153000 +0700" channel="BaliTV.id">
     <title lang="id">Gending Rare</title>
   </programme>
-  <programme start="20231005153000 +0700" stop="20231005160000 +0700" channel="Bali TV">
+  <programme start="20231005153000 +0700" stop="20231005160000 +0700" channel="BaliTV.id">
     <title lang="id">Bali TV Shop - Lutut</title>
   </programme>
-  <programme start="20231005160000 +0700" stop="20231005160500 +0700" channel="Bali TV">
+  <programme start="20231005160000 +0700" stop="20231005160500 +0700" channel="BaliTV.id">
     <title lang="id">Berita Terkini</title>
   </programme>
-  <programme start="20231005160500 +0700" stop="20231005163000 +0700" channel="Bali TV">
+  <programme start="20231005160500 +0700" stop="20231005163000 +0700" channel="BaliTV.id">
     <title lang="id">BRTV 2023</title>
   </programme>
-  <programme start="20231005163000 +0700" stop="20231005170000 +0700" channel="Bali TV">
+  <programme start="20231005163000 +0700" stop="20231005170000 +0700" channel="BaliTV.id">
     <title lang="id">Dharma Wacana</title>
   </programme>
-  <programme start="20231005170000 +0700" stop="20231005170500 +0700" channel="Bali TV">
+  <programme start="20231005170000 +0700" stop="20231005170500 +0700" channel="BaliTV.id">
     <title lang="id">Puja Tri Sandhya</title>
   </programme>
-  <programme start="20231005170500 +0700" stop="20231005183000 +0700" channel="Bali TV">
+  <programme start="20231005170500 +0700" stop="20231005183000 +0700" channel="BaliTV.id">
     <title lang="id">Seputar Bali Malam</title>
   </programme>
-  <programme start="20231005183000 +0700" stop="20231005190000 +0700" channel="Bali TV">
+  <programme start="20231005183000 +0700" stop="20231005190000 +0700" channel="BaliTV.id">
     <title lang="id">Giliran Anda</title>
   </programme>
-  <programme start="20231005190000 +0700" stop="20231005193000 +0700" channel="Bali TV">
+  <programme start="20231005190000 +0700" stop="20231005193000 +0700" channel="BaliTV.id">
     <title lang="id">Orti Bali</title>
   </programme>
-  <programme start="20231005193000 +0700" stop="20231005203000 +0700" channel="Bali TV">
+  <programme start="20231005193000 +0700" stop="20231005203000 +0700" channel="BaliTV.id">
     <title lang="id">Talk Show Merah Putih</title>
   </programme>
-  <programme start="20231005203000 +0700" stop="20231005213000 +0700" channel="Bali TV">
+  <programme start="20231005203000 +0700" stop="20231005213000 +0700" channel="BaliTV.id">
     <title lang="id">Indonesia Network</title>
   </programme>
-  <programme start="20231005213000 +0700" stop="20231005220000 +0700" channel="Bali TV">
+  <programme start="20231005213000 +0700" stop="20231005220000 +0700" channel="BaliTV.id">
     <title lang="id">Dialog Vitmen</title>
   </programme>
-  <programme start="20231005220000 +0700" stop="20231005220500 +0700" channel="Bali TV">
+  <programme start="20231005220000 +0700" stop="20231005220500 +0700" channel="BaliTV.id">
     <title lang="id">Berita Terkini</title>
   </programme>
-  <programme start="20231005220500 +0700" stop="20231005223000 +0700" channel="Bali TV">
+  <programme start="20231005220500 +0700" stop="20231005223000 +0700" channel="BaliTV.id">
     <title lang="id">Folk Song</title>
   </programme>
-  <programme start="20231005223000 +0700" stop="20231005230000 +0700" channel="Bali TV">
+  <programme start="20231005223000 +0700" stop="20231005230000 +0700" channel="BaliTV.id">
     <title lang="id">Bali Channel Tourist TV</title>
   </programme>
-  <programme start="20231005230000 +0700" stop="20231006000000 +0700" channel="Bali TV">
+  <programme start="20231005230000 +0700" stop="20231006000000 +0700" channel="BaliTV.id">
     <title lang="id">Penutup</title>
   </programme>
   <programme start="20231005010000 +0700" stop="20231005023000 +0700" channel="Indosiar.id">
     <title lang="id">Mega Film Asia</title>
   </programme>
   <programme start="20231005003000 +0700" stop="20231005023000 +0700" channel="MNCNews.id">
-    <title lang="id">Sea V - League : Phi vs Ina</title>
+    <title lang="id">SEA V - League : Tha vs Vie</title>
   </programme>
   <programme start="20231005023000 +0700" stop="20231005033000 +0700" channel="MNCNews.id">
     <title lang="id">Konspirasi Prabu Rerun</title>
   </programme>
   <programme start="20231005033000 +0700" stop="20231005040000 +0700" channel="MNCNews.id">
-    <title lang="id">Top Files Rerun</title>
+    <title lang="id">New Top Files Rerun</title>
   </programme>
   <programme start="20231005040000 +0700" stop="20231005043000 +0700" channel="MNCNews.id">
     <title lang="id">OMG Rerun</title>
@@ -1616,227 +1616,20 @@
   <programme start="20231005230000 +0700" stop="20231006000000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
-  <programme start="20231005143000 +0700" stop="20231005163000 +0700" channel="OChannel.id">
-    <title lang="en">Cake Cinta Flara</title>
-  </programme>
-  <programme start="20231005163000 +0700" stop="20231005180000 +0700" channel="OChannel.id">
-    <title lang="en">Kepincut Cinta Si Neneng Cempreng</title>
-  </programme>
-  <programme start="20231005180000 +0700" stop="20231005190000 +0700" channel="OChannel.id">
-    <title lang="en">Netizen Update</title>
-  </programme>
-  <programme start="20231005190000 +0700" stop="20231005210000 +0700" channel="OChannel.id">
-    <title lang="en">Choti Sarrdaarni</title>
-  </programme>
-  <programme start="20231005210000 +0700" stop="20231005230000 +0700" channel="OChannel.id">
-    <title lang="en">Calon Bini</title>
-  </programme>
   <programme start="20231005230000 +0700" stop="20231006000000 +0700" channel="OChannel.id">
     <title lang="en">Trust</title>
-  </programme>
-  <programme start="20231005140000 +0700" stop="20231005153000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Super Wings</title>
-  </programme>
-  <programme start="20231005153000 +0700" stop="20231005160000 +0700" channel="RajawaliTV.id">
-    <title lang="en">LEGO DreamZzz</title>
-  </programme>
-  <programme start="20231005160000 +0700" stop="20231005163000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Kamen Rider Ghost</title>
-  </programme>
-  <programme start="20231005163000 +0700" stop="20231005173000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Super Wings</title>
-  </programme>
-  <programme start="20231005173000 +0700" stop="20231005193000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Boboiboy</title>
-  </programme>
-  <programme start="20231005193000 +0700" stop="20231005210000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Ejen Ali</title>
-  </programme>
-  <programme start="20231005210000 +0700" stop="20231005213000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Adit Sopo Jarwo</title>
-  </programme>
-  <programme start="20231005213000 +0700" stop="20231005220000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Kumprank</title>
-  </programme>
-  <programme start="20231005220000 +0700" stop="20231005223000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Sangat Tidak Biasa</title>
-  </programme>
-  <programme start="20231005223000 +0700" stop="20231005233000 +0700" channel="RajawaliTV.id">
-    <title lang="en">Takdir Cinta Kera Sakti</title>
   </programme>
   <programme start="20231005233000 +0700" stop="20231006000000 +0700" channel="RajawaliTV.id">
     <title lang="en">Pendekar Langit Dan Bumi</title>
   </programme>
-  <programme start="20231005140000 +0700" stop="20231005141500 +0700" channel="MentariTV.id">
-    <title lang="en">Morphle</title>
-  </programme>
-  <programme start="20231005141500 +0700" stop="20231005143000 +0700" channel="MentariTV.id">
-    <title lang="en">Antiks</title>
-  </programme>
-  <programme start="20231005143000 +0700" stop="20231005144500 +0700" channel="MentariTV.id">
-    <title lang="en">Digley &amp; Dazley</title>
-  </programme>
-  <programme start="20231005144500 +0700" stop="20231005150000 +0700" channel="MentariTV.id">
-    <title lang="en">Go Buster</title>
-  </programme>
-  <programme start="20231005150000 +0700" stop="20231005151500 +0700" channel="MentariTV.id">
-    <title lang="en">Arpo</title>
-  </programme>
-  <programme start="20231005151500 +0700" stop="20231005153000 +0700" channel="MentariTV.id">
-    <title lang="en">Arpo</title>
-  </programme>
-  <programme start="20231005153000 +0700" stop="20231005160000 +0700" channel="MentariTV.id">
-    <title lang="en">Shimajiro 3D</title>
-  </programme>
-  <programme start="20231005160000 +0700" stop="20231005161500 +0700" channel="MentariTV.id">
-    <title lang="en">Titipo Titipo</title>
-  </programme>
-  <programme start="20231005161500 +0700" stop="20231005163000 +0700" channel="MentariTV.id">
-    <title lang="en">Titipo Titipo</title>
-  </programme>
-  <programme start="20231005163000 +0700" stop="20231005170000 +0700" channel="MentariTV.id">
-    <title lang="en">Tayo, The Little Bus</title>
-  </programme>
-  <programme start="20231005170000 +0700" stop="20231005173000 +0700" channel="MentariTV.id">
-    <title lang="en">Tayo, The Little Bus</title>
-  </programme>
-  <programme start="20231005173000 +0700" stop="20231005180000 +0700" channel="MentariTV.id">
-    <title lang="en">Cipung Abubu</title>
-  </programme>
-  <programme start="20231005180000 +0700" stop="20231005183000 +0700" channel="MentariTV.id">
-    <title lang="en">Pororo, The Little Penguin</title>
-  </programme>
-  <programme start="20231005183000 +0700" stop="20231005190000 +0700" channel="MentariTV.id">
-    <title lang="en">Pororo, The Little Penguin</title>
-  </programme>
-  <programme start="20231005190000 +0700" stop="20231005191500 +0700" channel="MentariTV.id">
-    <title lang="en">Tayo, The Little Bus</title>
-  </programme>
-  <programme start="20231005191500 +0700" stop="20231005193000 +0700" channel="MentariTV.id">
-    <title lang="en">Tayo, The Little Bus</title>
-  </programme>
-  <programme start="20231005193000 +0700" stop="20231005210000 +0700" channel="MentariTV.id">
-    <title lang="en">Eddy the Clever Fox</title>
-  </programme>
-  <programme start="20231005210000 +0700" stop="20231005213000 +0700" channel="MentariTV.id">
-    <title lang="en">Tayo Mission : Ace</title>
-  </programme>
-  <programme start="20231005213000 +0700" stop="20231005220000 +0700" channel="MentariTV.id">
-    <title lang="en">Tayo Mission : Ace</title>
-  </programme>
-  <programme start="20231005220000 +0700" stop="20231005230000 +0700" channel="MentariTV.id">
-    <title lang="en">Juara Indonesia</title>
-  </programme>
   <programme start="20231005230000 +0700" stop="20231006000000 +0700" channel="MentariTV.id">
     <title lang="en">Madun</title>
-  </programme>
-  <programme start="20231005140000 +0700" stop="20231005143000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Ayo Shop Forsta</title>
-  </programme>
-  <programme start="20231005143000 +0700" stop="20231005150000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Mago Shop</title>
-  </programme>
-  <programme start="20231005150000 +0700" stop="20231005153000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Teras Sore</title>
-  </programme>
-  <programme start="20231005153000 +0700" stop="20231005160000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Senin</title>
-  </programme>
-  <programme start="20231005160000 +0700" stop="20231005170000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Belanja Nyaman - Lejel Shopping</title>
-  </programme>
-  <programme start="20231005170000 +0700" stop="20231005173000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Jalan Jalan Yuu</title>
-  </programme>
-  <programme start="20231005173000 +0700" stop="20231005180000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Risalah Iman</title>
-  </programme>
-  <programme start="20231005180000 +0700" stop="20231005190000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Dokterku</title>
-  </programme>
-  <programme start="20231005190000 +0700" stop="20231005193000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Mago Shop</title>
-  </programme>
-  <programme start="20231005193000 +0700" stop="20231005200000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Ayo Shop Forsta</title>
-  </programme>
-  <programme start="20231005200000 +0700" stop="20231005203000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Komunitas</title>
-  </programme>
-  <programme start="20231005203000 +0700" stop="20231005210000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Teras Sore</title>
-  </programme>
-  <programme start="20231005210000 +0700" stop="20231005213000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Senin</title>
-  </programme>
-  <programme start="20231005213000 +0700" stop="20231005220000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Ayo Shop Forsta</title>
-  </programme>
-  <programme start="20231005220000 +0700" stop="20231005223000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Otoholic</title>
-  </programme>
-  <programme start="20231005223000 +0700" stop="20231005230000 +0700" channel="ElshintaTV.id">
-    <title lang="en">Sehat Natura - Pak Kobra</title>
   </programme>
   <programme start="20231005230000 +0700" stop="20231005233000 +0700" channel="ElshintaTV.id">
     <title lang="en">Belanja Berkah</title>
   </programme>
   <programme start="20231005233000 +0700" stop="20231006000000 +0700" channel="ElshintaTV.id">
     <title lang="en">Bilik Sehat</title>
-  </programme>
-  <programme start="20231005140000 +0700" stop="20231005143000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005143000 +0700" stop="20231005150000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005150000 +0700" stop="20231005153000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005153000 +0700" stop="20231005160000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005160000 +0700" stop="20231005163000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005163000 +0700" stop="20231005170000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005170000 +0700" stop="20231005173000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005173000 +0700" stop="20231005180000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005180000 +0700" stop="20231005183000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005183000 +0700" stop="20231005190000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005190000 +0700" stop="20231005193000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005193000 +0700" stop="20231005200000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005200000 +0700" stop="20231005203000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005203000 +0700" stop="20231005210000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005210000 +0700" stop="20231005213000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005213000 +0700" stop="20231005220000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005220000 +0700" stop="20231005223000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
-  </programme>
-  <programme start="20231005223000 +0700" stop="20231005230000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
   </programme>
   <programme start="20231005230000 +0700" stop="20231005233000 +0700" channel="FashionTVMidnightSecrets.fr">
     <title lang="en">Midnight Secrets</title>
