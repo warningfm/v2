@@ -485,7 +485,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YZOyBDN.png?v=1.1.1.1" group-title="Sports" tvg-id="701" tvg-name="unifi Sports 1", unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMWORSD.png?v=1.1.1.1" group-title="Sports" tvg-id="Trace Sport Stars" tvg-name="Trace Sport Stars", Trace Sport Stars
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMWORSD.png?v=1.1.1.1" group-title="Sports" tvg-id="5257" tvg-name="TRACE Sport Stars HD", Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 ########################################################   Knowledge   ########################################################
