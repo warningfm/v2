@@ -573,8 +573,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadi
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/YHsUiwa.png?v=1.0.0.1" group-title="Religious" tvg-id="MQTV.id" tvg-name="MQTV", MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/aoxQ1WV.png?v=1.0.0.1" group-title="Religious" tvg-id="AJWA TV", AJWA TV
-https://warningfm.github.io/v2/live/m3u8/op/7335edf66aba710.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/oJE1tDf.png?v=1.0.0.1" group-title="Religious" tvg-id="AswajaTV.id" tvg-name="AswajaTV", AswajaTV
+https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/xg97ErR.png?v=1.0.0.1" group-title="Religious" tvg-id="Al Sunnah Al Nabawiyah TV HD" tvg-name="Al Sunnah Al Nabawiyah TV HD", Sunnah TV
 https://edge.taghtia.com/sa/6.m3u8
