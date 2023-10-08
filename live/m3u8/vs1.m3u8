@@ -363,7 +363,7 @@ http://khano.nng.cloudns.us/live/m3u8/int/9205d76d156e9c1.m3u8
 http://khano.nng.cloudns.us/live/m3u8/int/f8a232cfff768fd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/sm722lM.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network" tvg-name="Food Network HD", Food Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/cast/img/g6GJYLq.png?v=1.0.0.1" group-title="Lifestyle" tvg-id="Food Network" tvg-name="Food Network HD", Food Network
 http://khano.nng.cloudns.us/live/m3u8/int/647844d232a8d61.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
