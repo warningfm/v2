@@ -723,7 +723,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mWR9iwO.png?v=1.0.0.1" group-title="Malaysia" tvg-id="BernamaTV" tvg-name="Bernama", Bernama
-https://warningfm.github.io/streams/live/m3u8/ytb/Bernama.m3u8
+https://raw.githubusercontent.com/warningfm/utubeLive/main/Bernama.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqfHm18.png?v=1.0.0.1" group-title="Malaysia" tvg-id="TV Okey" tvg-name="TV Okey", TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
