@@ -323,9 +323,6 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/W1JfODW.png?v=1.0.0.1" group-title="Entertainment" tvg-id="UseePrime.id" tvg-name="UseePrime", UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Cj6JSFa.png?v=1.0.0.1" group-title="Entertainment" tvg-id="The Indonesia Channel" tvg-name="The Indonesia Channel", The Indonesia Channel
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
-
 ########################################################    Korengan   ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
