@@ -117,7 +117,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/LCBLk2T.png?v=1.0.0.1" group-title="Nasional" tvg-id="BN TV" tvg-name="BN TV", BN TV
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/manifest.mpd
+http://al.nng.cloudns.us/BNTV/index.m3u8
 
 ########################################################      Kids     ########################################################
 
