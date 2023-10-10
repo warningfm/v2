@@ -1775,9 +1775,6 @@
   <programme start="20231011233000 +0700" stop="20231012000000 +0700" channel="RajawaliTV.id">
     <title lang="en">Pendekar Langit Dan Bumi</title>
   </programme>
-  <programme start="20231011003000 +0700" stop="20231011010000 +0700" channel="MentariTV.id">
-    <title lang="en">Top Youth Premier League</title>
-  </programme>
   <programme start="20231011010000 +0700" stop="20231011013000 +0700" channel="MentariTV.id">
     <title lang="en">Dr. Lisa</title>
   </programme>
@@ -2023,9 +2020,6 @@
   </programme>
   <programme start="20231011233000 +0700" stop="20231012000000 +0700" channel="ElshintaTV.id">
     <title lang="en">Bilik Sehat</title>
-  </programme>
-  <programme start="20231011003000 +0700" stop="20231011010000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
   </programme>
   <programme start="20231011010000 +0700" stop="20231011020000 +0700" channel="FashionTVMidnightSecrets.fr">
     <title lang="en">Midnight Secrets</title>
