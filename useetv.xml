@@ -15,9 +15,9 @@
     <icon src="https://images.indihometv.com/logo_balitv_small1.png?v=2.0.0.13" />
     <url>http://www.useetv.com</url>
   </channel>
-  <channel id="Indosiar.id">
-    <display-name lang="id">Indosiar</display-name>
-    <icon src="https://images.indihometv.com/logo_indosiar_ver3.png" />
+  <channel id="DiscoveryChannel.id">
+    <display-name lang="id">Discovery Channel</display-name>
+    <icon src="https://images.indihometv.com/logogrey/grey_logo_disco_ver1.png" />
     <url>http://www.useetv.com</url>
   </channel>
   <channel id="MNCNews.id">
@@ -365,8 +365,80 @@
   <programme start="20231014230000 +0700" stop="20231015000000 +0700" channel="BaliTV.id">
     <title lang="id">Penutup</title>
   </programme>
-  <programme start="20231014000000 +0700" stop="20231014023000 +0700" channel="Indosiar.id">
-    <title lang="id">Mega Film Asia</title>
+  <programme start="20231014000500 +0700" stop="20231014003500 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Crimes Gone Viral  S2</title>
+  </programme>
+  <programme start="20231014003500 +0700" stop="20231014013000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">The Curious Case Of Natalia Grace  S1</title>
+  </programme>
+  <programme start="20231014013000 +0700" stop="20231014022500 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Expedition Unknown  S4</title>
+  </programme>
+  <programme start="20231014022500 +0700" stop="20231014032000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Andes Rescue: Mysteries At The Museum</title>
+  </programme>
+  <programme start="20231014032000 +0700" stop="20231014041000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Gold Rush  S8</title>
+  </programme>
+  <programme start="20231014041000 +0700" stop="20231014050000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Air Jaws: Final Frontier  S1</title>
+  </programme>
+  <programme start="20231014050000 +0700" stop="20231014060000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Gold Rush  S8</title>
+  </programme>
+  <programme start="20231014060000 +0700" stop="20231014065000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Gold Rush  S8</title>
+  </programme>
+  <programme start="20231014065000 +0700" stop="20231014074000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Gold Rush  S8</title>
+  </programme>
+  <programme start="20231014074000 +0700" stop="20231014083000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Gold Rush  S8</title>
+  </programme>
+  <programme start="20231014083000 +0700" stop="20231014092000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Gold Rush  S8</title>
+  </programme>
+  <programme start="20231014092000 +0700" stop="20231014101000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Deadliest Catch  S19</title>
+  </programme>
+  <programme start="20231014101000 +0700" stop="20231014110000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Expedition Unknown  S4</title>
+  </programme>
+  <programme start="20231014110000 +0700" stop="20231014115000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">No Pain No Delish  S1</title>
+  </programme>
+  <programme start="20231014115000 +0700" stop="20231014124000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Ed Stafford: First Man Out  S2</title>
+  </programme>
+  <programme start="20231014124000 +0700" stop="20231014133500 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Deadliest Catch  S19</title>
+  </programme>
+  <programme start="20231014133500 +0700" stop="20231014152500 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Bering Sea Gold  S11</title>
+  </programme>
+  <programme start="20231014152500 +0700" stop="20231014162000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Building Off The Grid  S5</title>
+  </programme>
+  <programme start="20231014162000 +0700" stop="20231014171500 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Building Off The Grid  S5</title>
+  </programme>
+  <programme start="20231014171500 +0700" stop="20231014190500 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Homestead Rescue  S5</title>
+  </programme>
+  <programme start="20231014190500 +0700" stop="20231014200000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Deadliest Catch  S19</title>
+  </programme>
+  <programme start="20231014200000 +0700" stop="20231014205500 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Expedition Unknown  S4</title>
+  </programme>
+  <programme start="20231014205500 +0700" stop="20231014215000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Expedition Unknown  S4</title>
+  </programme>
+  <programme start="20231014215000 +0700" stop="20231014234000 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">Bering Sea Gold  S11</title>
+  </programme>
+  <programme start="20231014234000 +0700" stop="20231015003500 +0700" channel="DiscoveryChannel.id">
+    <title lang="id">The Curious Case Of Natalia Grace  S1</title>
   </programme>
   <programme start="20231014003000 +0700" stop="20231014023000 +0700" channel="MNCNews.id">
     <title lang="id">Volleyball Women : Cro vs Jpn</title>
@@ -1643,6 +1715,9 @@
   <programme start="20231014230000 +0700" stop="20231015000000 +0700" channel="MMuhammadiyahTV.id">
     <title lang="id">Sign Off</title>
   </programme>
+  <programme start="20231014001500 +0700" stop="20231014004500 +0700" channel="OChannel.id">
+    <title lang="en">Magazine UEFA Champions League</title>
+  </programme>
   <programme start="20231014004500 +0700" stop="20231014024500 +0700" channel="OChannel.id">
     <title lang="en">Olympic Qualifiers Volley - Men</title>
   </programme>
@@ -2032,9 +2107,6 @@
   </programme>
   <programme start="20231014233000 +0700" stop="20231015000000 +0700" channel="ElshintaTV.id">
     <title lang="en">Bilik Sehat</title>
-  </programme>
-  <programme start="20231014003000 +0700" stop="20231014010000 +0700" channel="FashionTVMidnightSecrets.fr">
-    <title lang="en">Midnight Secrets</title>
   </programme>
   <programme start="20231014010000 +0700" stop="20231014020000 +0700" channel="FashionTVMidnightSecrets.fr">
     <title lang="en">Midnight Secrets</title>
