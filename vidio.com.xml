@@ -626,8 +626,8 @@
 <programme start="20231111083000 +0000" stop="20231111110000 +0000" channel="ChampionsTV5.id"><title lang="id">Fulham vs. Manchester United : Premier League Soccer</title></programme>
 <programme start="20231111110000 +0000" stop="20231111113000 +0000" channel="ChampionsTV5.id"><title lang="id">Les Ferdinand : Premier League 100</title></programme>
 <programme start="20231111113000 +0000" stop="20231111120000 +0000" channel="ChampionsTV5.id"><title lang="id">Premier League Preview</title></programme>
-<programme start="20231111120000 +0000" stop="20231111143000 +0000" channel="ChampionsTV5.id"><title lang="id">Wolverhampton Wanderers vs Tottenham Hotspur - Premier League</title></programme>
-<programme start="20231111143000 +0000" stop="20231111170000 +0000" channel="ChampionsTV5.id"><title lang="id">Manchester United vs Luton Town - Premier League</title></programme>
+<programme start="20231111120000 +0000" stop="20231111143000 +0000" channel="ChampionsTV5.id"><title lang="id">Wolves vs Tottenham - Premier League</title></programme>
+<programme start="20231111143000 +0000" stop="20231111170000 +0000" channel="ChampionsTV5.id"><title lang="id">Man United vs Luton - Premier League</title></programme>
 <programme start="20231109170000 +0000" stop="20231109190000 +0000" channel="ChampionsTV6.id"><title lang="id">Nottingham Forest vs. Aston Villa : Premier League</title></programme>
 <programme start="20231109190000 +0000" stop="20231109193000 +0000" channel="ChampionsTV6.id"><title lang="id">Premier League Netbusters</title></programme>
 <programme start="20231109193000 +0000" stop="20231109213000 +0000" channel="ChampionsTV6.id"><title lang="id">Fulham vs. Manchester United : Premier League Soccer</title></programme>
@@ -1684,13 +1684,12 @@
 <programme start="20231110074500 +0000" stop="20231110081500 +0000" channel="Indosiar.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
 <programme start="20231110081500 +0000" stop="20231110104500 +0000" channel="Indosiar.id"><title lang="id">Mali vs Uzbekistan - Fifa U-17 World Cup Group Stage</title></programme>
 <programme start="20231110104500 +0000" stop="20231110111500 +0000" channel="Indosiar.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231110111500 +0000" stop="20231110140000 +0000" channel="Indosiar.id"><title lang="id">Indonesia vs Equador - Fifa U-17 World Cup Group Stage</title></programme>
-<programme start="20231110140000 +0000" stop="20231110153000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
+<programme start="20231110111500 +0000" stop="20231110141500 +0000" channel="Indosiar.id"><title lang="id">Indonesia vs Equador - Fifa U-17 World Cup Group Stage</title></programme>
+<programme start="20231110141500 +0000" stop="20231110153000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
 <programme start="20231110153000 +0000" stop="20231110180000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia - Armour Of God</title></programme>
 <programme start="20231110180000 +0000" stop="20231110193000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia - Kiss Of The Dragon</title></programme>
 <programme start="20231110193000 +0000" stop="20231110210000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia - Fight Back To School II</title></programme>
-<programme start="20231110210000 +0000" stop="20231110213000 +0000" channel="Indosiar.id"><title lang="id">2023 FIFA U-17 World Cup</title></programme>
-<programme start="20231110213000 +0000" stop="20231110230000 +0000" channel="Indosiar.id"><title lang="id">2023 FIFA U-17 World Cup</title></programme>
+<programme start="20231110210000 +0000" stop="20231110230000 +0000" channel="Indosiar.id"><title lang="id">Indonesia vs Ecuador - Group Stage World Cup U17 2023 Delay</title></programme>
 <programme start="20231110230000 +0000" stop="20231110233000 +0000" channel="Indosiar.id"><title lang="id">Fokus Pagi</title></programme>
 <programme start="20231110233000 +0000" stop="20231111010000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
 <programme start="20231111010000 +0000" stop="20231111023000 +0000" channel="Indosiar.id"><title lang="id">Ratapan Buah Hati</title></programme>
@@ -2013,9 +2012,8 @@
 <programme start="20231110110000 +0000" stop="20231110120000 +0000" channel="MentariTV.id"><title lang="id">Pororo The Little Penguin</title></programme>
 <programme start="20231110120000 +0000" stop="20231110130000 +0000" channel="MentariTV.id"><title lang="id">Tayo the Little Bus</title></programme>
 <programme start="20231110130000 +0000" stop="20231110150000 +0000" channel="MentariTV.id"><title lang="id">A Turtle&apos;s Tale: Sammy&apos;s Adventure</title></programme>
-<programme start="20231110150000 +0000" stop="20231110163000 +0000" channel="MentariTV.id"><title lang="id">Indonesia vs. Ecuador : 2023 FIFA U-17 World Cup</title></programme>
-<programme start="20231110163000 +0000" stop="20231110170000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
-<programme start="20231110170000 +0000" stop="20231110173000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
+<programme start="20231110150000 +0000" stop="20231110171000 +0000" channel="MentariTV.id"><title lang="id">Indonesia vs. Ecuador : 2023 FIFA U-17 World Cup</title></programme>
+<programme start="20231110171000 +0000" stop="20231110173000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
 <programme start="20231110173000 +0000" stop="20231110183000 +0000" channel="MentariTV.id"><title lang="id">Bondi Vet</title></programme>
 <programme start="20231110183000 +0000" stop="20231110193000 +0000" channel="MentariTV.id"><title lang="id">Vet on the Hill</title></programme>
 <programme start="20231110193000 +0000" stop="20231110200000 +0000" channel="MentariTV.id"><title lang="id">Dino Dana</title></programme>
@@ -2039,8 +2037,7 @@
 <programme start="20231111103000 +0000" stop="20231111110000 +0000" channel="MentariTV.id"><title lang="id">Cipung Abubu</title></programme>
 <programme start="20231111110000 +0000" stop="20231111120000 +0000" channel="MentariTV.id"><title lang="id">Pororo The Little Penguin</title></programme>
 <programme start="20231111120000 +0000" stop="20231111130000 +0000" channel="MentariTV.id"><title lang="id">Tayo the Little Bus</title></programme>
-<programme start="20231111130000 +0000" stop="20231111133000 +0000" channel="MentariTV.id"><title lang="id">Movie</title></programme>
-<programme start="20231111133000 +0000" stop="20231111150000 +0000" channel="MentariTV.id"><title lang="id">SamSam</title></programme>
+<programme start="20231111130000 +0000" stop="20231111150000 +0000" channel="MentariTV.id"><title lang="id">SamSam</title></programme>
 <programme start="20231111150000 +0000" stop="20231111153000 +0000" channel="MentariTV.id"><title lang="id">Japan vs. Poland : 2023 FIFA U-17 World Cup</title></programme>
 <programme start="20231111153000 +0000" stop="20231111170000 +0000" channel="MentariTV.id"><title lang="id">Si Jalak Harupat</title></programme>
 <programme start="20231109170500 +0000" stop="20231109173000 +0000" channel="MetroTV.id"><title lang="id">Editorial Malam MGN</title></programme>
@@ -2439,15 +2436,14 @@
 <programme start="20231110053000 +0000" stop="20231110083000 +0000" channel="OChannel.id"><title lang="id">Mermaid In Love</title></programme>
 <programme start="20231110083000 +0000" stop="20231110111500 +0000" channel="OChannel.id"><title lang="id">Livoli Divisi Utama</title></programme>
 <programme start="20231110111500 +0000" stop="20231110134500 +0000" channel="OChannel.id"><title lang="id">Livoli Divisi Utama</title></programme>
-<programme start="20231110134500 +0000" stop="20231110143000 +0000" channel="OChannel.id"><title lang="id">Awarding Ceremony</title></programme>
-<programme start="20231110143000 +0000" stop="20231110153000 +0000" channel="OChannel.id"><title lang="id">Chhoti Sardarni</title></programme>
-<programme start="20231110153000 +0000" stop="20231110160000 +0000" channel="OChannel.id"><title lang="id">Just for Laughs: Gags</title></programme>
+<programme start="20231110134500 +0000" stop="20231110140600 +0000" channel="OChannel.id"><title lang="id">Awarding Ceremony</title></programme>
+<programme start="20231110140600 +0000" stop="20231110160000 +0000" channel="OChannel.id"><title lang="id">Chhoti Sardarni</title></programme>
 <programme start="20231110160000 +0000" stop="20231110163000 +0000" channel="OChannel.id"><title lang="id">Trust</title></programme>
 <programme start="20231110163000 +0000" stop="20231110170000 +0000" channel="OChannel.id"><title lang="id">Ungkap</title></programme>
 <programme start="20231110170000 +0000" stop="20231110174000 +0000" channel="OChannel.id"><title lang="id">Tercyduk</title></programme>
 <programme start="20231110174000 +0000" stop="20231110181000 +0000" channel="OChannel.id"><title lang="id">Magazine UEFA Champion League</title></programme>
-<programme start="20231110181000 +0000" stop="20231110203000 +0000" channel="OChannel.id"><title lang="id">Moji Movie</title></programme>
-<programme start="20231110203000 +0000" stop="20231110220000 +0000" channel="OChannel.id"><title lang="id">Moji Movie</title></programme>
+<programme start="20231110181500 +0000" stop="20231110203000 +0000" channel="OChannel.id"><title lang="id">Livoli Divisi Utama Putri</title></programme>
+<programme start="20231110203000 +0000" stop="20231110220000 +0000" channel="OChannel.id"><title lang="id">Livoli Divisi Utama Putri</title></programme>
 <programme start="20231110220000 +0000" stop="20231110231500 +0000" channel="OChannel.id"><title lang="id">Moji Sport</title></programme>
 <programme start="20231110231500 +0000" stop="20231111000000 +0000" channel="OChannel.id"><title lang="id">Liputan 6 Pagi Moji</title></programme>
 <programme start="20231111000000 +0000" stop="20231111010000 +0000" channel="OChannel.id"><title lang="id">Ungkap</title></programme>
@@ -2632,13 +2628,13 @@
 <programme start="20231110060000 +0000" stop="20231110074500 +0000" channel="SCTV.id"><title lang="id">Siaran Langsung Konser Kick Off Pesta Bola Dunia 2023</title></programme>
 <programme start="20231110074500 +0000" stop="20231110081500 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
 <programme start="20231110081500 +0000" stop="20231110104500 +0000" channel="SCTV.id"><title lang="id">Panama vs Morocco - Group Stage World Cup U17 2023 Live</title></programme>
-<programme start="20231110104500 +0000" stop="20231110120000 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231110120000 +0000" stop="20231110140000 +0000" channel="SCTV.id"><title lang="id">Indonesia vs Equador - Group Stage World Cup U17 2023 Live</title></programme>
-<programme start="20231110140000 +0000" stop="20231110160000 +0000" channel="SCTV.id"><title lang="id">Di Antara Dua Cinta</title></programme>
-<programme start="20231110160000 +0000" stop="20231110164500 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231110164500 +0000" stop="20231110190000 +0000" channel="SCTV.id"><title lang="id">Group Stage World Cup U17 2023</title></programme>
+<programme start="20231110104500 +0000" stop="20231110111700 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
+<programme start="20231110111700 +0000" stop="20231110141500 +0000" channel="SCTV.id"><title lang="id">Indonesia vs Equador - Group Stage World Cup U17 2023 Live</title></programme>
+<programme start="20231110141500 +0000" stop="20231110162000 +0000" channel="SCTV.id"><title lang="id">Di Antara Dua Cinta</title></programme>
+<programme start="20231110162000 +0000" stop="20231110164500 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
+<programme start="20231110164500 +0000" stop="20231110190000 +0000" channel="SCTV.id"><title lang="id">Spain vs Canada - Group Stage World Cup U17 2023 - Delay</title></programme>
 <programme start="20231110190000 +0000" stop="20231110193000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
-<programme start="20231110193000 +0000" stop="20231110210000 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
+<programme start="20231110193700 +0000" stop="20231110210000 +0000" channel="SCTV.id"><title lang="id">Putri Get Married</title></programme>
 <programme start="20231110210000 +0000" stop="20231110213000 +0000" channel="SCTV.id"><title lang="id">Barakallah</title></programme>
 <programme start="20231110213000 +0000" stop="20231110230000 +0000" channel="SCTV.id"><title lang="id">Siaran Langsung Liputan 6 Pagi</title></programme>
 <programme start="20231110230000 +0000" stop="20231110233000 +0000" channel="SCTV.id"><title lang="id">Buser Investigasi</title></programme>
@@ -2649,12 +2645,12 @@
 <programme start="20231111050000 +0000" stop="20231111053000 +0000" channel="SCTV.id"><title lang="id">Sl Liputan 6 Siang</title></programme>
 <programme start="20231111053000 +0000" stop="20231111080000 +0000" channel="SCTV.id"><title lang="id">Sepak Bola Jurus Cinta</title></programme>
 <programme start="20231111080000 +0000" stop="20231111090000 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231111090000 +0000" stop="20231111110000 +0000" channel="SCTV.id"><title lang="id">Group Stage World Cup U17 2023 Live</title></programme>
+<programme start="20231111090000 +0000" stop="20231111110000 +0000" channel="SCTV.id"><title lang="id">Japan vs Poland - Group Stage World Cup U17 2023 Live</title></programme>
 <programme start="20231111110000 +0000" stop="20231111124500 +0000" channel="SCTV.id"><title lang="id">Bidadari Surgamu</title></programme>
 <programme start="20231111124500 +0000" stop="20231111141500 +0000" channel="SCTV.id"><title lang="id">Takdir Cinta Yang Kupilih</title></programme>
 <programme start="20231111141500 +0000" stop="20231111160000 +0000" channel="SCTV.id"><title lang="id">Di Antara Dua Cinta</title></programme>
 <programme start="20231111160000 +0000" stop="20231111164500 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231111164500 +0000" stop="20231111190000 +0000" channel="SCTV.id"><title lang="id">Group Stage World Cup U17 2023</title></programme>
+<programme start="20231111164500 +0000" stop="20231111190000 +0000" channel="SCTV.id"><title lang="id">Argentina vs Senegal - Group Stage World Cup U17 2023 Delay</title></programme>
 <programme start="20231109170000 +0000" stop="20231109173000 +0000" channel="SEAToday.id"><title lang="id">Countdown to Qatar 2022</title></programme>
 <programme start="20231109173000 +0000" stop="20231109180000 +0000" channel="SEAToday.id"><title lang="id">Around the World in 80 Days Without Money</title></programme>
 <programme start="20231109180000 +0000" stop="20231109183000 +0000" channel="SEAToday.id"><title lang="id">Top Dive Sites</title></programme>
