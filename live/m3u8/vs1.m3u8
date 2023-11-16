@@ -234,9 +234,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XBtbPBF.png?v=1.0.0.1" group-title="Local" tvg-id="TVRI.id" tvg-name="TVRI", TVRI Jawa Timur
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/EYJ0ED2.png?v=1.0.0.1" group-title="Local" tvg-id="Jakarta Globe News" tvg-name="Jakarta Globe News Channel", Jakarta Globe News Channel
-http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/9i6ufQh.png?v=1.0.0.1" group-title="Local" tvg-id="ElshintaTV" tvg-name="Elshinta TV", Elshinta TV
 http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 
@@ -336,14 +333,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/jzE4Vfd.png?v=1.0.0.1" group-title="Entertainment" tvg-id="VisionPrime.id" tvg-name="Vision Prime HD", Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/CM09dsr.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CitraDrama.id" tvg-name="Citra Drama", Citra Drama
-http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b837.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XF1c2OB.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Citra Entertainment" tvg-name="Citra Entertainment", Citra Entertainment
-http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VyqMhjx.png?v=1.0.0.1" group-title="Entertainment" tvg-id="CAAJ2700030ON" tvg-name="Outside", Outside
-https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Tbur8nX.png?v=1.0.0.1" group-title="Entertainment" tvg-id="5119" tvg-name="(HD) Outdoor Channel", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
