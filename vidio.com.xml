@@ -268,7 +268,7 @@
 <programme start="20231121210000 +0000" stop="20231121220000 +0000" channel="AlJazeeraEnglish.qa"><title lang="id">Newshour</title></programme>
 <programme start="20231121220000 +0000" stop="20231121230000 +0000" channel="AlJazeeraEnglish.qa"><title lang="id">Newshour</title></programme>
 <programme start="20231121230000 +0000" stop="20231121233000 +0000" channel="AlJazeeraEnglish.qa"><title lang="id">News</title></programme>
-<programme start="20231121233000 +0000" stop="20231122000000 +0000" channel="AlJazeeraEnglish.qa"><title lang="id">Echoes of a Lost Gaza - Faded Hopes</title></programme>
+<programme start="20231121233000 +0000" stop="20231122000000 +0000" channel="AlJazeeraEnglish.qa"><title lang="id">We Had A Dream : Democracy Maybe</title></programme>
 <programme start="20231122000000 +0000" stop="20231122003000 +0000" channel="AlJazeeraEnglish.qa"><title lang="id">News</title></programme>
 <programme start="20231122003000 +0000" stop="20231122010000 +0000" channel="AlJazeeraEnglish.qa"><title lang="id">Inside Story</title></programme>
 <programme start="20231122010000 +0000" stop="20231122013000 +0000" channel="AlJazeeraEnglish.qa"><title lang="id">News</title></programme>
@@ -535,7 +535,8 @@
 <programme start="20231121190000 +0000" stop="20231121193000 +0000" channel="ChampionsTV1.id"><title lang="id">UEFA Champions League Final Archive Series</title></programme>
 <programme start="20231121193000 +0000" stop="20231121200000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
 <programme start="20231121200000 +0000" stop="20231121220000 +0000" channel="ChampionsTV1.id"><title lang="id">Braga vs. Real Madrid : UEFA Champions League</title></programme>
-<programme start="20231121220000 +0000" stop="20231122030000 +0000" channel="ChampionsTV1.id"><title lang="id">Feyenoord vs. Lazio : UEFA Champions League</title></programme>
+<programme start="20231121220000 +0000" stop="20231122000000 +0000" channel="ChampionsTV1.id"><title lang="id">Feyenoord vs. Lazio : UEFA Champions League</title></programme>
+<programme start="20231122000000 +0000" stop="20231122030000 +0000" channel="ChampionsTV1.id"><title lang="id">To Be Announced</title></programme>
 <programme start="20231122030000 +0000" stop="20231122070000 +0000" channel="ChampionsTV1.id"><title lang="id">Sports Program</title></programme>
 <programme start="20231122070000 +0000" stop="20231122110000 +0000" channel="ChampionsTV1.id"><title lang="id">Sports Program</title></programme>
 <programme start="20231122110000 +0000" stop="20231122150000 +0000" channel="ChampionsTV1.id"><title lang="id">Sports Program</title></programme>
@@ -569,7 +570,7 @@
 <programme start="20231121231500 +0000" stop="20231121233000 +0000" channel="ChampionsTV2.id"><title lang="id">Filler</title></programme>
 <programme start="20231121233000 +0000" stop="20231122013000 +0000" channel="ChampionsTV2.id"><title lang="id">HJK Helsinki vs. Eintracht Frankfurt : UEFA Europa Conference League</title></programme>
 <programme start="20231122013000 +0000" stop="20231122033000 +0000" channel="ChampionsTV2.id"><title lang="id">Toulouse vs. Liverpool : UEFA Europa League</title></programme>
-<programme start="20231122033000 +0000" stop="20231122053000 +0000" channel="ChampionsTV2.id"><title lang="id">Borussia Dortmund vs. Newcastle United : UEFA Champions League</title></programme>
+<programme start="20231122033000 +0000" stop="20231122053000 +0000" channel="ChampionsTV2.id"><title lang="id">Borussia Dortmund vs. Newcastle United : UEFA Champions League Soccer</title></programme>
 <programme start="20231122053000 +0000" stop="20231122060000 +0000" channel="ChampionsTV2.id"><title lang="id">FourFourTwo</title></programme>
 <programme start="20231122060000 +0000" stop="20231122070000 +0000" channel="ChampionsTV2.id"><title lang="id">Round 5: TVS OMR. Race 1 : FIM Asia Road Racing Championship</title></programme>
 <programme start="20231122070000 +0000" stop="20231122080000 +0000" channel="ChampionsTV2.id"><title lang="id">Round 5: UB150, Race 1 : FIM Asia Road Racing Championship</title></programme>
@@ -578,7 +579,7 @@
 <programme start="20231122100000 +0000" stop="20231122110000 +0000" channel="ChampionsTV2.id"><title lang="id">FIM Asia Road Racing Championship</title></programme>
 <programme start="20231122110000 +0000" stop="20231122113000 +0000" channel="ChampionsTV2.id"><title lang="id">FourFourTwo</title></programme>
 <programme start="20231122113000 +0000" stop="20231122140000 +0000" channel="ChampionsTV2.id"><title lang="id">Toulouse vs. Liverpool : UEFA Europa League</title></programme>
-<programme start="20231122140000 +0000" stop="20231122163000 +0000" channel="ChampionsTV2.id"><title lang="id">Borussia Dortmund vs. Newcastle United : UEFA Champions League</title></programme>
+<programme start="20231122140000 +0000" stop="20231122163000 +0000" channel="ChampionsTV2.id"><title lang="id">Borussia Dortmund vs. Newcastle United : UEFA Champions League Soccer</title></programme>
 <programme start="20231122163000 +0000" stop="20231122170000 +0000" channel="ChampionsTV2.id"><title lang="id">FourFourTwo</title></programme>
 <programme start="20231120170000 +0000" stop="20231120200000 +0000" channel="ChampionsTV3.id"><title lang="id">Phoenix Suns vs Utah Jazz : NBA Weekend Showdown</title></programme>
 <programme start="20231120200000 +0000" stop="20231120220000 +0000" channel="ChampionsTV3.id"><title lang="id">I. Swiatek vs O. Jabeur : 2023 WTA Finals</title></programme>
@@ -722,7 +723,7 @@
 <programme start="20231122133000 +0000" stop="20231122140000 +0000" channel="ChampionsTVEPL.id"><title lang="id">2007/08: Tottenham Hotspur v Aston Villa : Premier League Rewind</title></programme>
 <programme start="20231122140000 +0000" stop="20231122150000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Paul Robinson : One2Eleven</title></programme>
 <programme start="20231122150000 +0000" stop="20231122160000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Season So Far : The Catch Up Show</title></programme>
-<programme start="20231122160000 +0000" stop="20231122180000 +0000" channel="ChampionsTVEPL.id"><title lang="id">2013/14: Liverpool v Manchester City : Classic Match</title></programme>
+<programme start="20231122160000 +0000" stop="20231122180000 +0000" channel="ChampionsTVEPL.id"><title lang="id">2010/11: Liverpool v Manchester City : Classic Match</title></programme>
 <programme start="20231120223000 +0000" stop="20231120230000 +0000" channel="DAAITV.id"><title lang="id">Galeri Hijau</title></programme>
 <programme start="20231120230000 +0000" stop="20231120231500 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
 <programme start="20231120231500 +0000" stop="20231120233000 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
@@ -1585,21 +1586,21 @@
 <programme start="20231121150000 +0000" stop="20231121153000 +0000" channel="Horee.id"><title lang="id">Pororo</title></programme>
 <programme start="20231121153000 +0000" stop="20231121160000 +0000" channel="Horee.id"><title lang="id">Tayo the Little Bus</title></programme>
 <programme start="20231121160000 +0000" stop="20231121163000 +0000" channel="Horee.id"><title lang="id">Tayo and Little Wizards</title></programme>
-<programme start="20231121163000 +0000" stop="20231121170000 +0000" channel="Horee.id"><title lang="id">GGO Football</title></programme>
-<programme start="20231121170000 +0000" stop="20231121173000 +0000" channel="Horee.id"><title lang="id">Ori Princess</title></programme>
+<programme start="20231121163000 +0000" stop="20231121170000 +0000" channel="Horee.id"><title lang="id">Masha and the Bear</title></programme>
+<programme start="20231121170000 +0000" stop="20231121173000 +0000" channel="Horee.id"><title lang="id">Keluarga Somat</title></programme>
 <programme start="20231121173000 +0000" stop="20231121180000 +0000" channel="Horee.id"><title lang="id">Boleh Nonton</title></programme>
-<programme start="20231121180000 +0000" stop="20231121183000 +0000" channel="Horee.id"><title lang="id">Simba the Lion King</title></programme>
-<programme start="20231121183000 +0000" stop="20231121190000 +0000" channel="Horee.id"><title lang="id">Detektif Kubi</title></programme>
-<programme start="20231121190000 +0000" stop="20231121193000 +0000" channel="Horee.id"><title lang="id">GGO Football</title></programme>
+<programme start="20231121180000 +0000" stop="20231121184500 +0000" channel="Horee.id"><title lang="id">Jalan Sesama</title></programme>
+<programme start="20231121184500 +0000" stop="20231121190000 +0000" channel="Horee.id"><title lang="id">Sesame Street</title></programme>
+<programme start="20231121190000 +0000" stop="20231121193000 +0000" channel="Horee.id"><title lang="id">Pintar</title></programme>
 <programme start="20231121193000 +0000" stop="20231121200000 +0000" channel="Horee.id"><title lang="id">Pintar</title></programme>
-<programme start="20231121200000 +0000" stop="20231121203000 +0000" channel="Horee.id"><title lang="id">Jalan Sesama</title></programme>
-<programme start="20231121203000 +0000" stop="20231121210000 +0000" channel="Horee.id"><title lang="id">Sesame Street</title></programme>
+<programme start="20231121200000 +0000" stop="20231121201500 +0000" channel="Horee.id"><title lang="id">Pororo&apos;s Healthy Habits</title></programme>
+<programme start="20231121201500 +0000" stop="20231121210000 +0000" channel="Horee.id"><title lang="id">Detektif Kubi</title></programme>
 <programme start="20231121210000 +0000" stop="20231121213000 +0000" channel="Horee.id"><title lang="id">Petok Si Ayam Kampung</title></programme>
 <programme start="20231121213000 +0000" stop="20231121220000 +0000" channel="Horee.id"><title lang="id">Jangan Anggap Aku Kecil</title></programme>
 <programme start="20231121220000 +0000" stop="20231121223000 +0000" channel="Horee.id"><title lang="id">Go Go Bus</title></programme>
 <programme start="20231121223000 +0000" stop="20231121230000 +0000" channel="Horee.id"><title lang="id">Masha and the Bear</title></programme>
 <programme start="20231121230000 +0000" stop="20231121233000 +0000" channel="Horee.id"><title lang="id">Keluarga Somat</title></programme>
-<programme start="20231121233000 +0000" stop="20231122000000 +0000" channel="Horee.id"><title lang="id">Morphle</title></programme>
+<programme start="20231121233000 +0000" stop="20231122000000 +0000" channel="Horee.id"><title lang="id">Pororo&apos;s Healthy Habits</title></programme>
 <programme start="20231122000000 +0000" stop="20231122003000 +0000" channel="Horee.id"><title lang="id">Ori Princess</title></programme>
 <programme start="20231122003000 +0000" stop="20231122010000 +0000" channel="Horee.id"><title lang="id">Jalan Sesama</title></programme>
 <programme start="20231122010000 +0000" stop="20231122013000 +0000" channel="Horee.id"><title lang="id">Sesame Street</title></programme>
@@ -1608,32 +1609,31 @@
 <programme start="20231122023000 +0000" stop="20231122030000 +0000" channel="Horee.id"><title lang="id">Pororo</title></programme>
 <programme start="20231122030000 +0000" stop="20231122033000 +0000" channel="Horee.id"><title lang="id">Tayo the Little Bus</title></programme>
 <programme start="20231122033000 +0000" stop="20231122040000 +0000" channel="Horee.id"><title lang="id">Tayo and Little Wizards</title></programme>
-<programme start="20231122040000 +0000" stop="20231122043000 +0000" channel="Horee.id"><title lang="id">Simba the Lion King</title></programme>
+<programme start="20231122040000 +0000" stop="20231122043000 +0000" channel="Horee.id"><title lang="id">Poyo Poyo Story Vending Machine</title></programme>
 <programme start="20231122043000 +0000" stop="20231122050000 +0000" channel="Horee.id"><title lang="id">Detektif Kubi</title></programme>
 <programme start="20231122050000 +0000" stop="20231122053000 +0000" channel="Horee.id"><title lang="id">Morphle</title></programme>
-<programme start="20231122053000 +0000" stop="20231122060000 +0000" channel="Horee.id"><title lang="id">Boleh Nonton</title></programme>
-<programme start="20231122060000 +0000" stop="20231122063000 +0000" channel="Horee.id"><title lang="id">Jalan Sesama</title></programme>
-<programme start="20231122063000 +0000" stop="20231122070000 +0000" channel="Horee.id"><title lang="id">Sesame Street</title></programme>
-<programme start="20231122070000 +0000" stop="20231122073000 +0000" channel="Horee.id"><title lang="id">Thomas &amp; Friends</title></programme>
-<programme start="20231122073000 +0000" stop="20231122080000 +0000" channel="Horee.id"><title lang="id">Pororo</title></programme>
+<programme start="20231122053000 +0000" stop="20231122060000 +0000" channel="Horee.id"><title lang="id">Poyo Poyo Video Calls</title></programme>
+<programme start="20231122061500 +0000" stop="20231122070000 +0000" channel="Horee.id"><title lang="id">Jalan Sesama</title></programme>
+<programme start="20231122070000 +0000" stop="20231122073000 +0000" channel="Horee.id"><title lang="id">Sesame Street</title></programme>
+<programme start="20231122073000 +0000" stop="20231122080000 +0000" channel="Horee.id"><title lang="id">Pintar</title></programme>
 <programme start="20231122080000 +0000" stop="20231122083000 +0000" channel="Horee.id"><title lang="id">Tayo the Little Bus</title></programme>
-<programme start="20231122083000 +0000" stop="20231122090000 +0000" channel="Horee.id"><title lang="id">Tayo and Little Wizards</title></programme>
+<programme start="20231122083000 +0000" stop="20231122090000 +0000" channel="Horee.id"><title lang="id">Pororo</title></programme>
 <programme start="20231122090000 +0000" stop="20231122093000 +0000" channel="Horee.id"><title lang="id">Petok Si Ayam Kampung</title></programme>
 <programme start="20231122093000 +0000" stop="20231122100000 +0000" channel="Horee.id"><title lang="id">Jangan Anggap Aku Kecil</title></programme>
 <programme start="20231122100000 +0000" stop="20231122103000 +0000" channel="Horee.id"><title lang="id">Go Go Bus</title></programme>
 <programme start="20231122103000 +0000" stop="20231122110000 +0000" channel="Horee.id"><title lang="id">Masha and the Bear</title></programme>
 <programme start="20231122110000 +0000" stop="20231122113000 +0000" channel="Horee.id"><title lang="id">Keluarga Somat</title></programme>
-<programme start="20231122113000 +0000" stop="20231122120000 +0000" channel="Horee.id"><title lang="id">GGO Football</title></programme>
-<programme start="20231122120000 +0000" stop="20231122123000 +0000" channel="Horee.id"><title lang="id">Boleh Nonton</title></programme>
+<programme start="20231122113000 +0000" stop="20231122120000 +0000" channel="Horee.id"><title lang="id">Pororo&apos;s Healthy Habits</title></programme>
+<programme start="20231122120000 +0000" stop="20231122123000 +0000" channel="Horee.id"><title lang="id">Tayo the Little Bus</title></programme>
 <programme start="20231122123000 +0000" stop="20231122130000 +0000" channel="Horee.id"><title lang="id">Simba the Lion King</title></programme>
-<programme start="20231122130000 +0000" stop="20231122133000 +0000" channel="Horee.id"><title lang="id">Detektif Kubi</title></programme>
-<programme start="20231122133000 +0000" stop="20231122140000 +0000" channel="Horee.id"><title lang="id">Pintar</title></programme>
+<programme start="20231122130000 +0000" stop="20231122131500 +0000" channel="Horee.id"><title lang="id">Poyo Poyo Story Vending Machine</title></programme>
+<programme start="20231122131500 +0000" stop="20231122140000 +0000" channel="Horee.id"><title lang="id">Detektif Kubi</title></programme>
 <programme start="20231122140000 +0000" stop="20231122143000 +0000" channel="Horee.id"><title lang="id">Jalan Sesama</title></programme>
-<programme start="20231122143000 +0000" stop="20231122150000 +0000" channel="Horee.id"><title lang="id">Sesame Street</title></programme>
+<programme start="20231122143000 +0000" stop="20231122150000 +0000" channel="Horee.id"><title lang="id">Poyo Poyo Video Calls</title></programme>
 <programme start="20231122150000 +0000" stop="20231122153000 +0000" channel="Horee.id"><title lang="id">Pororo</title></programme>
-<programme start="20231122153000 +0000" stop="20231122160000 +0000" channel="Horee.id"><title lang="id">Tayo the Little Bus</title></programme>
-<programme start="20231122160000 +0000" stop="20231122163000 +0000" channel="Horee.id"><title lang="id">Tayo and Little Wizards</title></programme>
-<programme start="20231122163000 +0000" stop="20231122170000 +0000" channel="Horee.id"><title lang="id">GGO Football</title></programme>
+<programme start="20231122153000 +0000" stop="20231122160000 +0000" channel="Horee.id"><title lang="id">Jangan Anggap Aku Kecil</title></programme>
+<programme start="20231122160000 +0000" stop="20231122163000 +0000" channel="Horee.id"><title lang="id">Go Go Bus</title></programme>
+<programme start="20231122163000 +0000" stop="20231122170000 +0000" channel="Horee.id"><title lang="id">Masha and the Bear</title></programme>
 <programme start="20231120180000 +0000" stop="20231120193000 +0000" channel="Indosiar.id"><title lang="id">The Master - Mega Film Asia</title></programme>
 <programme start="20231120193000 +0000" stop="20231120203000 +0000" channel="Indosiar.id"><title lang="id">The Sorcerer And The White Snake - Mega Film Asia</title></programme>
 <programme start="20231120203000 +0000" stop="20231120210000 +0000" channel="Indosiar.id"><title lang="id">Patroli Malam</title></programme>
@@ -1650,8 +1650,8 @@
 <programme start="20231121075000 +0000" stop="20231121102700 +0000" channel="Indosiar.id"><title lang="id">Mali vs Mexico : World Cup U17 2023 Round Of 16 - LIVE</title></programme>
 <programme start="20231121102700 +0000" stop="20231121105300 +0000" channel="Indosiar.id"><title lang="id">Kuis Pesta Bola Dunia 2023 GOLEGAR</title></programme>
 <programme start="20231121105300 +0000" stop="20231121112100 +0000" channel="Indosiar.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231121112100 +0000" stop="20231121140000 +0000" channel="Indosiar.id"><title lang="id">Argentina vs Venezuela : World Cup U17 2023 Round Of 16 - LIVE</title></programme>
-<programme start="20231121140000 +0000" stop="20231121153000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
+<programme start="20231121112100 +0000" stop="20231121135700 +0000" channel="Indosiar.id"><title lang="id">Argentina vs Venezuela : World Cup U17 2023 Round Of 16 - LIVE</title></programme>
+<programme start="20231121135700 +0000" stop="20231121153000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
 <programme start="20231121153000 +0000" stop="20231121180000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia - Once Upon A Time In China V</title></programme>
 <programme start="20231121180000 +0000" stop="20231121193000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia - Ip Man - The Awakening</title></programme>
 <programme start="20231121193000 +0000" stop="20231121210000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia - In The Line Of Duty 4</title></programme>
@@ -1662,13 +1662,13 @@
 <programme start="20231122023000 +0000" stop="20231122033000 +0000" channel="Indosiar.id"><title lang="id">Hot Kiss</title></programme>
 <programme start="20231122033000 +0000" stop="20231122041500 +0000" channel="Indosiar.id"><title lang="id">Patroli Siang</title></programme>
 <programme start="20231122041500 +0000" stop="20231122050000 +0000" channel="Indosiar.id"><title lang="id">Fokus Siang</title></programme>
-<programme start="20231122050000 +0000" stop="20231122060000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata - Ada Apa Dengan Istri Dan Ayah Tiriku</title></programme>
+<programme start="20231122050000 +0000" stop="20231122060000 +0000" channel="Indosiar.id"><title lang="id">Ada Apa Dengan Istri Dan Ayah Tiriku</title></programme>
 <programme start="20231122060000 +0000" stop="20231122073000 +0000" channel="Indosiar.id"><title lang="id">Pintu Berkah Siang</title></programme>
 <programme start="20231122073000 +0000" stop="20231122080000 +0000" channel="Indosiar.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231122080000 +0000" stop="20231122103000 +0000" channel="Indosiar.id"><title lang="id">England vs Uzbekistan - Fifa U-17 World Cup Round Of 16</title></programme>
+<programme start="20231122080000 +0000" stop="20231122103000 +0000" channel="Indosiar.id"><title lang="id">England vs Uzbekistan - Fifa U-17 World Cup Round Of 16 - LIVE</title></programme>
 <programme start="20231122103000 +0000" stop="20231122110000 +0000" channel="Indosiar.id"><title lang="id">Kuis Bola Dunia 2023 Golegar</title></programme>
 <programme start="20231122110000 +0000" stop="20231122113000 +0000" channel="Indosiar.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231122113000 +0000" stop="20231122140000 +0000" channel="Indosiar.id"><title lang="id">France vs Senegal - Fifa U-17 World Cup Round Of 16</title></programme>
+<programme start="20231122113000 +0000" stop="20231122140000 +0000" channel="Indosiar.id"><title lang="id">France vs Senegal - Fifa U-17 World Cup Round Of 16 - LIVE</title></programme>
 <programme start="20231122140000 +0000" stop="20231122153000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
 <programme start="20231122153000 +0000" stop="20231122180000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia - Once Upon A Time In China And America</title></programme>
 <programme start="20231120170000 +0000" stop="20231120190000 +0000" channel="JPMTV.id"><title lang="id">Inspirasi Kita</title></programme>
@@ -2021,9 +2021,8 @@
 <programme start="20231121121500 +0000" stop="20231121123000 +0000" channel="MentariTV.id"><title lang="id">Tayo the Little Bus</title></programme>
 <programme start="20231121123000 +0000" stop="20231121130000 +0000" channel="MentariTV.id"><title lang="id">Pororo &amp; Fairy Tales</title></programme>
 <programme start="20231121130000 +0000" stop="20231121150000 +0000" channel="MentariTV.id"><title lang="id">Shaun The Sheep</title></programme>
-<programme start="20231121150000 +0000" stop="20231121163000 +0000" channel="MentariTV.id"><title lang="id">Round of 16: Ecuador vs. Brazil : 2023 FIFA U-17 World Cup</title></programme>
-<programme start="20231121163000 +0000" stop="20231121173000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
-<programme start="20231121173000 +0000" stop="20231121183000 +0000" channel="MentariTV.id"><title lang="id">Dr. Lisa</title></programme>
+<programme start="20231121150000 +0000" stop="20231121165500 +0000" channel="MentariTV.id"><title lang="id">Rerun Round of 16: Germany vs. USA : 2023 FIFA U-17 World Cup</title></programme>
+<programme start="20231121165500 +0000" stop="20231121183000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
 <programme start="20231121183000 +0000" stop="20231121193000 +0000" channel="MentariTV.id"><title lang="id">Danger Wild Animals</title></programme>
 <programme start="20231121193000 +0000" stop="20231121200000 +0000" channel="MentariTV.id"><title lang="id">Dino Dana</title></programme>
 <programme start="20231121200000 +0000" stop="20231121210000 +0000" channel="MentariTV.id"><title lang="id">Arpo</title></programme>
@@ -2049,7 +2048,7 @@
 <programme start="20231122121500 +0000" stop="20231122123000 +0000" channel="MentariTV.id"><title lang="id">Tayo the Little Bus</title></programme>
 <programme start="20231122123000 +0000" stop="20231122130000 +0000" channel="MentariTV.id"><title lang="id">Dino Pororo</title></programme>
 <programme start="20231122130000 +0000" stop="20231122150000 +0000" channel="MentariTV.id"><title lang="id">Space Chimps</title></programme>
-<programme start="20231122150000 +0000" stop="20231122163000 +0000" channel="MentariTV.id"><title lang="id">Round of 16: Ecuador vs. Brazil : 2023 FIFA U-17 World Cup</title></programme>
+<programme start="20231122150000 +0000" stop="20231122163000 +0000" channel="MentariTV.id"><title lang="id">Rerun Round of 16: Argentina vs. Venezuela : 2023 FIFA U-17 World Cup</title></programme>
 <programme start="20231122163000 +0000" stop="20231122173000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
 <programme start="20231120170500 +0000" stop="20231120173000 +0000" channel="MetroTV.id"><title lang="id">Editoial Malam</title></programme>
 <programme start="20231120173000 +0000" stop="20231120200500 +0000" channel="MetroTV.id"><title lang="id">Prime Time News</title></programme>
@@ -2156,26 +2155,27 @@
 <programme start="20231121140000 +0000" stop="20231121150000 +0000" channel="NET.id"><title lang="id">Main Hakim Sendiri</title></programme>
 <programme start="20231121150000 +0000" stop="20231121160000 +0000" channel="NET.id"><title lang="id">86</title></programme>
 <programme start="20231121160000 +0000" stop="20231121170000 +0000" channel="NET.id"><title lang="id">Jatanras</title></programme>
-<programme start="20231121170000 +0000" stop="20231121180000 +0000" channel="NET.id"><title lang="id">Fenomena</title></programme>
-<programme start="20231121180000 +0000" stop="20231121190000 +0000" channel="NET.id"><title lang="id">Sports Programme</title></programme>
-<programme start="20231121190000 +0000" stop="20231121200000 +0000" channel="NET.id"><title lang="id">Fakta Terkini</title></programme>
-<programme start="20231121200000 +0000" stop="20231121210000 +0000" channel="NET.id"><title lang="id">Spot Update</title></programme>
-<programme start="20231121210000 +0000" stop="20231121220000 +0000" channel="NET.id"><title lang="id">Kurulus: Osman</title></programme>
+<programme start="20231121170000 +0000" stop="20231121180000 +0000" channel="NET.id"><title lang="id">TOP GEAR</title></programme>
+<programme start="20231121180000 +0000" stop="20231121190000 +0000" channel="NET.id"><title lang="id">ONE CHAMPIONSHIP WARRIOR</title></programme>
+<programme start="20231121190000 +0000" stop="20231121200000 +0000" channel="NET.id"><title lang="id">ONE FRIDAY FIGHTS 3</title></programme>
+<programme start="20231121200000 +0000" stop="20231121210000 +0000" channel="NET.id"><title lang="id">RUQYAH</title></programme>
+<programme start="20231121210000 +0000" stop="20231121220000 +0000" channel="NET.id"><title lang="id">49 DAYS</title></programme>
 <programme start="20231121220000 +0000" stop="20231121233000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
-<programme start="20231121233000 +0000" stop="20231122003000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
+<programme start="20231121233000 +0000" stop="20231122003000 +0000" channel="NET.id"><title lang="id">INILAH KISAHNYA</title></programme>
 <programme start="20231122003000 +0000" stop="20231122013000 +0000" channel="NET.id"><title lang="id">Fakta +62</title></programme>
 <programme start="20231122013000 +0000" stop="20231122030000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
-<programme start="20231122030000 +0000" stop="20231122043000 +0000" channel="NET.id"><title lang="id">The World Of The Married</title></programme>
+<programme start="20231122030000 +0000" stop="20231122043000 +0000" channel="NET.id"><title lang="id">NET. DRAKOR SARANGHAE: THE EMPIRE</title></programme>
 <programme start="20231122043000 +0000" stop="20231122053000 +0000" channel="NET.id"><title lang="id">Masakuy</title></programme>
-<programme start="20231122053000 +0000" stop="20231122070000 +0000" channel="NET.id"><title lang="id">What&apos;s Wrong with Secretary Kim?</title></programme>
-<programme start="20231122070000 +0000" stop="20231122080000 +0000" channel="NET.id"><title lang="id">Trial Marriage</title></programme>
-<programme start="20231122080000 +0000" stop="20231122090000 +0000" channel="NET.id"><title lang="id">Ruang Seleb</title></programme>
+<programme start="20231122053000 +0000" stop="20231122063000 +0000" channel="NET.id"><title lang="id">KULINER VIRAL</title></programme>
+<programme start="20231122063000 +0000" stop="20231122070000 +0000" channel="NET.id"><title lang="id">MASAK GESSS!!!</title></programme>
+<programme start="20231122070000 +0000" stop="20231122080000 +0000" channel="NET.id"><title lang="id">V.I.P (VIRAL ITU PENTING)</title></programme>
+<programme start="20231122080000 +0000" stop="20231122090000 +0000" channel="NET.id"><title lang="id">SENSASI</title></programme>
 <programme start="20231122090000 +0000" stop="20231122100000 +0000" channel="NET.id"><title lang="id">Fakta Terkini</title></programme>
-<programme start="20231122100000 +0000" stop="20231122110000 +0000" channel="NET.id"><title lang="id">Faith</title></programme>
-<programme start="20231122110000 +0000" stop="20231122120000 +0000" channel="NET.id"><title lang="id">Go Ahead</title></programme>
+<programme start="20231122100000 +0000" stop="20231122110000 +0000" channel="NET.id"><title lang="id">NET DRAKOR DAEBAK: DREAM HIGH 2</title></programme>
+<programme start="20231122110000 +0000" stop="20231122120000 +0000" channel="NET.id"><title lang="id">NET ASIA PRIME: SHE WAS PRETTY</title></programme>
 <programme start="20231122120000 +0000" stop="20231122130000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
-<programme start="20231122130000 +0000" stop="20231122140000 +0000" channel="NET.id"><title lang="id">Viral Itu Penting</title></programme>
-<programme start="20231122140000 +0000" stop="20231122150000 +0000" channel="NET.id"><title lang="id">Inilah Kisahnya</title></programme>
+<programme start="20231122130000 +0000" stop="20231122140000 +0000" channel="NET.id"><title lang="id">TOP SPOT</title></programme>
+<programme start="20231122140000 +0000" stop="20231122150000 +0000" channel="NET.id"><title lang="id">MAIN HAKIM SENDIRI</title></programme>
 <programme start="20231122150000 +0000" stop="20231122160000 +0000" channel="NET.id"><title lang="id">86</title></programme>
 <programme start="20231122160000 +0000" stop="20231122170000 +0000" channel="NET.id"><title lang="id">Jatanras</title></programme>
 <programme start="20231120170000 +0000" stop="20231120172700 +0000" channel="NHKWorldJapan.jp"><title lang="id">Martial Arts Build Unbreakable Bonds : Where We Call Home</title></programme>
@@ -2437,8 +2437,8 @@
 <programme start="20231121052700 +0000" stop="20231121082700 +0000" channel="OChannel.id"><title lang="id">Putra: Bharata Muda vs Pasundan - Kejurnas Bola Voli Antarklub U-17</title></programme>
 <programme start="20231121082700 +0000" stop="20231121102100 +0000" channel="OChannel.id"><title lang="id">Putri: Ivo Tornado B. Wajo vs BIN 02C - Kejurnas Bola Voli Antarklub U-17</title></programme>
 <programme start="20231121102100 +0000" stop="20231121121600 +0000" channel="OChannel.id"><title lang="id">Putra: GTS Sky Pujut vs BVC Bulungan - Kejurnas Bola Voli Antarklub U-17</title></programme>
-<programme start="20231121121600 +0000" stop="20231121143000 +0000" channel="OChannel.id"><title lang="id">Putra: Bintang 04 vs SKO Riau - Kejurnas Bola Voli Antarklub U-17</title></programme>
-<programme start="20231121143000 +0000" stop="20231121153000 +0000" channel="OChannel.id"><title lang="id">Chhoti Sardarni</title></programme>
+<programme start="20231121121600 +0000" stop="20231121140800 +0000" channel="OChannel.id"><title lang="id">Putra: Bintang 04 vs SKO Riau - Kejurnas Bola Voli Antarklub U-17</title></programme>
+<programme start="20231121140800 +0000" stop="20231121153000 +0000" channel="OChannel.id"><title lang="id">Chhoti Sardarni</title></programme>
 <programme start="20231121153000 +0000" stop="20231121163000 +0000" channel="OChannel.id"><title lang="id">Just For Laugh Gags S16</title></programme>
 <programme start="20231121163000 +0000" stop="20231121170000 +0000" channel="OChannel.id"><title lang="id">Ungkap</title></programme>
 <programme start="20231121170000 +0000" stop="20231121174500 +0000" channel="OChannel.id"><title lang="id">Tercyduk</title></programme>
@@ -2646,8 +2646,8 @@
 <programme start="20231121072100 +0000" stop="20231121074600 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
 <programme start="20231121074600 +0000" stop="20231121102700 +0000" channel="SCTV.id"><title lang="id">Germany vs USA : World Cup U17 2023 Round Of 16 - LIVE</title></programme>
 <programme start="20231121102700 +0000" stop="20231121112100 +0000" channel="SCTV.id"><title lang="id">Pesta Bola Dunia 2023</title></programme>
-<programme start="20231121112100 +0000" stop="20231121140000 +0000" channel="SCTV.id"><title lang="id">Morocco vs Iran : World Cup U17 2023 Round Of 16 - LIVE</title></programme>
-<programme start="20231121140000 +0000" stop="20231121160000 +0000" channel="SCTV.id"><title lang="id">Di Antara Dua Cinta</title></programme>
+<programme start="20231121112100 +0000" stop="20231121143000 +0000" channel="SCTV.id"><title lang="id">Morocco vs Iran : World Cup U17 2023 Round Of 16 - LIVE</title></programme>
+<programme start="20231121143000 +0000" stop="20231121160000 +0000" channel="SCTV.id"><title lang="id">Di Antara Dua Cinta</title></programme>
 <programme start="20231121160000 +0000" stop="20231121180000 +0000" channel="SCTV.id"><title lang="id">FTV Primetime</title></programme>
 <programme start="20231121180000 +0000" stop="20231121183000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
 <programme start="20231121183000 +0000" stop="20231121190000 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
