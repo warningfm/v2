@@ -9,7 +9,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sHsPccL.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="2" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-http://s7.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847a.m3u8
+http://cdn.nng.cloudns.us/m3u8/2b8fc230e8f847a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -23,7 +23,7 @@ http://s7.mbahnunungonline.net/live/m3u8/ar/f74b5dff8b8e6c6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BbPufM8.png?v=1.1.1.1" group-title="🇮🇩 tvN150N" ch-number="5" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-http://s7.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8db.m3u8
+http://cdn.nng.cloudns.us/m3u8/575eeb9f08dc8db.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Jj4S2E4.png?v=1.0.0.1" group-title="🇮🇩 tvN150N" ch-number="6" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
