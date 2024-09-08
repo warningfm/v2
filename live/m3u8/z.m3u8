@@ -164,12 +164,12 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T4h9tq-CBc4/YMOM_KdQoEI/AAAAAAAABF0/RsmXftU94LMXunyA_hcL6kXlZ7L307NbQCLcBGAsYHQ/s0/60lNdUo.png?v=1.1.1.1" group-title="tvN150N" tvg-id="MyTV" tvg-name="MyTV", MyTV
 https://cdn4.mbahnunungonline.net/m3u8/id/f9973976ebde68c.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pyNOQeOGBeY/YaHj523tt1I/AAAAAAAABcg/rpjr4x-MhWE_N59Ih48qoQ-HymFmOQv9QCLcBGAsYHQ/s0/EYJ0ED2.png?v=1.0.0.1" group-title="tvN150N", Jakarta Globe News Channel
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pyNOQeOGBeY/YaHj523tt1I/AAAAAAAABcg/rpjr4x-MhWE_N59Ih48qoQ-HymFmOQv9QCLcBGAsYHQ/s0/EYJ0ED2.png?v=1.0.0.1" group-title="tvN150N", IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4p8f67m47BE/YansoHMN7sI/AAAAAAAABe0/XW6UVQaDxl4sMmfcZT_kavraACbcvGpIwCNcBGAsYHQ/s0/2IyRuk9.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BADAR TV" tvg-name="BADAR TV", BADARTV
-https://e1.siar.us/badartv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4p8f67m47BE/YansoHMN7sI/AAAAAAAABe0/XW6UVQaDxl4sMmfcZT_kavraACbcvGpIwCNcBGAsYHQ/s0/2IyRuk9.png?v=1.0.0.1" group-title="tvN150N" tvg-id="BR TV" tvg-name="BR TV", BR TV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MUeiZKE916Q/YRDRjJY-ERI/AAAAAAAABJU/mhydDat-6L4J7CTt7F8fxBA56qnNafEiwCLcBGAsYHQ/s0/pwxmNpN.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Elshinta TV" tvg-name="Elshinta TV", ElshintaTV
