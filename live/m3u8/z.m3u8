@@ -156,6 +156,10 @@ https://dl.dropbox.com/s/4tqkcv541ot08ec/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XN2Yc9GeSEs/YaHkcWjn5CI/AAAAAAAABco/jvOFGPCjoNcvEM6GridrTnWEju1k1VuxACLcBGAsYHQ/s0/QO5Fi9H.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Magna TV" tvg-name="Magna TV", Magna TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GdXrGIao-l8/YMOPNggqZBI/AAAAAAAABGY/ZV2nmfwIxA87abMgcIrZK_hdh1BVyEfKgCLcBGAsYHQ/s0/DATJMK7.png?v=1.1.1.1" group-title="tvN150N" tvg-id="JawaposTV.id" tvg-name="JawaposTV", JawaposTV
+http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pyNOQeOGBeY/YaHj523tt1I/AAAAAAAABcg/rpjr4x-MhWE_N59Ih48qoQ-HymFmOQv9QCLcBGAsYHQ/s0/EYJ0ED2.png?v=1.0.0.1" group-title="tvN150N", IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
