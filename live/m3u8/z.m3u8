@@ -187,6 +187,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 ########################################################      Kids     ########################################################
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xd_oAtf9Cp8/Ya2FqnhXjyI/AAAAAAAABho/Cjkvk02LkZMGwJblb4pjooetXksh4pibgCNcBGAsYHQ/s0/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria
+http://warningfm.github.io/utubeLive/nosignal/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/Ekz0FMS.png?v=1.0.0.1" group-title="Kids" tvg-id="Cartoonito" tvg-name="Cartoonito", Cartoonito 🇮🇩
@@ -214,9 +217,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|R
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l8C1_R7w9jc/Ya2JKQxbJrI/AAAAAAAABiY/cKyzOWRZ7-EFDwM-kSYKL0BWKW_td6xkgCNcBGAsYHQ/s0/p3cqAKM.png?v=1.0.0.1" group-title="Kids" tvg-id="Biznet Kids" tvg-name="Biznet Kids", B Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xd_oAtf9Cp8/Ya2FqnhXjyI/AAAAAAAABho/Cjkvk02LkZMGwJblb4pjooetXksh4pibgCNcBGAsYHQ/s0/uAHJS7W.png?v=1.0.0.1" group-title="Kids" tvg-id="Astro Ceria HD" tvg-name="Astro Ceria HD", Astro Ceria
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
