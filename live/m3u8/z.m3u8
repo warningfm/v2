@@ -366,6 +366,14 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinem
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinema" tvg-name="mycinema", My Cinema
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rlWbgCR.png?v=1.1.1.1" group-title="Movies" tvg-id="ROCKAction.id" tvg-name="ROCK Action", ROCK Action
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/p1a0RwN.png?v=1.0.0.1" group-title="Movies" tvg-id="ROCKEntertainment.id" tvg-name="Rock Entertainment", Rock Entertainment
+http://op-group1-swiftservehd-1.dens.tv/h/h16/index.m3u8
+
 ########################################################    HBO GO     ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
