@@ -459,7 +459,7 @@ https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BpmnnBICvzY/YXPK-Z5QhDI/AAAAAAAABYo/YxZLfoeC5Y4I1VfCC-I9o5_94tDLF2vuwCLcBGAsYHQ/s0/tAqn0hP.png?v=1.0.0.1" group-title="Arab" tvg-id="Saudi TV 1" tvg-name="Saudi TV 1", Saudi TV 1
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv-avc1_600000=4-mp4a_97200=2.m3u8
+https://live.kwikmotion.com/ksa1live/ksa1.smil/ksa1publish/ksa1_480p/hdntl=exp=1726049610~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=7649420e56ea6f53c9c9448d892b99a53d83ce3570741f5fef69ed12e9c06e7e/chunks_dvr.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rsx1P2KRtzA/YXPLbPP8mBI/AAAAAAAABYw/zrMwugaPMrsT_7zBHl9wzg4LrqCRWbxOQCLcBGAsYHQ/s0/yIDtEcz.jpg?v=1.1.1.1" group-title="Arab" tvg-id="Dubai TV" tvg-name="Dubai TV", Dubai TV
