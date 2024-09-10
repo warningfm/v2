@@ -466,7 +466,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv-a
 http://warningfm.github.io/streams/live/m3u8/ar/bcc43de11a0e1b3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZEmXPKO9S4U/YXPLtFdDq-I/AAAAAAAABY4/K_-kfoVmPKM4tdLO8lgABODAqWrulPx1ACLcBGAsYHQ/s0/6NbRu5c.png?v=1.0.0.1" group-title="Arab" tvg-id="Noor Dubai TV" tvg-name="Noor Dubai TV", Noor Dubai TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kaOVfXNh2BLfXgWN7SAQCcUzQxDqYIYKpHesHXJF-YotA=s900-c-k-c0x00ffffff-no-rj?v=1.0.0.1" group-title="Arab" tvg-id="Noor Dubai TV" tvg-name="Noor Dubai TV", Noor Dubai TV
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/master.m3u8
 
 ########################################################   MalaysiaTV  ########################################################
