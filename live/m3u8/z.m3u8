@@ -134,7 +134,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|R
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6M_3mWnVcfw/YRDSRsm63tI/AAAAAAAABJk/YN15IknImOkW4yAVLbMsBAYFrof0hm14ACLcBGAsYHQ/s0/evrRgFH.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Muhammadiyah TV" tvg-name="Muhammadiyah TV", tvMu
-https://d1abp075u76pbq.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd|Referer=https://www.visionplus.id
+http://s7.mbahnunungonline.net/live/m3u8/id/MQGHZhlYFicsYHQ.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
