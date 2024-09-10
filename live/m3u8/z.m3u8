@@ -103,6 +103,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_ythCVY9kX0/YRN0CKcj39I/AAAAAAAABM8/Yxh3uwIDNmAo17zRfrGJOlk_tCcXqSeVwCLcBGAsYHQ/s0/uJTTmk8.png?v=1.0.0.1" group-title="tvN150N" tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia", CNBC Indonesia
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
+https://dl.dropbox.com/s/4tqkcv541ot08ec/378a642ff00fed9.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Edy-dDv89ZA/YMOFi3Put8I/AAAAAAAABE8/yh_egePZ7v8uz1lUDjXzNjVJvlJjMIA_QCLcBGAsYHQ/s0/gII3Eq8.png?v=1.1.1.1" group-title="tvN150N" tvg-id="BeritaSatu.id" tvg-name="Berita Satu", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
@@ -156,10 +160,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7cafff42-3569
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fsoeW-q-Akk/YY-SbeMeSMI/AAAAAAAABak/qakRm4K29ho1q4Xw_kyEmkAPXBGD-JB4ACLcBGAsYHQ/s0/od0w7R2.png?v=1.0.0.1" group-title="tvN150N" tvg-id="OChannel.id" tvg-name="MOJI", MOJI
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-im1wyciwT3A/YRa4drCVz6I/AAAAAAAABTE/qy8luMe5yTowjdCdsuu-m4WVuYlZ226TACLcBGAsYHQ/s0/eLjHSKm.png?v=1.1.1.1" group-title="tvN150N" tvg-id="Nusantara TV" tvg-name="Nusantara TV", NTV
-https://dl.dropbox.com/s/4tqkcv541ot08ec/378a642ff00fed9.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XN2Yc9GeSEs/YaHkcWjn5CI/AAAAAAAABco/jvOFGPCjoNcvEM6GridrTnWEju1k1VuxACLcBGAsYHQ/s0/QO5Fi9H.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Magna TV" tvg-name="Magna TV", Magna TV
