@@ -433,16 +433,16 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 ########################################################   Arab TV    ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fWptaGwAu_4/YROhuhWnZAI/AAAAAAAABOs/EV7vqN3WHnckLRH37Zs7X1G0E8ZESC9SgCLcBGAsYHQ/s0/6FcTok4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="Al Sunnah Al Nabawiyah TV HD" tvg-name="Al Sunnah Al Nabawiyah TV HD", Al Sunnah Al Nabawiyah TV HD
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madanitvbangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fWptaGwAu_4/YROhuhWnZAI/AAAAAAAABOs/EV7vqN3WHnckLRH37Zs7X1G0E8ZESC9SgCLcBGAsYHQ/s0/6FcTok4.png?v=1.0.0.1" group-title="tvN150N" tvg-id="MadaniChannelEnglish.pk" tvg-name="Madani Chnl.uk", Al Sunnah Al Nabawiyah TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7JEi9_dcPeg/YROl1qfq_2I/AAAAAAAABPM/Q8pDdzocmoYCSzSB64p4Ll9s4_8IqdfpgCLcBGAsYHQ/s0/nclyzsj.png?v=1.0.0.1" group-title="Arab"  tvg-id="IqraTV.uk" tvg-name="Iqra TV", Iqra TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7JEi9_dcPeg/YROl1qfq_2I/AAAAAAAABPM/Q8pDdzocmoYCSzSB64p4Ll9s4_8IqdfpgCLcBGAsYHQ/s0/nclyzsj.png?v=1.0.0.1" group-title="Arab" tvg-id="IqraTV.uk" tvg-name="IQRA TV.uk", Iqra TV
 https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YF73LSe6SHQ/YROmILrBmbI/AAAAAAAABPU/XBoXp3ghoewbWc7RWozxa3CX3aTjiu8YQCLcBGAsYHQ/s0/vUHoMzT.png?v=1.1.1.1" group-title="Arab" tvg-id="Makkah TV" tvg-name="Makkah TV", Makkah TV
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BpmnnBICvzY/YXPK-Z5QhDI/AAAAAAAABYo/YxZLfoeC5Y4I1VfCC-I9o5_94tDLF2vuwCLcBGAsYHQ/s0/tAqn0hP.png?v=1.0.0.1" group-title="Arab" tvg-id="Saudi TV 1" tvg-name="Saudi TV 1", Saudi TV 1
