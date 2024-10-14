@@ -191,8 +191,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/648/648-LOGO-m.png" group-title="Knowledge" tvg-id="BBCEarth.id" tvg-name="BBC Earth", BBC Earth
 https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png" group-title="Knowledge" tvg-id="CGTNDocumentary.id" tvg-name="CGTN-Documentary", CGTN Documentary
 https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
