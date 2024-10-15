@@ -181,13 +181,13 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="Sports" tvg-id="Sportstars.id" tvg-name="Sportstars", Sportstars
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0EFsZ9Z.png" group-title="Sports" tvg-id="Sportstars.id" tvg-name="Sportstars", Sportstars
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="Sports" tvg-id="Sportstars2.id" tvg-name="Sportstars 2", Sportstars 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn2xSYC.png" group-title="Sports" tvg-id="Sportstars2.id" tvg-name="Sportstars 2", Sportstars 2
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 ########################################################   Knowledge   ########################################################
