@@ -264,3 +264,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bMwkQEd.png" group-title="Kids" tvg-id="ZooMoo.sg.id" tvg-name="ZooMoo", ZooMoo
 https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="Entertainment",AXN
+https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd|Referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" group-title="Entertainment",KIX
+https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd|Referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png" group-title="Entertainment",Rock Entertainment
+https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd|Referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="Entertainment",HITS
+https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer=https://www.visionplus.id
