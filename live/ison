@@ -30,31 +30,31 @@ https://raw.githubusercontent.com/warningfm/streams/refs/heads/master/live/m3u8/
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mXy9ORD.png" group-title="National" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GCXUH25.png" group-title="National" tvg-id="MetroTV.id" tvg-name="Metro TV", Metro TV
 https://d1abp075u76pbq.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2bBYR4N.png" group-title="National" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2bBYR4N.png" group-title="National" tvg-id="Trans7.id" tvg-name="Trans 7", Trans7
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsWWAlZ.png" group-title="National" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/KsWWAlZ.png" group-title="National" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxgmdVY.png" group-title="National" tvg-id="GTV.id" tvg-name="GTV", GTV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/45Vmwv5.png" group-title="National" tvg-id="GTV.id" tvg-name="GTV", GTV
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wXiVj48.png" group-title="National" tvg-id="TVOne.id" tvg-name="TVOne", TVOne
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wXiVj48.png" group-title="National" tvg-id="TVOne.id" tvg-name="TVOne", TVOne
 https://d1abp075u76pbq.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
