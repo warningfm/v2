@@ -1903,9 +1903,9 @@
 <programme start="20250319110500 +0000" stop="20250319121500 +0000" channel="NET.id"><title lang="id">Samuel</title></programme>
 <programme start="20250319121500 +0000" stop="20250319133000 +0000" channel="NET.id"><title lang="id">Cinta Cinderella</title></programme>
 <programme start="20250319133000 +0000" stop="20250319144500 +0000" channel="NET.id"><title lang="id">Terlanjur Indah</title></programme>
-<programme start="20250319144500 +0000" stop="20250319164500 +0000" channel="NET.id"><title lang="id">MDTV Sinema : Athirah</title></programme>
-<programme start="20250319164500 +0000" stop="20250319181500 +0000" channel="NET.id"><title lang="id">The Penthouse</title></programme>
-<programme start="20250319181500 +0000" stop="20250319193000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
+<programme start="20250319144500 +0000" stop="20250319165300 +0000" channel="NET.id"><title lang="id">MDTV Sinema : Athirah</title></programme>
+<programme start="20250319165300 +0000" stop="20250319183000 +0000" channel="NET.id"><title lang="id">The Penthouse</title></programme>
+<programme start="20250319183000 +0000" stop="20250319193000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
 <programme start="20250319193000 +0000" stop="20250319213500 +0000" channel="NET.id"><title lang="id">Ini Baru Sahur</title></programme>
 <programme start="20250319213500 +0000" stop="20250319223000 +0000" channel="NET.id"><title lang="id">Janda Kembang</title></programme>
 <programme start="20250319223000 +0000" stop="20250320000000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
@@ -2238,43 +2238,41 @@
 <programme start="20250318213500 +0000" stop="20250318220000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Tiny Problems : A.P. Bio</title></programme>
 <programme start="20250318220000 +0000" stop="20250318224500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers</title></programme>
 <programme start="20250318224500 +0000" stop="20250318233000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
-<programme start="20250318233000 +0000" stop="20250319002500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Wrath of Mulgarath : The Spiderwick Chronicles</title></programme>
-<programme start="20250319002500 +0000" stop="20250319011500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250319011500 +0000" stop="20250319020500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250319020500 +0000" stop="20250319033500 +0000" channel="ROCKEntertainment.sg"><title lang="id">View From the Top</title></programme>
-<programme start="20250319033500 +0000" stop="20250319042500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Bad Blood : NCIS</title></programme>
-<programme start="20250319042500 +0000" stop="20250319050500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Close to Home : NCIS</title></programme>
-<programme start="20250319050500 +0000" stop="20250319055000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
-<programme start="20250319055000 +0000" stop="20250319063500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers</title></programme>
-<programme start="20250319063500 +0000" stop="20250319072000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Bingo, Bango, Bento! : Next Level Chef</title></programme>
-<programme start="20250319072000 +0000" stop="20250319080500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Picture Perfect : Next Level Chef</title></programme>
-<programme start="20250319080500 +0000" stop="20250319085000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Kombucha Kulture : Next Level Chef</title></programme>
-<programme start="20250319085000 +0000" stop="20250319093500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Taste of Success : Next Level Chef</title></programme>
-<programme start="20250319093500 +0000" stop="20250319111500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Elsewhere</title></programme>
-<programme start="20250319111500 +0000" stop="20250319120500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250319120500 +0000" stop="20250319125500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250319125500 +0000" stop="20250319143500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250319143500 +0000" stop="20250319162000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Canvas</title></programme>
-<programme start="20250319162000 +0000" stop="20250319170500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
-<programme start="20250319170500 +0000" stop="20250319175000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers</title></programme>
-<programme start="20250319175000 +0000" stop="20250319184000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250319184000 +0000" stop="20250319193000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250319193000 +0000" stop="20250319203500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Dead Man&apos;s Hand : Poker Face</title></programme>
-<programme start="20250319203500 +0000" stop="20250319213500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Night Shift : Poker Face</title></programme>
-<programme start="20250319213500 +0000" stop="20250319220000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Disgraced : A.P. Bio</title></programme>
+<programme start="20250318233000 +0000" stop="20250319003500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319003500 +0000" stop="20250319014000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319014000 +0000" stop="20250319031500 +0000" channel="ROCKEntertainment.sg"><title lang="id">View From the Top</title></programme>
+<programme start="20250319031500 +0000" stop="20250319040000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Bad Blood : NCIS</title></programme>
+<programme start="20250319040000 +0000" stop="20250319044500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Close to Home : NCIS</title></programme>
+<programme start="20250319044500 +0000" stop="20250319053000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250319053000 +0000" stop="20250319061500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers</title></programme>
+<programme start="20250319061500 +0000" stop="20250319070000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Bingo, Bango, Bento! : Next Level Chef</title></programme>
+<programme start="20250319070000 +0000" stop="20250319074500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Picture Perfect : Next Level Chef</title></programme>
+<programme start="20250319074500 +0000" stop="20250319083000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Kombucha Kulture : Next Level Chef</title></programme>
+<programme start="20250319083000 +0000" stop="20250319091500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Taste of Success : Next Level Chef</title></programme>
+<programme start="20250319091500 +0000" stop="20250319110000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Elsewhere</title></programme>
+<programme start="20250319110000 +0000" stop="20250319120000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319120000 +0000" stop="20250319130000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319130000 +0000" stop="20250319140000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319140000 +0000" stop="20250319150000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319150000 +0000" stop="20250319165000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Canvas</title></programme>
+<programme start="20250319165000 +0000" stop="20250319173500 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250319173500 +0000" stop="20250319182000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers</title></programme>
+<programme start="20250319182000 +0000" stop="20250319192000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319192000 +0000" stop="20250319202000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319202000 +0000" stop="20250319213000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Dead Man&apos;s Hand : Poker Face</title></programme>
+<programme start="20250319213000 +0000" stop="20250319220000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Disgraced : A.P. Bio</title></programme>
 <programme start="20250319220000 +0000" stop="20250319224500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers</title></programme>
 <programme start="20250319224500 +0000" stop="20250319233000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
-<programme start="20250319233000 +0000" stop="20250319235500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Disgraced : A.P. Bio</title></programme>
-<programme start="20250319235500 +0000" stop="20250320004000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Kombucha Kulture : Next Level Chef</title></programme>
-<programme start="20250320004000 +0000" stop="20250320012500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Taste of Success : Next Level Chef</title></programme>
-<programme start="20250320012500 +0000" stop="20250320031500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Needle in a Timestack</title></programme>
-<programme start="20250320031500 +0000" stop="20250320040500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250320040500 +0000" stop="20250320045500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250320045500 +0000" stop="20250320054000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
-<programme start="20250320054000 +0000" stop="20250320062500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers</title></programme>
-<programme start="20250320062500 +0000" stop="20250320071500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250320071500 +0000" stop="20250320080500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
-<programme start="20250320080500 +0000" stop="20250320085500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250319233000 +0000" stop="20250320001500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Kombucha Kulture : Next Level Chef</title></programme>
+<programme start="20250320001500 +0000" stop="20250320010000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Taste of Success : Next Level Chef</title></programme>
+<programme start="20250320010000 +0000" stop="20250320025500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Needle in a Timestack</title></programme>
+<programme start="20250320025500 +0000" stop="20250320035500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250320035500 +0000" stop="20250320045000 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250320045000 +0000" stop="20250320051500 +0000" channel="ROCKEntertainment.sg"><title lang="id">A.P. Bio</title></programme>
+<programme start="20250320051500 +0000" stop="20250320060000 +0000" channel="ROCKEntertainment.sg"><title lang="id">The Tonight Show Starring Jimmy Fallon</title></programme>
+<programme start="20250320060000 +0000" stop="20250320064500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Late Night With Seth Meyers</title></programme>
+<programme start="20250320064500 +0000" stop="20250320074500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
+<programme start="20250320074500 +0000" stop="20250320084500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
 <programme start="20250320085500 +0000" stop="20250320094500 +0000" channel="ROCKEntertainment.sg"><title lang="id">DOC - In Your Hands</title></programme>
 <programme start="20250320094500 +0000" stop="20250320113000 +0000" channel="ROCKEntertainment.sg"><title lang="id">Canvas</title></programme>
 <programme start="20250320113000 +0000" stop="20250320121500 +0000" channel="ROCKEntertainment.sg"><title lang="id">Taste of Success : Next Level Chef</title></programme>
@@ -2527,9 +2525,9 @@
 <programme start="20250319120000 +0000" stop="20250319123000 +0000" channel="Trans7.id"><title lang="id">Secret Story</title></programme>
 <programme start="20250319123000 +0000" stop="20250319131500 +0000" channel="Trans7.id"><title lang="id">POV - Pasti Obrolan Viral</title></programme>
 <programme start="20250319131500 +0000" stop="20250319143000 +0000" channel="Trans7.id"><title lang="id">Arisan</title></programme>
-<programme start="20250319143000 +0000" stop="20250319153000 +0000" channel="Trans7.id"><title lang="id">Lapor Pak!</title></programme>
-<programme start="20250319153000 +0000" stop="20250319154500 +0000" channel="Trans7.id"><title lang="id">Newstainment</title></programme>
-<programme start="20250319154500 +0000" stop="20250319171500 +0000" channel="Trans7.id"><title lang="id">The Police</title></programme>
+<programme start="20250319143000 +0000" stop="20250319154500 +0000" channel="Trans7.id"><title lang="id">Lapor Pak!</title></programme>
+<programme start="20250319154500 +0000" stop="20250319163000 +0000" channel="Trans7.id"><title lang="id">The Police</title></programme>
+<programme start="20250319163000 +0000" stop="20250319171500 +0000" channel="Trans7.id"><title lang="id">Newstainment</title></programme>
 <programme start="20250319171500 +0000" stop="20250319174500 +0000" channel="Trans7.id"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20250319174500 +0000" stop="20250319183000 +0000" channel="Trans7.id"><title lang="id">Sport7</title></programme>
 <programme start="20250319183000 +0000" stop="20250319193000 +0000" channel="Trans7.id"><title lang="id">Best Fishing</title></programme>
