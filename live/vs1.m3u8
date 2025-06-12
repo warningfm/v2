@@ -768,6 +768,7 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 ########################################################     Movies    ########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NoCJFNZ.png?v=1.0.0.1" group-title="Movies" group-logo="https://i.imgur.com/NvrynuE.png?v=1.0.0.1" tvg-id="ActionHollywoodMovies.au" tvg-name="Action Hollywood Movies", Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -817,7 +818,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ogZe5NB.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITSNow.id" tvg-name="HITS Now", HITS Now
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/puD2me6.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="KIX.id" tvg-name="KIX", KIX
 http://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 
@@ -825,22 +826,23 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/29afb26faff1ccd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TlTvkF.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-ID="Lotusmacau Prd.ph" tvg-name="Lotusmacau Prd.ph", Lotusmacau
 https://gist.githubusercontent.com/warningfm/88f3dbec38f2f3ee61a7155d7e5676d2/raw/0a035a2d3dfe677d211c4918557c733028490702/lotus.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms" tvg-name="MovieSphere", MovieSphere
 http://khano.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ABjELCt.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema HD.id" tvg-name="My Cinema HD.id", My Cinema
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/P5ekSb0.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema Asia.id" tvg-name="My Cinema Asia.id", My Cinema Asia
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WnZe5JF.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema Europe HD.id" tvg-name="My Cinema Europe HD.id", My Cinema Europe
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h5wfdE9.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Family Channel.id" tvg-name="My Family Channel.id", My Family Channel
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31f.m3u8
 
@@ -852,11 +854,11 @@ http://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998d.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/8uoL1CE.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="RockEntertainment.id" tvg-name="Rock Entertainment", Rock Entertainment
 http://cdn.nng.cloudns.us/live/m3u8/Mov/6dbd87da999998e.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/VrGgBYv.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Thrill.id" tvg-name="Thrill", Thrill
 http://khano.nng.cloudns.us/live/m3u8/Mov/42f8fc7226dc12a.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/R28vFlE.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="tvNMovies.id" tvg-name="tvN Movies HD", TVN Movies
 http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 
@@ -879,8 +881,33 @@ https://av-ch-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash/Indonesia
 
 ########################################################    HBO GO     ########################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://thumbs2.imgbox.com/ee/0e/EmDqTe1g_t.png?v=1.1.1.1" tvg-id="HBO HD.sg" tvg-url="" tvg-name="HBO", HBO
+https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+#EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://thumbs2.imgbox.com/22/31/n3hiX0ko_t.png?v=1.1.1.1" tvg-id="414.astro" tvg-url="", HBO Family
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+#EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://thumbs2.imgbox.com/43/c0/WOv1aOxH_t.png?v=1.1.1.1" tvg-id="HBO HITS HD.ph" tvg-name="HBO Hits", HBO Hits
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+#EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://thumbs2.imgbox.com/4c/52/hz61w5Bd_t.png?v=1.1.1.1" tvg-id="HBO.Signature.HD.id" tvg-name="HBO Signature HD", HBO Signature
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+#EXTINF:-1 group-title="HBO GO" group-logo="https://i.imgur.com/BaIxzK3.png?v=1.0.0.1" tvg-logo="https://thumbs2.imgbox.com/72/1c/Y3hkwBeN_t.png?v=1.1.1.1" tvg-id="412.astro" tvg-name="CINEMAX HD", CINEMAX
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 ########################################################   Lifestyle   ########################################################
 
@@ -953,19 +980,20 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fa/8a/w5za9Ci0_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English", Al Jazeera English
 http://cdn.nng.cloudns.us/live/m3u8/ns/f5f5c18cf037919.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/18/74/lxoUxetD_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="5251" tvg-name="ABC Australia", ABC Australia
-https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd|Referer=https://www.visionplus.id
+https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/9a/98/5HnKe9J4_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="Bloomberg.id" tvg-name"Bloomberg", Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fc/ab/I3Luhpup_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="mjh-bbc-news" tvg-name"BBC News", BBC News
-#https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/a7/95/YleXFiJZ_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="515.astro" tvg-name"CNA HD", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
