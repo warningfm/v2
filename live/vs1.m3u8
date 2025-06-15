@@ -343,7 +343,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ZXLmLWm.png?v=1.0.0.1" group-title="Entertainment" tvg-id="Entertainment.id" tvg-name="ent", Entertainment
-https://av-ch-cdn.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd|Referer=https://www.visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6BLiuPa.png?v=1.0.0.1" group-title="Entertainment" tvg-id="FoodTravel.id" tvg-name="Food Travel", Food Travel
