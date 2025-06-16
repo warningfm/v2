@@ -1149,8 +1149,8 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2e.m3u8
 ########################################################     Hindi     ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OMSOIVq.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Colors HD.in" tvg-name="Colors HD.in", Colors HD
-http://cdn.nng.cloudns.us/live/m3u8/in/colors/index.m3u8
-#https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/in/colors/index.m3u8
+https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cs0nxSC.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.Classic.distro" tvg-name="Bollywood Classic", Bollywood Classic
@@ -1172,9 +1172,6 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/T7U53yp.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SonyKal" tvg-name="SONY Kal", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3BYH5y.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Star GOLD HD.in" tvg-name="Star GOLD HD.in", Star GOLD HD
-http://cdn.nng.cloudns.us/live/m3u8/in/StarGold/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
