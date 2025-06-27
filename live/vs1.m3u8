@@ -170,9 +170,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bKLoSVx.png?v=1.1.1.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="JTV.id" tvg-name="JTV", JTV
 http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dfa046b3bf14866a143470d9c8dd74d:97e354284ee7a67e5dafbce04e17c4c0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NVODNmw.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="JakTV.id" tvg-name="Jak TV", JakTV
-http://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
+https://d2tjypxxy769fn.cloudfront.net/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9sN7WXU.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="BandungTV.id" tvg-name="Bandung TV", Bandung TV
