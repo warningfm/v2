@@ -385,13 +385,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PekJ7S8.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="RRI NET.id" tvg-name="RRI NET.id", RRI NET
 https://public-streaming.rri.co.id/memfs/a3a573d6-1ed3-4d6e-9f9f-e9a4e2cefd9d.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/GrgQzKo.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="SEAToday.id" tvg-name="SEA Today", SEA Today
-https://fta2-cdn-flr.visionplus.id/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index.mpd
-#http://cdn.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
@@ -436,9 +429,11 @@ https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzOPM2GqTEZxtFk3l2O-EjQaD2Miw44lQBzptogSckw1LWrpgRwXPk7ZYaHE5BAnni2a2jyUHwW-poc4dmFfQ3RtzSXpnmihEHr7ZS5URK_UbQsh5viq_kzW_zNDf3hddlZr6WsnerZAM6RYtwtrNP3r-F3U1-QELMhvp00yO2lxYKauVwBS0l1GZZXKxh/s1600/VChPvOB.pn?v=1.1.1.1" group-title="Ukhuwah Islamiyah" tvg-id="TawafTV.id" tvg-name="Tawaf TV", Tawaf TV
 https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/98c2047e0b19dc0e9f979d37a4252f900ff2f9cd/0c9fd875599b836.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=137
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoO3le71CUb1ECJdymyQvJXDBVKLJSzACnKTiUPTKMkupFORlZkr7KskLsiomDxc7mY2_hm3ztlZ_XRpTtutAQqQJK7IJS4LokeR3YecHHZBHvzZ61yyoovZJ3pMndnE9NYli77A10gf0_ftZlJF2uJBMhGfBf9dcoOVnBsglL3Qq47MtbYZOZ4DqAHKdg/s1600/5ik1ZkS.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="MuslimTV.id" tvg-name="Muslim TV", Muslim TV
-https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd|Referer=https://www.visionplus.id
+https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNkxlv35JmlMEzpz9dO96GW4JhpSih7w0M5VtE4v6oJ-k1FHNRprQG2KrQtFopsv7-1GqA9q5YO6KBOZrZv0phqgoXeU3QAWesHOQ6zU0OvSGuayc284LQtwwb0t2VnhyuTj-plic-7ansWhp0-Aw9942enEffc66DrI-cjvXZePVXyEgNzDrr7ogy5aH/s1600/Rla7xMR.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="TV9Nusantara.id" tvg-name="TV9 Nusantara", TV9 Nusantara
@@ -684,12 +679,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CYSadHU.png?v=1.1.1.1" group-title="Knowledge" tvg-id="LoveNature.id" tvg-name="Love Nature Asia", Love Nature Asia
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/dD7kjTY.png?v=1.0.0.1" group-title="Knowledge" tvg-id="LoveNature.id" tvg-name="Love Nature Asia", Love Nature Asia
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd|Referer=https://www.visionplus.id
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/dD7kjTY.png?v=1.0.0.1" group-title="Knowledge" tvg-id="USBA3400003IP" tvg-chno="1404" tvg-name="Love Nature 4K", Love Nature 4k
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/6638e39f8d20a96023b2e18c193bb4778c8f5f21/lovenature4k.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/S4WzUS4.png?v=1.0.0.1" group-title="Knowledge" tvg-id="5119" tvg-name="Outdoor Channel", Outdoor Channel
@@ -851,20 +842,12 @@ https://gist.githubusercontent.com/warningfm/88f3dbec38f2f3ee61a7155d7e5676d2/ra
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ABjELCt.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema HD.id" tvg-name="My Cinema HD.id", My Cinema
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/P5ekSb0.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema Asia.id" tvg-name="My Cinema Asia.id", My Cinema Asia
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WnZe5JF.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema Europe HD.id" tvg-name="My Cinema Europe HD.id", My Cinema Europe
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h5wfdE9.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Family Channel.id" tvg-name="My Family Channel.id", My Family Channel
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31f.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
@@ -988,9 +971,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fa/8a/w5za9Ci0_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English", Al Jazeera English
 http://cdn.nng.cloudns.us/live/m3u8/ns/f5f5c18cf037919.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/18/74/lxoUxetD_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="5251" tvg-name="ABC Australia", ABC Australia
-https://av-ch-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd|Referer=https://www.visionplus.id
+https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/9a/98/5HnKe9J4_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="Bloomberg.id" tvg-name"Bloomberg", Bloomberg
@@ -1111,8 +1096,8 @@ http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2e.m3u8
 ########################################################     Hindi     ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OMSOIVq.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Colors HD.in" tvg-name="Colors HD.in", Colors HD
-http://cdn.nng.cloudns.us/live/m3u8/in/colors/index.m3u8
-#https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/in/colors/index.m3u8
+https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cs0nxSC.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.Classic.distro" tvg-name="Bollywood Classic", Bollywood Classic
