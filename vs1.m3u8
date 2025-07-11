@@ -149,9 +149,10 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 
 ########################################################     Local     ########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/48RdW2A.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="BaliTV.id" tvg-name="Bali TV", Bali TV
-https://cdn09jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd|Referer=https://www.indihometv.com
+https://fta2-cdn-flr.visionplus.id/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
