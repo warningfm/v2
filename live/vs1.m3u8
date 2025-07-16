@@ -1640,6 +1640,9 @@ https://azuracast.suzananet.com/radio/8010/radio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SIWKiiM.jpg?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
+#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/df22b09422375eac8071aaac98532796.jpeg?v=1.0.0.1" group-title="📻 Radio", Sonora FM
+https://cast1.my-control-panel.com/proxy/radioso1/stream
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1pwiqj3.jpg?v=1.0.0.1" group-title="📻 Radio", I Radio
 http://stream.radiojar.com/4ywdgup3bnzuv
 
