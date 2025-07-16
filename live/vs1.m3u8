@@ -1438,8 +1438,6 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Pb4cL6K.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 3.uk" tvg-name="TNT Sports 3.uk", TNT Sports 3
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/E2UhO3Q.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 4.uk" tvg-name="TNT Sports 4.uk", TNT SPORTS 4
@@ -1477,47 +1475,6 @@ https://www.xozilla.com/get_file/20/985dd0024c88d6e21f3d4b8ac4d522b4/362000/3621
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/xcR6TNi.png" group-title="Adult Lifestyle & Interests", Foot Fetish Lorena Outdoor arousing slit fiesta!
 https://www.xozilla.xxx/get_file/20/95caf6b474c69a2f28a59da1a448198a/362000/362164/362164.mp4/?embed=true
-
-########################################################     Radio     ########################################################
-
-#EXTINF:-1 tvg-logo="https://cdn.bintangtenggarafm.com/img/f69c7be1aa497aaa87f40d2306c4b3578.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
-https://stream.zeno.fm/r4mpcrfwfzzuv
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
-https://stream.zeno.fm/skk0a2d6sd0uv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A5XtE1G.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
-https://s7.alhastream.com/radio/8090/radio?1609467814144
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kFBcpPA.png?v=1.0.0.1" group-title="📻 Radio", Mandala FM Banyuwangi
-https://svara-stream.radioddns.net/banyuwangi_mandalafm
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4ZhQvc.jpg?v=1.0.0.1" group-title="📻 Radio", VIS FM Banyuwangi
-https://visfm.radiobanyuwangi.my.id/visfm
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w3oKQZE.png?v=1.0.0.1" group-title="📻 Radio", mbah nunung Online
-https://stream.zeno.fm/n4gzbe9ufzzuv
-
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio", Tombo Waras FM
-https://stream.zeno.fm/uv0krbzgszpvv
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3bVDwBrUqhmD_ON_EbGtVezoc27DaMsc-ZSif1x67O2SKtWe7q9JJcww8JNr_LYTg__OT_CNVLDpMfGKT0xN_9Q1EXcIwV_gFz4GaN51bigwkKqTp7d4987y6rmMwKdOetggMawynUn7VwoyKKHft7XofQW2nExnfvxYrtxkjdCU6ZSjvGJUE9_RoUTya/s1600/LaRsq22.png?v=1.0.0.1" group-title="📻 Radio", Mantab Herbal FM
-https://stream.zeno.fm/p3flr3pjqwhtv
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sgyw8andwmrw.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
-https://azuracast.suzananet.com/radio/8010/radio
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SIWKiiM.jpg?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
-https://stream-ssl.arenastreaming.com:8000/jakarta
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1pwiqj3.jpg?v=1.0.0.1" group-title="📻 Radio", I Radio
-http://stream.radiojar.com/4ywdgup3bnzuv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwEG2Ju.jpg?v=1.0.0.1" group-title="📻 Radio", Cosmopolitan FM
-http://n02.radiojar.com/u7d8heq3bnzuv
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BRZ0nMf.jpg?v=1.0.0.1" group-title="📻 Radio", Trax FM
-https://n11.radiojar.com:443/rrqf78p3bnzuv
 
 ########################################################    denstv   ########################################################
 
@@ -1648,3 +1605,45 @@ https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
+
+########################################################     Radio     ########################################################
+
+#EXTINF:-1 tvg-logo="https://cdn.bintangtenggarafm.com/img/f69c7be1aa497aaa87f40d2306c4b3578.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
+https://asv.alhastream.com:3310/rbtfm
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
+#https://stream.zeno.fm/skk0a2d6sd0uv
+http://kano.mbahnunungonline.net:8000/mbahnunungonline
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A5XtE1G.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
+https://s7.alhastream.com/radio/8090/radio?1609467814144
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFBcpPA.png?v=1.0.0.1" group-title="📻 Radio", Mandala FM Banyuwangi
+https://svara-stream.radioddns.net/banyuwangi_mandalafm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4ZhQvc.jpg?v=1.0.0.1" group-title="📻 Radio", VIS FM Banyuwangi
+https://visfm.radiobanyuwangi.my.id/visfm
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/nn-Cover.png?v=1.0.0.1" group-title="📻 Radio", mbah nunung Online
+https://stream.zeno.fm/n4gzbe9ufzzuv
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio", Tombo Waras FM
+https://stream.zeno.fm/uv0krbzgszpvv
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3bVDwBrUqhmD_ON_EbGtVezoc27DaMsc-ZSif1x67O2SKtWe7q9JJcww8JNr_LYTg__OT_CNVLDpMfGKT0xN_9Q1EXcIwV_gFz4GaN51bigwkKqTp7d4987y6rmMwKdOetggMawynUn7VwoyKKHft7XofQW2nExnfvxYrtxkjdCU6ZSjvGJUE9_RoUTya/s1600/LaRsq22.png?v=1.0.0.1" group-title="📻 Radio", Mantab Herbal FM
+https://stream.zeno.fm/p3flr3pjqwhtv
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/aa/89/db/aa89dbeb-9d47-5ce9-3e43-5fcad5b39e88/source/512x512bb.jpg?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
+https://azuracast.suzananet.com/radio/8010/radio
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SIWKiiM.jpg?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pwiqj3.jpg?v=1.0.0.1" group-title="📻 Radio", I Radio
+http://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwEG2Ju.jpg?v=1.0.0.1" group-title="📻 Radio", Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BRZ0nMf.jpg?v=1.0.0.1" group-title="📻 Radio", Trax FM
+https://n11.radiojar.com:443/rrqf78p3bnzuv
