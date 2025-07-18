@@ -880,20 +880,12 @@ https://gist.githubusercontent.com/warningfm/88f3dbec38f2f3ee61a7155d7e5676d2/ra
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ABjELCt.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema HD.id" tvg-name="My Cinema HD.id", My Cinema
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31D.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/P5ekSb0.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema Asia.id" tvg-name="My Cinema Asia.id", My Cinema Asia
 http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/WnZe5JF.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Cinema Europe HD.id" tvg-name="My Cinema Europe HD.id", My Cinema Europe
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/h5wfdE9.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="My Family Channel.id" tvg-name="My Family Channel.id", My Family Channel
-http://khano.nng.cloudns.us/live/m3u8/Mov/0f117055295b31f.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2nL0VGi.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="ROCKAction.id" tvg-name="ROCK Action", Rock Action
