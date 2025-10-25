@@ -1066,7 +1066,7 @@ https://atemeshield1-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/7c/41/Vn8TdKTG_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="NHKWorld.id" tvg-name"NHK World Japan", NHK World Japan
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8
+http://khano.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/83/3c/sqwDCsFN_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-ID="NHKWorldPremium.jp" tvg-name"NHK World", NHK World Premium
