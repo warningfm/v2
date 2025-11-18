@@ -82,7 +82,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="14" tvg-id="iNews.HD.id" tvg-name="iNews HD", iNews HD
-https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|Referer=https://www.visionplus.id
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="15" tvg-id="TVRI.my.id" tvg-name="TVRI Nasional HD", TVRI Nasional HD
