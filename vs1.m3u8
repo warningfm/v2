@@ -928,20 +928,19 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/2c/27/CbJWOpL7_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTVAsia.fr" tvg-name="FashionTV Asia", FashionTV Asia HD
-https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/bd8f1eaade6782c3ad8c6916f840f89052a2c590/700a192f4d09363.m3u8
+#https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/bd8f1eaade6782c3ad8c6916f840f89052a2c590/700a192f4d09363.m3u8
+https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/bb/iAEQBit9_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV HD.cz" tvg-name="FashionTV HD.cz", FashionTV Czech&Slovak
 https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/d5510190115ed7c5bd1a6fcbc1a5c7e8b533cdad/364bfe25097b975.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/2c/27/CbJWOpL7_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion TV.fr" tvg-name="Fashion TV.fr", Fashion TV Global
-https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/9fba94c54aa06dacdd28b3910045c2ab6a5e4148/801a98b42276bac.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/27/c1/eIEHfm5A_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV", Fashion TV Midnight Secrets
+#https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/be595ba194bcc7c3206fbb1b60838d5e3915482d/700a192f4d09364.m3u8
+https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/27/c1/eIEHfm5A_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV", Fashion TV Midnight Secrets
-https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/be595ba194bcc7c3206fbb1b60838d5e3915482d/700a192f4d09364.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/89/68/0mWfTAI9_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion One 4K.ru" tvg-name="Fashion One 4K.ru", Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 
