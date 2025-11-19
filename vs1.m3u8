@@ -1043,7 +1043,7 @@ http://khano.nng.cloudns.us/live/m3u8/ar/bcc43de11a0e1b3.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2bJ5phg.png?v=1.0.0.1" group-title="🇦🇪 Dubai" tvg-id="Noor Dubai.ae" tvg-name="Noor Dubai.ae", Noor Dubai TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2bJ5phg.png?v=1.0.0.1" group-title="🇦🇪 Dubai" tvg-id="Noor Dubai.sa" tvg-name="Noor Dubai.sa", Noor Dubai TV
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/master.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1121,7 +1121,7 @@ https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Gakj0l7.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zee Cinema HD.in" tvg-name="Zee Cinema HD.in", Z Cinema HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lfJZsIq.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zee Cinema HD.in" tvg-name="Zee Cinema HD.in", Z Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
