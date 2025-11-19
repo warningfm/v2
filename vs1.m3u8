@@ -1124,6 +1124,11 @@ https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lfJZsIq.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zee Cinema HD.in" tvg-name="Zee Cinema HD.in", Z Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/8RckLVA.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Zee Bollywood.in" tvg-name="Zee Bollywood.in", Z Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qui9OM5.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="andtv HD.in" tvg-name="andtv HD.in", &TV
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
