@@ -26,7 +26,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sdrwEQf.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="4" tvg-id="ANTV.id" tvg-name="ANTV", ANTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd|Referer=https://www.visionplus.id
 
 =====================================================================================================================
 
@@ -81,13 +81,13 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9lJJAEK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="13" tvg-id="KompasTV.my.id" tvg-name="KompasTV", KompasTV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd|Referer=https://www.visionplus.id
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="14" tvg-id="iNews.HD.id" tvg-name="iNews HD", iNews HD
-https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|Referer=https://www.visionplus.id
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="15" tvg-id="TVRI.my.id" tvg-name="TVRI Nasional HD", TVRI Nasional HD
@@ -250,7 +250,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/EWwzRJv.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="DreamWorks.id" tvg-name="Dreamworks HD", Dreamworks HD
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd|Referer=https://www.visionplus.id
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Gpcso8T.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Horee.id" tvg-name="Horee", Horee
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
@@ -472,15 +478,14 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mas
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g5bWly0.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Eurosport" tvg-name="Eurosport", Eurosport
-#https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
+#https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5TtxQOw.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="FightSports.id" tvg-name="Fight Sports", Fight Sports
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-#http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OWfDYeM.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="HorizonSports.us.id" tvg-name="Horizon Sports", HorizonSports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
@@ -577,10 +582,11 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 ########################################################   Knowledge   ########################################################
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JLMBNgX.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="AnimalPlanet.id" tvg-name="Animal Planet", Animal Planet HD
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
@@ -608,15 +614,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XIY8A94.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="DiscoveryAsia.id" tvg-name="Discovery Asia", Discovery Asia
-#https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
-https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7QX6p0Y.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD", Discovery Channel HD
-#https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
-https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c401c268b85841e3345dfabb1aa497fe:c3999ac196a5b2e0184574dda390d2ad
@@ -629,9 +633,11 @@ https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Roz7rC6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="History.id" tvg-name="History", History
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gItczMc.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="GlobalTrekker" tvg-name="Global Trekker", Global Trekker
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/GlobalTrekker.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
@@ -664,8 +670,11 @@ https://jmp2.uk/sam-US2200001IY.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9ex5pN0.png?v=1.0.0.1" group-title="Science & Nature" group-logo="https://i.imgur.com/M2ilzry.png?v=1.1.1.1" channel-id="SamsungTVPlus-USBA3800005NI" tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-chno="3520",Clarity 4K
 https://d34llq02ebsd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xm86ab912xr1m/Clarity_4K.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eC5Qr6n.png?v=1.0.0.1" group-title="Science & Nature" group-logo="https://i.imgur.com/M2ilzry.png?v=1.1.1.1" tvg-id="USBA3400003IP" tvg-chno="1404" tvg-name="Love Nature 4K", Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/4Ujac1d.png?v=1.0.0.1" group-title="Science & Nature" group-logo="https://i.imgur.com/M2ilzry.png?v=1.1.1.1" channel-id="GBBB5000002PL-gb" tvg-id="GBBB5000002PL" tvg-chno="4486" tvg-name="Wild Planet", Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
@@ -680,10 +689,10 @@ https://d3t5fccwnhi5z7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 ########################################################     Music     ########################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/grpfooi.png?v=1.0.0.1" group-title="Music" group-logo="https://i.imgur.com/hvF1r2H.png?v=1.0.0.1" tvg-id="Citra.Dangdut.id" tvg-name="Citra Dangdut", Citra Dangdut
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -697,10 +706,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVxfWbC.png" group-title="Music" tvg-id="MusicTV.id" tvg-name="Music TV", Music TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd|Referer=https://www.visionplus.id
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7ID84Uy.png?v=1.0.0.1" group-title="Music" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" tvg-id="MTVLive.id" tvg-name="MTV Live", MTV Live
-https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/v4SmMTF.png?v=1.0.0.1" group-title="Music" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" channel-id="USBC3600008WY" tvg-id="USBC3600008WY" tvg-chno="4418" tvg-name="Vevo Pop", Vevo Pop
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
@@ -798,16 +808,15 @@ https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dgCIcym.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITS.MOVIES.id" tvg-name="HITS MOVIES", Hits Movies
-#https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/dgCIcym.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITSMovies.id" tvg-name="Hits Movies", Hits Movies
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ogZe5NB.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITSNow.id" tvg-name="HITS Now", HITS Now
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ogZe5NB.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITSNow.id" tvg-name="HITS NOW", HITS Now
+https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
@@ -887,14 +896,13 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="5256" tvg-name="AFN (HD)", Asian Food Network
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="709.astro" tvg-name="AFN (HD)", Asian Food Network
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WhjmYep.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="717.astro" ch-number="" tvg-name="BBC Lifestyle", BBC Lifestyle
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sE1nCEC.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1"tvg-id="DENSFoodChannel.id" tvg-name="DensFood Channel.id", DENS Food Channel
@@ -904,40 +912,37 @@ http://cdn.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PYCg6E5.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="FashionTVAsia.fr" tvg-name="FashionTV Asia", FashionTV Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t7gOZKa.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)", Food Network
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
-
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
-#EXTVLCOPT:http-origin=https://cignalplay.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="HGTV.id" tvg-name="HGTV HD", HGTV HD
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
+#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t7gOZKa.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)", Food Network
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="HGTV.id" tvg-name="HGTV HD", HGTV HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
 ########################################################    Fashion    ########################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/2c/27/CbJWOpL7_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTVAsia.fr" tvg-name="FashionTV Asia", FashionTV Asia HD
-https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/bd8f1eaade6782c3ad8c6916f840f89052a2c590/700a192f4d09363.m3u8
+#https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/bd8f1eaade6782c3ad8c6916f840f89052a2c590/700a192f4d09363.m3u8
+https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/46/bb/iAEQBit9_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV HD.cz" tvg-name="FashionTV HD.cz", FashionTV Czech&Slovak
 https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/d5510190115ed7c5bd1a6fcbc1a5c7e8b533cdad/364bfe25097b975.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/2c/27/CbJWOpL7_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion TV.fr" tvg-name="Fashion TV.fr", Fashion TV Global
-https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/9fba94c54aa06dacdd28b3910045c2ab6a5e4148/801a98b42276bac.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/27/c1/eIEHfm5A_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV", Fashion TV Midnight Secrets
+#https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/be595ba194bcc7c3206fbb1b60838d5e3915482d/700a192f4d09364.m3u8
+https://amg01546-amg01546c1-rakuten-gb-9592.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-rakutengb/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/27/c1/eIEHfm5A_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="GBAJ4900002DE" tvg-name="Fashion TV", Fashion TV Midnight Secrets
-https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/be595ba194bcc7c3206fbb1b60838d5e3915482d/700a192f4d09364.m3u8
-
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/89/68/0mWfTAI9_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion One 4K.ru" tvg-name="Fashion One 4K.ru", Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 
@@ -958,14 +963,17 @@ http://cdn.nng.cloudns.us/live/m3u8/ns/f5f5c18cf037919.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/18/74/lxoUxetD_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="5251" tvg-name="ABC Australia", ABC Australia
-https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/9a/98/5HnKe9J4_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="Bloomberg.id" tvg-name"Bloomberg", Bloomberg
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fc/ab/I3Luhpup_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="mjh-bbc-news" tvg-name"BBC News", BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/fc/ab/I3Luhpup_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="BBCNews.au" tvg-name"BBC News", BBC News
+https://atemecdnbalancer-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/a7/95/YleXFiJZ_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="515.astro" tvg-name"CNA HD", CNA HD
@@ -981,7 +989,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/3d/55/acsUbCBq_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="CNNInternational.id" tvg-name="CNN", CNN International
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/15/9b/RsfN59lu_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="DWEnglish.de" tvg-name="DW (English)", DW (English)
@@ -995,7 +1003,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6bTkXjf.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="France24English.fr.id" tvg-name"France 24 English", France24
-https://atemeshield1-voe.sysln.id/live/eds/France24/mpd/France24.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/7c/41/Vn8TdKTG_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="NHKWorld.id" tvg-name"NHK World Japan", NHK World Japan
@@ -1013,13 +1021,13 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/15/e9/OlWrW70Y_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="IDX.id" tvg-name"IDX", IDX
-https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=5
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/78/6f/lOFBWVc0_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="SindoNews.id" tvg-name"Sindonews TV", Sindonews TV
-https://fta4-cdn-flr.visionplus.id/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd|Referer=https://www.visionplus.id
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/4d/9d/4DNDSG7x_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="AlJazeera.Arabic.net" tvg-name="AlJazeera Arabic", AlJazeera Arabic
@@ -1272,13 +1280,13 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lSjJSce.png?v=1.0.0.1" group-title="SPOTV" group-logo="" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV (First Media)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mediampd/SPOTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jZOVF6X.png?v=1.0.0.1" group-title="SPOTV" group-logo="" tvg-id="SPOTV2.id" tvg-name="SPOTV2", SPOTV2 (First Media)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mediampd/SPOTV2HD.mpd
 
 ########################################################   Sony Sports Network   ########################################################
 
