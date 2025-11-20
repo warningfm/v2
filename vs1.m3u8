@@ -248,9 +248,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Gpcso8T.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Horee.id" tvg-name="Horee", Horee
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
@@ -287,9 +287,11 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 ########################################################  Entertainment  ########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9sjx4gG.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="AnimaxAsia.id" tvg-name="Animax HD", Animax HD
-https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/int/f79749a4711e350.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
@@ -346,9 +348,11 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=8.8.4.4" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV", Indonesiana TV
 https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/raw/65169ac6d2221de0cf3346bac07e65c6e67b3fc9/indonesiana.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pd4Ck0W.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="Lifetime.id" tvg-name="Lifetime", LifeTime
-https://raw.githubusercontent.com/warningfm/v2/cloud/live/m3u8/int/7c3acc2d8ef3624.m3u8
+https://atemeshield1-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -359,7 +363,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/439xgNZ.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="TLCSoutheastAsia.sg" tvg-name="TLC Southeast Asia" tvg-country="id" tvg-language="id", TLC Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
@@ -463,14 +467,12 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/mas
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g5bWly0.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Eurosport" tvg-name="Eurosport", Eurosport
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
-#https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5TtxQOw.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="FightSports.id" tvg-name="Fight Sports", Fight Sports
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd|referrer=https://visionplus.id
-#http://cdn.nng.cloudns.us/live/m3u8/sprt/d7d981d1df08d72.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OWfDYeM.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="HorizonSports.us.id" tvg-name="Horizon Sports", HorizonSports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
@@ -502,6 +504,7 @@ https://gist.githubusercontent.com/warningfm/f951716f1dfd96d4480dbdad6a000eeb/ra
 
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYX5jYT.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Premier Tennishd.ph" tvg-name="Premier Tennishd.ph", Premier Sports 2 HD
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
@@ -790,8 +793,11 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/XzBueQe.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Hits.id" tvg-name="Hits", Hits
 https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/dgCIcym.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITS.MOVIES.id" tvg-name="HITS MOVIES", Hits Movies
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/dgCIcym.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITSMovies.id" tvg-name="Hits Movies", Hits Movies
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -872,8 +878,40 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 
 ########################################################    HBO GO     ########################################################
 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mediampd/HBOHD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="MOVIES",HBO HITS
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mediampd/HBOHitsHD.mpd
 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://mimipipi22.github.io/logo/movies/hbofam.jpg" group-title="MOVIES",HBO FAMILY
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mediampd/HBOFamilyHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://mimipipi22.github.io/logo/movies/hbosig.jpg" group-title="MOVIES",HBO SIGNATURE
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignatureHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
+https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
 
 ########################################################   Lifestyle   ########################################################
 
