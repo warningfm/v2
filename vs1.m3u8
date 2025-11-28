@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgDyBOBs_3zSz9tBaeXWUzxnTTkny7rYGnkQZZPhiQaQy59xSMXU9MzlMXF82vTYmikL9ziSjYMQcb617TfSUgm-RyU5iPbq5GbnyR5076TTSpk1qnMZZmZsrSWBYfeN9ihV2n8NpvdQ5BcS4f0oMBPN76KwVYBZ2g0ggmDSShXkI6A2AOk8rWyP4G8C5q/s1600/5aGd5Nc.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3ODWp9I.png?v=1.0.0.1" ch-number="1" tvg-id="RCTI.HD.id" tvg-name="RCTI HD", RCTI HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgDyBOBs_3zSz9tBaeXWUzxnTTkny7rYGnkQZZPhiQaQy59xSMXU9MzlMXF82vTYmikL9ziSjYMQcb617TfSUgm-RyU5iPbq5GbnyR5076TTSpk1qnMZZmZsrSWBYfeN9ihV2n8NpvdQ5BcS4f0oMBPN76KwVYBZ2g0ggmDSShXkI6A2AOk8rWyP4G8C5q/s1600/5aGd5Nc.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3ODWp9I.png?v=1.0.0.1" ch-number="1" tvg-id="RCTI.id" tvg-name="RCTI", RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|Referer=https://www.visionplus.id
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
@@ -48,7 +48,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/61061784f4a9270.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="9" tvg-id="GTV.HD.id" tvg-name="GTV HD", GTV HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/kkQGC04.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="9" tvg-id="GTV.id" tvg-name="GTV", GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|Referer=https://www.visionplus.id
 
 =====================================================================================================================
