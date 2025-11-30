@@ -872,8 +872,9 @@ http://cdn.nng.cloudns.us/live/m3u8/Mov/UNIVERSALMOV.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/PZ8lqc9.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Warner.TV.HD.my" tvg-name="Warner TV", Warner TV HD
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/33/4d/HUcDTXt5_t.png?v=1.0.0.1" group-title="Movies" tvg-id="andflixhd.in"  tvg-name="andflixhd.in", & Flix
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/playlist.m3u8
+https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/in/AndFlix/index.m3u8
 
 ########################################################    Bioskop Indonesia     ########################################################
 
