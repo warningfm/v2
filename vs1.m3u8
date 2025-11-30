@@ -186,6 +186,10 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/eqluvkr.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="SurabayaTV" tvg-name="Surabaya TV", Surabaya TV 🇮🇩
+http://cdn.nng.cloudns.us/live/m3u8/id/86555c60e79d212.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e4ZNl62.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="SaktiTV" tvg-name="Sakti TV", Sakti TV
 http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
 
