@@ -803,10 +803,10 @@ https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/ogZe5NB.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITSNow.id" tvg-name="HITS Now", HITS Now
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ogZe5NB.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="HITSNow.id" tvg-name="HITS NOW", HITS Now
+https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
@@ -865,14 +865,22 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id
 #http://khano.nng.cloudns.us/live/m3u8/Mov/d577c0880b08b2f.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M806UiK.png?v=1.0.0.1" group-title="Movies" tvg-id="Tapactionflix Hd.ph" tvg-name="Tapactionflix Hd.ph", TapAction Flix HD
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
+
 #EXTINF:-1 tvg-id="99991621" tvg-logo="https://thumbs2.imgbox.com/1c/24/1sI5FVn8_t.png?v=1.0.0.1" group-logo="" group-title="Movies", Universal Movies
 #https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=8212b958-3140-4a99-87a9-1eda1075c8b0&ads._fw_vcid2=512116:8212b958-3140-4a99-87a9-1eda1075c8b0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 http://cdn.nng.cloudns.us/live/m3u8/Mov/UNIVERSALMOV.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/PZ8lqc9.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Warner.TV.HD.my" tvg-name="Warner TV", Warner TV HD
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/33/4d/HUcDTXt5_t.png?v=1.0.0.1" group-title="Movies" tvg-id="andflix.in"  tvg-name="andflix.in", & Flix
@@ -884,7 +892,7 @@ https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/TAjYixM.png?v=1.0.0.1" group-title="Movies" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia", Bioskop Indonesia
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
