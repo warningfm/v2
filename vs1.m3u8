@@ -1333,25 +1333,30 @@ https://www.xozilla.xxx/get_file/20/95caf6b474c69a2f28a59da1a448198a/362000/3621
 
 ########################################################    denstv   ########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OTUdCvI.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rvstMFG.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CiYAcVe.png?v=1.1.1.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="215" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-http://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/g4Hv2nh.png?v=1.1.1.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="215" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
+http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sSAf4Kz.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="MOJI.id" tvg-name="MOJI", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/od0w7R3.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="MOJI.id" tvg-name="MOJI", MOJI
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/qAKhvwu.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="antv" tvg-name="antv", ANTV
-http://cdn.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/UqGSTVT.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="tvOne" tvg-name="tvOne", TVONE
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UqGSTVT.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="tvOne" tvg-name="tvOne", TVONE
 http://cdn.nng.cloudns.us/live/m3u8/id/0976f879a0c4548.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Si0yCfg.png" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="BTV.id" tvg-name="BTV", BTV
+http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cjgZtZy.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="MetroTV.my.id" tvg-name="METRO TV HD", METRO TV HD
+http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 
 ########################################################    indihometv   ########################################################
 
@@ -1404,14 +1409,8 @@ https://svara-stream.radioddns.net/banyuwangi_mandalafm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4ZhQvc.jpg?v=1.0.0.1" group-title="📻 Radio", VIS FM Banyuwangi
 https://visfm.radiobanyuwangi.my.id/visfm
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w3oKQZE.png?v=1.0.0.1" group-title="📻 Radio", mbah nunung Online
-https://stream.zeno.fm/n4gzbe9ufzzuv
-
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio", Tombo Waras FM
 https://stream.zeno.fm/uv0krbzgszpvv
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3bVDwBrUqhmD_ON_EbGtVezoc27DaMsc-ZSif1x67O2SKtWe7q9JJcww8JNr_LYTg__OT_CNVLDpMfGKT0xN_9Q1EXcIwV_gFz4GaN51bigwkKqTp7d4987y6rmMwKdOetggMawynUn7VwoyKKHft7XofQW2nExnfvxYrtxkjdCU6ZSjvGJUE9_RoUTya/s1600/LaRsq22.png?v=1.0.0.1" group-title="📻 Radio", Mantab Herbal FM
-https://stream.zeno.fm/p3flr3pjqwhtv
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sgyw8andwmrw.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
 https://azuracast.suzananet.com/radio/8010/radio
@@ -1427,5 +1426,4 @@ http://n02.radiojar.com/u7d8heq3bnzuv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BRZ0nMf.jpg?v=1.0.0.1" group-title="📻 Radio", Trax FM
 https://n11.radiojar.com:443/rrqf78p3bnzuv
-
 
