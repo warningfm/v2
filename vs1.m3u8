@@ -1416,6 +1416,9 @@ https://visfm.radiobanyuwangi.my.id/visfm
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio", Tombo Waras FM
 https://stream.zeno.fm/uv0krbzgszpvv
 
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bkroeoW.png?v=1.0.0.1" group-title="📻 Radio", Karimata FM
+https://s3.alhastream.com:8440/karimatafm
+
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sgyw8andwmrw.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
 https://azuracast.suzananet.com/radio/8010/radio
 
