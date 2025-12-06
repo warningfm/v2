@@ -1419,18 +1419,20 @@ https://stream.zeno.fm/uv0krbzgszpvv
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bkroeoW.png?v=1.0.0.1" group-title="📻 Radio", Karimata FM
 https://s3.alhastream.com:8440/karimatafm
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sgyw8andwmrw.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/aa/89/db/aa89dbeb-9d47-5ce9-3e43-5fcad5b39e88/source/512x512bb.jpg?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
 https://azuracast.suzananet.com/radio/8010/radio
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SIWKiiM.jpg?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1pwiqj3.jpg?v=1.0.0.1" group-title="📻 Radio", I Radio
+#EXTINF:-1 tvg-logo="https://images.glints.com/unsafe/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/df22b09422375eac8071aaac98532796.jpeg?v=1.0.0.1" group-title="📻 Radio", Sonora FM
+https://cast1.my-control-panel.com/proxy/radioso1/stream
+
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/938/iswara-jakarta.3c482bf1.jpg?v=1.0.0.1" group-title="📻 Radio", I Swara
 http://stream.radiojar.com/4ywdgup3bnzuv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwEG2Ju.jpg?v=1.0.0.1" group-title="📻 Radio", Cosmopolitan FM
 http://n02.radiojar.com/u7d8heq3bnzuv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BRZ0nMf.jpg?v=1.0.0.1" group-title="📻 Radio", Trax FM
-https://n11.radiojar.com:443/rrqf78p3bnzuv
 
