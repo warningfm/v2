@@ -1362,19 +1362,19 @@ http://cdn.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3HN0wFp.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="12" tvg-id="MDTV.id" tvg-name="MDTV", MDTV
+http://cdn.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cjgZtZy.png?v=1.0.0.1" group-title="Dens.tv" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" tvg-id="MetroTV.my.id" tvg-name="METRO TV HD", METRO TV HD
-http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 
 ########################################################    indihometv   ########################################################
 
-
-
 ########################################################    Transvision   ########################################################
 
-
 ########################################################    First Media   ########################################################
-
-
 
 ########################################################    RCTI+   ########################################################
 
