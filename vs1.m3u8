@@ -1215,10 +1215,10 @@ https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BCopt1L.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV1.HD.my" tvg-name="TV1 HD", TV1 HD
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JVfkufE.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV2.HD.my" tvg-name="TV2 HD", TV2 HD
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UBB2qWe.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV3.my" tvg-name="TV3", TV3
 https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/0920340006a2598122d570acf0cc560019083286/tv3.m3u9
@@ -1275,6 +1275,33 @@ https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wFp4cXP.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97096" tvg-name"Vasantham", Vasantham
 https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
+
+########################################################      Philippines     ########################################################
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wwL3U73.png" group-title="Philippines" tvg-id="143" tvg-name="ANC", ANC
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cDRl5nO.png" group-title="Philippines" tvg-id="Oneph.ph" tvg-name="Oneph.ph", ONE PH (CIG)
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mEIpwoN.png" group-title="Philippines" tvg-id="Taptv.ph" tvg-name="Taptv", TapTV
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_taptv_sd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/taKL7e6.png" group-title="Philippines" tvg-id="144" tvg-name="The Filipino Channel HD", The Filipino Channel HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/Bzd7riy.png" group-title="Philippines", Kapamilya Channel HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
 ########################################################     Adult Lifestyle    ########################################################
 ########################################################                        ########################################################
