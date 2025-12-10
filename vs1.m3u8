@@ -1254,27 +1254,27 @@ https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pUFVKo8.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="Channel5HD.sg" tvg-name"Channel 5", Channel 5 HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pUFVKo8.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97098" tvg-name"Channel 5", Channel 5
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6KZAQ9Z.png?v=1.0.0.1" group-title="🇸🇬 Singapore" tvg-ID="103" tvg-name"Channel 8 HD", Channel 8 HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6KZAQ9Z.png?v=1.0.0.1" group-title="🇸🇬 Singapore" tvg-id="97104" tvg-name"Channel 8", Channel 8
 https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1YC0WmK.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-ID="ChannelUHD.sg" tvg-name"Channel U HD", Channel U HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1YC0WmK.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97129" tvg-name"Channel U", Channel U
 https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tcr1Eef.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="SuriaHD.sg" tvg-name"Suria", Suria HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tcr1Eef.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97084" tvg-name"Suria", Suria
 https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wFp4cXP.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="VasanthamHD.sg" tvg-name"Vasantham", Vasantham HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wFp4cXP.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97096" tvg-name"Vasantham", Vasantham
 https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
 
 ########################################################     Adult Lifestyle    ########################################################
