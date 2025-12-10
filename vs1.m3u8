@@ -295,7 +295,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/in
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SopQpKo.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="ZooMoo.sg" tvg-name="Zoomoo", Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-id="556877" tvg-logo="https://i.imgur.com/iK94SFM.png" group-title="Kids", TG Junior
+#EXTINF:-1 tvg-id="556877" tvg-logo="https://i.imgur.com/iK94SFM.png" group-title="Kids" tvg-name="TG Junior", TG Junior
 https://tglmp03.akamaized.net/out/v1/0589826b075f4e0cbc7c9a5743ebc9df/manifest.mpd
 
 ########################################################  Entertainment  ########################################################
