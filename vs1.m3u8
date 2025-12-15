@@ -547,7 +547,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 http://cdn.nng.cloudns.us/live/m3u8/sprt/3b5901d4c8158d3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6bFWQcD.png" group-title="Sports" tvg-id="SportsTV" tvg-name="Sports TV", Sports TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/712cecc8371099b9402f055a8c80a978800e6724/sportstv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
@@ -1148,8 +1148,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mp
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwUXO4D.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="KPLUS.my" tvg-name="K-Plus", Kplus
-#https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/int/17a9069cb71209c.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+#https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/int/17a9069cb71209c.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
