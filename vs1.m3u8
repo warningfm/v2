@@ -153,7 +153,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sL29R2J.png?v=1.0.0.1", group-title="🇮🇩 Nasional" tvg-id="SinPoTV.id" tvg-name="Sin Po TV", SIN PO TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sL29R2J.png?v=1.0.0.1", group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="SinPoTV.id" tvg-name="Sin Po TV", SIN PO TV
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
