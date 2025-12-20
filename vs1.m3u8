@@ -1236,7 +1236,7 @@ https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/ra
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BCopt1L.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV1.HD.my" tvg-name="TV1 HD", TV1 HD
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+http://khano.nng.cloudns.us/live/m3u8/my/Tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JVfkufE.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV2.HD.my" tvg-name="TV2 HD", TV2 HD
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
