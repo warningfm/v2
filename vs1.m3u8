@@ -1227,7 +1227,7 @@ https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/ra
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/twIcy62.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="BERITARTM" tvg-name="Berita RTM", Berita RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+http://khano.nng.cloudns.us/live/m3u8/my/BeritaRTM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/x81b2ZH.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="BernamaTV" tvg-name="Bernama", Bernama
 https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/ebc720dc20fe0371b1d2b5061a772130fa5e5495/bernama.m3u8
