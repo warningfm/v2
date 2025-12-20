@@ -1430,10 +1430,10 @@ https://s3.alhastream.com:8440/karimatafm
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/aa/89/db/aa89dbeb-9d47-5ce9-3e43-5fcad5b39e88/source/512x512bb.jpg?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
 https://azuracast.suzananet.com/radio/8010/radio
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/67rOSQv.png?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
+#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/67rOSQv.png?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QSihv0u.png?v=1.0.0.1" group-title="📻 Radio", Sonora FM
+#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/QSihv0u.png?v=1.0.0.1" group-title="📻 Radio", Sonora FM
 https://cast1.my-control-panel.com/proxy/radioso1/stream
 
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/938/iswara-jakarta.3c482bf1.jpg?v=1.0.0.1" group-title="📻 Radio", I Swara
