@@ -1226,6 +1226,7 @@ https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/ra
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vklYc3t.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="AstroAwani" tvg-name="Astro Awani", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/twIcy62.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="BERITARTM" tvg-name="Berita RTM", Berita RTM
 http://khano.nng.cloudns.us/live/m3u8/my/BeritaRTM/index.m3u8
 
@@ -1235,6 +1236,7 @@ https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/ra
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wDBy2bh.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="OKEY" tvg-name="TV Okey", TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BCopt1L.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV1.HD.my" tvg-name="TV1 HD", TV1 HD
 http://khano.nng.cloudns.us/live/m3u8/my/Tv1/index.m3u8
 
@@ -1262,7 +1264,7 @@ https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/ra
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7ocTiZ.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="DramaHebat", Drama Hebat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6dUyndv.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="DramaHebat", Drama Hebat
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
 ########################################################           Singapore           ########################################################
