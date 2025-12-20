@@ -1416,6 +1416,9 @@ https://svara-stream.radioddns.net/banyuwangi_mandalafm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F4ZhQvc.jpg?v=1.0.0.1" group-title="📻 Radio", VIS FM Banyuwangi
 https://visfm.radiobanyuwangi.my.id/visfm
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53Xy7Fy.png?v=1.0.0.1" group-title="📻 Radio", Radio Blambangan FM
+https://radio.banyuwangikab.go.id/live
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio", Tombo Waras FM
 https://stream.zeno.fm/uv0krbzgszpvv
 
