@@ -1055,9 +1055,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8
 http://khano.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa3.m3u8
 #https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f699274d40f479d89804912c134830d:352d8c910649b4d332047cf2833bb43f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/83/3c/sqwDCsFN_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-ID="812" tvg-name"NHK World Premium HD", NHK World Premium HD
-http://khano.nng.cloudns.us/live/m3u8/ns/29fe33a8dc20fa4.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/85b02e02587747058c1940af6aa3d0fa/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/50/df/ZnZnRrHO_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="TRTWorld.tr.id" tvg-name"TRT World", TRT World
