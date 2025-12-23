@@ -1451,6 +1451,9 @@ https://s3.alhastream.com:8440/karimatafm
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/aa/89/db/aa89dbeb-9d47-5ce9-3e43-5fcad5b39e88/source/512x512bb.jpg?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
 https://azuracast.suzananet.com/radio/8010/radio
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lqL9LpAzgfNtKTtu6ssAwzroILPe_2BcNq0_utmTMhP8W08ZRDIk_myIxpay9qmwJg=w240-h480?v=1.0.0.1" group-title="📻 Radio", Radio Wijaya FM
+http://wijayafm.onlivestreaming.net:9880/stream
+
 #EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/67rOSQv.png?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
