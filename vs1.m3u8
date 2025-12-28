@@ -942,11 +942,11 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="709.astro" tvg-name="AFN HD", AFN
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/e7ypN3H.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://i.imgur.com/h2a2AIf.png?v=1.0.0.1" tvg-id="AsianFoodNetwork.sg" tvg-name="AFN", AFN
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WhjmYep.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="717.astro" ch-number="" tvg-name="BBC Lifestyle", BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WhjmYep.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="BBCLifestyleAsia.uk" tvg-name="BBC Lifestyle", BBC Lifestyle
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
@@ -968,13 +968,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t7gOZKa.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network (HD)", Food Network
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t7gOZKa.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="FoodNetwork.uk" tvg-name="Food Network", Food Network
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="HGTV.id" tvg-name="HGTV HD", HGTV HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7G9jZCQ.png?v=1.0.0.1" group-title="Lifestyle" group-logo="https://warningfm.github.io/v3/img/h2a2AIf.png?v=1.0.0.1" tvg-id="HGTV.id" tvg-name="HGTV Asia", HGTV Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
