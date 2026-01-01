@@ -1170,3 +1170,339 @@ https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/ra
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/c1/80/kTOs22US_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1", MiamiTV Fashion
 https://c3555fbfd6f24b7984b6f0e24540353e.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Fashion/master.m3u8
 
+########################################################           TNT Sport Pack           ########################################################
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/J4JWgPx.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 1.uk" tvg-name="TNT Sports 1.uk", TNT Sports 1
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Hp393XI.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 2.uk" tvg-name="TNT Sports 2.uk", TNT Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/enniazhzls/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Pb4cL6K.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 3.uk" tvg-name="TNT Sports 3.uk", TNT Sports 3
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+=======================================
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/E2UhO3Q.png" group-title="TNT Sport Pack" group-logo="https://iili.io/3ei9LMB.png" tvg-id="TNT Sports 4.uk" tvg-name="TNT Sports 4.uk", TNT SPORTS 4
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+=======================================
+
+########################################################    Brunei Darussalam     ########################################################
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/f3bUhSJ.png?v=1.1.1.1" group-title="🇧🇳 Brunai" tvg-ID="RTB" tvg-name="RTB Aneka HD", RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/E5PCi2s.png?v=1.1.1.1" group-title="🇧🇳 Brunai" tvg-ID="RTB" tvg-name="RTB Sukmaindera HD", RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+########################################################           Dubai           ########################################################
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/73ozzEh.png?v=1.1.1.1" group-title="🇦🇪 Dubai" tvg-id="Dubai.sa" tvg-name="Dubai.sa", Dubai TV
+http://khano.nng.cloudns.us/live/m3u8/ar/bcc43de11a0e1b3.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/2bJ5phg.png?v=1.0.0.1" group-title="🇦🇪 Dubai" tvg-id="Noor.DubaiTV.ae" tvg-name="Noor Dubai TV", Noor Dubai TV
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/master.m3u8
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zdcnMxj.png?v=1.1.1.1" group-title="🇦🇪 Dubai" tvg-id="Dubai One.sa" tvg-name="Dubai One.sa", Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/master.m3u8
+
+########################################################           Hindi            ########################################################
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OMSOIVq.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Colors HD.in" tvg-name="Colors HD.in", Colors HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cs0nxSC.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.Classic.distro" tvg-name="Bollywood Classic", Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tGxXyxe.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.HD.distro" tvg-name="Bollywood.HD.distro", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CcRnIm9.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="B4U Movies.in" tvg-name="B4U Movies.in", B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pDpoFGF.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in", Sony MAX
+https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t8KHrAe.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="ZeeBioskop.in.id" tvg-name="Zee Bioskop", Z Bioskop
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mediampd/ZeeBioskop.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/8RckLVA.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Zee Bollywood.in" tvg-name="Zee Bollywood.in", Z Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lfJZsIq.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zee Cinema HD.in" tvg-name="Zee Cinema HD.in", Z Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hLTssci.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="Zee TV.in" tvg-name="Zee TV.in" tvg-language="Hindi", Z TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OYN1cD3.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="andpictures.in" tvg-name="andpictures.in", &Pictures
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/qui9OM5.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="andtv HD.in" tvg-name="andtv HD.in", &TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+
+########################################################           Korengan           ########################################################
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/IhPBfcH.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="ArirangTV.kr" tvg-name="Arirang TV", Arirang TV HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/d9kI9iQ.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="ONE.id" tvg-name="ONE", ONE HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mediampd/ONEHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wyJL52q.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="KBSWorld.kr" tvg-name="KBS World HD", KBS World HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwUXO4D.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="KPlus.sg" tvg-name="KPlus", Kplus
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=844db5a3a7ff4339b22f93811b004148:de946a52bd1df1d8a9e6510b1e0b3576
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/QycjHmC.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="tvN.id" tvg-name="tvN", tvN
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mediampd/TvNHD.mpd
+
+########################################################           MalaysiaTV           ########################################################
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7Jk0RZ9.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TVAlhijrah.my" tvg-name="Al-Hijrah", Al-Hijrah
+https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/e1fd341274671f75f91fd0810180afcf508c99b2/TvAlhijrah.m3u8
+#http://iptv.kilas7.com/live/kaukia/asdfrewq/33.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vklYc3t.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="AstroAwani.my" tvg-name="Astro Awani", Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/twIcy62.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="Berita RTM.my" tvg-name="Berita RTM", Berita RTM
+http://khano.nng.cloudns.us/live/m3u8/my/BeritaRTM/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/x81b2ZH.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="BernamaTV.my" tvg-name="Bernama", Bernama
+https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/ebc720dc20fe0371b1d2b5061a772130fa5e5495/bernama.m3u8
+#http://khano.nng.cloudns.us/live/m3u8/my/Bernama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wDBy2bh.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TVOkey.my" tvg-name="TV Okey", TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd|Referer=https://rtmklik.rtm.gov.my/
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BCopt1L.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV1.my" tvg-name="TV1 HD", TV1 HD
+http://khano.nng.cloudns.us/live/m3u8/my/Tv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JVfkufE.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV2.my" tvg-name="TV2 HD", TV2 HD
+http://khano.nng.cloudns.us/live/m3u8/my/Tv2/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UBB2qWe.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV3.my" tvg-name="TV3 HD", TV3 HD
+#https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/0920340006a2598122d570acf0cc560019083286/tv3.m3u9
+https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PysqRuO.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV6.my" tvg-name="TV6.my", TV6
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MIVtUxO.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV9.my" tvg-name="TV9 HD", TV9 HD
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CR61rfl.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="128" tvg-name="Dunia Sinema HD", Dunia Sinema HD
+https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/e48533d8067b13e18cdd23b076704a4ad7afd377/live27-720H.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WXyzDbd.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="FilemMantap.my", Filem Mantap
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6dUyndv.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="DramaHebat.my", Drama Hebat
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+########################################################           Singapore           ########################################################
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7A8gMAC.png?v=1.0.0.1" group-title="🇸🇬 Singapore" tvg-id="106" tvg-name"Channel News Asia HD", Channel News Asia HD
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pUFVKo8.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97098" tvg-name"Channel 5", Channel 5
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6KZAQ9Z.png?v=1.0.0.1" group-title="🇸🇬 Singapore" tvg-id="97104" tvg-name"Channel 8", Channel 8
+https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1YC0WmK.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97129" tvg-name"Channel U", Channel U
+https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tcr1Eef.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97084" tvg-name"Suria", Suria
+https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wFp4cXP.png?v=1.1.1.1" group-title="🇸🇬 Singapore" tvg-id="97096" tvg-name"Vasantham", Vasantham
+https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
+
+########################################################           Philippines           ########################################################
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wwL3U73.png" group-title="🇵🇭 Philippines" tvg-id="ANC.ph" tvg-name="ANC", ANC
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cDRl5nO.png" group-title="🇵🇭 Philippines" tvg-id="Oneph.ph" tvg-name="ONE PH", ONE PH (CIG)
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/mEIpwoN.png" group-title="🇵🇭 Philippines" tvg-id="Taptv.ph" tvg-name="Taptv", TapTV
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_taptv_sd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vUjqRgG.png" group-title="🇵🇭 Philippines" tvg-id="PTV.ph" tvg-name="PTV.ph", PTV
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/taKL7e6.png" group-title="🇵🇭 Philippines" tvg-id="TFC.ph" tvg-name="The Filipino Channel HD", The Filipino Channel HD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Bzd7riy.png" group-title="🇵🇭 Philippines" tvg-id="KAPAMILYA.CHANNEL.ph" tvg-name="KAPAMILYA CHANNEL", Kapamilya Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+
+########################################################           Radio           ########################################################
+
+#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/f69c7be1aa497aaa87f40d2306c4b3578.png?v=1.0.0.1" group-title="📻 Radio", Radio Bintang Tenggara
+https://sv.stri.my.id:3310/rbtfm
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
+#https://stream.zeno.fm/kc67gypcxghtv
+http://kano.mbahnunungonline.net:8000/mbahnunungonline
+
+#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/uruc4a9.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
+https://s7.alhastream.com:8090/radio?1609467814144
+
+#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/UdEk60l.png?v=1.0.0.1" group-title="📻 Radio", Mandala FM Banyuwangi
+https://svara-stream.radioddns.net/banyuwangi_mandalafm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53Xy7Fy.png?v=1.0.0.1" group-title="📻 Radio", Radio Blambangan FM
+https://radio.banyuwangikab.go.id/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4ZhQvc.jpg?v=1.0.0.1" group-title="📻 Radio", VIS FM Banyuwangi
+https://visfm.radiobanyuwangi.my.id/visfm
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/93cFv35.png?v=1.0.0.1" group-title="📻 Radio", Tombo Waras FM
+https://stream.zeno.fm/uv0krbzgszpvv
+
+#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/XKHOnjp.png?v=1.0.0.1" group-title="📻 Radio", Karimata FM
+https://s3.alhastream.com:8440/karimatafm
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/aa/89/db/aa89dbeb-9d47-5ce9-3e43-5fcad5b39e88/source/512x512bb.jpg?v=1.0.0.1" group-title="📻 Radio", Radio Suara Giri
+https://azuracast.suzananet.com/radio/8010/radio
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lqL9LpAzgfNtKTtu6ssAwzroILPe_2BcNq0_utmTMhP8W08ZRDIk_myIxpay9qmwJg=w240-h480?v=1.0.0.1" group-title="📻 Radio", Radio Wijaya FM
+http://wijayafm.onlivestreaming.net:9880/stream
+
+#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/67rOSQv.png?v=1.0.0.1" group-title="📻 Radio", Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/QSihv0u.png?v=1.0.0.1" group-title="📻 Radio", Sonora FM
+https://cast1.my-control-panel.com/proxy/radioso1/stream
+
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/938/iswara-jakarta.3c482bf1.jpg?v=1.0.0.1" group-title="📻 Radio", I Swara
+http://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000151559200-iaiyaf-t1080x1080.jpg?v=1.0.0.1" group-title="📻 Radio", Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/a9/2e/x0VgGJ1Y_t.jpg?v=1.0.0.1" group-title="📻 Radio", Trax FM
+#https://n11.radiojar.com/rrqf78p3bnzuv
+https://stream-ssl.arenastreaming.com:8001/trax
+
+#EXTM3U billed-msg="😎⛔ Source Playlist Ini [Gratis] Jangan Diperjualbelikan ⛔😎"
