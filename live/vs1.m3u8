@@ -497,9 +497,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Qr0o2tP.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="Motorvision+.id" tvg-name="Motorvision+.id", Motorvision+
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision+
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7I0z4Oh.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="NBATV.id" tvg-name="NBA TV", NBA TV
-https://raw.githubusercontent.com/udzaa2238/tvtb-me/refs/heads/main/nba.m3u8
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
