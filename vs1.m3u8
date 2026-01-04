@@ -821,9 +821,11 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/puD2me6.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="KIX.id" tvg-name="KIX", KIX
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd|Referer=https://www.visionplus.id
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5TlTvkF.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Lotusmacau.Prd.id" tvg-name="Lotusmacau Prd", Lotusmacau Prd
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5TlTvkF.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Lotusmacau.Prd.id" tvg-name="Lotusmacau Prd", Lotusmacau Prd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/HZy4U9O.png?v=1.1.1.1" group-title="Movies" channel-id="DE4000002I3" tvg-id="Moviesphere by Lionsgate" , Moviesphere by Lionsgate
