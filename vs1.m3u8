@@ -1440,7 +1440,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 https://sv.stri.my.id:3310/rbtfm
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
-https://stream.zeno.fm/kc67gypcxghtv
+https://a7.alhastream.com:5423/radio
 
 #EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/uruc4a9.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
 https://s7.alhastream.com:8090/radio?1609467814144
