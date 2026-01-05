@@ -199,10 +199,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/226fe77699e03c6.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9sN7WXU.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="BandungTV.id" tvg-name="Bandung TV", Bandung TV
-http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="BadarTV" tvg-name="BRTV", BRTV
 http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 
@@ -1414,7 +1410,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 https://sv.stri.my.id:3310/rbtfm
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/sbradio.png?v=1.0.0.1" group-title="📻 Radio", Radio Suara Banyuwangi
-https://a7.alhastream.com:5423/radio
+https://sv3.stri.my.id:5423/radio
 
 #EXTINF:-1 tvg-logo="https://cdn1.mbahnunungonline.net/img/uruc4a9.png?v=1.0.0.1" group-title="📻 Radio", Radio GBS FM
 https://s7.alhastream.com:8090/radio?1609467814144
