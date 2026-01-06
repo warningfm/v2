@@ -452,10 +452,10 @@ https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/ra
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi866S3gjBEh-2xwbkT0Hryo-cHL87xQYnEGvjuck8gV2auLanTr54aAGj_tXXV1DmT50HFhkfJO5q7WT3N-INtC_f3YeSrvlOFiOVU62qR3j-exk9NPF6m1yCBgCIhgp9bdxkHtkHZljkE4fFpBpGWjfDQfHI1qD-1RVc1PVyTSjbuNNezZPZpX5IzTwx-/s1600/hzPnJaX.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="TVMUI.id" tvg-name="MUI TV", MUI TV
 http://cdn.nng.cloudns.us/live/m3u8/id/71b5c8483161297.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKrTEiSlvAS3OzNXI6sZf8EKBbvhWP7aQNv1VpGAA5T8nas3UikzAaaVKQmGGEVsQt9G6kLRg1-lPo7dDW4fHAr6AWTnOGrkP9lghtB1-mfgi891Wg22dJgunIC0idEH0dv8Qf_GbJxQTerkgSX1vtBI_uNX7fu75dMPG1_AfRZn1OWSlgDXqHwBL0LG-/s1600/iTNc5uf.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="Rodja.TV.id" tvg-name="Rodja TV", Rodja TV
-http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
+https://rodjatv.com/rodjatv/live.m3u8
 
 ########################################################           Sports           ########################################################
 
