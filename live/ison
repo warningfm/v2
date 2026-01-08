@@ -663,8 +663,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lTjXUym.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="tvg-id="TRACESportsStars.sg" tvg-name="TRACE Sports Stars HD", TRACE Sport Stars
-https://d29ecfnk3jwkp9.cloudfront.net/out/v1/ade3187e42db432eb46a7039498f0dd0/manifest.mpd
-#https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
@@ -841,8 +840,7 @@ https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NoCJFNZ.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="plex.tv.Action.Hollywood.Movies.plex" tvg-id="5e20b730f2f8d5003d739db7-66be944f8711311880995280" tvg-name="Action Hollywood Movies", Action Hollywood Movies
-https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9d160573fb7944608da8ebd020de4474/manifest.mpd
-#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
@@ -1328,7 +1326,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mediampd/TvNHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7Jk0RZ9.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TVAlhijrah.my" tvg-name="Al-Hijrah", Al-Hijrah
 https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/e1fd341274671f75f91fd0810180afcf508c99b2/TvAlhijrah.m3u8
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/33.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vklYc3t.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="AstroAwani.my" tvg-name="Astro Awani", Astro Awani
@@ -1352,19 +1349,16 @@ http://khano.nng.cloudns.us/live/m3u8/my/Tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JVfkufE.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV2.my" tvg-name="TV2 HD", TV2 HD
 http://khano.nng.cloudns.us/live/m3u8/my/Tv2/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UBB2qWe.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV3.my" tvg-name="TV3 HD", TV3 HD
-#https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/0920340006a2598122d570acf0cc560019083286/tv3.m3u9
 https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PysqRuO.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV6.my" tvg-name="TV6.my", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MIVtUxO.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV9.my" tvg-name="TV9 HD", TV9 HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
+https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/e0ef2a7685d9c48a7963c95fe5a41d3ae2342989/tv9my.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CR61rfl.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="128" tvg-name="Dunia Sinema HD", Dunia Sinema HD
