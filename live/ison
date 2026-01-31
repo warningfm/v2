@@ -110,10 +110,10 @@ https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/ra
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kaFP19.png?v=1.0.0.1" ch-number="18" tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV", Nusantara TV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed8.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTVLCOPT:http-referrer=https://oxygentv.id
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WB2ot4t.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="19" tvg-id="MentariTV.id" tvg-name="Mentari TV", Mentari TV
-https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+http://khano.nng.cloudns.us/live/m3u8/Kids/edc76fc8bbe047e.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/h6qDBhV.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/wAbsxFp.png?v=1.0.0.1" ch-number="20" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
 http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
