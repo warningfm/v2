@@ -1113,8 +1113,7 @@ http://cdn.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/8c/77/td4c5ak5_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="Al Arabiya HD.sa" tvg-name="Al Arabiya HD.sa", Al Arabiya
-#http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/ar/b8b58e25df2b3ce.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/99/b4/AEYHaDzP_t.png?v=1.0.0.1" group-title="News" group-logo="https://iili.io/3OQDqdB.png?v=1.1.1.1" tvg-id="Sky News Arabia HD.sa" tvg-name="Sky News Arabia HD.sa", Skynews Arabiya
 https://stream.skynewsarabia.com/hls/sna.m3u8
