@@ -400,11 +400,6 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 
 ########################################################           Religious           ########################################################
 
-#EXTVLCOPT:http-referrer=https://www.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/3uUoRK5.png" group-title="Ukhuwah Islamiyah" tvg-id="AjwaTV.id", Ajwa TV
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=7464&type=hls
-
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1Li8EyKBY5ooLft3mEaM4KlVb6JOc46nsZ30k9gyl7vH_BL7UFnfLnGGgM4vib9tACMwxG_VB7gRXPkNquybTNGHm62KIrQ6LrHuAwSb_MCs_4Fu62lwrj2jKQz-isZBfVL55Hbr9vnQMYZs1l_1zroWY_4g9Lm4RnRmXuyW8wcemDl9bsNLlsskBQqV/s1600/egPVmpw.pn?v=1.1.1.1" group-title="Ukhuwah Islamiyah" tvg-id="AlQuranKareem.id" tvg-name="Saudi Quran.sa", AlQuran Kareem
@@ -587,10 +582,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTv48h7IvSry5ZG-qtm1vfqdNZ8dd03YxtLGrd4lqTdHRXHfPT4Vyt3EsqsXljv_0QYop-uPIla0m1W1YbnYxHDGhgyQ_1Fh7_7iUhCzwWuu4_DDK7nvR8YRYXOf-UlG1B-nwMgKQ8MMm3lzb9_3m8qt-tKRF6Y2flbF-DYBVvRAFtnBu4CTVvJ221SaY/s1600/lTjXUym.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="tvg-id="TRACESportsStars.sg" tvg-name="TRACE Sports Stars HD", TRACE Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/8uW9kDj.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="701.unifi" tvg-name="unifi Sports 1", unifi Sports 1
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UOVkwef.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="W-Sport" tvg-name="W-Sport", W-Sport
@@ -598,10 +589,10 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 ########################################################           Knowledge           ########################################################
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JLMBNgX.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="AnimalPlanet.id" tvg-name="Animal Planet ᴴᴰ", Animal Planet ᴴᴰ
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
@@ -631,11 +622,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XIY8A94.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="DiscoveryAsia.id" tvg-name="Discovery Asia", Discovery Asia
 https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7QX6p0Y.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel", Discovery Channel
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.0 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7QX6p0Y.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel", Discovery Channel HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BnqiX3o.png" group-title="Knowledge" tvg-id="Discovery Science.in" tvg-name="Discovery Science.in", Discovery Scienc
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
@@ -709,12 +706,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/R3BrQZs.png?v=1.0.0.1" group-title="Music" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" tvg-id="101" tvg-name="Preview Channel", Music Information Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7ID84Uy.png?v=1.0.0.1" group-title="Music" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" tvg-id="MTVLive.id" tvg-name="MTV Live", MTV Live
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/v4SmMTF.png?v=1.0.0.1" group-title="Music" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" channel-id="5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-chno="4418" tvg-name="Vevo Pop", Vevo Pop
