@@ -96,15 +96,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mediampd/TVRINasiona
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="16" tvg-id="Moji.id" tvg-name="MOJI", MOJI
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="16" tvg-id="Moji.id" tvg-name="Moji.id", MOJI
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HM01rkg.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="17" tvg-id="GarudaTV.id" tvg-name="Garuda TV", Garuda TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HM01rkg.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="17" tvg-id="Garuda TV.id" tvg-name="Garuda TV.id", Garuda TV
 http://khano.nng.cloudns.us/live/m3u8/id/b825800cf4d3aaa.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="18" tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV", Nusantara TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tQ6itG9.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="18" tvg-id="Nusantara TV.id" tvg-name="Nusantara TV.id", Nusantara TV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -160,7 +160,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sL29R2J.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="SinPoTV.id" tvg-name="Sin Po TV", SIN PO TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sL29R2J.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="Sin Po TV.id" tvg-name="Sin Po TV.id", SIN PO TV
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://oxygentv.id
@@ -586,13 +586,13 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JLMBNgX.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="AnimalPlanet.id" tvg-name="Animal Planet ᴴᴰ", Animal Planet ᴴᴰ
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JLMBNgX.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="Animal.Planet.id" tvg-name="Animal Planet", Animal Planet ᴴᴰ
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/U4aTRX9.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="BBCEarth.id" tvg-name="BBC Earth Asia", BBC Earth Asia
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/U4aTRX9.png?v=1.0.0.1" group-title="Knowledge" group-logo="https://i.imgur.com/i1s3UMq.png?v=1.0.0.1" tvg-id="BBC.Earth.id" tvg-name="BBC Earth", BBC Earth Asia
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -866,11 +866,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/R28vFlE.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="tvNMovies.id" tvg-name="tvN Movies HD", TVN Movies
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd|Referer=https://www.visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M806UiK.png?v=1.0.0.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" tvg-id="Tapactionflix Hd.ph" tvg-name="Tapactionflix Hd.ph", TapAction Flix HD
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
