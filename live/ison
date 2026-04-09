@@ -94,11 +94,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Ax67v0u.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kYNUns.png?v=1.0.0.1" ch-number="15" tvg-id="TVRI.my.id" tvg-name="TVRI Nasional HD", TVRI Nasional HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mediampd/TVRINasional.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://iili.io/3kaFP19.png?v=1.0.0.1" ch-number="16" tvg-id="Moji.id" tvg-name="Moji", Moji
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/lFAUBcK.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="16" tvg-id="Moji.id" tvg-name="Moji.id", MOJI
+http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SbbgZvA.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://i.imgur.com/wAbsxFp.png?v=1.0.0.1" ch-number="17" tvg-id="GarudaTV.id" tvg-name="Garuda TV", Garuda TV
@@ -252,10 +250,13 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zBJF9fu.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="Cartoonito.sg" tvg-name="Cartoonito", Cartoonito
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1PbWWqgKDBDorh525uecKaGZD21FGSoCeR
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/SpJXpqF.png?v=1.0.0.1" group-title="Kids" group-logo="https://warningfm.github.io/v3/img/BxvUXcn.png?v=1.0.0.1" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network", Cartoon Network
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
