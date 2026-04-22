@@ -155,11 +155,9 @@ http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/H5CmoZv.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/7WOjiYd.png?v=1.0.0.1" ch-number="27" tvg-id="BNTV" tvg-name="BN Channel",BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-origin=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/iBrOoMG.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="28" tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV", Jawa Pos TV
-https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+http://khano.nng.cloudns.us/live/m3u8/id/459caa984301138.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-origin=https://www.indihometv.com
@@ -173,12 +171,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 
 ########################################################           Local           ########################################################
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-origin=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Il0ann7.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="AntaraTV.id" tvg-name="Antara TV", Antara TV
-https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
