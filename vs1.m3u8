@@ -711,7 +711,7 @@ https://epiconvh.akamaized.net/9XM/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hs5BcvD.png?v=1.0.0.1" group-title="Music" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" tvg-id="B4U Music.in" tvg-name="B4U Music.in", B4U Music
-http://cdn.nng.cloudns.us/live/m3u8/in/b4uMusic/index.m3u8
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00877-b4unetworkeuropefast-b4umusic-xiaomiin/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/6ggO0cA.png?v=1.0.0.1" group-title="Music" group-logo="https://iili.io/3v1Tx3l.png?v=1.0.0.1" tvg-id="Music India" tvg-name="MUSIC INDIA", Music India
@@ -1129,7 +1129,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 ########################################################           Hindi            ########################################################
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OMSOIVq.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Colors HD.in" tvg-name="Colors HD.in", Colors HD
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
@@ -1148,11 +1148,9 @@ https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/ra
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CcRnIm9.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="B4U Movies.in" tvg-name="B4U Movies.in", B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pDpoFGF.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in", Sony MAX
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
