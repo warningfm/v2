@@ -539,6 +539,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PN4Owbg.png?v=1.1.1.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="beINSports3.id" tvg-name="beIN Sports 3", beIN Sports 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|Referer=https://www.visionplus.id
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7uBqbs.png" tvg-id="beIN.SPORTS.Xtra.distro" tvg-name="beIN SPORTS Xtra" group-title="Sports", beIN SPORTS Xtra
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
 ==========================================================================================================================================================================================================================================
 ==========================================================================================================================================================================================================================================
 
