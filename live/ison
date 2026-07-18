@@ -485,10 +485,6 @@ https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/ra
 https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/e642aba7d7d6b9b274ee61f1613bc831ad311db1/3058a2456b128c1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSfuYiKJQecm6oG-t1wvGTKJGymZzH0yT1ZMR94TmQ158STHvoa7g-YRPdRSli5iA9Wl2UAf8cUrvVbW-AmZNu1T2-hZBOx9LOK8Ym1qKFFVQihkCnm3pNEC6oUOSDdI02T4PoYra-dU6JVPtThPHgmavSignQMnxe4NQmCuxUtv5FF8TqFSf-kmzWs2A/s1600/WlUjXgD.pn?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="AswajaTV.id" tvg-name="AswajaTV", AswajaTV
-https://warningfm.github.io/dailymotion/AswajaTV.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwBOvbsJWvJoMMG2Skj87fBDlLqfpOokbIsW2uEPjKsgg0_qm-rxizRBs3KneTmQ-ERnPI6easxJVimwxsJJ9I7aetkL737e9dC33Uv7UHrlA__sF-NABWWOKy_KkPUtVo9Y7qkcssBJB80lMjlFue8UyJkZHmqTj_ZA8cjBJnZQfnVjvHfjmkf4aa4_E/s1600/cgO5MbX.png?v=1.1.1.1" group-title="Ukhuwah Islamiyah" tvg-id="DMITV.id" tvg-name="DMI TV", DMI TV
 https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/98c2047e0b19dc0e9f979d37a4252f900ff2f9cd/0c9fd875599b836.m3u8
 
@@ -517,7 +513,7 @@ https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/ra
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKrTEiSlvAS3OzNXI6sZf8EKBbvhWP7aQNv1VpGAA5T8nas3UikzAaaVKQmGGEVsQt9G6kLRg1-lPo7dDW4fHAr6AWTnOGrkP9lghtB1-mfgi891Wg22dJgunIC0idEH0dv8Qf_GbJxQTerkgSX1vtBI_uNX7fu75dMPG1_AfRZn1OWSlgDXqHwBL0LG-/s1600/iTNc5uf.png?v=1.0.0.1" group-title="Ukhuwah Islamiyah" tvg-id="RodjaTV.my.id" tvg-name="Rodja TV", Rodja TV
-http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
+http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
 
 ########################################################           Sports           ########################################################
 
