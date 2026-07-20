@@ -357,11 +357,12 @@ https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Q2dStFM.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="CCTV4.id" tvg-name="CCTV-4", CCTV-4
 http://khano.nng.cloudns.us/live/m3u8/int/b0e5bb72ae995c6.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/ucstwyq.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="CelebritiesTV.id" tvg-name="Celebrities TV", Celebrities TV
-https://live-channel1-cdn.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd|Referer=https://www.visionplus.id
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/brVRgMU.png?v=1.0.0.1" group-title="Entertainment" group-logo="https://iili.io/3gglPln.png" tvg-id="CitraDrama.id" tvg-name="Citra Drama (HD)", Citra Drama
 https://warningfm.github.io/v3/live/str/op/7335edf66aba710.m3u8
