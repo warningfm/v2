@@ -81,11 +81,8 @@ http://cdn.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-user-agent=Vision+/11.3.7 (Linux; Android 14) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/U5JFSGW.png?v=1.0.0.1" ch-number="14" tvg-id="iNews.HD.id" tvg-name="iNews HD", iNews HD
-#https://live-channel4-cdn.visionplus.id/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd|Referer=https://www.visionplus.id
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 ########################################################################################################################################################################
