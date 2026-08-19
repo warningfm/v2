@@ -208,11 +208,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JxtgBmg.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="ChannelJowo.id" tvg-name="Channel Jowo", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1eaZ3bd.png?v=1.1.1.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="DAAITV.my.id" tvg-name="DAAITV", DAAI TV
 http://khano.nng.cloudns.us/live/m3u8/id/0525ed2747e3161.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/9i6ufQh.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="ElshintaTV.id" tvg-name="Elshinta TV", Elshinta TV
 http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
@@ -223,6 +223,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/383fb71f4a76ab2.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bKLoSVx.png?v=1.1.1.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="JTV.id" tvg-name="JTV", JTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd|Referer=https://www.visionplus.id
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/NVODNmw.png?v=1.0.0.1" group-title="Local" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" tvg-id="JakTV.my.id" tvg-name="JakTV", JakTV
 http://khano.nng.cloudns.us/live/m3u8/id/a6e7e966ea54cd3.m3u8
