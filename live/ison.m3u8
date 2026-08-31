@@ -982,7 +982,6 @@ http://khano.nng.cloudns.us/live/m3u8/ns/0a8c23a12b66e1b.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/XUaoKru.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV.id" tvg-name="Fashion TV.id", FashionTV Asia HD
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
-#https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/21b974b5c7b269acf30411ec8387eda7c3cbce3f/801a98b42276bac.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/WgpUMS1.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="FashionTV HD.cz" tvg-name="FashionTV HD.cz", FashionTV Czech&Slovak
@@ -1000,7 +999,7 @@ http://cdn.nng.cloudns.us/live/m3u8/fs/stream-eng.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/j0Btob9.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="Fashion One 4K.ru" tvg-name="Fashion One 4K.ru", Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/6b/28/C2bE3Msb_t.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="World Fashion Channel En.ru" tvg-name="World Fashion Channel En.ru", Global Fashion Channel 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1MiZ1x0.png?v=1.0.0.1" group-title="Fashion" group-logo="https://warningfm.github.io/v3/img/hnmGABf.png?v=1.0.0.1" tvg-id="World Fashion Channel En.ru" tvg-name="World Fashion Channel En.ru", Global Fashion Channel 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1069,25 +1068,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 ########################################################           Hindi            ########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OMSOIVq.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Colors HD.in" tvg-name="Colors HD.in", Colors HD
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
-#https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/cs0nxSC.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.Classic.distro" tvg-name="Bollywood Classic", Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87417&ads.show_id=3259&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CClassic%20Movies%2CBollywood%2CAsian&ads.showRating=TV-14&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20Classic&ads.episodetitle=Bollywood%20Classic&ads.keywords=Bollywood%2CHindu%2CClassic%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=ive&ads.vf=o-w4R_dfaZO
-
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#EXTVLCOPT:http-origin=https://www.distro.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/tGxXyxe.png?v=8.8.4.4" group-title="🇮🇳 Hindi" tvg-id="Bollywood.HD.distro" tvg-name="Bollywood.HD.distro", Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=By-Q-M_cY4K
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CcRnIm9.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="B4U Movies.in" tvg-name="B4U Movies.in", B4U Movies
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/pDpoFGF.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in", Sony MAX
@@ -1095,7 +1082,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/t8KHrAe.png?v=1.0.0.1" group-title="🇮🇳 Hindi" tvg-id="ZBioskop.id" tvg-name="ZBioskop", Z Bioskop
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
@@ -1138,15 +1125,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/d9kI9iQ.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="One.id" tvg-name="ONE", ONE HD
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wyJL52q.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="KBSWorld.kr" tvg-name="KBS World HD", KBS World HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/wyJL52q.png?v=1.0.0.1" group-title="🇰🇷 Korengan" tvg-id="KBSWorld.kr" tvg-name="KBS World", KBS World HD
+https://freem3u.xyz/api/live/play.m3u8?vid=213
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwUXO4D.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="KPlus.sg" tvg-name="KPlus", Kplus
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/uwUXO4D.png?v=1.1.1.1" group-title="🇰🇷 Korengan" tvg-id="KPlus.id" tvg-name="KPlus.id", Kplus
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
@@ -1181,16 +1166,12 @@ http://khano.nng.cloudns.us/live/m3u8/my/Tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/JVfkufE.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV2.my" tvg-name="TV2 HD", TV2 HD
 http://khano.nng.cloudns.us/live/m3u8/my/Tv2/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UBB2qWe.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV3.my" tvg-name="TV3 HD", TV3 HD
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/UBB2qWe.png?v=1.1.1.1" group-title="🇲🇾 Malaysia" tvg-id="TV3.my" tvg-name="TV3", TV3 HD
 https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/PysqRuO.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV6.my" tvg-name="TV6.my", TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MIVtUxO.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV9.my" tvg-name="TV9 HD", TV9 HD
-https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/e0ef2a7685d9c48a7963c95fe5a41d3ae2342989/tv9my.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/MIVtUxO.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TV9.my" tvg-name="TV9", TV9 HD
+https://warningfm.github.io/v3/live/str/op/7335edf66aba711.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/CR61rfl.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="128" tvg-name="Dunia Sinema HD", Dunia Sinema HD
@@ -1365,7 +1346,7 @@ http://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000151559200-iaiyaf-t1080x1080.jpg?v=1.0.0.1" group-title="📻 Radio", Cosmopolitan FM
 http://n02.radiojar.com/u7d8heq3bnzuv
 
-#EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/a9/2e/x0VgGJ1Y_t.jpg?v=1.0.0.1" group-title="📻 Radio", Trax FM
+#EXTINF:-1 tvg-logo="https://op-static.files.joox.com/weaver/traxnew-1640968342930.jpg?v=1.0.0.1" group-title="📻 Radio", Trax FM
 #https://n11.radiojar.com/rrqf78p3bnzuv
 https://stream-ssl.arenastreaming.com:8001/trax
 
