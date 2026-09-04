@@ -784,11 +784,11 @@ https://gist.githubusercontent.com/warningfm/4c119c07b96ae01517268de48a9c193f/ra
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/gzZWT2i.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="DE4000002I3" tvg-id="Moviesphere by Lionsgate" , Moviesphere by Lionsgate
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/HZy4U9O.png?v=1.1.1.1" group-title="Movies" group-logo="https://iili.io/3v1SBoP.png?v=1.0.0.1" channel-id="mjh-discovery-ptms" tvg-id="mjh-discovery-ptms", MovieSphere
-https://i.mjh.nz/.r/sky-ptms.m3u8
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
