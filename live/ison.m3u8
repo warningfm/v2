@@ -1255,11 +1255,7 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccc.m3u8
 
 ########################################################                                ########################################################
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://object-streamo.emonaja.com/img/cnn.png" group-title="Tes",CNN Indonesia 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=5af79fbb6d3d4a01ae7dfe8c9c8b54d6:4211c75cbb9c340fa3987c5b731537bd
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIndonesiaHD/mediampd/CNNIndonesiaHD.mpd
+
 
 ########################################################              Radio             ########################################################
 
