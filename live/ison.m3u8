@@ -117,7 +117,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://cors.mbahnunungonline.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/D5zoAFR.png?v=1.1.1.1" group-title="🇮🇩 Nasional" group-logo="https://warningfm.github.io/v3/img/vOExED2.png?v=1.1.1.1" ch-number="20" tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia", CNN Indonesia
-#http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
 
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 #EXTVLCOPT:http-origin=https://video.detik.com/
